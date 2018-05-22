@@ -61,38 +61,7 @@ def Folder(folder):
     global Cast
     for file in os.listdir(folder):
         if file.endswith(".txt"):
-            filename = file[:3];
-            with open(folder+"/"+file, "r") as infile:
-                fileNaam=infile.read().replace('\n', '     ')
-                fileNaam = fileNaam.replace('\t', '     ')
-                x = 0
-                while fileNaam != finishstring:
-                    fileNaam = splitter(fileNaam, Cast)
-                    if(x < len(fileNaam)) and x is not 0:
-                        break
-                    x = len(fileNaam)
-                    print('only ' + str(x) + " characters left from file " + folder+"/"+file + ", rest is being written to Output/" + folder+"/"+file + '.json')
-            with open('Output/'+folder+"/"+file+'.json', 'w+') as outfile:
-               json.dump(Cast, outfile)
-            if "CAST" in Cast:
-                CheckCast = Cast.index("CAST")
-                tempAr =Cast[CheckCast:]
-                if "STAR TREK: THE NEXT GENERATION" in tempAr:
-                    endOfCast = tempAr.index("STAR TREK: THE NEXT GENERATION")
-                else:
-                    endOfCast = -1
-            else:
-                CheckCast = -1
-                endOfCast = -1
-
-            if (CheckCast is not -1) and (endOfCast is not -1):
-                print(CheckCast)
-                print(endOfCast)
-                with open('Output/'+file+'-Casts.json', 'w+') as outfile:
-                    temp = Cast[CheckCast+1:CheckCast+endOfCast]
-                    print(temp)
-                    json.dump(temp, outfile)
-            Cast = []
+            File(folder+"/"+file)
 
 def File(file):
     global Cast
