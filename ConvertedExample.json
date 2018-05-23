@@ -1,0 +1,12 @@
+{
+  "Episode":{
+    "Cast":["CastMember1", "CastMember2", "CastMember3"],
+    "Scenes":{
+      "1":{
+        "SceneDescription":"The description of what is happening in the scene",
+        "lines":[{"Character":"CastMember1","Line":"Line that iks said by CastMember1"},{"Character":"CastMember1","Line":"Line that is said by CastMember2"}]
+        }
+      }
+    }
+  }
+}
