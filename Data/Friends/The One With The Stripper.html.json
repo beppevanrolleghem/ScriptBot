@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey, Monica, and Chandler are sitting on the couch and chair as\nPhoebe is getting coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(coming from the bathroom) Hey Pheebs"},
 				{"Character":"Phoebe","Line":"Huh"},
 				{"Character":"Phoebe","Line":"Huh"},
@@ -56,7 +56,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Chandler and Joey are reading a magazine and Ross is chatting\nwith Mona.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mona","Line":"So it was really cool seeing you lecture today"},
 				{"Character":"Ross","Line":"Oh thanks. Although it kinda seemed like you were falling asleep there a\nlittle"},
 				{"Character":"Mona","Line":"Oh no-no, I-I had my eyes closed so I could concentrate and y’know\ntake it all in"},
@@ -128,7 +128,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, Chandler’s bachelor party has begun, what there is\nof it, with only Joey (wearing a gold paper top hat) and Chandler (wearing what appears to\nbe a <i>Burger King</i> paper crown) enjoying a nice product placement of <i>Budweisers</i>\non ice.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So you uh, nervous about getting married"},
 				{"Character":"Chandler","Line":"What are you doing"},
 				{"Character":"Chandler","Line":"What are you doing"},
@@ -172,7 +172,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's Apartment, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Green","Line":"So? Come on! Explain yourself Geller! First you get my Rachel\npregnant"},
 				{"Character":"Mona","Line":"You got Rachel pregnant?"},
 				{"Character":"Ross","Line":"Who did?"},
@@ -212,7 +212,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross's Apartment, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mona","Line":"How could you have kept all of this from me"},
 				{"Character":"Ross","Line":"I was going to tell you, but"},
 				{"Character":"Dr. Green","Line":"But what?! You figured you’d get what you wanted and then dump\nher like you dumped Rachel"},
@@ -223,7 +223,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler's, Joey and Chandler are still deciding what to do about\nthe hooker.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Maybe she meant to get you a hooker"},
 				{"Character":"Chandler","Line":"Why would she do that"},
 				{"Character":"Joey","Line":"Maybe she wants you to learn something. Huh? Now is there anything\nyou’re really bad at y’know, sexually"},
@@ -267,7 +267,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross's Apartment, Ross is opening the door to Mona. Rachel is there as well.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Thank you so much for coming back over"},
 				{"Character":"Mona","Line":"Oh good, you’re here. Yeah, and I was worried that it was going to be\nuncomfortable"},
 				{"Character":"Rachel","Line":"I know Mona, just hear me out. First of all, I’m so sorry about my\nfather yelling at you, but I heard you totally held your own. You’re gonna have to\ntell me how you did that"},
@@ -309,7 +309,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey and Rachel's, Rachel is being yelled at by her dad over the phone, and\nhe’s been going on for so long Rachel is holding the phone away from her ear and\nreading a book.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Green","Line":"(on phone) …just because you’re not in love with the guy\nyou can’t"},
 				{"Character":"Phoebe","Line":"(entering, quietly) Wow, you told your dad the truth"},
 				{"Character":"Rachel","Line":"About an hour ago"},

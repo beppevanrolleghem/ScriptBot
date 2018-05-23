@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, the whole gang is there, the guys are\nwatching football, the girls are cooking Thanksgiving dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Guys","Line":"(reacting to a play) Yes! Yes! Yes! Yes! Awww"},
 				{"Character":"Phoebe","Line":"Hey, it’s your Thanksgiving too, y'know, instead of watching\nfootball, you could help"},
 				{"Character":"The Guys","Line":"We will. (they don’t move"},
@@ -20,7 +20,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Park, the gang is warming up for their football game.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay. Let’s bring it in"},
 				{"Character":"Rachel","Line":"Wait no, honey, honey throw it to me, throw it to me"},
 				{"Character":"Ross","Line":"Here you go. (throws her the ball"},
@@ -320,7 +320,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Rachel, Phoebe, Chandler, and Joey are eating Thanksgiving\ndinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"We should defiantly play football more often. Maybe there’s a like\nleague we could join or something"},
 				{"Character":"Phoebe","Line":"Isn’t there a national football league"},
 				{"Character":"Chandler","Line":"Yes. Yes, there is, they play on Sundays and Monday nights"},

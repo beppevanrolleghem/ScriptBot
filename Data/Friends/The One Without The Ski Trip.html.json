@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Chandler and Joey are sitting on the couch reading.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Can I see the comics"},
 				{"Character":"Chandler","Line":"This is the <i>New York Times</i>"},
 				{"Character":"Joey","Line":"Okay, may I see the comics"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross’s, the gang, minus Rachel of course, is there. Chandler is forced to\nsmoke by an open window.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(obviously cold) Hey, can you close that window Chandler? My nipples can\ncut glass over here"},
 				{"Character":"Phoebe","Line":"Wait. Really?! ‘Cause mine get me out of tickets"},
 				{"Character":"Ross","Line":"Look, you guys I just wanna say, I really, really appreciate you spending\nthis time with me. It’s been a pretty hard time right now, so I just wanna say\nthanks"},
@@ -99,7 +99,7 @@
 			},
 		"3":{
 			"SceneDescription":" The rest stop, Phoebe’s pulling in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Here we go. Okay, brace yourselves"},
 				{"Character":"Monica","Line":"What"},
 				{"Character":"Monica","Line":"What"},
@@ -129,7 +129,7 @@
 			},
 		"4":{
 			"SceneDescription":" Carol and Susan’s, Carol is setting a romantic dinner for Susan as there\nis a knock on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"(answering the door) Hi!"},
 				{"Character":"Ross","Line":"(entering) Hey"},
 				{"Character":"Ross","Line":"(entering) Hey"},
@@ -167,7 +167,7 @@
 			},
 		"5":{
 			"SceneDescription":" Carol and Susan’s, Ross is eating the dinner Carol made for Susan.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"....right? Right? I mean it’s pretty unbelievable y'know, I mean they\njust took off, took off without even looking back. Y'know I don’t, I don’t need\nthem, huh, I’ve got you guys now as friends, you and Susan"},
 				{"Character":"Carol","Line":"Ah, Susan will be so pleased"},
 				{"Character":"[Ross’s beeper goes off","Line":"Ross’s beeper goes off."},
@@ -209,7 +209,7 @@
 			},
 		"6":{
 			"SceneDescription":" Carol and Susan’s, Carol is running to answer the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"(looking through the peephole) Ugh. (opening the door) Ross"},
 				{"Character":"Ross","Line":"(entering) Hi! Sorry I’m late. Were you sleeping"},
 				{"Character":"Carol","Line":"Ahh, nooo!"},

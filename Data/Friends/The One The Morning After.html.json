@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I mean, I don’t feel like I even have a girlfriend anymore"},
 				{"Character":"Rachel","Line":"You want me to just quit my job so that you can feel like you’ve\ngot a girlfriend"},
 				{"Character":"Ross","Line":"Is this about Mark"},
@@ -20,17 +20,17 @@
 			},
 		"2":{
 			"SceneDescription":" The Philly.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chloe","Line":"Hey, come dance. What? Are you married? ‘Cause that’s okay"}]
 			},
 		"3":{
 			"SceneDescription":" Ross’s Bedroom, Ross is waking up. He straightens himself out on the bed\nand puts the covers over his head.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chloe","Line":"(entering from bathroom) Morning"}]
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is entering carry a large box, Monica is mopping\nthe ceiling.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -64,7 +64,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica's Bedroom, Monica and Phoebe are waxing their legs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(reading from the instructions) After applying the Waxine and linen\nstrips to leg number one,"},
 				{"Character":"Monica","Line":"Did that"},
 				{"Character":"Monica","Line":"Did that"},
@@ -82,7 +82,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe’s Work, Ross is now trying to stop Jasmine from telling Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering out of breath) Jasmine?"},
 				{"Character":"Jasmine","Line":"Uh-huh"},
 				{"Character":"Jasmine","Line":"Uh-huh"},
@@ -117,7 +117,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica’s Bedroom, Monica and Phoebe are removing the rest of their wax\nstrips.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Ow"},
 				{"Character":"Phoebe","Line":"Oh!"},
 				{"Character":"Phoebe","Line":"Oh!"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler's bedroom, he is giving Monica a massage.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I can't believe we've never done this before! It's sooo good! So\ngood for Monica!"},
 				{"Character":"(Chandler picks up the timer being used and turns it to zero at which it chimes","Line":"Chandler picks up the timer being used and turns it to zero at which it chimes."},
 				{"Character":"Chandler","Line":"Oh! Look at that, time's up! My turn"},
@@ -28,7 +28,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Bloomingdale's</i>, Rachel is fixing Joey up with some new clothes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay now Joey, y'know that since you're returning all of this stuff\nright after the audition you're gonna have to wear underwear"},
 				{"Character":"Joey","Line":"All right, then you'd better show me some of that too then"},
 				{"Character":"Rachel","Line":"Okay, it's missing something. Ooh, I know! Umm, okay. (Goes and grabs a\nbag, that looks like a purse, and shows it to Joey."},
@@ -53,7 +53,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Ross and Chandler are on the couch as Joey enters with his new\nbag.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -85,7 +85,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Funeral Home, continued from earlier. Phoebe is returning after looking for\nher father.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh, did you catch him?"},
 				{"Character":"Phoebe","Line":"Uh-huh"},
 				{"Character":"Phoebe","Line":"Uh-huh"},
@@ -112,7 +112,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey's audition, he is with bag.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Casting Director","Line":"Any time you're ready, Joey"},
 				{"Character":"Joey","Line":"(reading from the script) Well, you must be new here. Why don't we get a\ntable and I'll buy you a drink"},
 				{"Character":"The Casting Director","Line":"(stopping him) I'm sorry. Could you, could you try it\nwithout the purse"},
@@ -139,7 +139,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Frank Sr. is just arriving.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Umm, thank you for meeting with me"},
 				{"Character":"Frank Sr.","Line":"Thank you. All right"},
 				{"Character":"Phoebe","Line":"Come, sit. (He's hesitant.) Sit. (Still hesitating.) Sit! (He sits on\nthe arm of the couch.) Umm, all righty, before we get started I just—I need you to\nstate for the official record that you are in fact Frank Buffay"},

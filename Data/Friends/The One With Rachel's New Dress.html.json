@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey and Chandler are there as Phoebe enters carrying a drum.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey! Wow, it is true what they say, pregnant bellies look like\na drum"},
 				{"Character":"Phoebe","Line":"(not amused) Ha-ha. (She sits down on the couch.) No, it’s just\nI’m so pregnant that I—my guitar doesn’t fit anymore. So I thought\n‘til I’m not, I’m just gonna play all my songs on this drum. It sounds really\ncool"},
@@ -33,7 +33,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Joey and Chandler are playing\nfoosball as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -58,7 +58,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Joey, Chandler, and Phoebe are\nthere as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -116,7 +116,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross’s apartment, Carol has come to pick up Ben.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(opening the door.) Hey"},
 				{"Character":"Carol","Line":"Hey! How’s Ben"},
 				{"Character":"Carol","Line":"Hey! How’s Ben"},
@@ -156,7 +156,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joshua’s parents’ apartment, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joshua","Line":"Uhh, Rachel, my parents"},
 				{"Character":"Rachel","Line":"Ohh! It’s so nice to meet you. (She goes over and shakes their\nhands.) Hello."},
 				{"Character":"Mr. Burgin","Line":"Hi"},
@@ -192,7 +192,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel is telling Phoebe and Monica of her date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"So, you wore your nightie to dinner"},
 				{"Character":"Rachel","Line":"Oh, yeah. And uh, the best part though, when the uh, waiter spilled\nwater down my back, I jumped up, and my boob popped out"},
 				{"Character":"Phoebe","Line":"Oh my God"},
@@ -254,7 +254,7 @@
 			},
 		"7":{
 			"SceneDescription":" The Airport, Carol and Ross are waiting for Emily and Susan to deplane. A\ngorgeous woman walks by and they both turn to watch her go.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Nice luggage"},
 				{"Character":"Carol","Line":"I was gonna say"},
 				{"Character":"Carol","Line":"I was gonna say"},

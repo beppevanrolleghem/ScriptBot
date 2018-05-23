@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica and Chandler are getting ready to go on their\nhoneymoon. Monica is entering from the bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey! Babe! Aren’t you excited we’re going on our honeymoon"},
 				{"Character":"Monica","Line":"Yeah I am"},
 				{"Character":"Monica","Line":"Yeah I am"},
@@ -90,7 +90,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Airport Ticket Counter, Monica and Chandler are standing in line behind\nanother couple kissing who are next in line to be served.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ticket Agent","Line":"Next"},
 				{"Character":"(The kissing couple doesn’t move","Line":"The kissing couple doesn’t move."},
 				{"Character":"Monica","Line":"They’re kissing let’s just go around them"},
@@ -127,7 +127,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Airport, Chandler and Monica are following the previous couple through a\ntiny hallway that proves this is a set on a sound stage and not an actual airport, and see\nthem enter the first class lounge.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Look at that! Look at that! They’re going into the first class\nlounge! Do you know what they have in there"},
 				{"Character":"Chandler","Line":"No"},
 				{"Character":"Chandler","Line":"No"},
@@ -151,7 +151,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's Apartment, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(closes her magazine) Can I get you some water"},
 				{"Character":"Ross","Line":"I’m good. I’m good"},
 				{"Character":"Ross","Line":"I’m good. I’m good"},
@@ -183,7 +183,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Atlantis Resort, Chandler and Monica are arriving to check in, but are\nbehind the couple from before again.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I can’t believe we’re here"},
 				{"Character":"Chandler","Line":"Oh you’ve got to be kidding me"},
 				{"Character":"Monica","Line":"What? (Monica sees the first couple and gasps."},
@@ -202,7 +202,7 @@
 			},
 		"6":{
 			"SceneDescription":" A doctor’s office, Rachel is on an examining table with her legs in the\nstirrups.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Nurse","Line":"Okay Rachel, are you comfortable"},
 				{"Character":"Rachel","Line":"(sighs) If I said I was, would you judge me"},
 				{"Character":"Nurse","Line":"The doctor will be here in a minute to do your sonogram"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel's, Rachel is filing her nails as Ross and Ben enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi! Hi Ben"},
@@ -92,7 +92,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel's, Rachel and Ben are sitting on the couch bored out of their\nminds.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ben y’know when uh, when you were a baby, you and I used to hang\nout all the time. ‘Cause I was, I was your daddy’s girlfriend"},
 				{"Character":"Ben","Line":"But you’re not anymore"},
 				{"Character":"Ben","Line":"But you’re not anymore"},
@@ -125,7 +125,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Rachel's, Rachel is reading and there is knock on the door which she\nanswers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Coming."},
 				{"Character":"(She opens the door to reveal Ross with a pencil mark from his forehead to his chin","Line":"She opens the door to reveal Ross with a pencil mark from his forehead to his chin."},
 				{"Character":"Ross","Line":"I have a bone to pick with you"},
@@ -150,7 +150,7 @@
 			},
 		"4":{
 			"SceneDescription":" Carol and Susan’s, there is a knock on the door and Carol opens it to\nreveal Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"Hey Rachel! (The camera cuts to her face and we see that Ben pulled the\nquarter trick with her as well."},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -202,7 +202,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's, scene continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(To Monica) So you came to the room looking for Joey? Did you ever\nin-intend on telling me about this"},
 				{"Character":"Monica","Line":"No, because it-it didn’t seem important"},
 				{"Character":"Chandler","Line":"Oh, it’s not important? It’s not important?! If it\nwasn’t for a bridesmaid you’d be marrying him (Points to Joey) not me"},
@@ -226,7 +226,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Chandler is sulking on the couch as Joey enters to talk with\nhim.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey. Do you want this scone? (Holds up his plate) It came for me but\nit would probably rather sleep with you"},
@@ -255,7 +255,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Chandler and Monica are entering. Phoebe and Joey are sitting on\nthe couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey-hey"},
@@ -268,7 +268,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, Joey is getting Phoebe some coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Here you go"},
 				{"Character":"Phoebe","Line":"(still reading the label) Oh my God! This is a six-hour pill! (Checks\nher watch) That’s it! I’m out of the woods! Ohh! What a relief"},
 				{"Character":"Joey","Line":"Good for you"},

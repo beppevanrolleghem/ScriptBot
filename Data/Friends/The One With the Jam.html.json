@@ -3,13 +3,13 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Chandler is sitting reading a book and hears the bed in\nJoey's room creaking, and does a 'Oh no, not again' look on his face.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(from bedroom) WHOAA!"},
 				{"Character":"Chandler","Line":"(going to the bedroom) See Joe, that's why your parents told you not\nto jump on the bed"}]
 			},
 		"2":{
 			"SceneDescription":" Street, Phoebe is being followed by some guy, as they pass a flower vendor.\nPhoebe turns around and the guy quickly picks up some flowers and continues following\nher.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(turns around) Um, that's it. No. Hey! You! J. Crew guy. Yeah. Why have\nyou been following me? I mean, all week long everywhere I look there's you"},
 				{"Character":"Guy","Line":"You wouldn't return my calls, you sent back my letters..."},
 				{"Character":"Phoebe","Line":"What"},
@@ -56,7 +56,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Joey is putting jam on his muffin, lots of jam",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Remember when you where a kid and your Mom would drop you off at the\nmovies with a jar of jam and a little spoon"},
 				{"Character":"Rachel","Line":"(Looks at him) You're so pretty"},
 				{"Character":"Phoebe","Line":"(entering) Hi"},
@@ -116,7 +116,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Malcom is giving Phoebe all of his spy stuff",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Malcom","Line":"Here's my binoculars"},
 				{"Character":"Phoebe","Line":"Oh, great. Great. You're doing great, you know real strong. Going\nstrong. Keep going"},
 				{"Character":"Malcom","Line":"These are my night vision goggles. This is the book I pretend to read\nwhen I'm watching her in the park. And these are Mad Lips, they're just for fun"},
@@ -149,7 +149,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh my God, what happened? (points to the cast on Janice's wrist"},
 				{"Character":"Janice","Line":"Oh. God, crazy Chandler. He spun me...off...the...bed"},
 				{"Character":"Rachel","Line":"Wow! Spinning that sounds like fun"},
@@ -160,7 +160,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Joey is entering",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},

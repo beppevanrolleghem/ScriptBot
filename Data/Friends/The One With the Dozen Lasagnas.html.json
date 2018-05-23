@@ -3,12 +3,12 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there. Ross working on\ncrossword puzzle, starts humming theme from <em>The Odd Couple</em>. Chandler joins in,\nfollowed by Monica and Phoebe, then the whole gang. Ross starts humming theme from <em>I\nDream Of Jeannie</em>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"No-no-no-no, we're done"}]
 			},
 		"2":{
 			"SceneDescription":" The Hallway, Chandler and Joey leaving girls' apartment, carrying lasagna.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I love babies, with their little baby shoes, and their little baby toes,\nand their little baby hands..."},
 				{"Character":"Chandler","Line":"Ok, you're going to have to stop that, forever"},
 				{"Character":"(Joey opens door, throws keys on kitchen table, table falls ove","Line":"Joey opens door, throws keys on kitchen table, table falls over"},
@@ -20,7 +20,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's,&nbsp; Joey and Chandler use their knees as a table to\nsupport the lasagna.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Ok, so it's just because it was my table, I have to buy a new one"},
 				{"Character":"Joey","Line":"That's the rule"},
 				{"Character":"Joey","Line":"That's the rule"},
@@ -63,7 +63,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, everyone but Phoebe is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Rachel","Line":"/strong> (to Ross) I can't believe you don't want to know. I mean, I\ncouldn't not know, I mean, if, if the doctor knows, and Carol knows, and Susan knows...."},
 				{"Character":"Monica","Line":"And Monica knows.."},
 				{"Character":"Ross","Line":"Wha, heh, how could you know, I don't even know"},
@@ -110,7 +110,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Table Store, Joey and Chandler and looking for their new table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Will you pick one, just pick one! Here, how about that one? (points to a\ntable"},
 				{"Character":"Chandler","Line":"That's patio furniture"},
 				{"Character":"Joey","Line":"So what, like people are gonna come in and think, \"Uh-oh, I'm outside\nagain?\" Of course"},
@@ -127,7 +127,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, Ross, Chandler, Joey, and Monica admiring their new\ntable.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"So, what do you think"},
 				{"Character":"Ross","Line":"I think It's the most beautiful table I've ever seen"},
 				{"Character":"Chandler","Line":"I know"},
@@ -141,7 +141,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Phoebe is telling everyone how it went across the hall as\nthe foosball game continues.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I think she took it pretty well. You know Paolo's over there right now,\nso.."},
 				{"Character":"<strong>Monica","Line":"</strong>We should get over there and see if she's okay. (switching\nplaces with Ross) Just one...second! Score! (Monica scores, high-fives with Ross) Game!\nCome on. (Monica and Phoebe leave"},
 				{"Character":"<strong>Ross","Line":"/strong> (wiping his brow) Ah...ooh! Well, looks like, uh, we kicked your\nbutts"},
@@ -159,7 +159,7 @@
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's, Monica is busy killing Chandle and Joey at foosball.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"<strong>Yes</strong>! And that would be a shut-down"},
 				{"Character":"<strong>Joey and</strong> Chandler","Line":"Shut-out!! (They both start heading for\ntheir rooms."},
 				{"Character":"Monica","Line":"Where are you guys going? Come on, one more game"},

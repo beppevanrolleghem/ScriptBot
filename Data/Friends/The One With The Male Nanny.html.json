@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler's hotel room in Tulsa. He's fast asleep when the telephone \nrings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(picking up the telephone, answering it with a frog in his throat) \nHello? (he clears his throat, but he still has the same frog in his throat when \nhe speaks again) Hello"},
 				{"Character":"Monica","Line":"(in her apartment, screaming) I LOVE MY NEW JOB"},
 				{"Character":"Chandler","Line":"Honey, you're screaming"},
@@ -16,7 +16,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross and Rachel's apartment. Both of them sitting on the couch, \ninterviewing a nanny candidate.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So I don't go back to work for another four weeks, but we would like \nour nanny to start right away, so that Emma could get a chance to know her"},
 				{"Character":"Prospective nanny","Line":"(in a sweet, caring voice) I think that's really smart. \nThe easier we can make the transition for her, the better. (Ross and Rachel seem \npleased with the answer."},
 				{"Character":"Rachel","Line":"That's great, great. So do you have any questions for us"},
@@ -42,7 +42,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's apartment. Monica sits on the couch and Phoebe \nis pacing up and down the room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I'm... I'm just... I'm the worst person ever. How can I not tell \nDavid that I'm seeing Mike"},
 				{"Character":"Monica","Line":"Maybe he didn't give you a chance"},
 				{"Character":"Phoebe","Line":"He said: Are you seeing someone? And I said no.."},
@@ -69,7 +69,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross and Rachel's apartment. They're interviewing Sandy.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Sandy","Line":"I really do understand how hard it's gotta be to leave your child with \nanother person. I mean, it's leaving behind a piece of your heart... (Ross has \ngot that bored/angry/skeptic look and Rachel is very emotional"},
 				{"Character":"Rachel","Line":"Sandy, that's exactly what it is.."},
 				{"Character":"Ross","Line":"Are you gay? (Rachel turns to Ross in an embarrassed way"},
@@ -116,7 +116,7 @@
 			},
 		"5":{
 			"SceneDescription":" Phoebe's apartment. Phoebe just let David in who brought a bottle of \nwine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"David","Line":"Wow, you look even... more beautiful than you did yesterday"},
 				{"Character":"Phoebe","Line":"Oof.."},
 				{"Character":"Phoebe","Line":"Oof.."},
@@ -153,7 +153,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe's apartment. She and David are still kissing each other in the \nliving room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hmmm... No, no... No, I can't do this. It's bad"},
 				{"Character":"David","Line":"But... I-I-It's nice... A-a-and... nice is good. A-a-and good is not \nbad, ergo, w-w-we should keep kissing"},
 				{"Character":"Phoebe","Line":"No, no. No"},
@@ -166,7 +166,7 @@
 			},
 		"7":{
 			"SceneDescription":" Phoebe's apartment. David is still there. Mike closes the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mike","Line":"So... how many guys have your key"},
 				{"Character":"Phoebe","Line":"No, no, no, no, no... It's not... it's not... i'ts not as bad as it \nlooks... really. I was just saying goodbye to an old friend"},
 				{"Character":"Mike","Line":"Your lipstick's on his mouth"},
@@ -205,7 +205,7 @@
 			},
 		"8":{
 			"SceneDescription":" Ross and Rachel's kitchen. Ross got a beer from the refrigerator and \nopens the bottle. Rachel now also enters the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"That was kind of rude"},
 				{"Character":"Ross","Line":"Oh, I'm sorry. Please apologise to Sandy and the Snufflebumps for \nme"},
 				{"Character":"Rachel","Line":"You know, he was just doing his job.."},
@@ -221,7 +221,7 @@
 			},
 		"9":{
 			"SceneDescription":" Monica and Chandler's apartment. Monica and Joey are sitting at the \ndinner table. Chandler comes from the bedroom with his suitcase.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well, I'm off to Tulsa, so if your Maitre D. friend has any funny \nOklahoma jokes, tell him to e-mail me at http://www.hahanotsomuch.com/"},
 				{"Character":"Monica","Line":"Honey, you can relax. Last night at work, Geoffrey told this really \nsexist joke. After that, not so funny anymore"},
 				{"Character":"Chandler","Line":"Really...? See... that's the thing: you gotta keep it smart, \npeople"},
@@ -235,7 +235,7 @@
 			},
 		"10":{
 			"SceneDescription":" Joey's apartment. Joey and Sandy are sitting at the kitchen counter. \nJoey is holding mr. Wigglemunch, and Sandy holds the Grumpus.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Sandy/Grumpus","Line":"And what's the one kind of boat that can never, ever sink"},
 				{"Character":"Joey/Wigglemunch","Line":"What kind"},
 				{"Character":"Sandy/Grumpus","Line":"A friend-ship.."},

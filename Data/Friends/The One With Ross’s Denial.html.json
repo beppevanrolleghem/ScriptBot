@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Joey, Monica, and Phoebe are there as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Hey"},
 				{"Character":"Phoebe","Line":"Hey! Check it out! This is unbelievable! Joey has been holding his\nbreath for almost four minutes!"},
 				{"Character":"(We see Joey who has puffed up his cheeks and Chandler nonchalantly reaches down and\npinches Joey’s nose shut. In a few seconds, Joey has to move because he’s now\nforced to actually hold his breath.","Line":"We see Joey who has puffed up his cheeks and Chandler nonchalantly reaches down and\npinches Joey’s nose shut. In a few seconds, Joey has to move because he’s now\nforced to actually hold his breath.)"},
@@ -43,7 +43,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Chandler and Monica are there as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! (To Chandler) Dude, some guy just called for you"},
 				{"Character":"Chandler","Line":"Who was it"},
 				{"Character":"Chandler","Line":"Who was it"},
@@ -80,7 +80,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe is on the couch staring off into space as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Pheebs, I have to ask you"},
 				{"Character":"Phoebe","Line":"Shhhhhh! I’m swamped right now"},
 				{"Character":"Rachel","Line":"You’re just staring into space"},
@@ -139,7 +139,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Monica is in the kitchen as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi"},
@@ -192,7 +192,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross’s Apartment, Rachel is entering and Ross is making some room on the\nshelves for his stuff.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey! Oh listen, I was just clearing some space for your stuff"},
 				{"Character":"Rachel","Line":"Oh thanks, but listen, I was just at Monica’s and she and Chandler\nhad a big fight and they’re not moving in"},
@@ -207,7 +207,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel is sitting at the counter waiting for Gunther, yep\nGunther’s back, to refill her coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gunther","Line":"So I understand you’re looking for a place"},
 				{"Character":"Rachel","Line":"No-no, I’m staying put"},
 				{"Character":"Gunther","Line":"Oh, I was going to offer you my apartment"},
@@ -257,7 +257,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Phoebe is singing a new song. Yep, the first new Phoebe song of\nseason six, Ross, Joey, and Rachel are also there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing)<i> I found you in my bed! <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nHow’d you whined up there? <br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nYou are a mystery!<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nLittle black curly hair!<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nLittle black curly hair!<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nLittle black, little black, little black, little black, little black curly\nhair…………</i"},
 				{"Character":"(Applause","Line":"Applause."},
 				{"Character":"(Applause","Line":"Applause."},

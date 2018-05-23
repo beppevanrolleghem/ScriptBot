@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Chandler and Rachel are sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(reading the comics) Eh..., I don’t, I don’t know"},
 				{"Character":"Rachel","Line":"What"},
 				{"Character":"Rachel","Line":"What"},
@@ -25,7 +25,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, the gang’s all there discussing the incident.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"You broke a little girl’s leg?!"},
 				{"Character":"Ross","Line":"I know. I feel horrible. Okay"},
 				{"Character":"Chandler","Line":"(reading the paper) Says here that a muppet got whacked on <i>Seasame\nStreet</i> last night. (to Ross) Where exactly were around ten-ish"},
@@ -67,7 +67,7 @@
 			},
 		"3":{
 			"SceneDescription":" A hallway, Ross is selling Brown Bird cookies for Sarah, he stops and knocks on\na door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Woman","Line":"(looking through her peephole, we see Ross standing in the hallway.)\nYesss"},
 				{"Character":"Ross","Line":"Hi, I’m selling Brown Bird cookies"},
 				{"Character":"Woman","Line":"You’re no Brown Bird, I can see you through my peephole"},
@@ -91,7 +91,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, all except Phoebe are there, Ross is telling the gang, minus\nRachel who’s still being retrained, about the different cookie options.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"...and these come in the shapes of your favourite Christmas characters,\nSanta, Rudolph, and Baby Jesus"},
 				{"Character":"Joey","Line":"All right, I’ll take a box of the cream filled Jesus’s"},
 				{"Character":"Ross","Line":"Wait a minute, one box! Come on, I’m trying to send a little girl to\nSpacecamp, I’m putting you down for five boxes. Chandler, what about you"},
@@ -167,7 +167,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey work, Joey is showing a guy a tree.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Okay, and ah, this one here is a Douglas Fir, now it’s a little more\nmoney, but you get a nicer smell"},
 				{"Character":"Guy","Line":"Looks good. I’ll take it"},
 				{"Character":"Phoebe","Line":"(running up carrying a tree) Wait, wait, wait, wait, wait! No, no, you\ndon’t want that one. No, you can have this cool brown one. (points to the almost dead\ntree she has"},
@@ -191,7 +191,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Chandler, Phoebe, and Ross are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Tell us what happened, Brown Bird Ross"},
 				{"Character":"Ross","Line":"Well, I lost. Some little girl loaned her uniform to her nineteen year old\nsister, who went down to the U.S.S. Nimitz, and sold over 2,000 boxes"},
 				{"Character":"Chandler","Line":"(to Rachel, who’s entering) Hey! How’d the interview go"},
@@ -208,7 +208,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Rachel is serving her last cup of coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Here we go. I’m serving my last cup of coffee. (the gang starts\nhumming the graduation theme) There you go. (hands it to Chandler) Enjoy. (they all cheer"},
 				{"Character":"Chandler","Line":"(to Ross) Should I tell her I ordered tea"},
 				{"Character":"Ross","Line":"No."},
@@ -221,7 +221,7 @@
 			},
 		"8":{
 			"SceneDescription":" The hallway between the apartments, Ross is bringing Sarah to Joey and\nChandler’s.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I’m, I’m sorry you didn’t get to go to Spacecamp, and\nI’m hoping that maybe somehow, this may make up for it. Presenting Sarah\nTuttle’s Private Very Special Spacecamp!! (opens the door and Chandler and Joey jump\nup, their apartment is decorated like outer space, one of the leather chairs is covered in\ntinfoil."},
 				{"Character":"Sarah","Line":"Really Mr. Geller, you don’t have to do this"},
 				{"Character":"Ross","Line":"Oh come on! Here we go! (picks her up and puts her in the chair) Stand by\nfor mission countdown"},

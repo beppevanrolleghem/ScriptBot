@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Hospital, Ross and Rachel, who’s in a wheelchair, are arriving in the\nwaiting room for the maternity ward.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"All right! (Checking his watch) Yes!! From home to the hospital in under\nseven minutes! We did it!"},
 				{"Character":"Rachel","Line":"(deadpan) Yes, the hard part is truly over"},
 				{"Character":"Ross","Line":"No, but come on, we’re off to a great start aren’t we? I knew\nI’d get you here fast, but this has got to be some kind of a record"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Waiting Room, the rest of the gang is lounging around.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(looking at the clock) Oh wow, three hours and still no baby. Ugh, the\nmiracle of birth sure is a snooze fest"},
 				{"Character":"Monica","Line":"Hey, you wanna see something"},
 				{"Character":"Phoebe","Line":"Sure! What"},
@@ -101,7 +101,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Hallway, Ross comes out and hugs Mrs. Geller.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi! I’m so glad you’re here, but it’s gonna be a while. I-I\nwished you’d called first"},
 				{"Character":"Mrs. Geller","Line":"Oh that’s all right, I’m coming back later with your\nfather"},
 				{"Character":"Ross","Line":"Oh good"},
@@ -138,7 +138,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Semi-Private Labor Room, Ross is returning to find another couple has taken\nthe place of Marc and Julie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(To Rachel) Hey. Who’s that"},
 				{"Character":"Rachel","Line":"New people"},
 				{"Character":"Rachel","Line":"New people"},
@@ -184,7 +184,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Vending Machines, Phoebe is buying a soda and Joey is shaking the candy\nmachine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Come on you stupid machine! Come on"},
 				{"Character":"Phoebe","Line":"Oh, it ate your money"},
 				{"Character":"Joey","Line":"(looking at her) No"},
@@ -241,7 +241,7 @@
 			},
 		"6":{
 			"SceneDescription":" Another Waiting Room, Phoebe and Joey are trying to find out where the guy with\nthe broken leg is.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to the nurse) Excuse me? Could you help me with something? The patient\nI’m looking for has a broken leg and is in a wheelchair. And umm, he’s like\nearly to mid-thirties, very attractive"},
 				{"Character":"Nurse","Line":"I think I know who you’re talking about"},
 				{"Character":"Phoebe","Line":"Oh yay! Great! Okay, what room number is he in"},
@@ -273,7 +273,7 @@
 			},
 		"7":{
 			"SceneDescription":" Outside Room 816, Phoebe and Joey are approaching.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ooh, this is it! (Looks in the window.) Oh, that’s him! That’s\nhim"},
 				{"Character":"Joey","Line":"Great! Go get him"},
 				{"Character":"Joey","Line":"Great! Go get him"},
@@ -289,7 +289,7 @@
 			},
 		"8":{
 			"SceneDescription":" Room 816, Dr. Drake Remoray is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hi! I’m Dr. Drake Remoray and I have a few routine questions I need\nto ask you"},
 				{"Character":"Man","Line":"Really? I’ve been dealing with Dr. Wells"},
 				{"Character":"Joey","Line":"I know, but I’m a neurologist. And just to be on the safe side, Dr.\nWells wanted a more comprehensive overview of you status so he sent me"},
@@ -352,7 +352,7 @@
 			},
 		"9":{
 			"SceneDescription":" The Semi-Private Labor Room, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"I….can’t….believe this"},
 				{"Character":"Ross","Line":"And yet somehow it’s true"},
 				{"Character":"Janice","Line":"I mean this is so great! We’re gonna be baby buddies! (Does the\nlaugh."},
@@ -399,7 +399,7 @@
 			},
 		"10":{
 			"SceneDescription":" Another Hospital Room, Chandler and Monica enter and start making out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Should we tell Rachel there’s an empty private room right next\ndoor to hers"},
 				{"Character":"Monica","Line":"We could, or we can have sex in it"},
 				{"Character":"Chandler","Line":"Well let me think about that, while I remove my pants"},
@@ -414,7 +414,7 @@
 			},
 		"11":{
 			"SceneDescription":" Room 816, Phoebe is making her move on Cliff.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay I’ve got one for you, if you had too which one would you\nrather eat, a seeing eye dog or a talking gorilla"},
 				{"Character":"Cliff","Line":"I’d have to say…the talking gorilla, because at least I can\nexplain to him that you’re making me eat him"},
 				{"Character":"Phoebe","Line":"Somebody went to college. Wow. (Cliff gets uncomfortable) What is it?\nI’m sorry. (She moves her arm, which was resting on the same pillow his leg is."},
@@ -427,7 +427,7 @@
 			},
 		"12":{
 			"SceneDescription":" Room 816, Phoebe and Cliff are eating some pudding with spoons.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Cliff","Line":"Is this the same spoon that was in my cast? (Smells it."},
 				{"Character":"Phoebe","Line":"Y’know what? This one is. (Eats another spoonful of pudding as\nCliff sees something on TV."},
 				{"Character":"Cliff","Line":"Oh my God! That’s the doctor who was in my room before"},
@@ -467,7 +467,7 @@
 			},
 		"13":{
 			"SceneDescription":" The Recovery Room, Ross is taking pictures of Rachel holding the baby as the\nrest of the gang enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Can we come in"},
 				{"Character":"Ross","Line":"Oh, come in"},
 				{"Character":"Ross","Line":"Oh, come in"},
@@ -562,7 +562,7 @@
 			},
 		"14":{
 			"SceneDescription":" The Recovery Room, Rachel is putting Emma down for a nap.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"(entering) Yoo-hoo! Aaron Litman-Neurolic would like to say hello to his\nfuture bride"},
 				{"Character":"Rachel","Line":"Ohhh! (Looks at Aaron and recoils in horror.) Wow! He kinda takes your\nbreath away doesn’t he"},
 				{"Character":"Janice","Line":"He’s a keeper. How are you feeling"},
@@ -629,7 +629,7 @@
 			},
 		"15":{
 			"SceneDescription":" The Delivery Room, Rachel is in bed as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey. I just saw a woman breast feeding both of her twins at the same time;\nit is like a freak show up here. (Notices she’s wiping her eyes.) What’s the\nmatter"},
 				{"Character":"Rachel","Line":"Nothing"},
 				{"Character":"Rachel","Line":"Nothing"},

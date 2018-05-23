@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Chandler is sitting in the living room as Monica\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -35,7 +35,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross’s Building, they are approaching the apartment of the woman who died.\nRoss knocks on the door and a woman answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Verhoeven's Daughter","Line":"Yes"},
 				{"Character":"Ross","Line":"Hi. I’m Ross Geller. I live in the building"},
 				{"Character":"Rachel","Line":"And I’m Rachel, an admirer of the building"},
@@ -67,7 +67,7 @@
 			},
 		"3":{
 			"SceneDescription":" Eric’s Apartment, he’s opening the door to reveal Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Eric","Line":"Come in, I’m so glad you’re here"},
 				{"Character":"Phoebe","Line":"Yeah, me too. Not in the shaky angry way you are though"},
@@ -97,7 +97,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Brenda is sweeping and Monica is sitting at the kitchen\ntable.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Nice jeans"},
 				{"Character":"Brenda","Line":"Oh thanks! I like your top"},
 				{"Character":"Monica","Line":"Oh. (Holds on to it.) (To herself) You’re not gettin’ it"},
@@ -124,7 +124,7 @@
 			},
 		"5":{
 			"SceneDescription":" Eric’s Apartment, he and Phoebe are still making out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ooh, oh no! I have to go! I have a massage appointment"},
 				{"Character":"Eric","Line":"Oh no, stay here we’ll keep doing this. I’ll pay you"},
 				{"Character":"Phoebe","Line":"No, I got in trouble for that before. I’ll see you later"},
@@ -134,7 +134,7 @@
 			},
 		"6":{
 			"SceneDescription":" Mrs. Verhoeven’s Apartment, Ross is back to inquire about the elder\nVerhoeven’s health or lack there of.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi. How is she"},
 				{"Character":"Mrs. Verhoeven's Daughter","Line":"It’s not looking good"},
 				{"Character":"Ross","Line":"(happily) Oh. (Realizes then sadly) Oh. Well I uh, I brought her some\nbloemen. (Flowers in Dutch."},
@@ -147,7 +147,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's, Brenda is wiping the coffee table and Chandler is trying\nto look at her bra and leans over on the coffee table to get a good look.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Brenda","Line":"(noticing him) What are you doing"},
 				{"Character":"Chandler","Line":"I’m leaning. This is where I lean"},
 				{"Character":"Brenda","Line":"Okay. (Goes over and fluffs up the pillows on the couch"},
@@ -167,7 +167,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey and Rachel's, Rachel enters and notices that Joey has set up a space for\nthe baby where the couch was, complete with a crib.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"What is this"},
 				{"Character":"Joey","Line":"Hey! Uh, this is just to give you an idea. Okay well, we can put screens\nhere, (In front of the crib.) so that the baby has privacy, and-and-and maybe a mobile\nover the crib. And uh—Oh look! Here’s a baby monitor (Holds it up), which until\nthe baby comes we can use as walkie-talkies. Huh"},
 				{"Character":"Rachel","Line":"You’re so sweet. (Notices something in the crib.) Oh my God! And\nyou gave the baby Hugsy! (A stuffed penguin wearing a ski jacket, goggles, and hat."},

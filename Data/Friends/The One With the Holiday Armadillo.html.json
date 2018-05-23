@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler is on the phone, Rachel and Monica are\nsitting in the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Buh-bye. (Hangs up the phone) I just got us reservations at\nMichelle’s and tickets to the <i>Musicman</i> to celebrate our first holiday season\nas a betroughed couple"},
 				{"Character":"Monica","Line":"Betrothed… (Corrects him"},
 				{"Character":"Chandler","Line":"…betrothed couple"},
@@ -70,7 +70,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel’s, Joey is sitting behind a red drum set.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"Hey! Great, you’re home! Guess what Phoebe got me for Christmas!\n(Starts drumming."},
 				{"Character":"Rachel","Line":"Drums"},
@@ -82,7 +82,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross's apartment, Ross is whirling Ben around.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Wooooooo, hehehe. Hey, ahh, you don't feel like you're gonna throw up, do\nya"},
 				{"Character":"Ben","Line":"No"},
 				{"Character":"Ben","Line":"No"},
@@ -124,7 +124,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Hallway, Phoebe comes up the stairs and hears drumming coming from Joey and\nRachel's, so she enters smiling and then sees that Rachel, not Joey, is the one playing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(stopping at Phoebe’s entrance) Ha"},
 				{"Character":"Phoebe","Line":"So you like the drums! That's, that's great! Y’know, I was worried,\nthat, you know, they would maybe an unbearable living situation. All right, okay, well,\napparently not! So, yay"},
 				{"Character":"Joey","Line":"Hey-hey, Pheebs, check it out, we already learned a song. (To Rachel)\nReady? One, two, three, four.."},
@@ -137,7 +137,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Joey is sitting behind the drums wearing safety goggles,\nhitting them with his sticks as Rachel watches.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Joey, y’know that you could just not throw the sticks up in the\nair"},
 				{"Character":"Joey","Line":"What is Rock 'n' Roll about that"},
 				{"Character":"Phoebe","Line":"(entering with an aquarium covered by a towel) Hey, Joey, I got you\nanother present. (She puts it on the counter"},
@@ -189,7 +189,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Monica has just opened the door for Ross who is\ncostumed as an Armadillo. Ben is standing next to her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I'm the holiday armadillo! I'm a friend of Santa's and he sent me here to\nwish you (Points to Ben) a Merry Christmas"},
 				{"Character":"Monica","Line":"What happened to Santa, Holiday Armadillo"},
 				{"Character":"Ross","Line":"(to Monica) Santa was unavailable so close to Christmas"},
@@ -299,7 +299,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Santa (Chandler), <i>Superman</i> (Joey), Ben,\nand Monica are listening to the Holiday Armadillo (Ross) finish telling the story of\nHanukkah.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"…and the miracle was that that little bit of oil that should’ve\njust lasted just one day, burned for"},
 				{"Character":"Ben","Line":"(answering him) Eight whole days"},
 				{"Character":"Ross","Line":"That’s right, and that’s why we celebrate Hanukkah today. The\nend"},

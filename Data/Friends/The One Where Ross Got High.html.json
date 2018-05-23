@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica is mixing some Thanksgiving treat (I’m\nassuming mashed potatoes) in a bowl.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(on phone) Okay, great!&nbsp; Bye. (Hangs up as Chandler enters.) So\nguess who’s coming to Thanksgiving dinner"},
 				{"Character":"Chandler","Line":"Sydney Portier? Hehheh"},
 				{"Character":"[Chandler throws his coat on the couc","Line":"Chandler throws his coat on the couch"},
@@ -41,7 +41,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler’s, Phoebe enters with a paper turkey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"All","Line":"Hey"},
 				{"Character":"All","Line":"Hey"},
@@ -237,7 +237,7 @@
 			},
 		"3":{
 			"SceneDescription":" Rachel’s Old Bedroom, Continued from earlier. Monica enters the room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Mom and dad just sent me in here to find out if you (points to Chandler)\nwere trying to get Ross stoned"},
 				{"Character":"Chandler","Line":"Your parents caught Ross smoking pot in college and he blamed it on\nme"},
 				{"Character":"Monica","Line":"Ross, I can’t believe you’d do that"},
@@ -250,7 +250,7 @@
 			},
 		"4":{
 			"SceneDescription":" Rachel’s old room, Ross and Joey enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Okay, look, I think we have to tell Rachel she messed up her dessert"},
 				{"Character":"Ross","Line":"What?! What is with everybody? It’s Thanksgiving, not...Truth-Day"},
 				{"Character":"Joey","Line":"Look, when everyone eats that...that...Banana-Meat thing, they’re all\ngonna’ make fun of her, do you want that"},

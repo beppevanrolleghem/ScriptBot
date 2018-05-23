@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The hospital, Ross, Rachel, Chandler, Joey, and Monica are in the waiting room,\nwaiting for Carol and Susan to arrive.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"She's not here yet. She's not here. She's having my baby and she's not\nhere"},
 				{"Character":"Monica","Line":"I'm sure everything's fine. Has her water broke yet"},
 				{"Character":"Ross","Line":"I don't know, but when I spoke to her, she said she had already passed the\nmucus plug"},
@@ -44,7 +44,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Waiting Room, Chandler is falling asleep on Monica's shoulder.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I want a baby"},
 				{"Character":"Chandler","Line":"Mmmm. Not tonight, honey. I got an early day tomorrow"},
 				{"Character":"Monica","Line":"Get up. Come on. Let's get some coffee"},
@@ -90,7 +90,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Lydia in the hospital room. Lydia is on the phone with her mother.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Lydia","Line":"Mom, we've been through this. No, I'm not calling him. I don't care if it\nis his kid, the guy's a jerk. No, I'm not alone. Joey's here. (pause) What do you mean,\nJoey who? (covers the phone, to Joey) Joey who"},
 				{"Character":"Joey","Line":"Tribbiani"},
 				{"Character":"Joey","Line":"Tribbiani"},
@@ -124,7 +124,7 @@
 			},
 		"4":{
 			"SceneDescription":" Lydia's Hospital Room, Joey is helping Lydia go through labor, a nurse is now\npresent in her room as well.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Nurse","Line":"Breathe, breathe, breathe.."},
 				{"Character":"Lydia","Line":"Oh, no"},
 				{"Character":"Lydia","Line":"Oh, no"},
@@ -139,19 +139,19 @@
 			},
 		"5":{
 			"SceneDescription":" The Broom Closet, Ross and Susan are trying to get out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"All","Line":"Help"},
 				{"Character":"All","Line":"Help"},
 				{"Character":"Ross","Line":"I'm having a baby in here! Ok, everyone stand back. (Walks backwards as if\nhe is going to break down the door, but steps in a bucket and falls) Ow"}]
 			},
 		"6":{
 			"SceneDescription":" Lydia's Room, Joey is helping her deliver.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Come on, Lydia, you can do it. Push! Push 'em out, push 'em out, harder,\nharder. Push 'em out, push 'em out, way out! Let's get that ball and really move, hey,\nhey, ho, ho. Let's— (notices the nurse looking at him strangely) I was\njust—yeah, right. Push! Push!"}]
 			},
 		"7":{
 			"SceneDescription":" The Waiting Room, Monica is on the phone with her mother, Chandler is standing\nbehind her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Now, Mom, everything's going fine, really. (Listens) Yeah, Ross is\ngreat. He's uh, he's in a whole other place. (Listens) No, he's gone. (Listens) No no, you\ndon't have to fly back, really. (Listens) What do you mean this might be your only chance?\n(Listens) Would you stop? I'm only 26, I'm not even thinking about babies yet."},
 				{"Character":"(Monica sees a woman pass by with a baby, puts the phone to her chest, and starts to\ncry. Chandler takes the phone, makes a noise in it resembling static, and hangs up. Joey\nenters","Line":"Monica sees a woman pass by with a baby, puts the phone to her chest, and starts to\ncry. Chandler takes the phone, makes a noise in it resembling static, and hangs up. Joey\nenters."},
 				{"Character":"Chandler","Line":"Where have you been"},
@@ -163,7 +163,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Hall Outside Lydia's Room, Joey is walking up to Lydia's room with\nballoons, but before he enters he sees that the baby's father has arrived. He listens at\nthe door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Lydia","Line":"So how did you know I was even here"},
 				{"Character":"Guy","Line":"Your mom called me. So is this her"},
 				{"Character":"Lydia","Line":"No, this is a loaner"},
@@ -178,7 +178,7 @@
 			},
 		"9":{
 			"SceneDescription":" Carol's Room, she is ready to give birth. Everyone is there except for Phoebe,\nRoss, and Susan, who are in the broom closet.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"Where are they"},
 				{"Character":"Monica","Line":"I'm sure they'll be here soon"},
 				{"Character":"Rachel","Line":"Yeah, honey, they wouldn't miss this"},
@@ -201,7 +201,7 @@
 			},
 		"10":{
 			"SceneDescription":" Carol's Room, Ross and Susan rush in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"All","Line":"Push, push"},
 				{"Character":"Ross","Line":"We're here"},
 				{"Character":"Ross","Line":"We're here"},
@@ -250,7 +250,7 @@
 			},
 		"11":{
 			"SceneDescription":" The Hospital, the camera is placed as though it were Ben's eyes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Ben, I want you to know that there may be some times when I may not be\naround, like this. (walks out of the picture) But I'll still always come back, like this.\n(returns) And sometimes I may be away longer, like this. (walks away) But I'll still\nalways come back, like this. (returns)"},
 				{"Character":"(Chandler comes into the picture","Line":"Chandler comes into the picture."},
 				{"Character":"Chandler","Line":"And sometimes, I'll want you to steal third, and I'll go like this.\n(Does a baseball sign."},

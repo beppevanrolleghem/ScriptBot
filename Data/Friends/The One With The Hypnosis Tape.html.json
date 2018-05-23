@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, all but Chandler are there, Joey laughs for no apparent reason.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(to Joey) What’s so funny"},
 				{"Character":"Joey","Line":"Oh, nothing, no. It’s an acting exercise, I’m practising my fake\nlaugh"},
 				{"Character":"Monica","Line":"Oh. (she laughs"},
@@ -50,12 +50,12 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler’s bedroom, Chandler is listening to the hypnosis tape.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hypnosis Tape","Line":"You are falling fast asleep. Deeper. Deeper. Deeper. You are now\ncompletely asleep. You don’t need to smoke. Cigarettes don’t control you. You\nare a strong, confident woman, who does not need to smoke. A strong, confident woman"}]
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Ross and Joey are being lectured by Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"No, I know, I know, that this is Frank’s life, (walks behind them,\nthey turn around in the leather chairs to face her) y'know. Y'know, I don’t want to\nbe all judgmental, y'know, but this is sick, it’s sick and wrong"},
 				{"Character":"Ross","Line":"Pheebs, what, is it the age thing"},
 				{"Character":"Phoebe","Line":"No-no, oh, I’m fine with the age thing y'know, until it starts\nsticking it’s tongue down my little brother’s throat!"},
@@ -82,7 +82,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Ross and Joey are talking to Frank.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"All we’re saying is don’t rush into anything"},
 				{"Character":"Joey","Line":"Yeah, come on, think about it. You’re 18, okay, she’s 44, when\nyou’re 36, she’s gonna be 88"},
 				{"Character":"Frank","Line":"What, you don’t think I know that"},
@@ -131,7 +131,7 @@
 			},
 		"5":{
 			"SceneDescription":" Phoebe’s, Phoebe is opening the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi! Oh, Alice, hi! Thanks. I’m so glad you could come, ‘cause\nI’ve got a real umm, Home Ec emergency. (Points to the table cloth, which has a huge\nmustard stain on it."},
 				{"Character":"Alice","Line":"Oh my God, who died on this?"},
 				{"Character":"Phoebe","Line":"Yeah, I know. It’s a real mustard-tastrophe. Can you help me"},
@@ -144,7 +144,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe’s, she is coming home. She turns on the lights, and sits down on\nthe couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Frank","Line":"(hiding under a pile of clothes) Hi. (She jumps up screaming.) Wait, no!\nJust put the mail down. It’s-it’s me"},
 				{"Character":"Phoebe","Line":"Okay. Whoa, sorry. Why were you just like all in the dark"},
 				{"Character":"Frank","Line":"Oh well, um, your, your laundry just smelled so good, that I thought\nI’d curl up in it. Is that all right"},
@@ -187,7 +187,7 @@
 			},
 		"7":{
 			"SceneDescription":" A restaurant in Rome, Monica is paying for the pizza.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Pete","Line":"You’re, hey, you’re not paying for the pizza"},
 				{"Character":"Monica","Line":"Oh come on, it’s only fair, you paid for the flight. Now is, is\nthat enough lire"},
 				{"Character":"Pete","Line":"Ahh, I’d throw another thousand on that"},
@@ -198,7 +198,7 @@
 			},
 		"8":{
 			"SceneDescription":" Phoebe’s, Frank is watching TV, and he’s very depressed as Phoebe\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey, Frank. Look, okay, I know that you think I did like this totally\nevil thing, but I so didn’t. There’s someone here who can explain this better\nthan I can"},
 				{"Character":"Alice","Line":"Hi Frank"},
 				{"Character":"Alice","Line":"Hi Frank"},

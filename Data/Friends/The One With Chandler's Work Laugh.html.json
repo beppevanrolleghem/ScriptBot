@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel is trying to pry more information about Chandler\nand Monica from Joey who's sitting on the couch and busy downing a pizza.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Come on Joey!!"},
 				{"Character":"Joey","Line":"Rach, I told you everything I knew last night! Look, it's not that big of a deal,\nso Monica and Chandler are doing it"},
 				{"Character":"Rachel","Line":"I can't believe you would say that"},
@@ -31,7 +31,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler's office, Monica and him are at a party his office is throwing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Look at us all dressed up for the big office party! By the way, what are we\ncelebrating"},
 				{"Character":"Chandler","Line":"Oh, we had a lot of liquor left over from the Christmas party"},
 				{"Character":"Monica","Line":"I think this is so cool because none of our friends are here and we can be a\nreal couple. We don't have to hide"},
@@ -81,7 +81,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Phoebe is settling a dispute between the chick and\nthe duck.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(The duck quacks","Line":"The duck quacks."},
 				{"Character":"Phoebe","Line":"Okay, then what happened"},
 				{"Character":"(The duck flaps its wings frantically","Line":"The duck flaps its wings frantically."},
@@ -115,7 +115,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Monica and Chandler are returning from the game.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I can't believe you let them win"},
 				{"Character":"Chandler","Line":"Yeah, at least you hid your feelings well about it. (Removes a smashed\nracquet from his bag."},
 				{"Character":"Monica","Line":"I was frustrated"},
@@ -130,7 +130,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler, Joey, and Ross's, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"Uh-oh-okay. Uh-oh-okay. I know what you all are thinking. But Chandler is in Yemen!\nI'm a young woman! I have needs! I can't wait forever"},
 				{"Character":"Rachel","Line":"Yeah! No that's what I was thinking"},
 				{"Character":"Janice","Line":"So I'm asking you please, take a moment before you judge me"},
@@ -158,7 +158,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Phoebe and Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right, put your 20 bucks down. First one to find the tasty treat wins. Okay"},
 				{"Character":"Phoebe","Line":"Uh-hmm"},
 				{"Character":"Phoebe","Line":"Uh-hmm"},
@@ -203,7 +203,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Rachel is going through the mail as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey Rach! Hey, you mind if I read my comic books in here"},
 				{"Character":"Rachel","Line":"Sure! Why"},
 				{"Character":"Rachel","Line":"Sure! Why"},
@@ -261,7 +261,7 @@
 			},
 		"8":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Chandler is reading a magazine as Ross hands him a\nbeer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Dude, we got to talk"},
 				{"Character":"Chandler","Line":"Okay"},
 				{"Character":"Chandler","Line":"Okay"},

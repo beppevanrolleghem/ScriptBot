@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, the gang is there eating breakfast. Chandler is cleaning\nout his wallet.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey! New wallet, huh"},
 				{"Character":"Chandler","Line":"Yeah, it was time. The old condom ring in the leather just\ndoesn’t say ‘cool’ anymore"},
 				{"Character":"Monica","Line":"Rachel"},
@@ -27,7 +27,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Continued from earlier, Rachel is now telling everyone of\nher experience in the garbage room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Whoa-whoa, Treeger made you cry"},
 				{"Character":"Rachel","Line":"Yes! And he said really mean things that were only partly true."},
 				{"Character":"Joey","Line":"I’m gonna go down there and teach that guy a lesson"},
@@ -60,7 +60,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, continued from earlier, everyone is still eating\nbreakfast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh please, somebody tell me I don’t have to go to work today"},
 				{"Character":"Monica","Line":"What’s the matter"},
 				{"Character":"Monica","Line":"What’s the matter"},
@@ -113,7 +113,7 @@
 			},
 		"4":{
 			"SceneDescription":" Heeling Hands Inc., Phoebe’s work, she is giving a massage to the guy,\nRick, she likes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rick","Line":"(looking at her feet) Wow, you have really pretty feet"},
 				{"Character":"Phoebe","Line":"These old things"},
 				{"Character":"Phoebe","Line":"These old things"},
@@ -139,7 +139,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Joey is telling Monica and Rachel what he has to do.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"His dancing partner?"},
 				{"Character":"Joey","Line":"Yeah, there’s this superintendent’s dance, the Super Ball. I\ndon’t know, and he wants to impress Marge, this lady super that he’s a crush on"},
 				{"Character":"Rachel","Line":"Well, why doesn’t he practice with a girl"},
@@ -201,7 +201,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Rachel and Monica are sitting at the table as Joey\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey-hey, how goes the dancing? Gay yet"},
 				{"Character":"Joey","Line":"Ah-ha-ha, you guys owe me big time. (He walks into the kitchen and does a\nlittle dance step on the way."},
 				{"Character":"Rachel","Line":"(laughing) What was that"},
@@ -235,7 +235,7 @@
 			},
 		"7":{
 			"SceneDescription":" Healing Hands, Inc., Phoebe is giving Rick a massage.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(thinking to herself) Okay, baseball. Rick, playing baseball. Okay,\nslides into second, maybe even his pants come down a little… Oh no—wait no, no!\nNo! Okay, all right, sandwiches, sandwiches. Umm, okay, on a plate, maybe Rick’s\npants come down a little. No! No! Okay, Chandler! Okay Chandler, ooh, that’s working"},
 				{"Character":"(The camera zooms in on the clock on the wall and it reads a quarter after one. Time\nlapse. The clock now reads 3","Line":"0, and Phoebe is still giving Rick his massage."},
 				{"Character":"Phoebe","Line":"(thinking to herself) Chandler’s knees. Chandler’s…\nankles. Chandler’s ankle hair. (notices the clock) Oh no. (to Rick) Okay, you’re\nall set"},
@@ -278,7 +278,7 @@
 			},
 		"8":{
 			"SceneDescription":" Lara and Jeni’s Massage, Phoebe is interviewing for a job.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Interviewer","Line":"So it looks like you’ve got some great experience here.\nLet’s see ahh, reason for leaving last job"},
 				{"Character":"Phoebe","Line":"Yeah, they thought I was a whore"},
 				{"Character":"Interviewer","Line":"Okay, we’ll give a call if anything comes up"},

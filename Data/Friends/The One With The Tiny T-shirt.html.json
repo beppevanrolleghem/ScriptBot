@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Gunther is pouring Rachel coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gunther","Line":"Here you go"},
 				{"Character":"Rachel","Line":"Thank you"},
 				{"Character":"Rachel","Line":"Thank you"},
@@ -29,7 +29,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Theatre, Joey is arriving to rehearse the play he’s in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Director","Line":"Joe. How’s it going"},
 				{"Character":"Joey","Line":"Good. (He sets his stuff down and starts talking to Kate, another cast\nmember.) Hey"},
 				{"Character":"Kate","Line":"Hi"},
@@ -67,7 +67,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Joey is telling Chandler about Kate.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I hate this woman!! I hate her! She told everyone in the company about\nthat info-mercial, and now they all keep asking me to open their drinks. Okay, and\nwhenever I can’t do it, they’re all like-like laughing at me"},
 				{"Character":"Ross","Line":"(entering) Hello"},
 				{"Character":"Ross","Line":"(entering) Hello"},
@@ -84,7 +84,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, the gang minus Rachel and Ross are talking to Pete.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"So, you’re like a zillionaire? (Pete smiles and nods"},
 				{"Character":"Chandler","Line":"And you’re our age. You’re our age"},
 				{"Character":"Phoebe","Line":"Y'know what, you should like, you should buy a state and then just name\nit after yourself"},
@@ -116,7 +116,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Hallway, Chandler and Ross are returning from working out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I can blow dry it. I can put gel on it. It doesn’t matter, I\nstill wind up with this little (pats the flat spot on the back of his head) cowlicky thing\non the middle part of my head. It’s so annoying. Does it bug you"},
 				{"Character":"Ross","Line":"You bug me"},
 				{"Character":"Ross","Line":"You bug me"},
@@ -125,7 +125,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Rachel is pouring Mark some coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mark","Line":"Why do all you’re coffee mugs have numbers on the bottom"},
 				{"Character":"Rachel","Line":"Oh. That’s so Monica can keep track. That way if one on them is\nmissing, she can be like, ‘Where’s number 27?!"},
 				{"Character":"(She sits down, and Mark leans over and kisses her. Rachel doesn’t react. He tries\nit again, and Rachel jumps back quickly","Line":"She sits down, and Mark leans over and kisses her. Rachel doesn’t react. He tries\nit again, and Rachel jumps back quickly."},
@@ -151,7 +151,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Chandler is sitting in one of the black chairs, and turns\nto face the other one.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I don’t think this town is big enough for both of us to relax in.\n(He blows on his hand) Draw!! (He quickly pulls the lever to raise the foot rest, like a\ngunfighter in a Western.)"},
 				{"Character":"(Joey enters","Line":"Joey enters."},
 				{"Character":"(Joey enters","Line":"Joey enters."},
@@ -171,7 +171,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Monica is in the kitchen chopping vegetables. Chandler and\nPhoebe are sitting in the living room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to Chandler) Hey! (Chandler looks up, startled) Why isn’t it\nSpiderman? Y’know like Goldman, Silverman.."},
 				{"Character":"Chandler","Line":"‘Cause it’s-it’s not his last name"},
 				{"Character":"Phoebe","Line":"It isn’t"},

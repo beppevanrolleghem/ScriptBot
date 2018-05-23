@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Dr. Burke's apartment. Dr. Burke answers the door for Phoebe and Monica.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Dr. Burke's apartment. Monica and Dr. Burke are in the kitchen.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's apartment. They are watching a Miracle Wax info-mercial.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's apartment. They're still watching TV. Phoebe stands in front\nof the TV.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica and Dr. Burke are sitting on the couch. He's\nshowing her the pictures in his wallet.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" The museum planetarium. Ross and Rachel enter on stage.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's apartment. They are still in their chairs, watching <i>Beavis\nand Butthead</i>.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone but Phoebe are there reading. Rachel is sitting on the\ncouch flanked by Ross and Monica. She suddenly stops reading and starts blinking her left\neye as if it's bothering her. The problem is that Joey is on her left and thinks she's\nwinking at him and winks back. Ross is watching this and isn't quite sure of what to make\nof it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"What's going on"},
 				{"Character":"Rachel","Line":"Well, my eye is a little itchy"},
 				{"Character":"(Ross turns to look at Joey","Line":"Ross turns to look at Joey."},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Joey is reading a map as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh hey Joey! What's up"},
 				{"Character":"Joey","Line":"I can't decide which route to take to Vegas. Hey, you've traveled a lot\nright"},
 				{"Character":"Phoebe","Line":"Yeah, I've been around"},
@@ -129,7 +129,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe, Rachel, Monica, and Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Y'know, I-I gotta tell ya, those eye drops are a miracle. My eye is a\n100% better"},
 				{"Character":"Monica","Line":"They're still in my coat"},
 				{"Character":"Rachel","Line":"Damn"},
@@ -231,7 +231,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Ross, Phoebe, Rachel, and Monica are there. Ross is trying to\nfigure out why Phoebe's mad at him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, are you mad at me because my hair gel smells"},
 				{"Character":"Phoebe","Line":"No"},
 				{"Character":"Phoebe","Line":"No"},
@@ -277,7 +277,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, time lapse, Phoebe and Monica are playing cards as the\nphone rings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ooh that is definitely Chandler, Joey, or Ross. (Thinks) Or-or Rachel"},
 				{"Character":"Monica","Line":"(answers the phone) Hello? (Listens.) (To Phoebe) It's Joey. (Phoebe's\nproud of herself.) (To Joey) I'm so glad you called! Chandler told me what happened.\nY'know he's really upset about it"},
 				{"Character":"Joey","Line":"(on a pay phone holding a box) Not as upset as he's gonna be when he finds\nout what I did with his sweater vests"},
@@ -329,7 +329,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, the phone is ringing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(answering it) Hello"},
 				{"Character":"Joey","Line":"(on phone from Vegas) Hey Monica, it's Joey"},
 				{"Character":"Monica","Line":"Hey Joey! Aww, you remembered even though you're a big star"},

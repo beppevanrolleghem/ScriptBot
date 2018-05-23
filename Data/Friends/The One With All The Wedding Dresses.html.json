@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey’s bedroom, he is asleep and snoring loudly. Chandler enters wondering\nwho left their engine running.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Are you kidding me?! Joey. Joey! Joey! Joey! Joey! Joey! Joey! Joey!\nJoey! Joey!"},
 				{"Character":"Joey","Line":"(joining in, in his sleep) Joey. Joey. Joey. Joey! Joey!"},
 				{"Character":"(Chandler acts disgusted, but is happy that Joey has stopped snoring. However, just as\nhe is about to leave, Joey starts snoring again. So to get him to stop, he slams the door\nshut, waking Joey","Line":"Chandler acts disgusted, but is happy that Joey has stopped snoring. However, just as\nhe is about to leave, Joey starts snoring again. So to get him to stop, he slams the door\nshut, waking Joey."},
@@ -12,7 +12,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Rachel is not doing the dishes. She hears someone coming\nup the stairs and quickly puts down her magazine and pretends like she’s actually\ndoing the dishes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey, Mon, I was just doing the dishes!"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -90,12 +90,12 @@
 			},
 		"3":{
 			"SceneDescription":" Joey’s bedroom, he’s snoring again and Chandler is there to roll him\nover.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"All right buddy, time to roll over. (Rolls him over, and discovers a\nsurprise) (Looking down) No-no! (Covers his eyes) No, no-n-n-n-no!! You are going to a\nclinic! You’re going to a clinic, and a pyjama store"}]
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Joey is complaining about going to the clinic.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"This sucks! I didn’t know I had to stay up all night before I went to\nthis stupid sleep clinic! I’m so tired"},
 				{"Character":"Chandler","Line":"It’s 6:00"},
 				{"Character":"Chandler","Line":"It’s 6:00"},
@@ -165,7 +165,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Sleep Clinic, Joey is having trouble staying awake.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Sleep Clinic Worker","Line":"Your name, please"},
 				{"Character":"Joey","Line":"Joey Tribbiani"},
 				{"Character":"Joey","Line":"Joey Tribbiani"},
@@ -204,7 +204,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Monica and Phoebe, back to reality, are sitting in normal\nclothes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I hate my regular clothes now! Y’know? I look down and-and I\nknow that this isn’t gonna be the most special day of my life"},
 				{"Character":"Monica","Line":"Yeah. I mean it was kinda fun for a while, but didn’t you start\nfeeling silly"},
 				{"Character":"Phoebe","Line":"I guess"},
@@ -252,7 +252,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler’s bedroom, he is sleeping with Marjorie. All of the sudden,\nMarjorie starts talking in her sleep, awakening Chandler. After a little bit, she quiets\nback down, and Chandler tries to get back to sleep. There’s a short pause until she\nstarts screaming, causing Chandler to scream with her. She quickly calms down. This all\nwakes up Joey, who comes over wearing the mouth guard, opens the top half of\nChandler’s door, and starts to complain about the noise.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(muffled by the mouth guard) Dude! I am trying to sleep! (Shrugs to\nsay, \"What’s up with that?\""}]
 			}
 }

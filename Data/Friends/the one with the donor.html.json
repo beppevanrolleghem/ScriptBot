@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk. Charlie, Joey and Rachel are on the couches",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Charlie","Line":"(while Joey's giving her a massage) Oh! That feels sooo good"},
 				{"Character":"Rachel","Line":"(speaking to herself and reading Cosmopolitan) Oh, lucky me! Coffee and a live sex show"},
 				{"Character":"Charlie","Line":"I'm sorry, what"},
@@ -59,7 +59,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk. Joey and Charlie on the couch. Rachel enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi! Ok, you're ready to go pick up Phoebe and go shopping"},
 				{"Character":"Charlie","Line":"Oh, yeah! Let's do it"},
 				{"Character":"Joey","Line":"(to Charlie) Alright, have a good time. (they kiss"},
@@ -130,7 +130,7 @@
 			},
 		"3":{
 			"SceneDescription":" Shop, Rachel, Charlie and Phoebe walk in",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Shop assistant","Line":"(to a girl) Incentive For Men"},
 				{"Character":"Phoebe","Line":"Oh, I'll take some of that"},
 				{"Character":"Rachel","Line":"Pheebs, that's for men"},
@@ -209,7 +209,7 @@
 			},
 		"4":{
 			"SceneDescription":" Shop, Phoebe and Rachel are talking in front of the dressing room",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, God, do you think she heard? It would be so bad if she heard"},
 				{"Character":"Phoebe","Line":"Well, maybe she didn't hear! Ok I'm gonna go into that dressing room, you stay in here and I'll talk and see if you can hear me"},
 				{"Character":"Rachel","Line":"Ok, great"},
@@ -239,7 +239,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Monica's apartement. Chandler and the guest are in the living room, Monica in the kitchen",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey guys! Dinner's ready"},
 				{"Character":"Zack","Line":"Oh! I'm gonna go wash up first. (Chandler points him the bathroom) Thanks"},
 				{"Character":"Chandler","Line":"So what do you think? I want that guys genes for my kid! Those eyes, those cheeckbones"},
@@ -282,14 +282,14 @@
 			},
 		"6":{
 			"SceneDescription":" Prof. Sherman's office. Sherman is still asleep on his chair, blocking the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Ross takes his suitcase and tries to get out but ends up falling on Prof. Sherman's laps, thereby waking him u","Line":"Ross takes his suitcase and tries to get out but ends up falling on Prof. Sherman's laps, thereby waking him up"},
 				{"Character":"Ross","Line":"(To the still half asleep Professor) Oh my God! You really want me to be the keynote speaker? Thank you! (hugs him whilst still on his lap"},
 				{"Character":"Prof. Sherman","Line":"(confused) You're welcome. (Ross hugs him again"}]
 			},
 		"7":{
 			"SceneDescription":" Outside Central Perk.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"David"},
 				{"Character":"(David the scientist guy is standing at the news-stan","Line":"David the scientist guy is standing at the news-stand"},
 				{"Character":"David","Line":"Phoebe! Hi"},

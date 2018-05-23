@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the gang is there, Phoebe is returning from the bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(angrily) That’s like the tenth time I’ve peed since I’ve\nbeen here"},
 				{"Character":"Monica","Line":"That’s also like the tenth time you told us"},
 				{"Character":"Phoebe","Line":"Yeah, oh I’m sorry, it must be really hard to hear! I tell ya,\nit’s a lot easier having three babies play Bringing in the Noise, Bringing in da Funk\non your bladder! I’m so sick of being pregnant! The only happiness I get is from a\ncup of coffee, which of course is decaf, ‘cause—Oh! I’m pregnant"},
@@ -17,7 +17,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Monica, Rachel, and Phoebe are eating breakfast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to her babies) Stop it"},
 				{"Character":"Monica","Line":"What"},
 				{"Character":"Monica","Line":"What"},
@@ -75,7 +75,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Monica is returning from shopping and Rachel is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Look what I got! Look what I got! Look what I got! (She shows Rachel\nwhat she bought. She bought a little leather jacket and a little cowboy outfit for the\nbabies.) Can you believe they make these for little people"},
 				{"Character":"Rachel","Line":"Little village people"},
 				{"Character":"Monica","Line":"Okay, look at this one. This is my favourite. (It’s a little pink\nand white dress for the girl baby."},
@@ -95,7 +95,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Ross’s bachelor party. Ross is thanking Joey for the\nparty.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey listen man, about the stripper"},
 				{"Character":"Joey","Line":"Yeah"},
 				{"Character":"Joey","Line":"Yeah"},
@@ -147,7 +147,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, it’s continued from earlier. Joey is now waking\nChandler and telling him the news.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(running and banging on Chandler’s door) The stripper stole the\nring!! The stripper stole the ring!! Chandler! Chandler, get up! Get up! The stripper\nstole the ring"},
 				{"Character":"Chandler","Line":"(opening the door) What"},
 				{"Character":"Joey","Line":"The ring is gone"},
@@ -162,7 +162,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, Joey is trying to figure out what to do.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Ugh! I don’t know what I’m going to do! I called the company\nthat sent and th-they don’t care! Then I called 9-1-1 and they laughed at me, if this\nisn’t an emergency, then what is"},
 				{"Character":"Ross","Line":"(entering) Hey guys"},
 				{"Character":"Ross","Line":"(entering) Hey guys"},
@@ -206,7 +206,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler’s office, the guys are there waiting to ambush the stripper.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right, okay, this is great, uh, Chandler, you get behind the desk.\nAnd-and when she comes in hopefully, she won’t recognise you because, well, why would\nshe? Uh, okay, and then you buzz Ross and I. (to Ross) You be Mr. Gonzalez, and I’ll\nbe uh, Mr. Wong"},
 				{"Character":"Ross","Line":"Diverse"},
 				{"Character":"Ross","Line":"Diverse"},
@@ -235,7 +235,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is recovering from her false labour.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I still don’t get how you know when it’s false labour"},
 				{"Character":"Phoebe","Line":"Well, do you see any babies"},
 				{"Character":"Monica","Line":"How do you feel"},

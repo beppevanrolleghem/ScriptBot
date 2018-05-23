@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, everyone is there and they are finishing\nwatching the first episode of Mac and C.H.E.E.S.E. Joey is of course Mac.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mac","Line":"(on TV) Well, if we learned one thing today C.H.E.E.S.E. is that\ncheerleaders and high explosives don’t mix. (Cut to Joey laughing while Rachel,\nChandler, and Monica aren’t amused."},
 				{"Character":"C.H.E.E.S.E","Line":"You can say that again Mac"},
 				{"Character":"Mac","Line":"Well, I couldn’t have done it without you buddy. You’re a genius"},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel’s New Office, she’s interviewing a potential new assistant,\nHilda.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(reading the resume) And you were at this job for four years"},
 				{"Character":"Hilda","Line":"That’s right"},
 				{"Character":"Hilda","Line":"That’s right"},
@@ -90,7 +90,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler, Rachel, and Phoebe are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Chandler, you have an assistant right"},
 				{"Character":"Chandler","Line":"(angrily) Did she call? You-you told her I was sick right? Always tell\nher I am sick"},
 				{"Character":"Rachel","Line":"No, I-I just don’t know how you decide who to hire. I mean\nI’ve got it narrowed down to two people. One of them has great references and a lot\nof experience and then there’s this guy"},
@@ -107,7 +107,7 @@
 			},
 		"4":{
 			"SceneDescription":" Rachel’s office, she’s there as Tag knocks on the door and enters\ncarrying a plant.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi! Tag. What are you doing here"},
 				{"Character":"Tag","Line":"I just wanted to come by and thank you for not laughing in my face\nyesterday. And I noticed there aren’t any plants in your office so I wanted to bring\nyou your first… (Notices her plant) There is a plant in your office"},
 				{"Character":"Rachel","Line":"Kinda"},
@@ -146,7 +146,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Phoebe is giving Joey a massage as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -170,7 +170,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel's, Joey is still bumming about cancellation of Mac and\nC.H.E.E.S.E.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"How could this happen to me?! Yesterday I had two TV shows! Today,\nI got nothin’"},
 				{"Character":"Rachel","Line":"Well wait a minute, what happened to <i>Days of Our Lives</i>"},
 				{"Character":"Joey","Line":"Uh, well they might be a little mad at me over there"},
@@ -187,7 +187,7 @@
 			},
 		"7":{
 			"SceneDescription":" Terry’s office, Joey has come to beg for a second chance.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! Terry"},
 				{"Character":"Terry","Line":"Joey Tribbiani! I’m surprised your big head could fit through our\nsmall halls! (Gets up) I gotta go Joey"},
 				{"Character":"Joey","Line":"Wait! Terry! Wait—Look—Wait I-I… Look, I’m really\nsorry about before. I was an idiot thinking I’m too big to audition for you. You\ngotta give me another chance"},
@@ -209,7 +209,7 @@
 			},
 		"8":{
 			"SceneDescription":" Rachel’s office, she’s looking at a picture of Tag when he knocks and\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(noticing him) Hi! (Puts the pictures away."},
 				{"Character":"Tag","Line":"Do you have a minute"},
 				{"Character":"Tag","Line":"Do you have a minute"},

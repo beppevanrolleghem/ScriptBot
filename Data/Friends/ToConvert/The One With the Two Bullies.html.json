@@ -1,33 +1,34 @@
 {"./Data/Friends/ToConvert//The One With the Two Bullies.html":{
 	"Cast":[],
 	"Scenes":{
+		"0":{"SceneDescription":"NONE","lines":[]},
 		"1":{
-			"SceneDescription":" Monica and Rachel's apartment. Everyone is there. Monica is\nwatching stock prices on a business channel.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Everyone is there. Monica isNEWLINEwatching stock prices on a business channel.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
-			"SceneDescription":" Monica and Rachel's apartment. Joey and Rachel are sitting there and Monica\nwalks in.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Joey and Rachel are sitting there and MonicaNEWLINEwalks in.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Central Perk. Chandler and Ross are sitting at the couch.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
-			"SceneDescription":" Monica and Rachel's apartment. Joey is eating breakfast, Rachel has just gotten\nup, and Monica is on the phone.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Joey is eating breakfast, Rachel has just gottenNEWLINEup, and Monica is on the phone.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Outside Monica and Rachel's apartment. Rachel is returning.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Central Perk. Chandler and Ross are sitting on the couch nervously.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" The 50's theme cafe. Monica is working the grill, the rest are at a table.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

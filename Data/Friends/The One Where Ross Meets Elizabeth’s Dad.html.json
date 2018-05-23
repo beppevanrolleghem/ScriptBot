@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Phoebe, Rachel, Chandler, and Monica are there. Rachel is reading\neveryone’s horoscope.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay, Chandler"},
 				{"Character":"Chandler","Line":"Okay"},
 				{"Character":"Chandler","Line":"Okay"},
@@ -34,7 +34,7 @@
 			},
 		"2":{
 			"SceneDescription":" Pier 59 Studios, it’s the set of Mac and C.H.E.E.S.E. The producer is\nshowing Joey around the set.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Producer","Line":"(walking into Mac’s office) So uh, here’s your office\nset"},
 				{"Character":"Joey","Line":"Wow! Huh? (Picks up the phone) Mac Macaveli, Private Investigator"},
 				{"Character":"The Producer","Line":"(checking his watch) Let’s get you into wardrobe for a\nfitting"},
@@ -69,7 +69,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Phoebe is working on her book at the kitchen\ntable, Monica is on the couch, and Chandler is entering from the bathroom carrying a\npackage of toilet paper.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey honey, you got the kind with the little girl, you said we were\ngonna to get the kind with the baby"},
 				{"Character":"Monica","Line":"No, you said the baby creeps you out"},
 				{"Character":"Chandler","Line":"No, the little girl creeps me out"},
@@ -89,7 +89,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Phoebe is still writing in her book, Chandler\nand Monica are in the kitchen as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -122,7 +122,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, scene is continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Joey?! Joey!! (He runs into his bedroom."},
 				{"Character":"Rachel","Line":"Ross, Joey is not here"},
 				{"Character":"Ross","Line":"Okay, I’ll just wait for him in here"},
@@ -169,7 +169,7 @@
 			},
 		"6":{
 			"SceneDescription":" Pier 59 Studios, Joey is walking up to C.H.E.E.S.E. and Wayne.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Morning! Hey, how’s my favorite genius and my little robot buddy?!\n(Pats C.H.E.E.S.E. on the head."},
 				{"Character":"Wayne","Line":"Don’t touch him"},
 				{"Character":"Wayne","Line":"Don’t touch him"},
@@ -177,7 +177,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Monica and Chandler are entering and\nthey’re arguing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Chandler, we said we would meet at the coffeehouse at six"},
 				{"Character":"Chandler","Line":"We said seven"},
 				{"Character":"Chandler","Line":"We said seven"},
@@ -221,7 +221,7 @@
 			},
 		"8":{
 			"SceneDescription":" A Restaurant, Rachel is still trying to talk up Ross, not to much success.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I mean if you think about it, I mean Ross did learn something from each\nmarriage"},
 				{"Character":"Paul","Line":"How to make the next one even shorter"},
 				{"Character":"Rachel","Line":"Now wait a minute that’s not fair. He was married to me a hell of a\nlot longer than he was married to Emily, he just didn’t tell me. (Everyone looks at\nher, Ross not happily.) Maybe I have to pee again. (Gets up to try to use the bathroom."},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Wedding Hall, Monica and Chandler have just said "I do," and the\nphotographer is taking the required pictures. First of Monica, Chandler, Ross and Joey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Photographer","Line":"Great. (Takes a picture.) Great! Just give me a sec to change\nfilm"},
 				{"Character":"Monica","Line":"Okay"},
 				{"Character":"Monica","Line":"Okay"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Reception Hall, the party is in full swing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Bandleader","Line":"Thank you very much! Ladies and gentlemen, it gives me great\npleasure to introduce to you for the very first time, Mr. and Mrs. Chandler Bing"},
 				{"Character":"(They enter","Line":"They enter."},
 				{"Character":"(They enter","Line":"They enter."},
@@ -249,7 +249,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Women’s Restroom, Rachel and Phoebe are waiting for the outcome of\nRachel’s second test.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"How much longer"},
 				{"Character":"Phoebe","Line":"30 seconds"},
 				{"Character":"Phoebe","Line":"30 seconds"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, all six are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Would you let it go? It's not that big a deal"},
 				{"Character":"Ross","Line":"Not that big a deal? It's amazing. Ok, you just reach in there, there's\none little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm\nconcerned, there is nothing a guy can do that even comes close. Am I right"},
 				{"Character":"Rachel","Line":"Come on! You guys can pee standing up"},
@@ -22,7 +22,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's apartment, Joey is there, trying to convince Monica to pose\nas his girlfriend. His plan is to hook Monica up with Angela's boyfriend Bob and then take\nAngela back for himself.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Monica, I'm tellin' you, this guy is perfect for you"},
 				{"Character":"Monica","Line":"Forget it. Not after your cousin who could belch the alphabet"},
 				{"Character":"Joey","Line":"Come on. This guy's great. His name's Bob. He's Angela's... brother. He's\nsmart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and\ncall myself an actor, but Bob is.."},
@@ -40,7 +40,7 @@
 			},
 		"3":{
 			"SceneDescription":" A fancy restaurant, Joey and Monica are there, meeting Angela and Bob, who\nMonica thinks is Angela's brother.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Thank you. So what does this Bob guy look like? Is he tall? Short"},
 				{"Character":"Joey","Line":"Yep"},
 				{"Character":"Joey","Line":"Yep"},
@@ -62,7 +62,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Launderama, Rachel is there, waiting for Ross. An old woman takes Rachel's\nclothes off the machine and begins loading it with her things.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Woman","Line":"Comin' through. Move, move"},
 				{"Character":"Rachel","Line":"Oh, 'scuse me. I was kinda using that machine"},
 				{"Character":"Woman","Line":"Yeah, well, now you're kinda not"},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Fancy restaurant, Joey and Bob are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So, you and Angela, huh"},
 				{"Character":"Bob","Line":"Yep. Pretty much"},
 				{"Character":"Bob","Line":"Yep. Pretty much"},
@@ -133,7 +133,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Phoebe is coaching Chandler on how to break up with Janice.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ok, you can do this. It's just like pulling off a Band-aid. Just do it\nreally fast, and then the wound is exposed"},
 				{"Character":"(Chandler walks back to couch, where Janice is","Line":"Chandler walks back to couch, where Janice is."},
 				{"Character":"Chandler","Line":"Janice. Hi, Janice. Ok, here we go. I don't think we should go out\nanymore. Janice"},
@@ -141,7 +141,7 @@
 			},
 		"7":{
 			"SceneDescription":" The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very\nuncomfortable.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Something went wrong with Underdog, and they couldn't get his head to\ninflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just\nthinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could\nwe check it in the light, please?"},
 				{"Character":"(Her and Joey walk away from the table","Line":"Her and Joey walk away from the table."},
 				{"Character":"Monica","Line":"Oh my god"},
@@ -183,7 +183,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Launderama. Rachel is sorting her now-pink clothes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"You got the clothes clean. Now that's the important part"},
 				{"Character":"Rachel","Line":"Oh, I guess. Except everything looks like jammies now"},
 				{"Character":"(The same woman walks over and takes Rachel's laundry cart","Line":"The same woman walks over and takes Rachel's laundry cart."},

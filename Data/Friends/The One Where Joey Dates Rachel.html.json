@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica and Chandler are entering carrying groceries and\nfind Phoebe already there standing in front of a huge object that has been gift wrapped.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey! I got you a present!"},
 				{"Character":"Chandler","Line":"Oh my goodness! Where did you hide it"},
 				{"Character":"Phoebe","Line":"I got it for your wedding and I ordered it weeks ago, and it finally got\nhere"},
@@ -39,7 +39,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Monica is watching Phoebe play <i>Ms. Pac-Man</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"No. No! Yes! Ahh. Oh, would you look at that Monica? I just knocked off\nall of your top scores, how sad"},
 				{"Character":"Monica","Line":"Okay, I’m next. (Phoebe starts another game.) Don’t!\nDon’t start another game! I said I’m next! Phoebe"},
 				{"Character":"Phoebe","Line":"Oh, I’m sorry. I didn’t hear you over all the winning"},
@@ -58,7 +58,7 @@
 			},
 		"3":{
 			"SceneDescription":" N.Y.U, Ross is teaching a class.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"…which brings us back, of course, to Greely’s theory of dominance.\n(The bell rings.) Okay, that-that’s all for today. Oh, uh does anyone know where the\nFreeman building is"},
 				{"Character":"Student","Line":"Yeah, it’s the new building on Avenue A"},
 				{"Character":"Ross","Line":"What?! That-that’s all the way cross town, I’m supposed to teach\na graduate seminar there in ten minutes"},
@@ -69,7 +69,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Restaurant, a waitress is taking Joey and Rachel’s dinner order.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Now the filet mignon, what comes with that"},
 				{"Character":"Waitress","Line":"There’s a side of steamed vegetables"},
 				{"Character":"Rachel","Line":"Emmm. Now, instead of the vegetables, is there anyway I can substitute\nthe three-pound lobster"},
@@ -132,7 +132,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Joey and Rachel are returning from their date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I am not gonna answer that"},
 				{"Character":"Joey","Line":"Oh come on! Just pick one! Between Monica, Phoebe, Chandler, and Ross if\nyou had to, if you had to, who would you punch"},
 				{"Character":"Rachel","Line":"No one! They are my friends, I wouldn’t punch any of them"},
@@ -185,7 +185,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler's, Monica is trying to erase Chandler’s dirty words\nwhile he looks on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay, I got that. I’ll escape over there. I’ll come back over\nhere. All right, come on <i>Ms. Pac-Man</i>. It’s got—Right—(She dies.)\nWell, you’re just a little bitch, aren’t you"},
 				{"Character":"Phoebe","Line":"(entering) Hey, you guys. Listen, I’m sorry that I was hogging the\ngame before—(Sees the top ten list)—Oh my God! Your friends have some\nunfortunate initials"},
 				{"Character":"Monica","Line":"They’re all Chandler"},
@@ -198,7 +198,7 @@
 			},
 		"7":{
 			"SceneDescription":" A Restaurant, Joey is on his hot date and they’re not speaking right now.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey's Date","Line":"Hey. Are you all right? You seem a little distracted"},
 				{"Character":"Joey","Line":"No-no! I’m fine. It’s just… Hey, can I ask you something?\nHave you ever looked at someone that you’ve known for a while and then\nsuddenly…suddenly see them a different way"},
 				{"Character":"Joey's Date","Line":"You mean like from behind"},
@@ -212,7 +212,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey and Rachel's, Rachel is watching <i>Cujo</i> while Joey returns from his\ndate scaring Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh God! Thank God you’re home! I’m watching <i>Cujo</i>"},
 				{"Character":"Joey","Line":"(incredulous) Alone?"},
 				{"Character":"Joey","Line":"(incredulous) Alone?"},

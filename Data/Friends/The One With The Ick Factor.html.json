@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, continued from earlier, Chandler is sitting on the table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hello Rachel"},
 				{"Character":"Rachel","Line":"Get off"},
 				{"Character":"Rachel","Line":"Get off"},
@@ -73,7 +73,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are there. Monica is just finishing\ncleaning the windows.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Windows are clean, candels are lit. Uh, belt's to tight, gotta change\nthe belt. Did I turn the fish? (goes over to the kitchen to check on the dinner) No, cause\nI made lasagne. (to Rachel) Am I out of control"},
 				{"Character":"Rachel","Line":"Just a touch. Mon, I don't understand. I mean, you've been dating this\nguy since like, what... his midterms? I mean, why all the sudden are you so... Oh"},
 				{"Character":"Monica","Line":"What"},
@@ -94,7 +94,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Monica and Young Ethan are sitting in the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Did not"},
 				{"Character":"Young Ethan","Line":"I am telling you, up until I was, like nine, I thought that\ngunpoint was an actual place where crimes happen"},
 				{"Character":"Monica","Line":"How was that possible"},
@@ -184,7 +184,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, everyone exept Monica is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(on phone) Okay, André should be there in like 45 minutes. All rightie,\nbye bye. (to Phoebe) Just easier that way"},
 				{"Character":"Chandler","Line":"Oh, come on. You told me about the last dream"},
 				{"Character":"Rachel","Line":"No, forget it"},
@@ -284,7 +284,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Aren't you gonna.."},
 				{"Character":"Ross","Line":"Oh, Carol and I have a new system. If she punches in 911, it means she's\nhaving a baby, otherwise I just ignore it"},
 				{"Character":"Joey","Line":"What about André"},
@@ -333,7 +333,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Ross is watching TV, but turns it off, and Rachel is\nsleeping on the couch. Ross puts a blanket over her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(talking in her sleep) Oooooooooh. (Rachel strokes her hand over the\npillow. Ross mimicks her silently) Oh, that's nice. Oh, oh. Huh, Ross"},
 				{"Character":"(Ross gets all excited and starts to dance on the coffee table, but slips allmost\nimmediatly, and falls onto the couch. Rachel wakes up","Line":"Ross gets all excited and starts to dance on the coffee table, but slips allmost\nimmediatly, and falls onto the couch. Rachel wakes up."},
 				{"Character":"Rachel","Line":"Ross"},

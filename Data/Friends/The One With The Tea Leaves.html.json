@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Hallway, Rachel walks up the stairs and knocks on Joey’s door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Joey? Are you in there"},
 				{"Character":"[Cut to inside Monica and Chandler’s, Monica, Chandler and Joey are eating\nbreakfast","Line":"Cut to inside Monica and Chandler’s, Monica, Chandler and Joey are eating\nbreakfast."},
 				{"Character":"Joey","Line":"(hearing Rachel and jumping up with his plate) Oh God! That’s Rachel"},
@@ -59,7 +59,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Chandler is cooking as Rachel paces nervously.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So I thought Joey and I would be okay once we hung out, but it’s\nnot even like we know how to be with each other anymore"},
 				{"Character":"Chandler","Line":"I know it’s tough now, but things will get better"},
 				{"Character":"Rachel","Line":"How do you know that? What if it just gets worse and worse and worse, to\nthe point where we can’t even be in the same room with each other?"},
@@ -139,7 +139,7 @@
 			},
 		"3":{
 			"SceneDescription":" Outside Mona’s Apartment, Ross is knocking on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Mona? (There’s no answer, so he starts to leave but remembers where\nher extra key is. He reaches atop a hall light just outside her door and grabs the key. He\nlooks at in triumph as the pain from it being hot moves along his nervous system to his\nbrain, and when it arrives his brain orders his hand to drop the hot key and his mouth to\nsqueal in pain. After dropping the key he pulls his shirtsleeve over his hand and uses the\nkey to open the door and enter Mona’s apartment.) Okay, if I were a salmon shirt,\nwhere would I be? (He hears a key in the door and as it opens he dives behind the couch."},
 				{"Character":"Mona","Line":"(entering, with her date) I am so sorry I spilled wine all over your\nshirt"},
 				{"Character":"Mona's Date","Line":"Oh, it’s okay"},
@@ -153,13 +153,13 @@
 			},
 		"4":{
 			"SceneDescription":" Mr. Zelner’s Office, he’s in a meeting as Joey bursts in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Zelner","Line":"May I help you"},
 				{"Character":"Joey","Line":"Do you think you can just buy my friends baby?"}]
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's, Monica, Chandler, and now Rachel are organizing CDs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(singing) <i>The sun’ll come out…tomorrow! Bet…your\nbottom dollar that tomorrow</i>… (The girls start laughing, and in a deep voice) <i>…there’ll\nbe sun</i>"},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"(entering) Hey"},
@@ -200,7 +200,7 @@
 			},
 		"6":{
 			"SceneDescription":" Mr. Zelner’s Office, Rachel is knocking on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Morning. You wanted to see me"},
 				{"Character":"Mr. Zelner","Line":"Please, come in. Have a seat. (She does so."},
 				{"Character":"Rachel","Line":"Okay look Mr. Zelner"},
@@ -218,7 +218,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's, Chandler is watching Joey pace nervously as Rachel\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Joey","Line":"So? What-what-what happened"},
 				{"Character":"Rachel","Line":"It’s all gonna be okay. They’re just so happy that I’m\nnot suing them that they gave me one extra month paid maternity leave. So long as I\nunderstand that the money should not construed as a down payment on this or any other\nchild I should bear"},

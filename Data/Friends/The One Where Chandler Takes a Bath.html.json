@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel’s, Joey is at the counter eating a bowl of <i>Frosted\nFlakes</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(thinking) <i>All right</i>.<i> It’s a new day. All that stuff about\nRachel, you don’t feel that now</i>.<i> It was crazy</i>!<i> You’re fine</i>.<i>\nYou’re better than fine</i>!<i> You are, as your friend Tony would say, Grrrreat</i>!<i>\nEverything’s normal</i>!<i> She’s just your friend Rachel</i>!<i> Your friend\nRachel</i>.<i> Your friend</i>!<i> Rachel</i>"},
 				{"Character":"Rachel","Line":"(coming from her room) Hi, sweetie"},
 				{"Character":"Rachel","Line":"(coming from her room) Hi, sweetie"},
@@ -11,7 +11,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Phoebe and Rachel are sitting on the couch. Ross sits down.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi! Oh, Ross, don’t forget, we have that doctor’s appointment\ntomorrow"},
 				{"Character":"Ross","Line":"Right"},
 				{"Character":"Ross","Line":"Right"},
@@ -120,7 +120,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Doctor’s Office, the doctor is writing something as Rachel is on the\ntable, and Ross is standing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I don’t think you had an open mind about the name Ruth. I mean, come on,\nlittle Ruthie Geller, how-how cute is that"},
 				{"Character":"Rachel","Line":"Oh, oh my God! I can practically hear the mahjong tiles"},
 				{"Character":"Dr. Long","Line":"Okay! All your tests look fine. Now, are you two interested in knowing\nthe sex of the baby"},
@@ -171,7 +171,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central perk, Ross is sitting on the chair as Rachel walks in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -204,7 +204,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Rachel is on the couch as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So, I uh… I called the doctor and now we both know the sex of the baby"},
 				{"Character":"Rachel","Line":"What"},
 				{"Character":"Rachel","Line":"What"},
@@ -253,7 +253,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel’s, Joey is sitting at the counter eating <i>Cocoa Puffs</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(thinking) <i>All right</i>. <i>It’s a new day, and it’s just a\ncrush, that’s all</i>! <i>Just a little crush</i>! <i>All that worrying I was doing,\nthat was crazy</i>. <i>Crazy</i>!<i> Like my friend here the bird would say, </i>\"<i>it\nwas cuckoo</i>!\"<i> Everything’s going to be fine. It’s just a crush.</i"},
 				{"Character":"Rachel","Line":"(entering) Hi, sweetie"},
 				{"Character":"Rachel","Line":"(entering) Hi, sweetie"},

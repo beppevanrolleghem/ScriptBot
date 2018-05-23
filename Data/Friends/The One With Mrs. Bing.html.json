@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" A Street: Monica and Phoebe are walking to a newsstand.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Do you think they have yesterday's daily news"},
 				{"Character":"Monica","Line":"Why"},
 				{"Character":"Monica","Line":"Why"},
@@ -43,7 +43,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Monica and Phoebe are telling everyone about their coma\nguy.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Are there no conscious men in the city for you two"},
 				{"Character":"Monica","Line":"He doesn't have anyone"},
 				{"Character":"Phoebe","Line":"Yeah, we-we feel kinda responsible"},
@@ -120,7 +120,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Mexican Restaurant, Monica, Phoebe, Joey, Chandler and his mom are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Bing","Line":"I am famished. What do I want... (Looks at Chandler's menu"},
 				{"Character":"Chandler","Line":"Please God don't let it be Kung Pow Chicken"},
 				{"Character":"Mrs. Bing","Line":"Oh, you watched the show! What'd you think"},
@@ -211,7 +211,7 @@
 			},
 		"4":{
 			"SceneDescription":" Hospital. Phoebe is there stroking Coma Guy's hair, when Monica enters with a\nbunch of balloons.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Phoebe","Line":"Hi"},
@@ -227,7 +227,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, everyone is there except for Chandler.&nbsp; Rachel is writing\nsomething and Monica walks up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -297,7 +297,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's Chandler is talking with his mom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Bing","Line":"Car's waiting downstairs, I just wanted to drop off these copies of\nmy book for your friends. Anything you want from Lisbon"},
 				{"Character":"Chandler","Line":"No, just knowing you're gonna be there is enough"},
 				{"Character":"Mrs. Bing","Line":"Alright, well, be good, I love you. (Kisses him and goes to leave"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica and Phoebe are preparing for Rachel’s baby\nshower.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Hi"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -59,7 +59,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Rachel’s baby shower is underway. Monica and Phoebe\nare working in the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh, I told the stripper to be here at five. That’s good right"},
 				{"Character":"Monica","Line":"You ordered a stripper for the shower?! That is totally inappropriate"},
 				{"Character":"Phoebe","Line":"What? He’s gonna be dressed as a baby! (Mrs. Green enters.) Oh hi\nMrs. Green"},
@@ -108,7 +108,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, the baby shower is continuing as Rachel walks over to\nMonica and Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Why did you invite my mother?"},
 				{"Character":"Monica","Line":"What"},
 				{"Character":"Monica","Line":"What"},
@@ -184,7 +184,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, the baby shower has ended and everyone except for Mrs.\nGreen have left who is talking to Rachel while Monica and Phoebe are cleaning up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So umm, you’re gonna stay with me as long as I need you"},
 				{"Character":"Mrs. Green","Line":"Of course I am"},
 				{"Character":"Mrs. Green","Line":"Of course I am"},
@@ -224,7 +224,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's, Mrs. Green is telling Ross what needs to be done to baby\nproof his apartment.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Green","Line":"…and all those dinosaur nick-knacks you have Ross, I thought\nthey might be more at home in the garage"},
 				{"Character":"Ross","Line":"Well we…we don’t have a garage"},
 				{"Character":"Mrs. Green","Line":"Did I say garage? I meant garbage"},

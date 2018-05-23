@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Phoebe and Monica are there as Joey is entering excitedly.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! You guys! You’re not gonna believe this! I just got off the\nphone with my agent"},
 				{"Character":"Phoebe","Line":"Oh my God! (Joey looks at her.) I’m sorry, too soon. You go"},
 				{"Character":"Joey","Line":"Okay. I got nominated for my part on <i>Days of Our Lives</i>"},
@@ -38,7 +38,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Monica and Phoebe are drinking coffee and Phoebe notices a cute\nguy checking them out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh my God! That guy at the counter is totally checking you out"},
 				{"Character":"Monica","Line":"Really? (Looks.) My God, he’s really cute"},
 				{"Character":"Phoebe","Line":"Go for it"},
@@ -59,7 +59,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica’s Restaurant Kitchen, she’s cooking as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh hey"},
 				{"Character":"Monica","Line":"Hey! How’d your date go with Jake"},
 				{"Character":"Phoebe","Line":"Oh, great! We couldn’t keep our eyes off each other all night and\nthen every once and a while y’know, he’d kinda lean over and stroke my hair and\ntouch my neck. (Does that to Monica."},
@@ -83,7 +83,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Phoebe is saying good-bye to her boyfriend Jake at the door to\nCentral Perk.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jake","Line":"Bye Phoebe"},
 				{"Character":"Phoebe","Line":"Okay bye. (They kiss."},
 				{"Character":"Jake","Line":"All right. Bye. (Backs out the door."},
@@ -99,13 +99,13 @@
 			},
 		"5":{
 			"SceneDescription":" The 2001 Soapie Awards, the announcer is introducing the next presenter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Announcer","Line":"Presenting the award for Favorite Supporting Actress is Joey Tribbiani\nfrom <i>Days of Our Lives</i>. (Applause as Joey angrily walks to the podium and eyes the\ntrophy."},
 				{"Character":"Joey","Line":"(angrily and monotone) Any one of the brilliant actresses nominated for\nthis award tonight deserves to take it home. Unfortunately only one can. (Shakes his head\nin disgust.) The nominees for Best Supporting Actress are: from <i>Passions:</i> Erin Goff.\n(There is applause, which Joey disgustedly waits to die out.) From <i>One Life to Live:</i>\nMary Loren Bishop (They start to applaud again, but Joey interrupts in with the rest of\nthe nominees), from <i>All My Children:</i> Sarah McCann, and from <i>Days of Our Lives:</i>\nJessica Ashley. And the winner is…(Opens the envelope)…Jessica Ashley from <i>Days\nof Our Lives</i>. (Applause) Uh, unfortunately Jessica couldn’t be with us tonight, so\nI’ll be accepting this award on her behalf. (Realizes something) And I’m sure\nthat Jessica would like to thank my parents who always believed in me. She’d also\nlike to thank my friends, Chandler, Monica, Ross, Phoebe, and Rachel, who’s\nsittin’ right there! (Points at Rachel.) (The music starts and his microphone is\nturned off; this angers Joey again and he disgustedly exits."}]
 			},
 		"6":{
 			"SceneDescription":" Ross’s Classroom, he is writing on the board and Alan is coming in to see\nhim.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Lewis","Line":"Professor Geller"},
 				{"Character":"Ross","Line":"(turning towards him) Yes Mr. Lewis, how can I help you"},
 				{"Character":"Lewis","Line":"I know I didn’t do well on my midterms and stuff but, I was kinda\nhoping you could change my grade"},
@@ -144,7 +144,7 @@
 			},
 		"7":{
 			"SceneDescription":" Silvercup Studios, Joey and Rachel are there to give Jessica her award.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I cannot believe I’m gonna meet Jessica Ashley"},
 				{"Character":"Joey","Line":"Okay wait-wait p-please be cool! Okay? I work with this woman"},
 				{"Character":"Rachel","Line":"Okay, I’m totally cool! (She coolly knocks on the door"},
@@ -176,7 +176,7 @@
 			},
 		"8":{
 			"SceneDescription":" Ross’s classroom, he has just finished his lecture and the students are\nfiling out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Uh Mr. Morse, can I speak to you for a moment"},
 				{"Character":"Morse","Line":"(walking up) That was a great lecture today. Did you get a little hair\ncut"},
 				{"Character":"Ross","Line":"Uh-hmm, yeah-yeah do you like it? Do-do you looove it? I just want you to\nknow that I’m changing your grade back"},

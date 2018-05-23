@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel is looking around the shop as Phoebe returns from getting\nsome more coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Phoebe"},
 				{"Character":"Phoebe","Line":"Yeah"},
 				{"Character":"Phoebe","Line":"Yeah"},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler’s Office, his boss Doug is entering, Monica is there as well.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Doug","Line":"Bing! Ho! And the Bing-ette"},
 				{"Character":"Chandler","Line":"Honey, you remember my boss Doug right"},
 				{"Character":"Monica","Line":"Yes, hi"},
@@ -68,7 +68,7 @@
 			},
 		"3":{
 			"SceneDescription":" Rachel’s Doctor’s Office, she is waiting for her doctor as a nurse\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Nurse","Line":"Hi"},
 				{"Character":"Nurse","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -106,7 +106,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler’s Office, Doug is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Doug","Line":"Bing! We’re all set for tonight, 8 o’clock"},
 				{"Character":"Chandler","Line":"Oh uh, as it turns out, we can’t do it. Monica has to work"},
 				{"Character":"Doug","Line":"Oh, my ex-wife didn’t work, unless you call turning into her mother\nwork. Fine. Tomorrow night then"},
@@ -128,7 +128,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Ross is telling Rachel and Monica about yet another mistake\nhe’s made with a woman.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"You gave her a key to your apartment?"},
 				{"Character":"Ross","Line":"Not just a key, I gave her the only key! I am now a homeless person in a\nvery serious relationship"},
 				{"Character":"Phoebe","Line":"(entering with some guy) Hey. Ooh Ross! How’d the conversation go"},
@@ -166,7 +166,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's Apartment, a locksmith has finished changing the locks on Ross’s\ndoor.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, and oh I’m gonna need a bunch of extra keys. Apparently I give\nthem away for no reason at all"},
 				{"Character":"Mona","Line":"(entering) Hey Ross, what’s going on? You changing the lock"},
 				{"Character":"Ross","Line":"No. That guy is"},
@@ -188,7 +188,7 @@
 			},
 		"7":{
 			"SceneDescription":" Joey and Rachel's, Rachel is on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Yes. Hi, I’d like to order a pizza. Okay, can I ask you a question?\nIs-is the cute blond guy delivering tonight? Very <i>Ambercrombie &amp; Fitch</i>. (Joey\nenters.) I’ll call you back"},
 				{"Character":"Joey","Line":"Who was that"},
 				{"Character":"Joey","Line":"Who was that"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey is eating breakfast as Chandler comes out of his\nbedroom, ripping his coat in the process.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Wow! That ripped! That ripped real nice"},
 				{"Character":"Joey","Line":"How many times do I have to tell you! Ya, turn and sliiiide! Y'know, turn\nand slide"},
 				{"Character":"Chandler","Line":"You don’t turn and slide, you throw it out! I’m tired of\nhaving to get a tetanus shot every time I get dressed"},
@@ -15,7 +15,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Phoebe is finishing up a song.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(screaming, angrily) ...DUMB, DRUNKEN, BITCH!!! (applause) (happily)\nThank you, thanks"},
 				{"Character":"Ross","Line":"(reading the newspaper) Hey, here’s a question; where did you guys\nget the finest oak East of the Mississippi"},
 				{"Character":"Chandler","Line":"Uh-huh, first you tell us where you got the prettiest lace in all the\nland"},
@@ -77,7 +77,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the next morning, they are all there eating breakfast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So you guys having any luck getting rid of the entertainment center"},
 				{"Character":"Joey","Line":"Well, there were a couple of calls last night, but ah, I don’t think\nany of them are gonna work out"},
 				{"Character":"Chandler","Line":"Yes, Joey has a very careful screening process. Apparently, not\neveryone is qualified to own wood and nails"},
@@ -110,7 +110,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler, Joey, Monica, and Ross are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) You guys, you’re never gonna believe what I just found\ntacked up on a telephone pole! (She’s holding a flyer.) Look kinda familiar"},
 				{"Character":"Ross","Line":"(taking the flyer) Apparently Phoebe’s mother also goes by the name\nJulio"},
 				{"Character":"Rachel","Line":"You guys, there’s a little girl in Soho looking for this cat. I\nmean, you know what that means?"},
@@ -143,7 +143,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Rachel is reading at the kitchen table as there is a knock\non the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(running from the bathroom to her room, wearing only a towel) Not yet!\nNot yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! (gets to her room and\ncloses the door, as Rachel gets up to answer the door."},
 				{"Character":"Rachel","Line":"Hello, Chip"},
 				{"Character":"Rachel","Line":"Hello, Chip"},
@@ -157,7 +157,7 @@
 			},
 		"6":{
 			"SceneDescription":" A street, Chip is walking Monica to his motorcycle.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chip","Line":"Here, we are"},
 				{"Character":"Monica","Line":"Oh my God! You still have the Chipper"},
 				{"Character":"Chip","Line":"The what"},
@@ -188,7 +188,7 @@
 			},
 		"7":{
 			"SceneDescription":" Dot’s Spot, Chip and Monica are on there date, eating dinner. Chip is\ntelling a story.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chip","Line":"...and then Zana, just let one rip!! (laughs histerically"},
 				{"Character":"Monica","Line":"Look, not that I enjoy talking about people who I went to high school\nwith, ‘cause I do, but umm, maybe we could talk about something else? Like you, I\ndon’t even know where you work"},
 				{"Character":"Chip","Line":"You know where I work"},
@@ -207,7 +207,7 @@
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's, Joey and Chandler have trading the entertainment center\nfor the canoe. Joey is sitting in the bow, staring off into space as to envision his\nfuture full of possibilities. Chandler is sitting at the stern, staring into space and is\nlooking at an uncertain future.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

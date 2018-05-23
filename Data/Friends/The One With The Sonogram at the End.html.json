@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Museum of Prehistoric History, Ross and a co-worker\n(Marsha) are setting up an exhibit which includes some mannequins of cave people.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"No, it's good, it is good, it's just that- mm- doesn't she seem a little\nangry?"},
 				{"Character":"Marsha","Line":"Well, she has issues."},
 				{"Character":"Marsha","Line":"Well, she has issues."},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Park, everyone's there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Your folks are really that bad, huh?"},
 				{"Character":"Ross","Line":"Well, y'know, these people are pros. They know what they're doing, they\ntake their time, they get the job done."},
 				{"Character":"Monica","Line":"Boy, I know they say you can't change your parents,... boy, if you\ncould- (To Ross) -I'd want yours."},
@@ -118,7 +118,7 @@
 			},
 		"3":{
 			"SceneDescription":" Carol's OB/GYN, they're talking about how this is going to work.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know,\nwhen, like, important decisions have to be made?"},
 				{"Character":"Carol","Line":"Give me a 'for instance'."},
 				{"Character":"Ross","Line":"Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the\nbaby's name?"},
@@ -145,7 +145,7 @@
 			},
 		"4":{
 			"SceneDescription":" Carol's OB/GYN, they're still arguing about what to name the baby.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Susan","Line":"Oh, please! What's wrong with Helen?"},
 				{"Character":"Ross","Line":"Helen Geller? I don't think so."},
 				{"Character":"Carol","Line":"Hello? It's not gonna be Helen Geller."},

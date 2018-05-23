@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Monica and Chandler are making out on one of the chairs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey! Hey! Hey! Hey!! None of that, not while you're living\nunder my roof"},
 				{"Character":"Monica","Line":"What?"},
 				{"Character":"Monica","Line":"What?"},
@@ -34,7 +34,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Storage Room in the basement of Monica and Rachel's building, Monica and\nRachel are looking for something.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ohh, whoa God! Storage rooms give me the creeps! Monica, come on please\nhurry up honey! Please?"},
 				{"Character":"Monica","Line":"Rachel, if you want the little round waffles, you gotta have to wait\nuntil I find the little waffle iron"},
 				{"Character":"Rachel","Line":"I want the little round waffles"},
@@ -53,7 +53,7 @@
 			},
 		"3":{
 			"SceneDescription":" Their Building, Monica and Rachel are going to apologize to Danny. Rachel\nknocks on his door, which he opens and he has this really bushy beard and long hair.\nPicture Paul Bunyan.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Danny","Line":"Yeah"},
 				{"Character":"Rachel","Line":"Hi! You might not remember us, but we are the girls that fogged\nyou"},
 				{"Character":"Monica","Line":"We're-we're really sorry we fogged you"},
@@ -100,7 +100,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's Apartment, the gang is helping Ross move out by carrying boxes. Chandler\nhas picked a particularly large and apparently heavy box, because he takes a running start\nat it and still can't budge it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(on phone) I know I miss you too. I can't wait to see you. I love you.\nBye. (Hangs up."},
 				{"Character":"Chandler","Line":"Okay, what is in here? Rocks"},
 				{"Character":"Ross","Line":"No-no, this is my collection of fossil samples"},
@@ -149,7 +149,7 @@
 			},
 		"5":{
 			"SceneDescription":" Their building's lobby, Danny is checking his mailbox as Rachel enters carrying\nshopping bags and goes to her mailbox. Danny has shaved his beard and cut his hair, Rachel\ndoesn't recognize him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Danny","Line":"So you like the short hair better"},
 				{"Character":"Rachel","Line":"What? Yeti—I mean Danny"},
@@ -192,7 +192,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, the gang, minus Rachel, are getting ready for dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, y'know Ross, I think I kinda understand why I kinda lost it today"},
 				{"Character":"Ross","Line":"You do, huh"},
 				{"Character":"Ross","Line":"You do, huh"},

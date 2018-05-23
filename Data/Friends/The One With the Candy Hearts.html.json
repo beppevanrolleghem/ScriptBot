@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Ross is eyeing a beautiful woman at the counter, and Joey and\nChandler are egging him on to go talk to her. No pun intended. I mean it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I'm tellin' you Ross, she wants you"},
 				{"Character":"Ross","Line":"She barely knows me. We just live in the same building"},
 				{"Character":"Chandler","Line":"Any contact"},
@@ -41,7 +41,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Restaurant, Joey and Chandler are there, waiting for their dates to show up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(Looking at himself in the reflection on a knife) How do I look"},
 				{"Character":"Chandler","Line":"Oh, uh, I... don't... care. (Joey's date shows up) Ok, now, remember,\nno trading. You get the pretty one, I get the mess"},
 				{"Character":"Lorraine","Line":"Hi, Joey. Well well, look what you brought. Very nice"},
@@ -60,7 +60,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the girls are all there, discussing their bad luck with\nmen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney"},
 				{"Character":"Monica","Line":"Which one was Pete Carney"},
 				{"Character":"Rachel","Line":"Pete the Weeper? Remember that guy who used to cry every time we had\nsex. (imitating) \"Was it good for you?"},
@@ -91,12 +91,12 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler's bedroom, Chandler wakes up, and finds someone else's hand on his\nchest. He rolls over and is shocked to see Janice there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"Happy Valentine's Day"}]
 			},
 		"5":{
 			"SceneDescription":" A Chinese Restaurant, Ross is there with his date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I'm just sayin' if dogs do experience jet lag, then, because of the whole\num, seven dog years to one human year thing, then, when a dog flies from New York to Los\nAngeles, he doesn't just lose three hours, he loses like a week and a half"},
 				{"Character":"(Ross starts to laugh, and then makes a face like 'Why did I just say that?' Ross'\nex-wife, Carol, and her lesbian lover, Susan, enter the restaurant. Ross stares at them","Line":"Ross starts to laugh, and then makes a face like 'Why did I just say that?' Ross'\nex-wife, Carol, and her lesbian lover, Susan, enter the restaurant. Ross stares at them."},
 				{"Character":"Kristin","Line":"That's funny. Who are they"},
@@ -113,7 +113,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Chandler and Joey are there. Chandler is preparing to dump Janice\nagain.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"How can I dump this woman on Valentine's day"},
 				{"Character":"Joey","Line":"I don't know. You dumped her on New Year's"},
 				{"Character":"Chandler","Line":"Oh, man. In my next life, I'm coming back as a toilet brush"},
@@ -132,7 +132,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, firemen are there to handle the bonfire that got out of\ncontrol.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Fireman No. 1","Line":"What do we got there"},
 				{"Character":"Fireman No. 2","Line":"A piece of something: boxer shorts, greeting cards, and what\nlooks like a half-charred picture—Wow, that guy's hairier than the Chief"},
 				{"Character":"Monica","Line":"You know, it's a really funny story how this happened"},
@@ -148,7 +148,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Chinese Restaurant, Ross and Carol are talking. Kristin is not there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"It's not true. I never called your mother a wolverine"},
 				{"Character":"Ross","Line":"You did so. I swear, I swear—(noticing Kristin's absence) How long\nhas she been in the bathroom"},
 				{"Character":"Carol","Line":"Uh, I don't think she's in the bathroom. Her coat is gone"},
@@ -183,7 +183,7 @@
 			},
 		"9":{
 			"SceneDescription":" Out in the hall, the firemen are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Fireman No. 1","Line":"You guys tell them you were married"},
 				{"Character":"Fireman No. 2","Line":"No way"},
 				{"Character":"Fireman No. 2","Line":"No way"},

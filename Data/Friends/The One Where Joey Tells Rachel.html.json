@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey is talking to Ross",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"There’s this woman, that I like.&nbsp; A lot.&nbsp; Well, it’s\ncomplicated.&nbsp; She’s with this other guy.&nbsp; For a long time.&nbsp; And I\ncould never do that to the guy, y’know?&nbsp; ’Ccause we’re really good\nfriends"},
 				{"Character":"Ross","Line":"So, uh, this guy, she used to go out with, is, uh… is he a good guy"},
 				{"Character":"Joey","Line":"Yeah, he’s the best"},
@@ -59,7 +59,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross and Rachel's, Ross is opening the door to Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -92,7 +92,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey’s Apartment, there’s a knock on the door and Joey answers it to\nRoss.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -166,7 +166,7 @@
 			},
 		"4":{
 			"SceneDescription":" Outside Ross and Rachel's, Joey walks up to knock on the door, but stops.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Okay. Okay, I can do this. I can tell her how I feel. Just uh, just stand\nup straight. (Does so.) Take a couple deep breaths. (Does so.) Look confident. (Does so as\nRachel opens the door and startles him."},
 				{"Character":"Rachel","Line":"Joey? What’s up"},
 				{"Character":"Rachel","Line":"Joey? What’s up"},
@@ -181,7 +181,7 @@
 			},
 		"5":{
 			"SceneDescription":" A restaurant, Joey and Rachel are having dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"…and I know Chandler is kidding but it happens every time he\ntouches my stomach. I mean I’m really worried the baby’s not going to like him.\n(Joey is staring at the table.) Are you okay"},
 				{"Character":"Joey","Line":"What? Yeah! Sure! Uh, look at the uh, the reason…(Exhales\nslowly)—Is it hot in here"},
 				{"Character":"Rachel","Line":"No. Not-not for me, but why don’t you take off your sweater"},

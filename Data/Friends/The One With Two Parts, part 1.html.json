@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Rift’s Restaurant, as seen in <i>Mad About You</i>, Joey and Chandler are\nthere.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"This is unbelievable. It’s been like a half an hour. If this was a\ncartoon, you’d be looking like a ham right about now"},
 				{"Character":"(Ursula Buffay, Phoebe’s identical twin sister, is waiting on tables in her\ninimitable manner","Line":"Ursula Buffay, Phoebe’s identical twin sister, is waiting on tables in her\ninimitable manner."},
 				{"Character":"Joey","Line":"There’s the waitress. Excuse me, Miss. Hello, Miss"},
@@ -30,7 +30,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Lamaze class, several couples and one trio sit on the floor, introducing\nthemselves to the teacher, who’s got as far as a woman sitting next to Ross, Carol,\nand Susan.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Woman","Line":"Hi, we’re the Rostins. Err, I’m J.C., and he’s Michael, and\nwe’re having a boy, and a girl"},
 				{"Character":"Teacher","Line":"Good for you. Alrighty, next"},
 				{"Character":"Teacher","Line":"Good for you. Alrighty, next"},
@@ -99,7 +99,7 @@
 			},
 		"3":{
 			"SceneDescription":" Lamaze class. Susan is there. Each couple has a doll, for they have just\nfinished learning how to change a diaper. As Ross rushes in, stepping on the Rostins’\npretend baby, squashing its head flat. It bleats, in protest. He performs emergency\nsurgery, then hands the doll back to J.C.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Sorry"},
 				{"Character":"Ross","Line":"Sorry"},
 				{"Character":"Ross","Line":"Hi. Sorry I’m late. Where’s, where’s Carol"},
@@ -133,7 +133,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler's Office, later that day, Nina is in his office.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Nina? Nina. (He goes around his desk to where she is sitting.) Nina. (In\npain) Nina"},
 				{"Character":"(She sympathetically reaches out to fondle the inner thigh of his left leg","Line":"She sympathetically reaches out to fondle the inner thigh of his left leg."},
 				{"Character":"Nina","Line":"Are you okay"},
@@ -148,7 +148,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel’s, Phoebe is watching a Spanish version\nof The Waltons. At a nearby table sit Monica knitting, Rachel winding a ball of wool, and\nChandler supplying them both from a skein which is spread between his hands.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Phoebe uses the remote to stop the Spanish by turning off the television","Line":"Phoebe uses the remote to stop the Spanish by turning off the television."},
 				{"Character":"Monica","Line":"I can’t believe you. You still haven’t told that girl she\ndoesn’t have a job yet"},
 				{"Character":"Chandler","Line":"Well, you still haven’t taken down the Christmas lights"},
@@ -226,7 +226,7 @@
 			},
 		"6":{
 			"SceneDescription":" Lamaze class, Ross is again on the floor, cradled in Susan’s lap, but now\nCarol is cradled in his lap, and she has a pretend baby, on her lap. The teacher is\nshowing her class a video, which is about to end.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Soothing male voice","Line":"..a sound Mom and Dad never forget. For this after all, is the\nmiracle of birth"},
 				{"Character":"Teacher","Line":"Lights please? And that’s having a baby. Next week is our final\nclass"},
 				{"Character":"(People start getting up. Ross grabs Carol’s doll to hold it upside down like a\nfootball, slapping it with his other hand","Line":"People start getting up. Ross grabs Carol’s doll to hold it upside down like a\nfootball, slapping it with his other hand."},
@@ -293,7 +293,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel’s, Ross, Rachel, Chandler, and Phoebe are sharing a bowl\nof popcorn, while Monica carefully reads the instruction manual for her television set.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well, I ended up telling her everything"},
 				{"Character":"Rachel","Line":"Oh, how’d she take it"},
 				{"Character":"Rachel","Line":"Oh, how’d she take it"},

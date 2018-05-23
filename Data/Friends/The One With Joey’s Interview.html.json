@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, everyone except Phoebe is there as Rachel enters\ncarrying a magazine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -49,7 +49,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's and Ross's, Chandler is entering and when he closes the\ndoor Joey pops his head out of the fort like before, but this time he's wearing a cowboy\nhat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well, I see you've had a very productive day. Don't you think the\ncowboy hat is a little much"},
 				{"Character":"Ross","Line":"(popping up behind Joey wearing an Indian headdress) Come on, it's\nfun"},
 				{"Character":"Chandler","Line":"All right! (He joins them in the fort and comes up putting on a\nbonnet.) Isn't this a woman's hat"},
@@ -153,7 +153,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Rachel's apartment, Chandler is entering to find Joey bingeing on the\nfood from the fridge. Joey isn’t doing all that well.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"The fridge broke. I have to eat everything. Cold cuts, ice cream,\nlimes—Hey, what was in that brown jar"},
 				{"Character":"Chandler","Line":"That’s still in there?"},
 				{"Character":"Chandler","Line":"That’s still in there?"},
@@ -165,7 +165,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"You guys, this is Shelley, she’s interviewing me for <i>Soap Opera\nDigest</i>, and Shelley, this are my friends"},
 				{"Character":"Rachel","Line":"(interrupting him) Hi! I’m gal pal Rachel Green, and if you want\nthe dirt, I’m the one you come too. This might be Joey’s baby (rubbing her\nstomach), who knows? I’m just kidding—Seriously, (leans into the cassette\nrecorder Shelley is using) gal pal Rachel Green"},
 				{"Character":"Ross","Line":"(leaning into the recorder as well) Who just lost the respect of her\nunborn child"},
@@ -213,7 +213,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Joey is reading a script as Ross enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"All right I've been feeling incredibly guilty about this, because I wanna\nbe a good friend, and damnit I am a good friend. So just, just shut up and close your eyes\n(kisses Joey)"},
 				{"Character":"Joey","Line":"Wow, you are a good friend, 'course the audition was this morning, and I\ndidn't get it. But that was a hell of a kiss. Rachel is a very lucky girl"},
 				{"Character":"[The next one is from Episode 512","Line":"The One With Chandler’s Work Laugh, Joey and\nPhoebe are betting on who will reach the treat the fastest, the chick or the duck."},
@@ -300,7 +300,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel's, Joey and Ross are napping together again and both wake up at\nthe same time.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Great nap"},
 				{"Character":"Ross","Line":"It really was"},
 				{"Character":"Ross","Line":"It really was"},
@@ -323,7 +323,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's, everyone is reading Joey’s interview.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Wow! I can’t believe they didn’t put it in the part where you\nsaid you didn’t watch soap operas"},
 				{"Character":"Joey","Line":"Yeah, I called the lady about that. I told her I was just joking. She was\npretty nice about that"},
 				{"Character":"Monica","Line":"You slept with her didn’t you"},

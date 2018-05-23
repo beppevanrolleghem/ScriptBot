@@ -1,29 +1,30 @@
 {"./Data/Friends/ToConvert//The One Where Old Yeller Dies.html":{
 	"Cast":[],
 	"Scenes":{
+		"0":{"SceneDescription":"NONE","lines":[]},
 		"1":{
-			"SceneDescription":" Monica and Rachel's apartment. Phoebe enters to see Monica,\nRichard, Ross, and Rachel tearfully watching TV.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Phoebe enters to see Monica,NEWLINERichard, Ross, and Rachel tearfully watching TV.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Ross's apartment. Ross is holding Ben.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's apartment. Carol and Susan are dropping off Ben.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica and Richard are there. Phoebe enters.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
-			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are playing Richard at\nfoosball.",
-			"lines":]
+			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are playing Richard atNEWLINEfoosball.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's apartment. Phoebe is watching Bert and Ernie with Ben.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

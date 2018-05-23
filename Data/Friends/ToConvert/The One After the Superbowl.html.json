@@ -1,61 +1,62 @@
 {"./Data/Friends/ToConvert//The One After the Superbowl.html":{
 	"Cast":[],
 	"Scenes":{
+		"0":{"SceneDescription":"NONE","lines":[]},
 		"1":{
-			"SceneDescription":" In a TV commercial that the gang is watching at Monica and\nRachel's.",
-			"lines":]
+			"SceneDescription":" In a TV commercial that the gang is watching at Monica andNEWLINERachel's.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
-			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are standing around in the\nkitchen.",
-			"lines":]
+			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are standing around in theNEWLINEkitchen.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
-			"SceneDescription":" Library. Phoebe is getting ready to sing for the kids. Chandler, Monica, and\nRachel are there.",
-			"lines":]
+			"SceneDescription":" Library. Phoebe is getting ready to sing for the kids. Chandler, Monica, andNEWLINERachel are there.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" San Diege Zoo. Ross is still at the monkey cages. A janitor is sweeping.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Library. Phoebe is singing.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Library. Ross show up with a MonkeyShine Beer poster.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Central Perk. Phoebe and Rob are sitting on the couch.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" City street. The whole gang is walking up to the movie set.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"9":{
 			"SceneDescription":" Central Perk. Joey and the girls are sitting at the couches.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"10":{
 			"SceneDescription":" Ross's apartment. Ross is setting up for his time with Marcel. Joey is there.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"11":{
-			"SceneDescription":" A fancy restraunt (Marcel's). Joey, Ross, Chandler, Susie, and the Director's\nAssistant are there.",
-			"lines":]
+			"SceneDescription":" A fancy restraunt (Marcel's). Joey, Ross, Chandler, Susie, and the Director'sNEWLINEAssistant are there.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"12":{
-			"SceneDescription":" Back at Monica and Rachel's apartment. They are now fighting about what Rachel\ntold Van Damme.",
-			"lines":]
+			"SceneDescription":" Back at Monica and Rachel's apartment. They are now fighting about what RachelNEWLINEtold Van Damme.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"13":{
 			"SceneDescription":" Central Perk. Ross, Phoebe, and Chandler are sitting.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"14":{
 			"SceneDescription":" City street. Whole gang is there seeing off Marcel.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

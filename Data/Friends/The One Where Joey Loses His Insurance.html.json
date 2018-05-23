@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel is packing her belongings to move to Ross’s.\nShe’s standing in the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So, which of this kitchen stuff is mine"},
 				{"Character":"Monica","Line":"This bottle opener. (She grabs it off of the freezer door."},
 				{"Character":"Rachel","Line":"And"},
@@ -71,7 +71,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Joey is playing that string game with the two hands and\nthe weird crossing patterns as Chandler enters with the mail.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey! Any good mail"},
 				{"Character":"Joey","Line":"Hey! Any good mail"},
@@ -96,7 +96,7 @@
 			},
 		"3":{
 			"SceneDescription":" Estelle Leonard Theatrical Agency, Joey is there to see his agent.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey Estelle, listen"},
 				{"Character":"Estelle","Line":"Well! Well! Well! Joey Tribbiani! So you came back huh? They think\nthey can do better but they all come crawling back to Estelle"},
 				{"Character":"Joey","Line":"What are you talkin’ about? I never left you! You’ve always been\nmy agent"},
@@ -123,7 +123,7 @@
 			},
 		"4":{
 			"SceneDescription":" a NYU lecture hall, Rachel and Monica are arriving to talk to Ross after the\nlecture, but are there early.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Well, we’re a little early, the lecture doesn’t end for 15\nminutes"},
 				{"Character":"Monica","Line":"Yeah, but y’know we could sneak in and watch"},
 				{"Character":"Rachel","Line":"Yeah, we could. Oh hey look! There’s some Kappa Kappa Deltas! I was\na Kappa. (to them) Hey sisters! (They ignore her.) (To Monica) Wow, we really are bitches"},
@@ -132,7 +132,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Chandler is reading on the couch while Joey, still suffering from\nhis hernia, is returning with coffee for them both. After a series of grunts and groans he\nmanages to painfully walk back from the counter, sit down, and slide Chandler his coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, will you grab me a cruller? (Joey starts to groan and get up.)\nSit down! Will you go to the hospital?"},
 				{"Character":"Joey","Line":"Dude! Hernia operations cost like, a lot probably. Besides it’s\ngetting darker and more painful, that means it’s healing"},
 				{"Character":"Chandler","Line":"I will loan you the money. Just go to the hospital and let’s just\nget that thing…pushed back in"},
@@ -167,7 +167,7 @@
 			},
 		"6":{
 			"SceneDescription":" Casting Director #1’s office, Joey is on his first audition. His partner\nis an 8-year-old boy.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Casting Director #1","Line":"Whenever you’re ready"},
 				{"Character":"Joey","Line":"(in a gravely, painful voice) Okay. \"Hey, Timmy, I’ve got a\nsurprise for you."},
 				{"Character":"Casting Director #1","Line":"Hold it. I’m sorry, the surprise is a new swing set,\nif you could play it a little less…intense"},
@@ -179,7 +179,7 @@
 			},
 		"7":{
 			"SceneDescription":" Casting Director #3’s office, Joey is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hi. I’m Joey Tribbiani; I’m here to audition for (Groans) man"},
 				{"Character":"Casting Director #3","Line":"You mean dying man"},
 				{"Character":"Joey","Line":"Yes"},
@@ -191,7 +191,7 @@
 			},
 		"8":{
 			"SceneDescription":" Silvercup Studios, Joey has won the part of dying man and is now able to play\nthe role he was injured for. Chandler is helping to carry him in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Listen, I’m really glad you got the part"},
 				{"Character":"Joey","Line":"(barely audible through the pain) Thank you"},
 				{"Character":"Chandler","Line":"But are you sure you can do this"},
@@ -247,7 +247,7 @@
 			},
 		"9":{
 			"SceneDescription":" a NYU lecture hall, Ross is trying to phase out his accent.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(in his head) <i>All right, keep going. We are phasing the accent out,\nphasing it out.</i> So without out re-testing the results in the laboratory (pronounced\nthe British way) the team would never have identified (British) the initial errors in\ntheir carbon dating analysis (British). Were there any questions at this point? (One\nstudent raises his hand.) Yes. (Points to him."},
 				{"Character":"A Student","Line":"What’s happening to your accent"},
 				{"Character":"Ross","Line":"(British) Come again? What’s-what’s this nonsense? (Giggles.)\n(American.) All right, I’m-I’m not English. I’m from Long Island. I was\nreally nervous and the accent just uh, just came out. I’m sorry. So, if we could just\nget back to the lecture. Umm, were there any questions? (Everyone raises their hands)\nAbout paleontology. (They all put their hands down.) All right, look I was just trying to\nmake a good first impression. Obviously, I screwed up. But what you guys think of me is\nreally important because I’m-I’m hoping to get a permanent job here. So if you\njust give me another chance to make a good impression"},

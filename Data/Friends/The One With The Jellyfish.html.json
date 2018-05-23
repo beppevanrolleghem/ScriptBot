@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The beach house, it’s the same scene from the end of last year, with Ross\nin front of the two doors of Rachel’s and Bonnie’s rooms, trying to decide which\ndoor to choose. He finally chooses the one his right and goes in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(surprised) Hi"},
 				{"Character":"Rachel and Bonnie","Line":"Hi"},
 				{"Character":"Rachel and Bonnie","Line":"Hi"},
@@ -55,7 +55,7 @@
 			},
 		"2":{
 			"SceneDescription":" The beach house, Joey and Chandler are sitting at the dinner table, Monica is\nlooking in the fridge.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(closing the fridge in disgust) Shoot! We’re out of soda"},
 				{"Character":"Chandler","Line":"(jumping up) Oh, I’ll go out and get you some"},
 				{"Character":"Monica","Line":"Really?"},
@@ -84,7 +84,7 @@
 			},
 		"3":{
 			"SceneDescription":" The beach house, the next morning. Ross is passed out on the kitchen counter.\nHe wakes up with a start and has one of the pages of the letter stuck to his face.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh. (looks at his watch) Oh-oh. (takes a drink of coffee and resumes\nreading the letter"},
 				{"Character":"Rachel","Line":"(coming down the stairs) Hey! (Ross jumps up, and quickly puts the\nletter back together, pretending like he has just finished it.) What happened to you? Why\ndidn’t you come up"},
 				{"Character":"Ross","Line":"Done"},
@@ -118,7 +118,7 @@
 			},
 		"4":{
 			"SceneDescription":" The beach house, Phoebe is coming down the stairs all packed and ready to go.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Well, I’m ready to get the hell out of here! (Sees Ross and Rachel\ncuddling on the couch.) Oh. Are you? Are you?!! (they nod ‘Yes.’) Ohh!\nThat’s so great!! Ooh, not for Bonnie. (they nod ‘No.’) But for you, yay!\nOhh"},
 				{"Character":"(The rest of the gang arrives with their heads down in shame","Line":"The rest of the gang arrives with their heads down in shame."},
 				{"Character":"Ross","Line":"Hey"},
@@ -147,7 +147,7 @@
 			},
 		"5":{
 			"SceneDescription":" A hallway in an apartment building. Phoebe is knocks on a door and it opens.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to the person that answered the door) Hi, Ursula"},
 				{"Character":"Ursula","Line":"Hey"},
 				{"Character":"Ursula","Line":"Hey"},
@@ -179,7 +179,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Phoebe is finishing up a song.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing) “...fuchsia and mauvvve. Those are the 66 colours of my\nbedroommmm.” (applause) Thank you, thank you. Ohh, and I invite you to count the\ncolours in your bedroom. (Sees that Phoebe Sr. has entered, and to her) Except for you.\nYou go away"},
 				{"Character":"Phoebe Sr.","Line":"I’ll go in a second, I-I just wanted to tell you that there\nhasn’t been a day where I didn’t regret giving you up"},
 				{"Character":"Phoebe","Line":"Okay, bye"},
@@ -222,7 +222,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Chandler and Monica are playing cards at the dinner\ntable.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(sets down some cards) Gin"},
 				{"Character":"Chandler","Line":"We were playing Gin? Y'know if we were a couple, we could play this\ngame naked"},
 				{"Character":"Monica","Line":"Will you stop"},

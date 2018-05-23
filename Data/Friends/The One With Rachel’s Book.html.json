@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, everyone is there having breakfast and Joey\nenters carrying a loaf of bread.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Ross","Line":"Hi"},
@@ -41,7 +41,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Rachel and Monica are pretty much telling\nChandler what the wedding plans are.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"All right, so I haven’t cleared the budget with my parents yet, but\ntell me how this is for music"},
 				{"Character":"Rachel","Line":"Okay"},
 				{"Character":"Rachel","Line":"Okay"},
@@ -99,7 +99,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Rachel's, Joey is sweeping up as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey Joey, what ‘cha doing"},
 				{"Character":"Joey","Line":"Sweepin’. Why? Turn you on"},
 				{"Character":"Rachel","Line":"No"},
@@ -133,7 +133,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Restaurant, Monica and Chandler are having dinner with her parents.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Geller","Line":"So Chandler, your parents must’ve been thrilled when\nyou told them you were engaged"},
 				{"Character":"Chandler","Line":"Oh yeah, I should probably call them"},
 				{"Character":"Mr. Geller","Line":"I remember when we first got engaged"},
@@ -157,12 +157,12 @@
 			},
 		"5":{
 			"SceneDescription":" Ross's apartment, his massage client is on the table and Ross is reluctantly\nstarting his massage. He spreads some lotion in his hands, and doesn’t like it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay! Now, I’m going to touch you. (He does so, very gingerly.) Ohh,\nthat’s soft. (He starts poking him and notices his salad spoons and starts to massage\nhim with those."}]
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Joey and Ross are there as Rachel enters and sees Joey sitting\nthere.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey Rach"},
 				{"Character":"Rachel","Line":"(quietly) Joey"},
 				{"Character":"Rachel","Line":"(quietly) Joey"},
@@ -208,7 +208,7 @@
 			},
 		"7":{
 			"SceneDescription":" Joey and Rachel's, Rachel is balancing her checkbook as Joey enters from his\nroom wearing a hockey helmet, gloves, and shin guards.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hello, Zelda"},
 				{"Character":"Rachel","Line":"Who are you supposed to be"},
 				{"Character":"Joey","Line":"The vicar"},

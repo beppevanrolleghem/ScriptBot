@@ -3,12 +3,12 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel is talking to a customer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon\nStick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there's one more, um.. Lemon\nSoother. You're not the guy that asked for the tea, are you? (Guy shakes his head) Okay"}]
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Rachel and Ross are eating Chinese.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good\nboy. C'mere, gimme the rice. (Marcel brings the rice) Thank you, good boy. Well, I see\nhe's finally mastered the difference between 'bring me the' and 'pee in the'. (Rachel\nignores him) 'Bring me the' and- Rach"},
 				{"Character":"Rachel","Line":"What"},
 				{"Character":"Rachel","Line":"What"},
@@ -66,7 +66,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Rachel is taking care of Marcel and they are watching a\nsoap opera.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Now, now the one in the feather boa, that's Dr. Francis. Now, she used\nto be a man. Okay, now look, see, there's Raven. We hate her. We're glad she's dying.\nOkay- (Marcel pushes down a cushion to reveal a shoe) Wh- wh- Marcel, are you playing with\nMonica's shoes? You know you're not supposed to pl- whoah. Marcel, did you poo in the\nshoe? (Takes the shoe into the kitchen) Marcel, bad monkey! Oh! Oh! (She notices the\nnewsletter and taps the contents of the shoes onto it, then folds it shut) Sorry, Barry.\nLittle engagement gift. I'm sure you didn't register for that. (She leaves the apartment\nholding the newsletter at arm's length. However, she leaves the door open. Marcel runs out\nin the opposite direction. There is a shot from the TV and Rachel runs back in) Who died?\nWho died? Roll him over! Oh, c'mon, roll him over! Oh...! Well, we know it wasn't Dexter,\nright Marcel? Because- (Looks down and notices he is missing) Marcel? Marc- (Notices the\nopen door"},
 				{"Character":"[Time lapse. Now everyone but Ross and Phoebe is back at Monica and Rachel's","Line":"Time lapse. Now everyone but Ross and Phoebe is back at Monica and Rachel's."},
 				{"Character":"Joey","Line":"How could you lose him"},
@@ -158,7 +158,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's. Rachel and Ross are there. Ross is trying to get the dress\noff Marcel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"It'll be nice to get this off finally, won't it? Yes it will. (Marcel\nresists) Or we can leave it on for now, that's fine"},
 				{"Character":"Rachel","Line":"Y'know, with the right pair of pumps, that would be a great little\noutfit"},
 				{"Character":"Ross","Line":"Listen, I'm- I'm sorry I was so hard on you before, it's just I.."},

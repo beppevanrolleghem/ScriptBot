@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel's, Joey is knocking on Rachel’s door, whose door frame is\ndecorated with balloons. The rest of the gang is there as well. Rachel opens the door and\nthe gang blow on noisemakers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Happy birthday!!"},
 				{"Character":"Monica","Line":"Happy birthday!!"},
 				{"Character":"Monica","Line":"Happy birthday!!"},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel's, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Thirty. Ugh, I mean thirty! Monica, do you remember mean old Mrs.\nKreeger in the fifth grade? She was thirty"},
 				{"Character":"Tag","Line":"Come on, let’s have some fun. Huh? (To Rachel) What do you want to do\ntoday"},
 				{"Character":"Rachel","Line":"Nothing. I don’t want to do anything"},
@@ -81,7 +81,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross’s birthday, Joey is now trying to get his car out while Ross is\ndirecting him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, forward. Forward—Stop! (The car moves an inch and Ross runs to\nthe back of the car.) Okay, back—Stop! (The car barely moves and Ross runs back to\nthe front.) Okay, forward—Stop! Stop! Stop"},
 				{"Character":"Monica","Line":"Ross, just forget about it. This guy’s got you totally wedged in"},
 				{"Character":"(A beautiful woman approaches","Line":"A beautiful woman approaches."},
@@ -97,7 +97,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica’s birthday, it’s just after the surprise.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay before we start the celebration, Monica has to go put on her\nparty dress"},
 				{"Character":"Monica","Line":"Yay"},
 				{"Character":"Monica","Line":"Yay"},
@@ -139,7 +139,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel’s birthday, a time lapse has occurred. Rachel is coming back into\nthe living room carrying a notepad.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey! Look who’s back! It’s the birthday girl! How’s the\nbirthday girl feeling"},
 				{"Character":"Rachel","Line":"Well, I feel fine, but I think you’re bumming out the rest of the\nkids"},
 				{"Character":"Ross","Line":"What? (Glances over and sees the faces of the rest of the group, then goes\nand sits down."},
@@ -161,7 +161,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe’s birthday, she’s telling everyone what she found out at\nUrsula’s while sitting in Central Perk.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I lost a whole year! I can’t believe it! This is so unfair"},
 				{"Character":"Joey","Line":"Oh, I don’t know Pheebs. It’ll be okay"},
 				{"Character":"Phoebe","Line":"Will it? Will it?! I mean, how would you feel if you found out you were\n31"},
@@ -204,7 +204,7 @@
 			},
 		"7":{
 			"SceneDescription":" Rachel’s birthday, she is coming into the hallway where Joey and Tag are\nplaying with the scooter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey Joey, can I"},
 				{"Character":"Joey","Line":"Oh, come on Rach! My turn just started"},
 				{"Character":"Rachel","Line":"Actually, I just wanna talk to Tag"},

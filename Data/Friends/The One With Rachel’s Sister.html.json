@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey is giving Rachel, Chandler, Phoebe, and Ross their bills.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Okay Rach, that muffin and espresso, $4.50. Ross, double latte, $2.75.\nChandler, coffee and a scone, $4.25. And Pheebs, herbal tea, $1.25. So, all together\nthat’s (pauses to figure the total) $12.75"},
 				{"Character":"Chandler","Line":"This coming from the man who couldn’t split our 80 dollar phone\nbill in half"},
 				{"Character":"(A good-looking woman approaches","Line":"A good-looking woman approaches."},
@@ -33,7 +33,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Joey is working as Phoebe and Ross are sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(to a customer) Are you all finished here"},
 				{"Character":"<strong>Customer","Line":"</strong>Yes"},
 				{"Character":"Joey","Line":"Great! (Joey takes his cookie and finishes it."},
@@ -154,7 +154,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe and Rachel's, Rachel is putting away her new clothes as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
@@ -197,7 +197,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Chandler has fallen asleep reading a book. Monica calls\nfrom the bedroom and wakes him up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(still sick) Chandler"},
 				{"Character":"Chandler","Line":"Oh what is it honey, you need some tea? Some soup? (He gets up from\nthe couch and goes into the bedroom to find Monica, still in the robe, lying seductively\non the bed. Or at least she’s trying too and as he enters the room, she takes the\nrobe off on of her legs.) Oh-ohhhh"},
 				{"Character":"Monica","Line":"(trying to be seductive) Calling Dr. Big, Dr. Big to the bed"},
@@ -213,7 +213,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's, Monica is still sick and is hobbling out into the living\nroom for some help from Chandler who’s on the couch reading.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(entering) Chandler, I think I’m sick"},
 				{"Character":"Chandler","Line":"Really? Struck down in the pribe of libe"},
 				{"Character":"Monica","Line":"Okay, fine I admit it! I feel terrible! Would you please rub this on my\nchest? (She hands him some of that <i>Vicks Vap-O-Rub</i> to put on."},
@@ -255,7 +255,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler's, Rachel enters and walks quickly over to the window to\nwatch Ross’s apartment. We see that Ross’s apartment is empty.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Why aren’t you home yet?"},
 				{"Character":"Monica","Line":"(calling from the bathroom) Is someone there"},
 				{"Character":"Rachel","Line":"Oh yes, it’s me! Sorry"},

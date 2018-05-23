@@ -3,11 +3,11 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler's Office, Chandler is on a coffee break. &nbsp;\nShelley enters.)<b><br>\n<br>\nShelley:</b> Hey gorgeous, how's it going?</p>\n\n<p><b>Chandler:</b> Dehydrated Japanese noodles under fluorescent lights... does it <b>get</b>\nbetter than this?</p>\n\n<p><b>Shelley:</b> Question. You're not dating anybody, are you, because I met somebody\nwho would be perfect for you.</p>\n\n<p><b>Chandler:</b> Ah, y'see, perfect might be a problem. Had you said 'co-dependent', or\n'self-destructive'...</p>\n\n<p><b>Shelley:</b> Do you want a date Saturday?</p>\n\n<p><b>Chandler:</b> Yes please.</p>\n\n<p><b>Shelley:</b> Okay. He's cute, he's funny, he's-</p>\n\n<p><b>Chandler:</b> He's a he?</p>\n\n<p><b>Shelley:</b> Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna\ngo flush myself down the toilet now...(backs out of the room) Okay, goodbye...</p>\n\n<p align="center"><b>Opening Credits</b></p>\n\n<p",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and\nMonica enter and everyone says hi and kisses.)</p>\n\n<p><b>Ross:</b> So, uh, how's she doing?</p>\n\n<p><b>Aunt Lillian:</b> The doctor says it's a matter of hours.</p>\n\n<p><b>Monica:</b> How-how are you, Mom?</p>\n\n<p><b>Mrs. Geller:</b> Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?</p>\n\n<p><b>Monica:</b> What?</p>\n\n<p><b>Mrs. Geller:</b> What's different?</p>\n\n<p><b>Monica:</b> Nothing.</p>\n\n<p><b>Mrs. Geller:</b> Oh, maybe that's it.</p>\n\n<p>(Monica strides over to Ross, who is making coffee, and talks to him aside.)</p>\n\n<p><b>Monica:</b> She is unbelievable, our mother is...</p>\n\n<p><b>Ross:</b> Okay, relax, relax. We are gonna be here for a while, it looks like, and\nwe still have boyfriends and your career to cover.</p>\n\n<p><b>Monica:</b> Oh God!</p>\n\n<p>(They hug.)</p>\n\n<p>[Cut to the hospital, later. Everyone is talking about Nana.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"The fuzzy little mints at the bottom of her purse."},
 				{"Character":"Ross","Line":"Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n'\nLos. How she was always stealing them from- from restaurants"},
 				{"Character":"Mr. Geller","Line":"Not just restaurants, from our house"},
@@ -60,7 +60,7 @@
 			},
 		"3":{
 			"SceneDescription":" Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I thought it was gonna be a closed casket"},
 				{"Character":"Mrs. Geller","Line":"Well, that doesn't mean she can't look nice"},
 				{"Character":"(They open a cupboard which, amongst other things, contains a chest of drawer","Line":"They open a cupboard which, amongst other things, contains a chest of drawers"},
@@ -74,7 +74,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler's Office, Shelley is drinking coffee; Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, gorgeous"},
 				{"Character":"Shelley","Line":"(sheepish) Hey. Look, I'm sorry about yesterday, I, um"},
 				{"Character":"Chandler","Line":"No, nono, don't- don't worry about it. Believe me, apparently other\npeople have made the same mistake"},
@@ -101,7 +101,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering) How we doing, you guys ready"},
 				{"Character":"Monica","Line":"Mom already called this morning to remind me not to wear my hair up. Did\nyou know my ears are not my best feature"},
 				{"Character":"Ross","Line":"Some days it's all I can think about."},
@@ -122,7 +122,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe\nsquatting over him, checking to see if he's injured.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay, don't worry, I'm just checking to see if the muscle's in\nspasm...huh"},
 				{"Character":"Ross","Line":"What, what is it"},
 				{"Character":"Ross","Line":"What, what is it"},
@@ -221,7 +221,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler's Office, Chandler is on a coffee break as Lowell enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, Lowell"},
 				{"Character":"Lowell","Line":"Hey, Chandler"},
 				{"Character":"Lowell","Line":"Hey, Chandler"},

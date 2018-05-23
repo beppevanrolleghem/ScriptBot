@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel, Phoebe, Joey, Ross, and Monica are all there as Chandler\nenters wearing glasses.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, you guys"},
 				{"Character":"Ross and Rachel","Line":"Hey"},
 				{"Character":"Ross and Rachel","Line":"Hey"},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Chandler and Monica are there. He takes off his glasses and\nstarts chewing on the ear piece.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Do you know what I was thinkin’"},
 				{"Character":"Monica","Line":"What"},
 				{"Character":"Monica","Line":"What"},
@@ -129,7 +129,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Monica and Phoebe are trying to determine the\ncookie recipe by eating small pieces.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"All right, I definitely taste nutmeg"},
 				{"Character":"Phoebe","Line":"You do"},
 				{"Character":"Phoebe","Line":"You do"},
@@ -165,7 +165,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler, Ross, and Rachel are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(getting up) All right, I’m off to see your dad"},
 				{"Character":"Ross","Line":"Whoa-whoa, aren’t you a little over dressed"},
 				{"Character":"Rachel","Line":"(laughing) Yeah, and-and you better make sure he tips you this time"},
@@ -223,7 +223,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Mr. Bowmont, it's Joey’s second lesson with Rachel as the resident\nsailing expert.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay Joey honey, you’re doing really good! All right, now I’m\njust gonna need you to step to the port side. (Joey pauses as he tries to remember which\nside is the port side.) Remember? Remember how we talked about the port side"},
 				{"Character":"Joey","Line":" Oh yeah"},
 				{"Character":"Joey","Line":" Oh yeah"},
@@ -291,7 +291,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Gym, Chandler and Mr. Geller are heading for the whirlpool room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"So you understand, I’d feel a lot more comfortable if you\ndidn’t tell people what happened. Y’know, I’m a little…I’m a\nlittle embarrassed about it"},
 				{"Character":"Mr. Geller","Line":"I understand completely, there’s nothing more horrifying than\nembarrassing yourself in front of your in-laws. As a matter of fact, when I started dating\nJudy I was unemployed, and her father asked me what I did for a living and I told him I\nwas a lawyer"},
 				{"Character":"Chandler","Line":"What did you do when they found out"},

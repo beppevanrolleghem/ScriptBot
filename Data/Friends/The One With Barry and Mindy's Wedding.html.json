@@ -3,32 +3,32 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the whole gang is there as Joey enters",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Phoebe, Monica, and Richard are there",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"ROSS","Line":"So don't, I don't see why we have to go to this thing anyway, it's your\nex-fiancee's wedding.<br>\n<br>\nRACHEL: Because I promised Mindy I would.<br>\n<br>\nMONICA: Yeah, well you promised Barry, you'd marry him. (Rachel glares at her, and she\nretreats to safety between Richard's legs)<br>\n<br>\nRACHEL: Look you guys, I have to go, I'm the Maid-of-Honor. And besides you know what I\njust need to be in a room again with these people and feel good about myself.<br>\n<br>\n(Chandler enters, sees Rachel in the dress and starts laughing)<br>\n<br>\nPHOEBE: Ooh-oh! Someone's wearing the same clothes they had on last night. Someone get a\nlittle action?<br>\n<br>\nCHANDLER: I may have.<br>\n<br>\nMONICA: Woo-hoo, stuud!<br>\n<br>\nROSS: What's she look like?<br>\n<br>\nCHANDLER: Well, we haven't exactly met, we just stayed up all night talking on the\ninternet.<br>\n<br>\nMONICA: Woo-hoo, geeek!<br>\n<br>\nCHANDLER: I like this girl, okay, I seriously like this girl, you now how sometimes I tend\nget a little defended and quipy...<br>\n<br>\nROSS: Get out!<br>\n<br>\nRACHEL: Nooo!<br>\n<br>\nMONICA: Please!<br>\n<br>\nCHANDLER: Well she totally called me on it, okay. She said, 'cut it out, get real', and I\ndid.<br>\n<br>\nRACHEL: Wow! What's that like?<br>\n<br>\nCHANDLER: It's like this, me, no jokes.<br>\n<br>\nPHOEBE: All right, stop it, you're freaking me out.<br>\n<br>\nRICHARD: Oh, yeah, I don't like you this way. All right, I'll see you guys later.<br>\n<br>\nALL: Bye, Richard.<br>\n<br>\nMONICA: Bye sweetie, (kisses him) I love you.<br>\n<br>\nRICHARD: I love you, too.<br>\n<br>\n(Monica stares longingly at the door, after Richard leaves)<br>\n<br>\nPHOEBE: I think my boyfriend ever so dreamy, I wonder what our wedding's gonna be like.<br>\n<br>\nMONICA: What are you talking about? What wedding?<br>\n<br>\nPHOEBE: Come on, like you never talk that.<br>\n<br>\nMONICA: Nooo! Never! I mean, we're living in the moment. God, it is so nice for once to\nnot have to get all hung up on 'Where is this going?'<br>\n<br>\nRACHEL: Afraid to ask him?<br>\n<br>\nMONICA: Could not be more terrified.<br>\n<br>\nCHANDLER: Well, I think you should seriously consider the marriage thing, give Rachel\nanother chance to dress up like Princess Bubble Yum.<br>\n<br>"}]
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Chandler, Joey, and Phoebe are there, Chandler is talking to\nhis new friend on the internet.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" later the bridesmaids and ushers are getting ready to start, Ross is looking for\nRachel",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Phoebe, Chandler, and Joey are there, Joey is on the\nphone.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" later, Richard and Monica are dancing",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Joey is reading a script as Ross enters",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

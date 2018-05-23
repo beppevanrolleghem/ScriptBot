@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler, Joey, and Ross's apartment, Ross is cleaning out the fridge. Joey\nwalks from his room. He looks like he just woke up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"What are you doing"},
 				{"Character":"Ross","Line":"I...reorganized the fridge. See, bottom shelf: meats and dairy.\n(There’s nothing on the shelf.) Middle shelf: fruits and vegetables. (There’s\none lone tomato.) And top shelf: expired products. (The shelf is jammed packed."},
 				{"Character":"Joey","Line":"Why are you doing this"},
@@ -38,7 +38,7 @@
 			},
 		"2":{
 			"SceneDescription":" Estelle's (Joey's Agent) Office, Joey is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"How could I not get the part? The play was about a 29-year-old Italian\nactor from Queens"},
 				{"Character":"Estelle","Line":"Well, Telia Shire suddenly became available"},
 				{"Character":"Estelle","Line":"Well, Telia Shire suddenly became available"},
@@ -51,7 +51,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Joey is telling Ross how he didn't get the part.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"That part was perfect for me! I can't believe I didn't get it"},
 				{"Character":"Ross","Line":"I'm sorry, man. Hey, y'know what you should do? You should make something\nhappen for yourself. Y'know, like-like write a play. Write a movie! Huh? I mean, what\nabout those <i>Good Will Hunting</i> guys"},
 				{"Character":"Joey","Line":"Come on Ross be realistic, y'know? If I did write something, what are the\nchances I could get those guys to star in it"},
@@ -90,7 +90,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Joey is trying to write his movie, Chandler is\nplaying a game on the counter by trying to flip a ping pong ball with a spoon into a\nnearby bowl.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, how do you spell suspicious?"},
 				{"Character":"Chandler","Line":"Why"},
 				{"Character":"Chandler","Line":"Why"},
@@ -126,7 +126,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler, Joey, and Ross's, Ross is reading what Joey wrote.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"All right. (Reading.) A room. A man enters, he looks suspicious. (Stops\nreading a flips the page to find the next one is blank.) That's it? (Joey shrugs.) Joey,\nyou're supposed to have five pages done by now! Including an exciting incident!\n(Flipping through the rest of the pad.) And what is, and what is all this?! (Reading.) The\nofficial rulebook of Fireball"},
 				{"Character":"Joey","Line":"Yeah, that's the uh, game we were playing"},
 				{"Character":"Chandler","Line":"(entering from his room carrying a fire extinguisher and wearing oven\nmitts) Oh yeah, it's great! See you take a tennis ball, a bowl, and some lighter\nfluid—Op! Op! (He puts out a small fire which has re-ignited in his room."},
@@ -148,7 +148,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is complaining to Ross and Monica about the\nbucket.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Nobody! Nobody respects the bucket! You wouldn't believe what people put\nin here! Look! (Hands it to Monica.) Okay, does this look like a garbage can to you"},
 				{"Character":"Monica","Line":"No"},
 				{"Character":"Monica","Line":"No"},
@@ -211,7 +211,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Monica, Rachel, Joey, and Chandler are listening to a story being\ntold by Danny and his sister.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Danny","Line":"…so we finally get to the top of the mountain and airhead here (His\nsister) forgets the camera"},
 				{"Character":"Joey","Line":"Oh, y'know the same thing happened to me one time"},
 				{"Character":"Chandler","Line":"When did that happen to you?"},
@@ -240,7 +240,7 @@
 			},
 		"8":{
 			"SceneDescription":" Danny's apartment, there's a knock on the door and he answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Danny","Line":"Oh, hey Rach! I thought we said seven"},
 				{"Character":"Rachel","Line":"Yeah uh, y'know what uh, let's skip it"},
 				{"Character":"Danny","Line":"What?! Why?"},
@@ -266,7 +266,7 @@
 			},
 		"9":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are about to read another one of Joey's\nefforts.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(Reading the scene set up.) Okay, it's a typical New York City apartment.\nTwo girls are just hanging out"},
 				{"Character":"(Monica and Rachel begin to read from the script","Line":"Monica and Rachel begin to read from the script."},
 				{"Character":"Monica","Line":"Hi, how are you doing Kelly"},

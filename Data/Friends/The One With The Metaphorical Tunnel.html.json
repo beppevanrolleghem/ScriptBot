@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's: everyone is there and they are watching an\ninfo-mercial that stars Joey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<i>Host","Line":"Welcome everybody, welcome to Amazing Discoveries!</i"},
 				{"Character":"<i></i>Phoebe","Line":"Oh, oh! It's on again"},
 				{"Character":"Joey","Line":"You guys, can we please not watch this all right"},
@@ -28,7 +28,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Carol and Susan are dropping off Ben",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Carol and </strong>Susan","Line":"(entering) Hey!"},
 				{"Character":"Ross","Line":"There's my boy! Here's my boy! And here's his Barbi (Ben is holding a\nBarbi doll) What's ah, what's my boy doing with a <em>Barbi</em>"},
 				{"Character":"Carol","Line":"He picked it out of the toy store himself, he loves it"},
@@ -90,7 +90,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Chandler and Janice are having dinner",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"So, how come you wanted to eat in tonight"},
 				{"Character":"Chandler","Line":"'Cause, I wanted to uh, give you this. (hands her a present"},
 				{"Character":"Janice","Line":"Ohhh, are you a puppy! (opens it) Contact paper! I never really know\nwhat to say when someone you're sleeping with gives you contact paper"},
@@ -119,7 +119,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Ross is still trying to get Ben to play with something\nother than the Barbi doll.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Guess who's here. It's the toughest guy in toy land, Ben. (singing) 'A\nreal American hero. I'm <em>G.I. Joe</em>!' Drop the <em>Barbi</em>, drop the <em>Barbi</em>"},
 				{"Character":"Rachel","Line":"<em>G.I. Joe</em>? Do you really think he's gonna fall for that"},
 				{"Character":"Joey","Line":"(entering) <em>G. I. Joe</em>! Cool! Can I play"},
@@ -156,7 +156,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Joey and Phoebe are there",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay, so we got some more good rejections, lots of stuff to work on."},
 				{"Character":"Joey","Line":"Okay, shoot"},
 				{"Character":"Joey","Line":"Okay, shoot"},
@@ -201,7 +201,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Carol and Susan are picking up Ben, while Monica is\npouring chocolate syrup, lots of it, into her ice cream.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Carol","Line":"<em>G. I. Joe. G. I. Joe</em>?"},
 				{"Character":"Ross","Line":"Hey, I don't know what to tell you guys that's the doll he chose"},
 				{"Character":"Susan","Line":"What'd you do, dip it in sugar"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Phoebe is recapping last season, and as she talks we see a\nmontague of scenes from Ross and Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ok, so this is pretty much what's happened so far. Ross was in love with\nRachel since, you know, forever, but every time he tried to tell her, something kind of\ngot in the way, like cats, and Italian guys. Finally Chandler was like \"forget about\nher\" but when Ross was in China on his dig, Chandler let it slip that Ross was in\nlove with Rachel. She was like, \"Oh my god.\" So she went to the airport to meet\nhim when he came back, but what she didn't know was, that Ross was getting off the plane\nwith another woman. Uh-Oh! So, that's pretty much everything you need to know. But, enough\nabout us. So, how've you been"},
 				{"Character":"Rachel","Line":"Oh my god. Oh my god. (She decides to make a break for it.) Excuse me.\nMove! Move! Emergency! Excuse me! (She tries climbing over a bench and falls down.)"},
 				{"Character":"Rachel","Line":"Oh my god. Oh my god. (She decides to make a break for it.) Excuse me.\nMove! Move! Emergency! Excuse me! (She tries climbing over a bench and falls down.)"},
@@ -31,7 +31,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Ross and Chandler enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, Rach, can I get some coffee"},
 				{"Character":"Rachel","Line":"Yeah, sure"},
 				{"Character":"Rachel","Line":"Yeah, sure"},
@@ -79,7 +79,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the next morning.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(to Chandler) You know, I think I was sixteen"},
 				{"Character":"Monica","Line":"(to Phoebe) Please, just a little bit off the back"},
 				{"Character":"Phoebe","Line":"I'm still on \"no."},
@@ -99,7 +99,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica's bedroom, Phoebe is finishing with her haircut and Monica is whincing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"All right, that's it, I quit"},
 				{"Character":"Monica","Line":"What? I didn't say anything"},
 				{"Character":"Phoebe","Line":"Yeah, but this (makes Monica's face) isn't the face of a person who\ntrusts a person. Ok, this (makes Monica's face) is the face of a person who, you know,\ndoesn't trust a person"},
@@ -130,7 +130,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Monica is recovering from her haircut, Phoebe is playing\nher doctor and is coming in from the bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"How is she"},
 				{"Character":"Phoebe","Line":"It's too soon to tell. She's resting, which is a good sign"},
 				{"Character":"Ross","Line":"How's the hair"},
@@ -190,7 +190,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Julie is wanting to get her hair cut from Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Julie","Line":"I was thinking of doing it a little shorter, you know, like Andie\nMcDowell's new haircut"},
 				{"Character":"<strong>Phoebe","Line":"/strong> Oh yeah!&nbsp; Oh, I can do that"},
 				{"Character":"<strong>Julie","Line":"/strong> Really"},

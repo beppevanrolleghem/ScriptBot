@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, everyone is looking at papers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"How could someone get a hold of your credit card number"},
 				{"Character":"Monica","Line":"I have no idea. But look how much they spent"},
 				{"Character":"Rachel","Line":"Monica, would you calm down? The credit card people said that you only\nhave to pay for the stuff that you bought"},
@@ -36,7 +36,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Joey and Chandler are discussing stage names.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"How about Joey... Pepponi"},
 				{"Character":"Joey","Line":"No, still too ethnic. My agent thinks I should have a name that's more\nneutral"},
 				{"Character":"Chandler","Line":"Joey... Switzerland"},
@@ -58,7 +58,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Tap Class, the girls are standing at the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"What d'you think"},
 				{"Character":"Phoebe","Line":"Lotsa things"},
 				{"Character":"Phoebe","Line":"Lotsa things"},
@@ -123,7 +123,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, scene continued from earlier.&nbsp; They guys are sitting there\nlike the Three Monkeys.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I can't believe it, Ross. This sucks"},
 				{"Character":"Chandler","Line":"I don't get it, I mean, you just got him. How can he be an adult\nalready"},
 				{"Character":"Ross","Line":"I know. I know. I mean, one day, he's this little thing, and before you\nknow it, he's this little thing I can't get off my leg"},
@@ -158,7 +158,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, tiem lapse.&nbsp; Everyone but Joey and Monica are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(Reading letters) Oh God. (To Marcel) We didn't get into Scranton. (To the\nothers) That was like our safety zoo. They take like dogs and cows. See? I don't know who\nthis is harder on, me or him"},
 				{"Character":"Phoebe","Line":"I'd say that chair's taking the brunt"},
 				{"Character":"Ross","Line":"Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him"},
@@ -179,7 +179,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Rachel is dusting. She comes to the table, lifts all the\nmagazines and wipes under them, then just puts them down again. Monica bursts in,\nobviously drunk.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Yo- hooo"},
 				{"Character":"Rachel","Line":"Where the hell've you been"},
 				{"Character":"Monica","Line":"Monica and I just crashed an embassy party"},
@@ -214,7 +214,7 @@
 			},
 		"7":{
 			"SceneDescription":" Tap Class, Monica is standing by the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Teacher","Line":"You by the door. In or out"},
 				{"Character":"Monica","Line":"In. (She joins in the dancing. She still flounders"},
 				{"Character":"Teacher","Line":"You in the back, you're getting it all wrong"},
@@ -223,7 +223,7 @@
 			},
 		"8":{
 			"SceneDescription":" A Theater, there is a casting session going on for a play.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Actor","Line":"/strong> (Very melodramatically, and very badly) Oh, that I were a glove\nupon that hand, that I might... touch thy cheek.."},
 				{"Character":"<strong>Casting Director No. 1","Line":"/strong> That's fine, thank you"},
 				{"Character":"<strong>Casting Director No. 2","Line":"/strong> Next. (Joey walks onstage"},

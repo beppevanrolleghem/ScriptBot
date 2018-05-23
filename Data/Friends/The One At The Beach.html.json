@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone except Phoebe is there. Bonnie is telling them of her\nsex-capades.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(to Bonnie) So ah, your first sexual experience was with a woman?"},
 				{"Character":"Bonnie","Line":"All right, I was 15, it was my best friend, Ruth, and we got drunk on\nthat hard cider, and then suddenly, I don’t know, we were, we were making out"},
 				{"Character":"Chandler","Line":"Tell it again. (pause, we see Rachel is not amused.) Seriously"},
@@ -49,7 +49,7 @@
 			},
 		"2":{
 			"SceneDescription":" At the Beach, it’s raining cats and dogs as the gang arrives. Chandler and\nMonica are taking shelter under Rachel’s hat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Go, go, go"},
 				{"Character":"Rachel","Line":"Oh yeah, now everybody wants to be under this hat"},
 				{"Character":"(They get inside and notice on small problem","Line":"They get inside and notice on small problem."},
@@ -63,7 +63,7 @@
 			},
 		"3":{
 			"SceneDescription":" The beach house, it’s still raining. Chandler is building a sand castle,\nRachel is doing Monica’s nails, and they’re all drinking margaritas, obviously\nbored.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(getting an idea) Hey, y'know what a really good rainy day game is"},
 				{"Character":"Monica","Line":"What?"},
 				{"Character":"Monica","Line":"What?"},
@@ -246,7 +246,7 @@
 			},
 		"4":{
 			"SceneDescription":" The porch, Bonnie is coming back from swimming, Rachel is reading.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Bonnie","Line":"Hey, what happened to you"},
 				{"Character":"Rachel","Line":"Oh, ah nothin’. I just felt like hangin’ out here and reading"},
 				{"Character":"Bonnie","Line":"Oh, the water was sooo great! We jumped off this pier and my suit came\noff"},
@@ -289,7 +289,7 @@
 			},
 		"5":{
 			"SceneDescription":" Outside the beach house, Ross is coming out to talk to Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -363,7 +363,7 @@
 			},
 		"6":{
 			"SceneDescription":" Outside the beach house, Ross is telling Joey and Chandler what happened with\nRachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I’m telling ya, you guys are totally getting back together"},
 				{"Character":"Ross","Line":"That’s not true! Her, she doesn’t even know what she wants!\nRachel’s still mad about the whole thing"},
 				{"Character":"Chandler","Line":"Okay, then you gotta back away, all right? You don’t need that\nkind’ve hurt. Take it from a guy who’s never had a long term relationship....."},
@@ -400,7 +400,7 @@
 			},
 		"7":{
 			"SceneDescription":" The beach house, Chandler is simulating he’s coming to pick up Monica for\na date. Chandler knocks on the door, and Monica answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(in a fake voice) Hi there"},
 				{"Character":"Monica","Line":"That’s that weird voice again"},
 				{"Character":"Chandler","Line":"Okay! Okay! Let me try it again, you’re gonna wanna date this\nnext guy, I swear"},

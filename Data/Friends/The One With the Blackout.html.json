@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel is introducing Phoebe, who is playing her guitar for the\ncrowd.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music\nof Miss Phoebe Buffay"},
 				{"Character":"(applaus","Line":"applause"},
 				{"Character":"(applaus","Line":"applause"},
@@ -13,7 +13,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Monica is on the phone with her mother. Phoebe, Rachel,\nand Ross are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Wow, this is so cool, you guys. The entire city is blacked out"},
 				{"Character":"Monica","Line":"Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they\nhave no idea when it's coming back on"},
 				{"Character":"Rachel","Line":"Wow, you guys, this is big"},
@@ -27,7 +27,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica's apartment, Joey enters with a menorah, the candles lit.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hi everyone"},
 				{"Character":"Ross","Line":"And officiating at tonight's blackout, is Rabbi Tribbiani"},
 				{"Character":"Joey","Line":"Well, Chandler's old roomate was Jewish, and these are the only candles we\nhave, so... Happy Chanukah, everyone"},
@@ -39,7 +39,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, The phone rings; it's Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hello"},
 				{"Character":"Chandler","Line":"Hey, it's me"},
 				{"Character":"Chandler","Line":"Hey, it's me"},
@@ -65,7 +65,7 @@
 			},
 		"5":{
 			"SceneDescription":" ATM vestibule.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jill","Line":"Would you like some gum"},
 				{"Character":"Chandler","Line":"Um, is it sugarless"},
 				{"Character":"Jill","Line":"(checks) Sorry, it's not"},
@@ -74,7 +74,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's Balcony, Ross and Rachel are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hmmm... this is so nice"},
 				{"Character":"Ross","Line":"OK, I have a question. Well, actually, it's not so much a question as..\nmore of a general wondering... ment"},
 				{"Character":"Rachel","Line":"OK"},
@@ -94,12 +94,12 @@
 			},
 		"7":{
 			"SceneDescription":" ATM vestibule.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"You know, on second thought, gum would be perfection. (Jill gives him\na stick of gum, and a strange look) <i>'Gum would be perfection'? 'Gum would be\nperfection.' Could have said 'gum would be nice,' or 'I'll have a stick,' but no, no, no,\nno. For me, gum is perfection. I loathe myself.</i"}]
 			},
 		"8":{
 			"SceneDescription":" Rachel has gone off on her own to look for the cat's owner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Here, kitty-kitty. Here kitty-kitty. Where did you go, little\nkitty-kitty-kitty? Here kitty-kitty-kitty-kitty.."},
 				{"Character":"(While looking at the floor for the cat, Rachel runs into a pair of legs. She slowly\ngets up and sees a gorgeous Italian hunk holding the cat. Who, by the way, you'll hate\nvery, very soon. The man. Not the cat","Line":"While looking at the floor for the cat, Rachel runs into a pair of legs. She slowly\ngets up and sees a gorgeous Italian hunk holding the cat. Who, by the way, you'll hate\nvery, very soon. The man. Not the cat."},
 				{"Character":"<strong>Paolo","Line":"/strong> (something Italian"},
@@ -107,7 +107,7 @@
 			},
 		"9":{
 			"SceneDescription":" ATM vestibule.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(chewing gum) <i>Ah, let's see. What next? Blow a bubble. A bubble's\ngood. It's got a... boyish charm, it's impish. Here we go.</i"},
 				{"Character":"(Chandler waits until Jill is looking, then starts to blow a bubble. But instead of\nblow one, he accidentally spits the gum out of his mouth and hits the wall","Line":"Chandler waits until Jill is looking, then starts to blow a bubble. But instead of\nblow one, he accidentally spits the gum out of his mouth and hits the wall."},
 				{"Character":"Chandler","Line":"<i>Nice going, imp. OK, it's OK. All I need to do is reach over and\nput it in my mouth.</i> (Chandler slyly grabs the gum from the wall and slides it back in\nhis mouth."},
@@ -126,7 +126,7 @@
 			},
 		"10":{
 			"SceneDescription":" ATM vestibule, Chandler and Jill are sitting below the counter with two pens\ndangling from their chains in front of them. Jill is showing Chandler how to swing the pen\naround his head.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jill","Line":"Chandler, we've been here for an hour doing this! Now watch, it's easy"},
 				{"Character":"Chandler","Line":"OK"},
 				{"Character":"Chandler","Line":"OK"},
@@ -139,7 +139,7 @@
 			},
 		"11":{
 			"SceneDescription":" ATM vestibule, the power has come back on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jill","Line":"Well, this has been fun"},
 				{"Character":"Chandler","Line":"Yes. Yes, thanks for letting me use your phone... and for saving my\nlife"},
 				{"Character":"Jill","Line":"Well, goodbye Chandler. I had a great blackout. (she kisses him on the\ncheek) See ya"},

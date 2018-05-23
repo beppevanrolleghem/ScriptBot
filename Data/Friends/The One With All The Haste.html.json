@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Rachel’s bedroom; Rachel is awoken by a man singing in the next\napartment.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Singing Man","Line":"(singing, duh) Morning’s here! Sunshine is here! The sky\nis clear, the morning’s here! The morning’s here"},
 				{"Character":"Rachel","Line":"HEY!! Do you have to do that? It’s Saturday"},
 				{"Character":"The Singing Man","Line":"Oh come on! Morning’s here! (Starts singing)\nMorning’s here! The morning is here! Sunshine is here"},
@@ -27,7 +27,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Joey and Chandler are watching\none of those Kung Fu movies and imitating the moves.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(entering, wearing Santa pants) Hello"},
 				{"Character":"Chandler","Line":"Ho! Ho! Ho"},
 				{"Character":"Chandler","Line":"Ho! Ho! Ho"},
@@ -102,7 +102,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, later that same day. Joey and\nChandler are eating pizza, and Phoebe is trying to knit something.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"That’s too hard. Too hard"},
 				{"Character":"Monica","Line":"(entering with Rachel) All right boys, last chance for the tickets"},
 				{"Character":"Rachel","Line":"Or I’ll give them to my new boyfriend, Joshua"},
@@ -268,7 +268,7 @@
 			},
 		"4":{
 			"SceneDescription":" The hallway, Joey and Chandler are coming back from the game.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Those were like the best seats ever"},
 				{"Character":"Joey","Line":"Oh yeah. Hey! Should we give these shirts to the girls? Y’know, kinda\nlike a peace offering"},
 				{"Character":"Chandler","Line":"Oh yeah, that’s very nice. Plus, y’know they were free and\nthey’re too small"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Phoebe is at the sink and Chandler is looking\nat a ring brochure.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Pheebs, can you help me pick out an engagement ring for Monica? I\ncan’t figure this out! It’s so hard! Should I get her a (turning to each page)\nTiffany cut or a Princess cut or a—ah-ah! Paper cut"},
 				{"Character":"Phoebe","Line":"Now, have you told anyone else"},
 				{"Character":"Chandler","Line":"No, I don’t want to tell anybody else because I don’t want\nMonica to find out"},
@@ -40,7 +40,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel's, Paul and Rachel are getting ready to go out. Paul is\nentering from the bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Paul","Line":"Honey I made a reservation at China Garden, is that okay"},
 				{"Character":"Rachel","Line":"Yeah that’s great. But first, wait, talk to me, talk to me. Tell me\nabout your day"},
 				{"Character":"Paul","Line":"It was fine"},
@@ -106,7 +106,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Ross and Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, remember how Chandler and Phoebe blew us off yesterday"},
 				{"Character":"Joey","Line":"No"},
 				{"Character":"Joey","Line":"No"},
@@ -136,7 +136,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Jewelry Store, Phoebe is busy trying on virtually everything in the store.\nShe’s got earrings, rings, bracelets, and enough necklaces to put Mr. T to shame on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay umm, I’d also like to try on the tiara. (The male jeweler\nhands it to her.) Oh yeah. Okay. (Puts it on.) (To the jeweler) What do you think, too\nmuch"},
 				{"Character":"Male Jeweler","Line":"A tad"},
 				{"Character":"Male Jeweler","Line":"A tad"},
@@ -147,7 +147,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Jewelry Store, Chandler is entering with his credit card and Phoebe is\nholding out another ring for him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Chandler, I found the perfect ring. (Holding it out for her."},
 				{"Character":"Chandler","Line":"Oh, that’s uh, that’s pretty nice but I’m gonna go with\nthe one I picked first"},
 				{"Character":"Phoebe","Line":"Oh my God Chandler, the one you picked is gone. It’s over"},
@@ -172,7 +172,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel's, Paul is writing something as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi. I’m back"},
 				{"Character":"Paul","Line":"Hey! I have so much more to tell ya, I’ve written it all down"},
 				{"Character":"Rachel","Line":"Ah that’s great. No actually that’s… (In a sexy voice)\nThat’s great! That’s really great! Y’know, I gotta tell ya writing, I mean\nwriting, gets me uh, gets me kinda hot"},
@@ -201,7 +201,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler is looking at the ring he bought and\nnot liking it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(entering from her room) Hey"},
 				{"Character":"Chandler","Line":"I can’t believe I let you talk me into buying this stupid gumball\nmachine looking ring"},
 				{"Character":"Phoebe","Line":"It’s not a stupid gumball machine looking ring! It’s a\nbeautiful ring"},
@@ -216,7 +216,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey and Rachel's, Joey and Ross are watching TV as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Guys? (They ignore him.) I’ve got something important to tell ya.\n(Still nothing so he walks over and stands in front of the TV.) Guys? (They lean over to\ntry and watch the TV, Chandler mimics them.) Guys?! (Pause) I’m gonna ask Monica to\nmarry me"},
 				{"Character":"Joey","Line":"(To Ross) I think we gotta end the freeze out"},
 				{"Character":"Ross","Line":"Wait a minute, is this, is this for real"},

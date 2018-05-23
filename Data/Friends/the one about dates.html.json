@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" \n  Joey and Rachel's apartment. Rachel is in the kitchen as Joey enters from his \n  bedroom.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" \n  Monica and Chandler's apartment. They're in the kitchen as Rachel enters.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" \n  Monica and Chandler's apartment. Emma is there in her playpen, while Chandler \n  is behind the couch.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" \n  Monica and Chandler's apartment. Monica emerges from the bathroom.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" \n  Central Perk. Phoebe and Joey are there. Phoebe's cell phone rings.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" \n  Delmonico's. Ross is still waiting for his date and drinking wine. The waiter \n  comes up to him again.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" \n  The street in front of Central Perk. Rachel and Steve are walking home from \n  their date. Steve is sobbing.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" \n  Delmonico's restaurant. Ross and Joey are sitting at a table for four. The waiter \n  is pouring water in their glasses.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler is showing Ross, Rachel, Joey, and\nPhoebe his engagement ring again.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"God that is the most beautiful engagement ring ever"},
 				{"Character":"Rachel","Line":"Yeah? Well, you should know. You’ve bought like a billion of\n‘em"},
 				{"Character":"Ross","Line":"Yeah, you didn’t get one"},
@@ -68,7 +68,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler is practicing proposing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Will you marry me? Will you marry me? (Makes like a gun with\nhis fingers.) Hey, you marry me! (He gives up as Joey, Rachel, Phoebe, and Ross slink in\nall excited.) What’s going on little elves"},
 				{"Character":"Joey","Line":"It’s the big night! We wanted to wish you good luck"},
 				{"Character":"Ross","Line":"Yeah, yeah you have the ring"},
@@ -89,7 +89,7 @@
 			},
 		"3":{
 			"SceneDescription":" Elizabeth’s Dorm Room, Ross is walking up to her door and knocks on it.\nSuddenly the door opens and Elizabeth drags him into the room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"{Transcriber’s Note","Line":"Elizabeth has two friends in the room with her who are named\nin the credits, but not in this scene. So I’m just gonna guess since it doesn’t\nmatter one way or the other. (The last part is to discourage e-mails, who cares if I got\nit right or not?)"},
 				{"Character":"Zoe","Line":"Shut the door! Shut the door!! (Runs over and closes the door."},
 				{"Character":"Ross","Line":"What’s-what’s going on"},
@@ -123,7 +123,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Restaurant, Monica and Chandler are sitting at a table. Monica is checking\nher makeup as Chandler suddenly has a horrifying thought and starts patting down his\npockets until he finds what he’s looking for and sighs in relief.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"What are you doing"},
 				{"Character":"Chandler","Line":"(trying to cover up why his hand is over his heart) One nation, under\nGod. Indivisible with liberty and justice for all. (Laughs.) I remembered it. (It’s a\nbutchered version of the Pledge of Allegiance of the United States for our foreign\nfriends.) The champagne is here. (The waiter is delivering it and pouring two glasses.)"},
 				{"Character":"Monica","Line":"Are you okay"},
@@ -183,7 +183,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Restaurant, Monica and Chandler’s and Richard and Lisa’s tables\nhave been pushed together and they’re all eating and talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"And so, we’re hiding in the bathroom"},
 				{"Character":"Richard","Line":"And-and then I sneak out and before Monica can her parents come in"},
 				{"Character":"Monica","Line":"So I hide in the shower and the next thing you know they’re going\nat it right on the bathroom floor"},
@@ -206,7 +206,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Charity Event, Rachel and Phoebe are sitting at the table as Joey\napproaches.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Rach! Rachel! Okay, the next highest bidder is at table one"},
 				{"Character":"Rachel","Line":"Oh great"},
 				{"Character":"Rachel","Line":"Oh great"},
@@ -269,7 +269,7 @@
 			},
 		"7":{
 			"SceneDescription":" Outside of Elizabeth’s dormitory, Ross is exiting after breaking up with\nher and we can hear his thoughts.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(in his head) <i>Wow! I have never had such a healthy break-up! She was\nsuch a grown-up about it! She didn’t seem too immature for me! Did I just make a huge\nmistake?</i"},
 				{"Character":"Elizabeth","Line":"(sticking her head out her window) Ross! Wait"},
 				{"Character":"Ross","Line":"Elizabeth, thank God! I was just thinking about"},
@@ -284,7 +284,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica’s Restaurant’s kitchen, she’s cooking as a waitress\nsticks her head in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Waitress","Line":"Hey Monica, there’s a customer who wants to complement the chef,\nshould I let him in"},
 				{"Character":"Monica","Line":"Sure, I love this part! (Starts to look busy."},
 				{"Character":"Waitress","Line":"(to the customer) Come on in"},
@@ -305,7 +305,7 @@
 			},
 		"9":{
 			"SceneDescription":" Central Perk, Rachel is bringing Phoebe some coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Isn’t it incredible?! Monica and Chandler, gettin’ married"},
 				{"Character":"Phoebe","Line":"I know, they’re gonna be so happy together"},
 				{"Character":"Rachel","Line":"Ohh… I mean two best friends falling in love, how often does that\nhappen"},
@@ -332,7 +332,7 @@
 			},
 		"10":{
 			"SceneDescription":" Central Perk, Phoebe and Rachel are still talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"We’re gonna find love"},
 				{"Character":"Phoebe","Line":"Definitely"},
 				{"Character":"Phoebe","Line":"Definitely"},
@@ -385,7 +385,7 @@
 			},
 		"11":{
 			"SceneDescription":" Ross's apartment, Ross is watching a show about the extinction of the\ndinosaurs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Narrator","Line":"When the Cretaceous period ended, the dinosaurs were gone"},
 				{"Character":"Ross","Line":"What happened you guys"},
 				{"Character":"Ross","Line":"What happened you guys"},
@@ -427,7 +427,7 @@
 			},
 		"12":{
 			"SceneDescription":" Richard’s Apartment, he’s smoking a cigar and reading a book as there\nis a knock on the door. He gets up and opens the door to reveal…",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Richard","Line":"Hi"},
 				{"Character":"Richard","Line":"Hi"},
@@ -475,7 +475,7 @@
 			},
 		"13":{
 			"SceneDescription":" Richard’s Apartment, Monica is looking around and notices an African mask\nhanging on the wall.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(to the mask) I missed you-you ugly, flat faced old freak"},
 				{"Character":"Richard","Line":"Excuse me"},
 				{"Character":"Richard","Line":"Excuse me"},
@@ -500,7 +500,7 @@
 			},
 		"14":{
 			"SceneDescription":" The Hallway, Chandler is running up the stairs and towards his apartment, but\nJoey is taking out the garbage at the same time and stops him in the hall.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Dude"},
 				{"Character":"Chandler","Line":"I can’t talk to you now, I gotta find Monica"},
 				{"Character":"Joey","Line":"She’s gone"},

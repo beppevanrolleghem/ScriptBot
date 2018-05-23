@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk. All except Chandler, plus Emma.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh hey you guys, I couldn't get a reservation for the night<br>of my \nbirthday, so we have to do dinner Thursday night instead"},
 				{"Character":"Joey","Line":"Thursday? But that's Halloween"},
 				{"Character":"Phoebe","Line":"So"},
@@ -30,7 +30,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Bings'. Monica in bathrobe, merely covered. \nSomeone'S<br>knocking at the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(from outside) Trick or treat! (It's obviously Halloween eve,<br>the \nnight of her birthday dinner."},
 				{"Character":"Monica","Line":"(opening the door) Hey"},
 				{"Character":"Phoebe","Line":"Ooh, and treat it is. (Monica's breasts."},
@@ -74,7 +74,7 @@
 			},
 		"3":{
 			"SceneDescription":" The restaurant. Phoebe and Joey are sitting alone at a \ntable<br>for six.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Where is everyone? They're forty minutes late"},
 				{"Character":"Joey","Line":"I know, u-uch"},
 				{"Character":"Phoebe","Line":"I'm starving. I know we were coming here tonight, I ate<br>nothing \nall day"},
@@ -93,7 +93,7 @@
 			},
 		"4":{
 			"SceneDescription":" Outside Ross and Rachel's.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, well the ??? is not home"},
 				{"Character":"Rachel","Line":"No. Uch"},
 				{"Character":"Rachel","Line":"No. Uch"},
@@ -120,7 +120,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Bings' bedroom, Chandler is undressing, Monica in \nbed<br>already.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Spend more time with the tie. That'll make a baby"},
 				{"Character":"Chandler","Line":"Look, I can't do this. I can't make luv to you while \nwe're<br>fighting this way"},
 				{"Character":"Monica","Line":"Oh sure, now you're Mister Sensitivity. But when you wanted<br>to \nhave sex right after my uncle's funera"},
@@ -142,7 +142,7 @@
 			},
 		"6":{
 			"SceneDescription":" Bings in bed, finished.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Uhh. You are welcome"},
 				{"Character":"Monica","Line":"You know what? Let's not talk"},
 				{"Character":"Chandler","Line":"What"},
@@ -162,7 +162,7 @@
 			},
 		"7":{
 			"SceneDescription":" continues, Joey finished everything",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Waiter","Line":"How was everything, sir"},
 				{"Character":"Joey","Line":"Excellent. The shrew in particular was exclusive"},
 				{"Character":"Waiter","Line":"Well, I hope, you got some room left"},

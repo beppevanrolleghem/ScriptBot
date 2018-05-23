@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Monica, Chandler, Phoebe, and Joey are there. Monica is holding a\npiece of paper.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"So the wedding caterer sent me this list of twelve appetizers and I have\nto narrow it down to six"},
 				{"Character":"Joey","Line":"Food? Uh-huh gimme! (She hands him the paper."},
 				{"Character":"Chandler","Line":"So did Monica tell you about this great band called the Swing Kings\nthat we’re trying to get to play at the wedding"},
@@ -36,7 +36,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Bridal Shop, Phoebe and Rachel are waiting for Monica who is trying on her\nwedding dress.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(wearing a veil) Am I crazy or does this totally go?"},
 				{"Character":"(Monica enters from the dressing room wearing her gown","Line":"Monica enters from the dressing room wearing her gown."},
 				{"Character":"Rachel","Line":"Oh my God! You look so beautiful"},
@@ -95,7 +95,7 @@
 			},
 		"3":{
 			"SceneDescription":" Kleinman’s, a horde of women including Rachel, Phoebe, and Monica are\nwaiting for the store to open.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"A Woman","Line":"What is taking so long?! I mean whatever"},
 				{"Character":"Rachel","Line":"(To Phoebe) So this is Brooklyn"},
 				{"Character":"Monica","Line":"All right, listen up. There is usually only one dress in each size so\nwhen they open those doors, fan out. Now, this is what you’re looking for! (Holds up\na picture of it.) Memorize it! When you locate the dress, blow on these. All right? (She\npasses out whistles to them.) Three short blasts. When you hear it, come running"},
@@ -183,7 +183,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, time lapse from the earlier scene.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Well obviously only one of us can keep dating her"},
 				{"Character":"Joey","Line":"Obviously! So, how do we decide"},
 				{"Character":"Ross","Line":"Well now let’s-let’s look at this objectively, I think I should\ndate her"},
@@ -213,7 +213,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross's apartment, Ross is getting ready for his date with Kristen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Ross","Line":"Hey! What’s up"},
 				{"Character":"Ross","Line":"Hey! What’s up"},
@@ -260,7 +260,7 @@
 			},
 		"6":{
 			"SceneDescription":" Gramercy Bistro, Ross and Kristen are waiting for their table to be ready.\nRoss is returning from talking to the Maitre d'.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So they said our table will be ready in just a few minutes"},
 				{"Character":"Kristen","Line":"Oh great"},
 				{"Character":"Kristen","Line":"Oh great"},
@@ -346,7 +346,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's, Chandler, Joey, and Ross are watching a basketball game\non the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(entering) Hey guys! Do you wanna look at the song list for the wedding?\n(They ignore her.) Guys"},
 				{"Character":"Chandler","Line":"(without turning around) I thought you were gonna be gone all day"},
 				{"Character":"Monica","Line":" Alright, what’s going on"},

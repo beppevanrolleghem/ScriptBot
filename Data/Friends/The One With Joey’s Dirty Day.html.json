@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, erm, Chandler and Joey's, Joey is getting ready for a\nfishing trip and Phoebe is asking him about the fishing lures. Ross is playing with the\nrod, and Monica is pretty much just watching the on goings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(holding a lure) So now, what is this now"},
 				{"Character":"Joey","Line":"Guggly worm"},
 				{"Character":"Joey","Line":"Guggly worm"},
@@ -53,7 +53,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, erm, Chandler and Joey's, Chandler is in his sweats\nflinging playing cards into a pot.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Y’know, I can’t believe Kathy did this too me. I really,\nthought that she was the one. I tell you what, from now on I’m never getting out of\nthis chair, ever! Okay? From now on, this chair is the one! You wanna what else is the\none? My sweat pants"},
 				{"Character":"Ross","Line":"Come on, man! Just-just take the sweats off. Okay? Just take ‘em off\nand we’ll have some fun"},
 				{"Character":"Joey","Line":"(entering) Hey-hey"},
@@ -176,7 +176,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, erm, Monica and Rachel's, scene continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"They’re in Vermont!! How could this happen?! (She waves her arms\nfranticly and hits Chandler."},
 				{"Character":"Chandler","Line":"Ow"},
 				{"Character":"Chandler","Line":"Ow"},
@@ -224,7 +224,7 @@
 			},
 		"4":{
 			"SceneDescription":" A strip club, the girls are there with Chandler, who isn’t enjoying\nhimself.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(coming back to the stage and sitting next to Chandler) Okay, I’ve\ngot some Ones, you wanna put them in her panties"},
 				{"Character":"Chandler","Line":"No thanks, Mom"},
 				{"Character":"Chandler","Line":"No thanks, Mom"},
@@ -258,7 +258,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, erm, Monica and Rachel's, Chandler, Monica, and Phoebe are\nreturning from the strip club.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"So, we did okay at the strip club, right"},
 				{"Character":"Chandler","Line":"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress\nthere is quitting to teach the third grade"},
 				{"Character":"Rachel","Line":"(entering) I can’t believe it! He still hasn’t called"},
@@ -326,7 +326,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, erm, Monica and Rachel's, Chandler is there and is getting\nready to direct a bunch of strippers, Monica, Rachel, and Phoebe on what to do in the\nupcoming orgy of lesbian lust. Yes, it’s a dream sequence, this isn’t cable.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"All right ladies, here’s what we’re gonna do. (Points to a\nstripper.) You are gonna take off my clothes. (To another two strippers) You two,\ngo get the oils. (To another stripper) And you just constantly scream at the top of your\nvoice, \"Chandler’s the king! Chandler’s the king!"},
 				{"Character":"Phoebe","Line":"I-I wanna be with her, (points to the stripper next to her) I like her"},
 				{"Character":"Chandler","Line":"Oh, that’s fine! Go with your instincts, go with your instincts"},

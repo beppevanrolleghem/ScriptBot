@@ -1,37 +1,38 @@
 {"./Data/Friends/ToConvert//The One Where Joey Moves Out.html":{
 	"Cast":[],
 	"Scenes":{
+		"0":{"SceneDescription":"NONE","lines":[]},
 		"1":{
-			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are sitting at\nthe bar, in their bathrobes, eating cereal",
-			"lines":]
+			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are sitting atNEWLINEthe bar, in their bathrobes, eating cereal",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
-			"SceneDescription":" The Gellers' house. Monica, Ross, and Richard are arriving to Mr. Gellers\nbirthday party.",
-			"lines":]
+			"SceneDescription":" The Gellers' house. Monica, Ross, and Richard are arriving to Mr. GellersNEWLINEbirthday party.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Joey's co-star's apartment. Chandler and Joey are at the brunch.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Tattoo parlor. Phoebe and Rachel are deciding on tattoos.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
-			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are returning from their\nbrunch.",
-			"lines":]
+			"SceneDescription":" Chandler and Joey's apartment. Chandler and Joey are returning from theirNEWLINEbrunch.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Mr. Geller's birthday party. Monica and Richard are alone in the kitchen.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's apartment. Chandler is at the bar and Joey enters.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Chandler's apartment. Chandler and Joey are playing foosball for the table.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

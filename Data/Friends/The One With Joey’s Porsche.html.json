@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, the gang is there except for Rachel and Ross, who both\ncome storming in. Rachel is still going off about Ross’s secret marriage.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I cannot believe that you didn’t tell me that we are still\nmarried!"},
 				{"Character":"Ross","Line":"Look I was going to tell you"},
 				{"Character":"Rachel","Line":"When?! After the birth of our first secret child?! (To All) Ross\ndidn’t get the annulment; we are still married"},
@@ -31,7 +31,7 @@
 			},
 		"2":{
 			"SceneDescription":" The street down the block from Central Perk, Joey has found the Porsche and is\nwriting the note.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Guy #1","Line":"Nice car"},
 				{"Character":"Joey","Line":"Yeah, it’s not mine"},
 				{"Character":"Joey","Line":"Yeah, it’s not mine"},
@@ -50,7 +50,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the next day, Chandler, Monica, and Phoebe are\nbaby-sitting the triplets. They each have one baby.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Pheebs, how’s it going"},
 				{"Character":"Phoebe","Line":"(rapidly) I’m doing okay. I think it’s going well. Do you\nthink they’re having fun? Am I talking to fast"},
 				{"Character":"Monica","Line":"Nope, sound like me. Pheebs, it’s going great. Look at Chandler\nwith little baby girl Chandler"},
@@ -99,7 +99,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, the triplets are all in their crib as Monica and Phoebe\nwatch them.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I don’t know why I was so nervous about this. And I don’t know\nwhy Frank and Alice are always complaining. This is so easy"},
 				{"Character":"Monica","Line":"Yeah, two hours, a lifetime that’s the same"},
 				{"Character":"Chandler","Line":"(entering) Check it out! Check it out! When the babies wake up, they\ncan meet Krog! (He holds up this Xena-like warrior action figure."},
@@ -134,7 +134,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Chandler is still doing the hairball thing as Monica and\nPhoebe are watching the babies. I can’t describe it, you’ll have to see it when\nit comes on in your area.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering wearing nothing but Porsche clothes) So the Porsche guy took his\ncar back"},
 				{"Character":"Chandler","Line":"But you found the keys to his clothes"},
 				{"Character":"Joey","Line":"No. No, I just uh, I just loved the way it feels when everybody thinks I\nown a Porsche"},
@@ -168,7 +168,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is being triple teamed.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Me taking care of you is no problem, huh? You guys feel safe. Right?\nOkay, I’m gonna take that spit bubble as, \"Yeah, I do!\" Okay, after I get\nrid of this dirty diaper Leslie, I’ll set you up with a clean one. (She throws it at\nthe garbage without looking, misses, and knocks over a vase and flowers, which fall to the\nfloor and break.) Okay, I’m sorry. I didn’t mean to scare you. I just have to\nclean that up. Okay? ‘Cause let’s face it, we’re at Monica’s. (She\ncrawls over, disposes of the diaper, picks up the flowers, and the vase.) I broke it. All\nright. Well, that’s just the way that goes. (She throws out both the flowers and the\nvase.) Okay, good. (She turns around and only counts two babies.) Why are there only two\nof you? Where is Leslie? Well, you can’t answer. (She starts looking for her) Leslie?\nWhere are you Leslie? Leslie, now would be a good time for your first words! (She\nturns around and finds that Leslie has managed to crawl into the bottom drawer of the TV\ncabinet.) Well, look at you! Hey! You are a little bit mischievous! My gosh! (She picks\nher up and notices a surprise is waiting in the drawer.) Oh, you’re a lot\nmischievous! Well, it’ll dry. (Closes the drawer with her foot.) (To Leslie) Okay,\nyou sit with your brother and sister now—who aren’t there! (They both have\ndisappeared as well."},
 				{"Character":"[Time Lapse, the babies are finally asleep. Good for Phoebe! The only problem is,\nMonica’s apartment looks like a tornado, a hurricane, a swarm of locusts, fire,\nbrimstone, hail, and giant man-eating, radioactive ants have torn the place apart.\nNeedless to say, it’s messy enough to cause Monica to die of shock right away.\nParents with small children know what I’m talking about","Line":"Time Lapse, the babies are finally asleep. Good for Phoebe! The only problem is,\nMonica’s apartment looks like a tornado, a hurricane, a swarm of locusts, fire,\nbrimstone, hail, and giant man-eating, radioactive ants have torn the place apart.\nNeedless to say, it’s messy enough to cause Monica to die of shock right away.\nParents with small children know what I’m talking about."},
 				{"Character":"Chandler","Line":"(entering) Hey"},
@@ -200,7 +200,7 @@
 			},
 		"7":{
 			"SceneDescription":" The street, Joey is messing with a car cover and still wearing the Porsche\nstuff. This guy playing street football catches a pass next to the car cover Joey is\nfooling around with.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! Hey! Be careful around my Porsche!"},
 				{"Character":"Woman","Line":"(the same one from before approaches) Hi Joey"},
 				{"Character":"Joey","Line":"Hey! How you doin’"},

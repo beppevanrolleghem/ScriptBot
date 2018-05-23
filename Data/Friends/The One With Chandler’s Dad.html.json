@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Phoebe, Monica, and Rachel are sitting around the\nkitchen table as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -40,7 +40,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Monica and Phoebe are counting the invitations as\nChandler exits from the bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Chandler, we still haven’t gotten an RSVP from your dad"},
 				{"Character":"Chandler","Line":"Oh! Right. Umm, maybe that’s because I didn’t send him an\ninvitation"},
 				{"Character":"Monica","Line":"Chandler! He’s your father; he should be at the wedding"},
@@ -56,7 +56,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Joey and Phoebe are on the couch as a man enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Man","Line":"Hey guys"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -92,7 +92,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Phoebe is there as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Pheebs"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
@@ -133,11 +133,11 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Joey is walking from the bathroom to his bedroom and walks\npast a pile of Rachel’s laundry, which just happens to include a selection of\npanties. He stops, goes back to the basket, looks for Rachel, picks up a lavender thong,\nand heads for his bedroom. However, he decides he doesn’t like his selection and goes\nback this time picking up a red low-cut silk brief and heads for his room, flexing along\nthe way to prove his masculinity.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" The Porsche, they have pulled over and are waiting for the cop to come talk to\nthem.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay. Switch places with me! Switch places with me! Come on! I’ll\ngo under, you go over"},
 				{"Character":"Ross","Line":"Yeah, I’ll get right on that"},
 				{"Character":"Rachel","Line":"Oh come on Ross!! (She tries to switch places with him and goes under\nhis leg."},
@@ -227,7 +227,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Phoebe is sitting on the couch as Joey enters strutting.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey Pheebs! (He sits down next to her."},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
@@ -257,7 +257,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Porsche, cars are whizzing by and honking their horns on both sides very\nquickly as Ross creeps along.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Remind me to introduce you to someone"},
 				{"Character":"Ross","Line":"Who"},
 				{"Character":"Ross","Line":"Who"},

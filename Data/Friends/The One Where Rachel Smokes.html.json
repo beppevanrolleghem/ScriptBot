@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey, Chandler, Monica, and Phoebe are there. Joey is holding a\ndeck of cards out to Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Okay, pick a card"},
 				{"Character":"Chandler","Line":"Okay. (He picks the 9 of Spades"},
 				{"Character":"Joey","Line":"All right now, memorize it. (Pause) You got it"},
@@ -42,7 +42,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ben's audition, Carol, Ross, and Ben along with about 10 more families are in a\nwaiting room as Joey enters happily.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! I'm in, they're gonna let me audition"},
 				{"Character":"Ross","Line":"Really? That's great"},
 				{"Character":"Ross","Line":"Really? That's great"},
@@ -59,7 +59,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Rachel is telling Chandler and Monica about her day.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"…and then they came back from smoking and they had made all of the\ndecisions without me"},
 				{"Character":"Monica","Line":"That doesn't seem fair"},
 				{"Character":"Rachel","Line":"I know! It's like I'm being punished for not having this disgusting,\npoisoning habit"},
@@ -134,7 +134,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ben and Joey's (Isn't that an ice cream??) callback.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh God, this is so nerve wracking! How-how do you do this"},
 				{"Character":"Joey","Line":"Well, unfortunately, I don't get many callbacks so"},
 				{"Character":"Carol","Line":"Is it a good sign that they asked us to hang around after the audition"},
@@ -162,7 +162,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Chandler and Monica are there as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(To Rachel) How did work go"},
 				{"Character":"Rachel","Line":"Oh it was great! It was great! I went down there just like you said,\ny'know? And we talked business. Kim totally took my opinions"},
 				{"Character":"Monica","Line":"You stink"},
@@ -193,7 +193,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Ben's audition, Joey is rehearsing his lines, uh correction, Joey is\nrehearsing his <b>line</b>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hmmm, soup! (Tries again.) Hmm soup! (Tries again, with a little\ncaveman thrown in.) Hmm, soup"},
 				{"Character":"Carol","Line":"Joey, Ross is gonna be here any second, would you mind watching Ben for\nme while I use the ladies' room"},
 				{"Character":"Joey","Line":"Oh yeah, no problem"},
@@ -250,7 +250,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Rachel's surprise party. The apartment is festooned with\ncups. There are cups everywhere! Cup centerpiece, cup garland, etc., etc",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(To Chandler) Check it out! Cup hat! (Points to her hat.) Cup banner!\nCup chandelier! And the thing that started it all, the cup! (Holds up one."},
 				{"Character":"Chandler","Line":"Great job with the cups, Pheebs"},
 				{"Character":"Monica","Line":"(overhearing that) Why don't you just go out with her"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the whole gang is there including Janice.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"Janice has a question. Who of the six of you has sleep with the six of\nyou"},
 				{"Character":"Phoebe","Line":"Wow, it’s like a dirty math problem"},
 				{"Character":"Ross","Line":"I’m sorry the answer there would be...none of us"},
@@ -27,7 +27,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler’s, Chandler is interviewing a potential roommate.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Soo, ah, Eric, what kind of photography do ya do"},
 				{"Character":"Eric","Line":"Oh, mostly fashion, so there may be models here from time to time, I hope\nthat’s cool"},
 				{"Character":"Chandler","Line":"Yes, that is cool. Because I have models here y'know......never"},
@@ -36,7 +36,7 @@
 			},
 		"3":{
 			"SceneDescription":" the hallway, Monica is coming up the stairs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well okay Jerry, thanks for stopping by"},
 				{"Character":"(Joey is leaving and notices Monica, as Monica notices hi","Line":"Joey is leaving and notices Monica, as Monica notices him"},
 				{"Character":"Monica","Line":"Hi"},
@@ -51,7 +51,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Phoebe’s, Ross is on the phone, as Phoebe is walking by\ncarrying a lamp.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"No real-, honey, really it’s fine, just g-go with Susan. Really, I,\nno, I think girls night out is a great idea. Okay, okay, by"},
 				{"Character":"Phoebe","Line":"So what are they doing"},
 				{"Character":"Ross","Line":"I don’t know, something girlie"},
@@ -89,7 +89,7 @@
 			},
 		"5":{
 			"SceneDescription":" continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh my God!!! What are you doing?!"},
 				{"Character":"Joey","Line":"You said, you wanna come in for some lemonade"},
 				{"Character":"Monica","Line":"So?"},
@@ -108,7 +108,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, (now) Joey is watching <i>Baywatch</i>, as Chandler enters\nfrom his bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"So ah, whatcha watching"},
 				{"Character":"Joey","Line":"<i>Baywatch.</i"},
 				{"Character":"Joey","Line":"<i>Baywatch.</i"},
@@ -129,7 +129,7 @@
 			},
 		"7":{
 			"SceneDescription":" the bar, Ross is entering, Phoebe is at the bar, they are the only two in the\nplace.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(all depressed) Hi. Where is everybody"},
 				{"Character":"Phoebe","Line":"Oh, it’s already closed, Chris gave me the keys to lock up-what is\nwrong"},
 				{"Character":"Ross","Line":"My marriage, I think my marriage is um, is kinda over"},
@@ -152,7 +152,7 @@
 			},
 		"8":{
 			"SceneDescription":" the bar, Phoebe is still hugging Ross.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Maybe this would’ve happened if I’d been more nurturing, or\nI’d paid more attention, or I... had a uterus. I can’t believe this"},
 				{"Character":"Phoebe","Line":"I know no, no, y'know you don’t deserve this, you don’t Ross.\nYou’re, you’re really, you’re so good. (kisses him on the cheek"},
 				{"Character":"Ross","Line":"Thanks"},

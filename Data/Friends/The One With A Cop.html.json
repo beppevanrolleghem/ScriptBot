@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Monica and Chandler are sitting on one of the chairs doing\na crossword puzzle.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -30,7 +30,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, everyone is there but Ross and Joey. Gunther hands them the bill,\nand Chandler gives some money to pay it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(looking at the bill) Uhh, we still need a tip"},
 				{"Character":"Phoebe","Line":"All right. Hold on. (She starts digging in the chair.) I got it. Nickel!\n(Donates it.) How much more do we need"},
 				{"Character":"Rachel","Line":"A couple of bucks"},
@@ -73,7 +73,7 @@
 			},
 		"3":{
 			"SceneDescription":" Outside of Central Perk, Phoebe is exiting and sees a woman put out her\ncigarette on a tree.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh. Oh! Ma'am? Excuse me, ma'am?"},
 				{"Character":"The Smoking Woman","Line":"Yes"},
 				{"Character":"The Smoking Woman","Line":"Yes"},
@@ -100,7 +100,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Phoebe is telling Chandler and Monica how she fought crime\nin her own way with the badge she found.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"…so this guy was all (Mumbles.) And I'm all, Buffay, Homicide.\n(Flashes the badge.) It was just so cool"},
 				{"Character":"Monica","Line":"(cooking something) Phoebe, you were supposed to take that back"},
 				{"Character":"Phoebe","Line":"I know but I'm having so much fun doing good deeds"},
@@ -183,7 +183,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Joey is entering. Rachel is there getting some tools to\nhelp Ross out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey! Joey, would you mind giving me and Ross a hand moving his couch"},
 				{"Character":"Joey","Line":"Oh, I'd love too, but I got acting class. But y'know what? I guess I can\nblow that off, (In a sexy voice) for you"},
 				{"Character":"(He starts staring at her longingly","Line":"He starts staring at her longingly."},
@@ -219,7 +219,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, Joey is returning and finds Chandler, Monica, and Rachel\nare there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Rachel","Line":"Hey! How's it going? Did you make any new friends"},
 				{"Character":"Joey","Line":"Yeah, yeah, I met this woman. (Starts for his room."},
@@ -238,7 +238,7 @@
 			},
 		"7":{
 			"SceneDescription":" The couch store, Ross is talking to a saleswoman.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I'd like to return this couch. I'm not satisfied with it"},
 				{"Character":"[The camera cuts to show the couch, which has been cut in half","Line":"The camera cuts to show the couch, which has been cut in half."},
 				{"Character":"The Saleswoman","Line":"You wanna return this couch? (Ross nods yes.) It's cut in half"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Chandler and Joey are playing with the duck and the\nchick.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, wouldn't be cool if our duck and chick had a little baby? We could\ncall it Chuck"},
 				{"Character":"Chandler","Line":"Or... Dick"},
 				{"Character":"Chandler","Line":"Or... Dick"},
@@ -44,7 +44,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Street, Phoebe is walking with her second date, Jason.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jason","Line":"...and I know I'll never miss doing it, but I gotta tell you, it's pretty\ncool knowing that you're making a difference in a kid's life"},
 				{"Character":"Phoebe","Line":"That is so great! Oh, I... (sees that a parked car near them has caught\non fire) Oh my God"},
 				{"Character":"Jason","Line":"Whoa"},
@@ -66,7 +66,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Chandler, Monica, and Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(starting to get up) I gotta go water Pete's plants. (stops) Y'know\nwhat, if he's gonna break up with me, maybe I won't water his plants"},
 				{"Character":"Chandler","Line":"Well, if he's gonna break up with you, maybe Joey and I should water\nhis plants. If y'know what I mean"},
 				{"Character":"Joey","Line":"Or ha-ha, we could go over there and pee on them"},
@@ -98,7 +98,7 @@
 			},
 		"4":{
 			"SceneDescription":" Pete's apartment, Monica is there to water the plants, and is showing the gang\naround.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay, this is the den. All right, check this out. Lights! (the lights\nturn on automatically, but are very bright) Whoa! All right. Less lights! Bad lights!\nLights go away! (they dim) Oh, see you just need to find the right command"},
 				{"Character":"Ross","Line":"Yes, and the dimmer switch"},
 				{"Character":"Joey","Line":"Whoa! For a rich guy he's got, that's a pretty small TV"},
@@ -169,7 +169,7 @@
 			},
 		"5":{
 			"SceneDescription":" A Fire House, Phoebe has gone to break up with Vince.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Excuse me. Umm, is Vince here"},
 				{"Character":"Fireman","Line":"Oh sure. Vince?"},
 				{"Character":"Fireman","Line":"Oh sure. Vince?"},
@@ -193,7 +193,7 @@
 			},
 		"6":{
 			"SceneDescription":" Jason’s apartment, Phoebe has gone to break up with Jason.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(knocks on the door) Jason"},
 				{"Character":"Jason","Line":"Yeah, come on in"},
 				{"Character":"Jason","Line":"Yeah, come on in"},
@@ -206,7 +206,7 @@
 			},
 		"7":{
 			"SceneDescription":" Pete’s apartment, Pete and Monica are coming back from a date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Pete","Line":"Lights. (The lights turn on, once again they’re too bright.) Uh,\nromantic lights. (The lights dim."},
 				{"Character":"Monica","Line":"Ooh, nice"},
 				{"Character":"Monica","Line":"Ooh, nice"},
@@ -246,7 +246,7 @@
 			},
 		"8":{
 			"SceneDescription":" Guru Saj’s office: Joey and Chandler have taken the duck to see the guru.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(comforting the duck) Everything’s gonna be all right. Okay,\nDick"},
 				{"Character":"Guru Saj","Line":"(entering) Hello, I am Guru Saj-(sees the duck)-Whoa!! (to Joey)\nThat’s supposed to be a duck right? ‘Cause otherwise, this is waaay out of my\nleague"},
 				{"Character":"Joey","Line":"Yeah, yeah. He’s got a, he’s got a really bad cough, and our\nvet, he can’t do anything about it. Is there something you can do"},

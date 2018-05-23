@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, 3:02 A.M., Chandler is up. There's a knock on the door and\nChandler answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(quietly) Hi"},
 				{"Character":"Chandler","Line":"(quietly) Hi! (They both start kissing."},
 				{"Character":"(Joey enters and Chandler pushes her away","Line":"Joey enters and Chandler pushes her away."},
@@ -30,7 +30,7 @@
 			},
 		"2":{
 			"SceneDescription":" Atlantic City, New Jersey, Chandler and Monica are about to start their weekend\nof sex, sex, nothing but sex.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(jumping on the bed) I can't believe it! We're here"},
 				{"Character":"Monica","Line":"Ooh, chocolates on the pillows! I love that"},
 				{"Character":"Chandler","Line":"Oh, you should live with Joey, <i>Roll-os</i> everywhere"},
@@ -48,7 +48,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Monica's weekend, a hotel clerk is showing them their new room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hotel Clerk","Line":"I think you'll find this room more to your liking"},
 				{"Character":"Chandler","Line":"Okay, great. (He grabs the remote and turns on the TV to the chase."},
 				{"Character":"Hotel Clerk","Line":"(watching the chase) They say he's only got half a tank left"},
@@ -94,7 +94,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is returning from his disastrous weekend. He\nthrows his bag down and sits down on one of the leather chairs, but he sits on something\nand picks it up and throws it away.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Damn <i>Rollos</i>"},
 				{"Character":"Joey","Line":"Hey, you're back"},
 				{"Character":"Joey","Line":"Hey, you're back"},
@@ -139,7 +139,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Joey is watching TV.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"Hey, Mr. Bing. That uh, hotel you stayed at called. Said someone left an\neyelash curler in your room"},
 				{"Character":"Chandler","Line":"Yes that was mine"},
@@ -151,7 +151,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Monica is doing a crossword puzzle.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Hey"},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi"},
@@ -188,7 +188,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, the gang, minus Ross are playing <i>Madlibs</i>. Phoebe is\nreading hers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"The most popular Phoebe in tennis is called the overhand Phoebe. And if\nyou win, you must slap your opponent on the Phoebe and say, \"Hi, Phoebe!"},
 				{"Character":"Monica","Line":"Oh that's cute! We really all enjoyed it. But y'know, it doesn't count"},
 				{"Character":"Phoebe","Line":"Count for what"},

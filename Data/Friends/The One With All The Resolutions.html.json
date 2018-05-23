@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are hosting a New Year's party. So the\nplace is crowded and in a shameless promotion for NBC they're watching Jay Leno's coverage\nof New Year's from Time Square.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jay Leno","Line":"(On TV to Dick Clark) Is there any entertainment there? What are people\ndoing"},
 				{"Character":"Joey","Line":"All right! Here we go! 1999! The year of Joey"},
 				{"Character":"Chandler","Line":"(deadpan, standing next to Monica) We're very happy for you"},
@@ -82,7 +82,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Ross is talking to a beautiful woman as Chandler and Joey enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Woman","Line":"I'll see you tomorrow"},
 				{"Character":"Ross","Line":"Okay! (She leaves.) (To Chandler and Joey.) Hey"},
 				{"Character":"Chandler and Joey","Line":"Hey"},
@@ -129,7 +129,7 @@
 			},
 		"3":{
 			"SceneDescription":" Elizabeth Hornswoggle's apartment; Ross is there on his date with her. They are\nsitting on the couch watching a movie. Ross is obviously hot.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(talking to himself) My God! These pants are burning up! (He's still\nwearing the leather pants.) (She snuggles closer.) Oh come on, she wants to snuggle now!\nWhat is she trying to kill me? It's like a volcano in here! (Out loud.) Are you hot?"},
 				{"Character":"<strong>Elizabeth Hornswoggle","Line":"/strong> No"},
 				{"Character":"Ross","Line":"Okay, it must just be me then"},
@@ -158,7 +158,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler, Joey, and Ross's, The phone rings and Joey answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(answering phone) Hello"},
 				{"Character":"Ross","Line":"(calling from Elizabeth's bathroom) Joey, it's Ross! I need some help"},
 				{"Character":"Joey","Line":"Uhh, Chandler's not here"},
@@ -225,7 +225,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Joey is there to apologize to Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, Pheebs"},
 				{"Character":"Phoebe","Line":"No, I can't talk to you! I don't have a fancy ad in the Yellow Pages"},
 				{"Character":"Joey","Line":"Look, Pheebs, I just, I wanna apologize for, for saying that your method\nwas stupid and-and maybe ask you to be my teacher again. And-and I promise, I won't touch\na guitar until you say I'm ready. (After a short pause she hands him her guitar.) You\nreally think I'm ready"},
@@ -246,7 +246,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Phoebe, Ross, and Monica are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Oh good, okay, I can't take it anymore. I can't take it\nanymore. So you win, okay? Here! (Hands him the 50 bucks he's about to owe him.) Pheebs?\nFlying a jet? Better make it a spaceship so that you can get back to your home\nplanet! And Ross, phone call for you today, Tom Jones, he wants his pants back! And\nHornswoggle? What are you dating a character from <i>Fraggile Rock</i>?! (He sits down and\nsighs in relief."}]
 			}
 }

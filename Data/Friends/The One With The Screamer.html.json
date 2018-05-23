@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is on the phone, Chandler and Monica are sitting in\nthe living room, and Ross is in the kitchen as Rachel enters from her bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, Phoebe, are you still on hold? I was supposed to call my Dad back\nlike two hours ago"},
 				{"Character":"Phoebe","Line":"Oh, yeah, he clipped on, he said call him as soon as you get a chance,\nhe’s at Flimby’s"},
 				{"Character":"Rachel","Line":"What’s Flimby’s"},
@@ -80,7 +80,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey’s Premiere, Rachel is already there with her date, Tommy who's played\nby Ben Stiller who will be in <em>There's Something About Mary</em> and <em>Meet The\nParents</em>, as Ross and his date, Cailin, arrive.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, hey Rach"},
 				{"Character":"Rachel","Line":"Oh, hi"},
 				{"Character":"Rachel","Line":"Oh, hi"},
@@ -166,7 +166,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are returning. Phoebe is <b>still</b> on\nhold.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -184,7 +184,7 @@
 			},
 		"4":{
 			"SceneDescription":" Kate’s Apartment, Joey and Kate are returning from a night out on the\ntown.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Kate","Line":"(drunk) So you really think those newspapers are just jealous of me"},
 				{"Character":"Joey","Line":"Oh, absolutely! You’re talented and you’re good looking"},
 				{"Character":"Kate","Line":"Oh, you’re sweet and cute"},
@@ -221,7 +221,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Chandler and Monica are sitting on the couch, Rachel is on the\nchair.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gunther","Line":"(bringing Chandler a cup) This is from the woman at the bar"},
 				{"Character":"Chandler","Line":"Oh-ho-ho-ho."},
 				{"Character":"Chandler","Line":"Oh-ho-ho-ho."},
@@ -299,7 +299,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Chandler and Ross are in the kitchen, Rachel and Monica\nare sitting in the living room, and Phoebe is, you guessed it, still on hold.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Tommy","Line":"Hey, mind if I use the phone"},
 				{"Character":"Phoebe","Line":"Oh, I… (starts jabbering incoherently"},
 				{"Character":"Chandler","Line":"Why don’t you use ours across the hall, ‘cause\nshe…has…problems"},
@@ -329,7 +329,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, the gang, except Joey, is there. Phoebe is, well you\ny'know.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe, it’s been two days"},
 				{"Character":"Phoebe","Line":"Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right"},
 				{"Character":"Ross","Line":"Phoebe, 800 is toll free, 801 is-is Utah"},

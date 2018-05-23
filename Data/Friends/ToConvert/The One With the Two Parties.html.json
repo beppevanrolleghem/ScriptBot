@@ -1,21 +1,22 @@
 {"./Data/Friends/ToConvert//The One With the Two Parties.html":{
 	"Cast":[],
 	"Scenes":{
+		"0":{"SceneDescription":"NONE","lines":[]},
 		"1":{
-			"SceneDescription":" Moondance Diner. Ross, Phoebe, Joey, and Chandler are sitting at\nthe counter, Monica is working. Monica is wearing her costume, including big fake\nbreasts.",
-			"lines":]
+			"SceneDescription":" Moondance Diner. Ross, Phoebe, Joey, and Chandler are sitting atNEWLINEthe counter, Monica is working. Monica is wearing her costume, including big fakeNEWLINEbreasts.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
-			"SceneDescription":" Monica and Rachel's apartment. Chandler, Joey, Monica, and Phoebe are setting\nup for the party.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Chandler, Joey, Monica, and Phoebe are settingNEWLINEup for the party.",
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" The hallway after the party. Rachel is sitting there.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
-			"SceneDescription":" Monica and Rachel's apartment. Close up of the flan on the table with birthday\ncandles.",
-			"lines":]
+			"SceneDescription":" Monica and Rachel's apartment. Close up of the flan on the table with birthdayNEWLINEcandles.",
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

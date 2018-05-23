@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Chandler, Rachel, Joey, and Monica are sitting on the couch as\nRoss is up getting some coffee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay, guys, listen, don't forget that tomorrow is the day that Emily\ngets married again, so whatever we do, just try to really keep Ross's mind off of it"},
 				{"Character":"Joey","Line":"Oh, yeah, good idea"},
 				{"Character":"Joey","Line":"Oh, yeah, good idea"},
@@ -61,7 +61,7 @@
 			},
 		"2":{
 			"SceneDescription":" Gary's cop car, Ross is in the front seat with Gary of course. Chandler is in\nthe back seat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(to Gary) That was so cool man, the way you leaned on that guy"},
 				{"Character":"Chandler","Line":"It is starting to get dark out there"},
 				{"Character":"Ross","Line":"(to Gary) He told you everything! I mean you totally cracked him"},
@@ -119,7 +119,7 @@
 			},
 		"3":{
 			"SceneDescription":" The ride along.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So where are we going next"},
 				{"Character":"Gary","Line":"This witness won't return my calls so we're gonna see if we can surprise\nhim coming home"},
 				{"Character":"Chandler","Line":"Sur-surprise him? We're not, we're not gonna make anybody mad are we"},
@@ -155,7 +155,7 @@
 			},
 		"4":{
 			"SceneDescription":" The ride along, they're all waiting outside of the witness's house and still in\nthe car in the same places as before.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay, y'know, we-we're safe right? I mean nothing bad can go down"},
 				{"Character":"Gary","Line":"No. But that reminds me, (handing back a clipboard) sign this"},
 				{"Character":"Ross","Line":"What is it"},
@@ -190,7 +190,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, the guys are returning from the ride along to find Phoebe already\nthere.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gary","Line":"Hey, anybody want to meet a hero"},
 				{"Character":"Phoebe","Line":"(excited) John Glenn is here?"},
 				{"Character":"Gary","Line":"No, Joey"},
@@ -251,7 +251,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's apartment, Rachel is trying to repair the thing she broke earlier, but\ngets interrupted by hearing Ross at the door. She panics and throws the thing into the\nkitchen. And runs to the couch as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey! Hi"},
 				{"Character":"Ross","Line":"Rach, what uh, what are you doing here"},
 				{"Character":"Rachel","Line":"Hey! Y'know what? You are in our apartment all the time! Okay?\nThis is, this is just a drop in the bucket mister"},

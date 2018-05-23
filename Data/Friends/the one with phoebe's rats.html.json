@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Coffee place, Joey is there, Chandler is entering",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"He"},
 				{"Character":"Joey","Line":"Hey. So where's Mon"},
 				{"Character":"Joey","Line":"Hey. So where's Mon"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel's office, Rachel comes in and Gavin is there",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hello"},
 				{"Character":"Gavin","Line":"Hell"},
 				{"Character":"Gavin","Line":"Hell"},
@@ -110,7 +110,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe's place, Phoebe and Mike are there",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey Mike"},
 				{"Character":"Mike","Line":"Hey "},
 				{"Character":"Mike","Line":"Hey "},
@@ -138,7 +138,7 @@
 			},
 		"4":{
 			"SceneDescription":" Hallway, Joey get out of his appartment and Chandler jumps out of \n  his",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Where you going, Joe"},
 				{"Character":"(Joey falls on floor and gets u","Line":"Joey falls on floor and gets up"},
 				{"Character":"Joey","Line":"For a walk"},
@@ -163,7 +163,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel's birthday party",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(to Monica) I still can't believe you invited Gavin. Allright, \n  he is the last person I want to see"},
 				{"Character":"Monica","Line":"Oh, you're welcome for the party. I'm glad you're having a good \n  time"},
 				{"Character":"Rachel","Line":"God, I hope he doesn't show up. Of course he's not gonna show \n  up, the guy hates me"},
@@ -211,7 +211,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe's place, Phoebe and Mike enter",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ok, ok, you start preparing the formula and I start changing \n  the box and then we gotta put them straight to bed"},
 				{"Character":"Mike","Line":"Hey, when did we become one of those couples whose lives revolve \n  around their rats"},
 				{"Character":"Phoebe","Line":"Well, you know what, they're our responsibility now"},

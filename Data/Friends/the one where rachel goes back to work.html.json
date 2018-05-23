@@ -3,39 +3,39 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Monica's",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Chandler and Monica's",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" DOOL set",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Ralph Lauren",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Ralph Lauren",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Ralph Lauren",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" DOOL set",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" DOOL set",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"9":{
 			"SceneDescription":" DOOL set",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

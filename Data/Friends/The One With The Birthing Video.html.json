@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk. Rachel is getting a cup of coffee as Joey and Phoebe enter and\nsit down.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh! Hey, Rach"},
 				{"Character":"Rachel","Line":"Hi! Hey, Happy Valentine’s Day"},
 				{"Character":"Rachel","Line":"Hi! Hey, Happy Valentine’s Day"},
@@ -45,7 +45,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and…wait…just Joey’s. Joey is sitting at the counter eating\na pizza.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(knocking and entering) Hey. Look, I know you’ve been really depressed\nlately, so I brought someone over to cheer you up. Right outside this door is a real,\nlive, furry playmate"},
 				{"Character":"Joey","Line":"No, I’m not sleeping with your friend Jane again"},
 				{"Character":"(Phoebe goes into the hall and brings a dog inside","Line":"Phoebe goes into the hall and brings a dog inside!"},
@@ -59,7 +59,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey’s. Joey is playing fetch with the dog.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Get the ball, ready? Get the ball, get the ball! (Joey pretends to throw it,\nbut really doesn’t, and the dog goes running off.) Well, you’re cute, but\nyou’re not too smart!"},
 				{"Character":"(The dog returns with a ball that looks exactly like the same one Joey has","Line":"The dog returns with a ball that looks exactly like the same one Joey has."},
 				{"Character":"Joey","Line":"(looking at the ball the dog brought back) Did I just throw this"},
@@ -79,7 +79,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk. Ross is sitting on the couch reading a magazine as Mona enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mona","Line":"Hi"},
 				{"Character":"Mona","Line":"Hi"},
 				{"Character":"Mona","Line":"Hi"},
@@ -137,7 +137,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey’s. Joey is laying on his recliner, depressed, and the dog is laying\non the footrest.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So, between her and me being friends, and her history with Ross, it just\nisn’t going to happen. It would be like you falling in love with a cat"},
 				{"Character":"Phoebe","Line":"(entering) Hey"},
 				{"Character":"Phoebe","Line":"(entering) Hey"},
@@ -178,7 +178,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler’s. Monica and Chandler are sitting on the couch still\nstaring at the screen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"How long has it been this time"},
 				{"Character":"Chandler","Line":"90 seconds"},
 				{"Character":"Chandler","Line":"90 seconds"},
@@ -262,7 +262,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross and Rachel’s. Rachel is standing in front of the TV holding a video.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(thinking) <i>You’re going to have a baby, and you need to be\nprepared. Now, you’re going to make yourself watch the whole thing. Just do it!</i>\n(Rachel puts the tape in the VCR"},
 				{"Character":"Woman on TV","Line":"I came to the big city to become a star! I’ll do…anything to\nmake that happen"},
 				{"Character":"Man on TV","Line":"Anything"},

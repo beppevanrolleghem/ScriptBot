@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there except Monica as Ross enters carrying a huge\nstack of newspapers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey you guys I got some bad news. (He sets the stack of papers down on the\ntable."},
 				{"Character":"Phoebe","Line":"Well that’s no way to sell newspapers. Why don’t you try,\n\"Extra! Extra! Read all about it!"},
 				{"Character":"Ross","Line":"No, Monica’s restaurant got a horrible review in the Post. (They all\ngasp.) I didn’t want her to see it, so I ran around the neighborhood and bought all\nthe copies I could find. (He hands the paper to Phoebe and they all read it."},
@@ -51,11 +51,11 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Monica is cooking as Chandler looks on.</p>\n\n<p><b>Joey:</b> (entering) Hey uh Monica, I can’t remember. Did we say we were gonna\nmeet here or at the movies?</p>\n\n<p><b>Monica:</b> We said at the movies, but…</p>\n\n<p><b>Joey:</b> Okay, I’ll see you there. (Starts to leave) </p>\n\n<p><b>Monica:</b> Joey! (He returns) Now that you’re here…</p>\n\n<p><b>Joey:</b> Sure, I can hang out ‘til I have to meet ya. (To Chandler) What\nuh—How come you’re not going?</p>\n\n<p><b>Chandler:</b> I have a job interview I have to get ready for.</p>\n\n<p><b>Joey:</b> I thought you already have a job.</p>\n\n<p><b>Chandler:</b> And people say you don’t pay attention. No, this is a much better\njob. It’s vice-president of a company that does data reconfiguration and statistical\nfactoring for other companies.</p>\n\n<p><b>Joey:</b> Wow! How do you know how to do that?!</p>\n\n<p><b>Chandler:</b> That’s what I do now.</p>\n\n<p><b>Monica:</b> Hey Joey, come taste this.</p>\n\n<p><b>Joey:</b> What is it?</p>\n\n<p><b>Monica:</b> Remember that guy that gave me a bad review? Well… (Feeds him a\nspoonful of what she’s cooking.) I’m getting my revenge!</p>\n\n<p><b>Joey:</b> You cooked him?</p>\n\n<p><b>Monica:</b> No. He teaches a course on food criticism at the New School, so before\nwe go to the movies I wanna go by there and make him try my bouillabaisse again. Oh, I\ncannot wait to read the front page of the Post tomorrow! "Restaurant reviewer admits:\nI was wrong about Monica."</p>\n\n<p><b>Chandler:</b> The front page? You really do live in your own little world,\ndon’t ya?</p>\n\n<p",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe is there as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi Pheebs"},
 				{"Character":"Phoebe","Line":"Hey! Oh, how did baby shopping go"},
 				{"Character":"Rachel","Line":"Oh, it was great! We got everything that we needed! Oh and Ross, almost\ngot something that wasn’t on the list. A whore"},
@@ -112,7 +112,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross and Rachel's, Ross and Rachel are unpacking and setting up their new\npurchases.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"All this stuff takes up a lot of room. Hey how uh, how serious are you\nabout keeping Ben in your life"},
 				{"Character":"Ross","Line":"My son? Pretty serious. (There’s a knock on the door and Ross answers\nit.) Oh hey Katie! (The cashier from before) What uh, what are you doing here"},
 				{"Character":"Katie","Line":"Well, the delivery went out to you and I realized they forgot this. (A\nblanket."},
@@ -134,7 +134,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's, Chandler and Phoebe are entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I can’t even believe this! I really come off that badly"},
 				{"Character":"Phoebe","Line":"Oh! It’s okay, you calm down after a while and then people can see\nhow really sweet and wonderful you really are"},
 				{"Character":"Chandler","Line":"Oh good. Good, because I’m sure this interview is gonna last a\ncouple of weeks"},
@@ -158,7 +158,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler's, Chandler and Phoebe are still working on his\ninterviewing techniques.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"…I think you’ll find if I come to work here, I don’t\nmicro-manage. I don’t shy away from delegating"},
 				{"Character":"Phoebe","Line":"Um-hmm, that’s good to know. But let’s stop focusing on what\nyou don’t do, and start focusing on what you do do"},
 				{"Character":"Chandler","Line":"(suppressing a smile) What I do do…is manage to uh, create an\natmosphere of support for the people working with me"},
@@ -182,7 +182,7 @@
 			},
 		"7":{
 			"SceneDescription":" An Office Building, Chandler is on his interview.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"…also I was the point person on my company’s transition from\nthe KL-5 to GR-6 system"},
 				{"Character":"The Interviewer","Line":"You must’ve had your hands full"},
 				{"Character":"Chandler","Line":"That I did. That I did"},
@@ -216,7 +216,7 @@
 			},
 		"8":{
 			"SceneDescription":" The New School, Joey and Monica are walking down a hallway.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Well I had a great time! Learned how to bake, ate great food, that’s\nthe first A I’ve gotten since seventh grade, and I didn’t have to sleep\nwith the teacher this time"},
 				{"Character":"Monica","Line":"Oh, look! Acting for Beginners! Want to feel good about yourself"},
 				{"Character":"Joey","Line":"What the hell"},

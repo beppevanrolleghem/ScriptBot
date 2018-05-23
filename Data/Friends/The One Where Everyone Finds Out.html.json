@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, everyone is eating some Chinese food.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(looking out the window) Oh hey, you guys, look! Ugly Naked Guy is\nputting stuff in boxes"},
 				{"Character":"(They all run and join her at the window","Line":"They all run and join her at the window."},
 				{"Character":"Rachel","Line":"I'd say from the looks of it; our naked buddy is moving"},
@@ -24,7 +24,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Phoebe and Rachel are there talking about Chandler and Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"You mean whenever Monica and Chandler where like y'know doing laundry or\ngoing grocery shopping or—Oh! All that time Monica spent on the phone with sad Linda\nfrom camp"},
 				{"Character":"Rachel","Line":"Uh-huh, doing it. Doing it. Phone doing it"},
 				{"Character":"Phoebe","Line":"Oh! Oh, I can't believe it! I mean I think it's great! For him. She\nmight be able to do better"},
@@ -104,7 +104,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Monica, Rachel, Phoebe, and Chandler are there. Monica is\nentering from her room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey Mon, what are you doing now? Wanna come see a movie with us"},
 				{"Character":"Monica","Line":"Uhh, y'know actually I was gonna do some laundry"},
 				{"Character":"Rachel","Line":"Oh"},
@@ -191,7 +191,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Ross is looking at Ugly Naked Guy's apartment through\nbinoculars.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Noooo"},
 				{"Character":"Rachel","Line":"Oh Ross, honey you gotta stop torturing yourself"},
 				{"Character":"Phoebe","Line":"Yeah, why don't you just find another apartment"},
@@ -272,7 +272,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Chandler and Monica and Rachel and Phoebe are planning\ntheir respective strategies to break the other pairing. Joey is not amused.</p>\n\n<p><b>Monica:</b> (in the kitchen with Chandler) Look at them, they're-they're panicked!</p>\n\n<p><b>Chandler:</b> Oh yeah, they're totally gonna back down!</p>\n\n<p><b>Monica:</b> Oh yeah!</p>\n\n<p>[Cut to Phoebe and Rachel sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"All right. All right! If he wants a date? He's gonna get a date. All\nright, I'm gonna go in"},
 				{"Character":"Rachel","Line":"All right. Be sexy"},
 				{"Character":"Rachel","Line":"All right. Be sexy"},
@@ -299,7 +299,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's new apartment, he is showing his boss, Dr. Ledbetter his new place and\nnew outlook on life.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"A new place for a new Ross. I'm gonna have you and all the guys from work\nover once it's y'know, furnished"},
 				{"Character":"Dr. Ledbetter","Line":"I must say it's nice to see you back on your feet"},
 				{"Character":"Ross","Line":"Well I am that. And that whole rage thing is definitely behind me"},

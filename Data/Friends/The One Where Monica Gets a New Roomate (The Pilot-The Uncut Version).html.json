@@ -3,31 +3,31 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Chandler, Joey, Phoebe, and Monica are there.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" The Subway, Phoebe is singing for\nchange.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" A Restaurant, Monica and Paul are eating.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Ross's Apartment; Ross is pacing while Joey and\nChandler are working on some more furniture.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Monica's Apartment, Rachel is watching <em>Joanne\nLoves Chaci</em>.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Monica's Apartment, Rachel is making coffee for\nJoey and Chandler.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Central Perk, everyone but Rachel is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(sitting on the arm of the couch)Of course it was a line!"},
 				{"Character":"Monica","Line":"Why?! Why? Why, why would anybody do something like that?"},
 				{"Character":"Ross","Line":"I assume we're looking for an answer more sophisticated than 'to get you\ninto bed'."},
@@ -67,7 +67,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, everyone is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"I can't believe what I'm hearing here."},
 				{"Character":"Phoebe","Line":"(sings) <em>I can't believe what I'm hearing here... </em"},
 				{"Character":"Monica","Line":"What? I-I said you had a-"},

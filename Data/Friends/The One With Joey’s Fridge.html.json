@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and now Rachel's apartment, Joey has the fridge pulled out away from the\nwall and is in the process of pulling off the cooling grate behind it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Well that thing is clearing in the way! All right. Ah-ha! (He grabs a\nscrewdriver and starts to attack the compressor, only he causes a small short circuit and\nshocks himself.) Ah-ah!! Damn fridge!"},
 				{"Character":"(Rachel enters from her new room","Line":"Rachel enters from her new room."},
 				{"Character":"Rachel","Line":"Hi Joey, how ya doin’"},
@@ -26,7 +26,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler is sitting at the table and Monica is\ndoing something in the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Chandler, do you think we talk about our relationship enough"},
 				{"Character":"Chandler","Line":"Yeah. Do we have any <i>Fruit Roll-Ups</i>"},
 				{"Character":"Phoebe","Line":"(entering) Hey"},
@@ -83,7 +83,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross’s office, he’s unlocking his office door as Elizabeth walks up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Elizabeth","Line":"Professor Geller"},
 				{"Character":"Ross","Line":"Hmm? (Turns around and sees that its Elizabeth) Oh, a student I don’t\nknow"},
 				{"Character":"Elizabeth","Line":"I was wondering if I could talk to you for a moment"},
@@ -118,7 +118,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross’s office, he’s opening the door to Elizabeth.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Elizabeth","Line":"You wanted to see me Professor Geller"},
 				{"Character":"Ross","Line":"Yes. Yes! Please, come in"},
 				{"Character":"(She does so, he closes the door, and she pushes him against the doorknob again","Line":"She does so, he closes the door, and she pushes him against the doorknob again."},
@@ -145,7 +145,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I cannot believe you guys! He was really nice and he left because of\nyou"},
 				{"Character":"Chandler","Line":"Yeah, but Sebastian? What is that? A cat’s name"},
 				{"Character":"Phoebe","Line":"Yeah, y’know what I noticed Rachel? He scares easy. Is that the\nkind of guy you’d like to take to a ball? \"Hey Sebastian, would you like to\ndance?\" (Imitates him.) \"Uhh, okay—I gotta go!"},
@@ -203,7 +203,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel is reading as Monica and Chandler enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Chandler","Line":"Good-good-good-good"},
 				{"Character":"Monica","Line":"Hey"},
@@ -314,7 +314,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Rachel, Chandler, and Phoebe are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Rachel, we’re sorry for pushing those guys on you"},
 				{"Character":"Rachel","Line":"Oh that’s all right! Y’know, I ended up having a really good\ntime. Y’know, the charity was a big success and they raised a lot of money and\nawareness"},
 				{"Character":"Chandler","Line":"So what was it for anyway"},

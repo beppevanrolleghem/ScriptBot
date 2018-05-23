@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the whole gang minus Monica is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Do you think that there’s a town in Missouri or some place called\nSample? And ah, as you’re driving into town there’s-there’s like a sign,\nand it says “You’re in Sample.” (He says it like urine sample."},
 				{"Character":"Monica","Line":"(entering) Hey"},
 				{"Character":"Monica","Line":"(entering) Hey"},
@@ -87,7 +87,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler’s office, he is just finishing a meeting with his boss.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Doug","Line":"So thanks for the warm welcome. It’s good to have you guys on my\nteam, and I come to play. I hope you do too. Now, let’s go out there and get\n‘em! Huh? And remember, there is no ‘I’ in team"},
 				{"Character":"Chandler","Line":"Yes, but there’s two in martini, soo everybody back to my\noffice"},
 				{"Character":"Doug","Line":"(to Chandler) You! Chuckles! What’s your name"},
@@ -97,7 +97,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Gym, Pete is training for the Ultimate Fighting Championship, with his\ntrainer, Hoshi.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hoshi","Line":"You are iron. You are steel! Let me ask you something, how come when I\ncall your computer support line, I have to wait an hour and a half"},
 				{"Character":"Pete","Line":"I told you, we’re adding new operators all the time. Could we\nconcentrate on my training"},
 				{"Character":"Hoshi","Line":"It’s just hard when I know I have e-mail I can’t get!"},
@@ -129,7 +129,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler’s office, Chandler is bent over getting some water as his boss\napproaches.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Doug","Line":"Bing! (Chandler stands bolt upright and turns around to face him.) Read\nyour Computech proposal, a real homerun. (He goes to slap his butt, but Chandler slides\nover making him miss.) Ooh. Barely got ya that time, get over here. Come on. (Chandler\ngoes over) Wham! (slaps him on the butt) Good one. That was a good one. (to a couple of\nChandler’s co-workers) Keep at it team. (goes into his office"},
 				{"Character":"Chandler","Line":"(to his co-workers) What is with him"},
 				{"Character":"Phil","Line":"With him? You’re is favourite, you’re his guy"},
@@ -151,7 +151,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Arena, after the fight. Monica is walking up to a defeated Pete.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey! (she sits down next to him) It’s me. Mon-i-ca! Can I just tell\nyou how proud I am of you"},
 				{"Character":"Pete","Line":"It would be nice after hearing 20,000 people chant “You suck!"},
 				{"Character":"Monica","Line":"I mean I-I thought you were nuts at first, but you-you did it. And now\nyou can just look back at this thing with no regrets"},
@@ -179,7 +179,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler’s office, Chandler is confronting his boss about the butt\nsmacking thing. His boss is writing on a white board.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Excuse me, Doug? (no reaction) Hey there sports fan!"},
 				{"Character":"Doug","Line":"(turning around) Bing! You got those numbers for me"},
 				{"Character":"Chandler","Line":"No, I ah, I didn’t do them"},
@@ -219,7 +219,7 @@
 			},
 		"7":{
 			"SceneDescription":" A locker room, Pete is in a full upper-body cast. Monica enters, sees him, and\ngasps. Pete tries to turn around, and winces in pain.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Pete","Line":"It’s okay, it’s not as bad as it looks, it’s a precaution.\nAh, I’m not supposed to move my spine"},
 				{"Character":"Monica","Line":"Please tell me you’re stopping now"},
 				{"Character":"Pete","Line":"I’m fine! I’d fight tonight, if they’d let me. (stands up\nand starts swinging his arms) See this circle I’m marking off here? This is my zone\nof terror"},
@@ -242,7 +242,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, the gang is watching Pete fight on TV. Monica is hiding in\nthe kitchen, not watching.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"TV Announcer","Line":"Pete Becker is circling the ring now. It looks like, he’s\njust trying to feel him out. Oh, Bruiser is just.."},
 				{"Character":"Chandler","Line":"Run! Run you crazy, rich freak"},
 				{"Character":"Rachel","Line":"Oh, I can’t watch this. (turns her eyes away"},

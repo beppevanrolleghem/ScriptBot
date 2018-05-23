@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Monica and Phoebe are on the couch as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(To Joey) Oh hey! How was your audition"},
 				{"Character":"Joey","Line":"I’m sorry, do I know you"},
 				{"Character":"Phoebe","Line":"What are you doing"},
@@ -44,7 +44,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Joey is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey! What did you decide to do about the movie"},
 				{"Character":"Joey","Line":"I don’t know! It’s not like it’s porn! This is a serious,\nlegitimate movie. Y’know? And the nudity is really important to the story"},
 				{"Character":"Monica","Line":"That’s what you say about porn"},
@@ -57,7 +57,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, Monica is on the couch writing when Chandler enters to\nmake his brief cameo.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -98,7 +98,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Casting Director’s Office, Joey is entering for his callback.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, I’m back"},
 				{"Character":"The Casting Director","Line":"Hi-hi Joey"},
 				{"Character":"Joey","Line":"Uh so, will-will I be reading the same scene again"},
@@ -138,7 +138,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Phoebe is entering and Rachel is still planning.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey! I’ve got a great idea for party favors for the shower. Okay,\nwe get some uh mahogany boxes and carve everyone’s names in them and inside is\neveryone’s individual birth stone"},
 				{"Character":"Rachel","Line":"Okay. Okay. All right, you take care of that. And meanwhile, the party\nis tomorrow and we still don’t have a guest list"},
 				{"Character":"Phoebe","Line":"Okay. Okay! Well okay, who do we know that’s coming? Me. Are you"},
@@ -170,7 +170,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's apartment, Cassie is eating dinner and Ross is pacing behind her because\nof what she’s eating.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Cassie, how you-how you doin’ on that…hot dog"},
 				{"Character":"Cassie","Line":"I’m all done"},
 				{"Character":"Cassie","Line":"I’m all done"},
@@ -186,7 +186,7 @@
 			},
 		"7":{
 			"SceneDescription":" Joey and Rachel's, Joey is standing at the counter as Monica enters carrying a\ntray.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay, we have a lot of options here, a number of prototypes for you to\ntry on"},
 				{"Character":"Joey","Line":"Wow! This looks great"},
 				{"Character":"Joey","Line":"Wow! This looks great"},
@@ -241,7 +241,7 @@
 			},
 		"8":{
 			"SceneDescription":" outside Phoebe's apartment, Monica is knocking on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe! Rachel! It’s Monica! I wonder what you could possibly need\nme for on such short notice! (She bursts into the apartment to find only Phoebe and Rachel\nsitting on the couch.) Oh"},
 				{"Character":"Rachel","Line":"Oh Monica, we are so sorry"},
 				{"Character":"Monica","Line":"For what"},
@@ -276,7 +276,7 @@
 			},
 		"9":{
 			"SceneDescription":" Phoebe's apartment, Phoebe is getting out linens for Cassie who is in the\nbathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Cassie, are you finding everything okay in there"},
 				{"Character":"Cassie","Line":"Yeah! Thank you so much for letting me stay here"},
 				{"Character":"Phoebe","Line":"Oh! No problem! I… (Cassie emerges from the bathroom and we once\nagain visit slow motion Barry White background music land with the sexy hair-flipping\nthing going on, only this time Phoebe is entranced. For more information on Denise\nRichards you can visit your local library or look her up on the Internet at her official\nwebsite at www.deniserichards.com."},

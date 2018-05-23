@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there as Rachel enters, happily.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Good, you guys are all here"},
 				{"Character":"Ross","Line":"Hey! What's up"},
 				{"Character":"Ross","Line":"Hey! What's up"},
@@ -45,7 +45,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross's Building, Joey is trying to find the hot girl's apartment. So he's\nwalking up the hallway counting doors. He comes to what he thinks is the right one and\nknocks on it. Ross opens the door, it's his apartment.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey Joey! Great stuff huh"},
 				{"Character":"Joey","Line":"This is your place"},
 				{"Character":"Joey","Line":"This is your place"},
@@ -54,7 +54,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, later that day, Gary is kissing Phoebe good-bye.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Gary's Radio","Line":"</strong>We've lost visual contact with the suspect"},
 				{"Character":"Gary","Line":"Okay, now I've really have to go"},
 				{"Character":"Phoebe","Line":"But it's just so unfair that our date has to get cut short just 'cause\nsome guy shot at a store clerk"},
@@ -100,7 +100,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's building, Joey is knocking on a door again. It's again answered by\nRoss.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Damnit!! Did you move?"},
 				{"Character":"Ross","Line":"Yes. I lived with you guys for a while and then I found this place. (Joey\njust stares at him) I'm Ross"},
 				{"Character":"(Joey makes a frustrated face and noise and walks away. He knocks on the next door and\nit's answered by an old man","Line":"Joey makes a frustrated face and noise and walks away. He knocks on the next door and\nit's answered by an old man."},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Rachel is returning from her interview attempt.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Ugh, you will not believe what that sleaze-ball from <i>Ralph\nLauren</i> did too me"},
 				{"Character":"(Joey, Monica, and Ross all point to their lips to get Rachel to once again notice the\nink on her lip","Line":"Joey, Monica, and Ross all point to their lips to get Rachel to once again notice the\nink on her lip."},
 				{"Character":"Rachel","Line":"Okay-okay that-that's amazing. How did you know that"},
@@ -130,7 +130,7 @@
 			},
 		"6":{
 			"SceneDescription":" The lobby in Ross's building, we see a flyer that is on the bulletin board that\nreads, "Are you the Hot Girl who waved at me? If so, give me a call!" and it's\nsigned, Joey 629-9*** (The last couple of numbers have been ripped off). Anyhoo, Ross is\ngetting his mail.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(to the woman checking her mail next to him) Hey"},
 				{"Character":"(A man walks up","Line":"A man walks up."},
 				{"Character":"(A man walks up","Line":"A man walks up."},
@@ -169,7 +169,7 @@
 			},
 		"7":{
 			"SceneDescription":" Jen's apartment, Ross is picking her up for their date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So uhh, you ready"},
 				{"Character":"Jen","Line":"Sure, I'll just get my coat. (There's a knock on the door.) Could you get\nthat"},
 				{"Character":"Ross","Line":"Sure. (He opens the door to Joey. Needless to say, Joey's stunned.)\nJoey"},
@@ -177,7 +177,7 @@
 			},
 		"8":{
 			"SceneDescription":" A restaurant, Chandler, Monica, Phoebe, and Gary are on a double date. Chandler\nis yawning.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"You tired Chandler"},
 				{"Character":"Monica","Line":"You better believe he's tired, after the day we had! If you know what I\nmean. You know what I mean"},
 				{"Character":"Chandler","Line":"Honey, the tortilla chips know what you mean"},

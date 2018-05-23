@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Chandler walks in and starts raiding the\nfridge. Then Rachel comes out of the shower with a towel wrapped round her waist, drying\nherself with another towel. Chandler and Rachel startle each other and she drops the towel\nfor a second and snatches the rug off the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"That is <strong>it</strong>! You just barge in here, you don't knoc"},
 				{"Character":"Chandler","Line":"I'm sorry"},
 				{"Character":"Chandler","Line":"I'm sorry"},
@@ -25,7 +25,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Mr. Tribbiani is on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Tribbiani","Line":"Gotta go. I miss you too, I love you, but it's getting real late\nno"},
 				{"Character":"Joey","Line":"(Snatches the phone) Hey Ma. Listen, I made the appointment with Dr.\nBazida, and... Excuse me? (To his dad) Did you know this isn't Ma"},
 				{"Character":"(His dad nods. Cut to later. Joey is chopping mushroom","Line":"His dad nods. Cut to later. Joey is chopping mushrooms"},
@@ -51,7 +51,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Hallway, Chandler and Joey are just leaving Monica and Rachel's.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Night, you guys"},
 				{"Character":"(They notice that a woman is sitting by their doo","Line":"They notice that a woman is sitting by their door"},
 				{"Character":"Chandler","Line":"Oh look, it's the woman we ordered"},
@@ -66,7 +66,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, night. Chandler and Joey are sharing the sofabed in the\nliving room. Joey is restless.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, Kicky. What're you doing"},
 				{"Character":"Joey","Line":"Just trying to get comfortable. I can't sleep in my underwear."},
 				{"Character":"Chandler","Line":"Well, you're gonna"},
@@ -96,7 +96,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, everyone is there as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"All","Line":"Hey, Pheebs"},
 				{"Character":"Phoebe","Line":"Hey."},
 				{"Character":"Phoebe","Line":"Hey."},
@@ -127,7 +127,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk. Phoebe is there with Roger.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Roger","Line":"What's wrong, sweetie"},
 				{"Character":"Phoebe","Line":"Nothing, nothing"},
 				{"Character":"Phoebe","Line":"Nothing, nothing"},
@@ -157,7 +157,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's. Phoebe is reading the paper and Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey, Joey. What's going on"},
 				{"Character":"Joey","Line":"Clear the tracks for the boobie payback express. Next stop: Rachel Green.\n(He goes into the bathroom. We hear a scream and he comes out, closely followed by Monica\nin a towel"},
 				{"Character":"Monica","Line":"Joey!! What the hell were you doing?"},

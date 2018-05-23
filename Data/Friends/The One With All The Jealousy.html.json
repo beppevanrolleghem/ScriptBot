@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel is getting ready for her first day.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(running in from her bedroom, wearing only a towel) Okay. Hey. Umm. Does\neverybody hate these shoes?"},
 				{"Character":"Chandler","Line":"Oh yeah, but don't worry. I don't think anybody's gonna focus on that\nas long as your wearing that towel dress."},
 				{"Character":"Rachel","Line":"(to Ross) Tell him."},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel's office, Mark is training Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mark","Line":"...and the style number, and the invoice number, and the shipping date.\nGood. Any questions so far?"},
 				{"Character":"Rachel","Line":"Yeah. What kind of discount do we get?"},
 				{"Character":"Mark","Line":"Twenty percent."},
@@ -101,7 +101,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey's audition.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(singing) You've got to pick a pocket or two. Boyyyyssss, (picks a\nhandkerchief from the pianist's pocket) you've got to pick a pocket or two.........."},
 				{"Character":"Director","Line":"Lovely, just lovely."},
 				{"Character":"Joey","Line":"Really? Thanks."},
@@ -116,7 +116,7 @@
 			},
 		"4":{
 			"SceneDescription":" Rachel's office, her desk is covered with stuff Ross has sent her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mark","Line":"(reaching through the flowers) Do you have the, the Ralph Lauren file?"},
 				{"Character":"Rachel","Line":"Oh, yeah, sure, it's umm... (she picks up this bug and it starts to play\nthe theme from Love Story)"},
 				{"Character":"Mark","Line":"Wh-what's that?"},
@@ -143,7 +143,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Chandler, Ross, Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Mark's a genius!"},
 				{"Character":"Ross","Line":"Why?! How?! How is he a genius?"},
 				{"Character":"Chandler","Line":"Look, don't you see what's happening here. Instead of hitting on her\nright away, he's becoming her confidant. Now he's gonna be the guy she goes too to\ncomplain about you."},
@@ -160,7 +160,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey's dance audition, Joey is warming up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Director","Line":"Ah Joey. Joey Tribbiani. Listen Joey, I got a problem, I just got a\ncall from my dance captain, he's having a relationship crisis and can't get out of Long\nIsland."},
 				{"Character":"Joey","Line":"So, does that mean the audition is off?"},
 				{"Character":"Director","Line":"Listen Joey, seeing as you've got the most experience, I want you to\ntake these dancers and show them the combination."},
@@ -179,7 +179,7 @@
 			},
 		"7":{
 			"SceneDescription":" The Moondance Diner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(to Julio) So! I'm just an empty vase, huh?"},
 				{"Character":"Julio","Line":"What?"},
 				{"Character":"Julio","Line":"What?"},
@@ -203,7 +203,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, Chandler and Rachel are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So ah, did you have fun at the bachelor party last night?"},
 				{"Character":"Chandler","Line":"Oh yeah, yeah! Look what I got, look what I got. (holds up a pen) See,\nshe's fully dressed, right?"},
 				{"Character":"Rachel","Line":"Right."},

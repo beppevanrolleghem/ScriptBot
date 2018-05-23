@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, it’s 0-Dark:30, in other words it’s really,\nreally early. Everyone’s asleep, and all through the apartments not a creature was\nstirring, not even a mouse. That is except for the chick, who turns out to be a rooster\nand is crowing in the sun. Needless to say, this awakens Monica and Rachel who rush into\ntheir living room, searching for the cause of the sound.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"What the hell is that?!! (to Monica) What the hell is that? Is\nthat you? (Monica nods her head no, and Rachel realizes what is making that sound.)\nOhhhhhhh! (storms over to Chandler and Joey’s with Monica in trail.)"},
 				{"Character":"Monica","Line":"Boy, you are really not a morning person"},
 				{"Character":"Rachel","Line":"(angrily) BACK OFF!!! (She starts banging on their door.) Get up! Get\nup! Get up! God damn it! Get up, get up, get up, get up, get up!"},
@@ -22,7 +22,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Doctor’s office, Dr. Zane is examining Phoebe as Frank and Alice\nwatch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Zane","Line":"It looks like your uterus is ready for implantation"},
 				{"Character":"Phoebe","Line":"Oh! I knew it! I knew it! I felt really thick this morning"},
 				{"Character":"Frank","Line":"Well, okay, so what’s now—go get, go get the eggs, put ‘em\nin there"},
@@ -52,7 +52,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Doctor’s office, Phoebe is giving a pep talk to the petrie dish\ncontaining the embryos.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hello, tiny embryos. Well, I’m-I’m Phoebe Buffay, hi!\nI’m-I’m-I’m hoping to be your uterus for the next nine months. You should\nknow, that we’re doing this for Frank and Alice, who you know, you’ve been\nthere! Umm, y’know they want you so much, so when you guys get in there, really grab\non. Okay, and-and I promise that I’ll keep you safe and warm until you’re ready\nto have them take you home, so… Oh! And also, umm next time you see me, I’m\nscreaming, don’t worry, that’s what’s supposed to happen"},
 				{"Character":"Dr. Zane","Line":"Ready"},
 				{"Character":"Dr. Zane","Line":"Ready"},
@@ -60,7 +60,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, continued from earlier, only slightly later.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Monica, betting the apartment, I don’t know about this"},
 				{"Character":"Monica","Line":"Rachel, I have not missed one question the whole game. I own this game!\nLook at my hand. (Holds up her hand."},
 				{"Character":"Rachel","Line":"Why? Do you have the answers written on there"},
@@ -167,7 +167,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, erm, Monica and Rachel's, Monica and Rachel are busy\nunpacking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I can’t find garbage bags"},
 				{"Character":"Rachel","Line":"Oh, I think I saw some in here."},
 				{"Character":"(She opens a door and they both scream at horror at what’s inside of it","Line":"She opens a door and they both scream at horror at what’s inside of it."},

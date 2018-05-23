@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Building’s Roof, the entire gang plus Tag are there to look for a\ncomet. They’re looking for a comet on a roof of a New York apartment building. Yeah,\nthat’s realistic. You might as well look for the moon on a bright sunny day.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(looking up) Ross, when’s this comet thing start"},
 				{"Character":"Ross","Line":"Well, technically it started seven billion years ago… (Well,\ntechnically you’d be able to see it for days, well nights; that is if you could see\nit with all of the bright lights of New York."},
 				{"Character":"All","Line":"(groaning) Oh no! Oh no! (They all start to get up and leave."},
@@ -39,7 +39,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler’s bedroom, Monica is sleeping and Chandler’s\nsitting in bed, wide awake.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(whispering) Monica"},
 				{"Character":"Monica","Line":"She’s sleeping"},
 				{"Character":"Monica","Line":"She’s sleeping"},
@@ -51,7 +51,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Roof, Ross and Joey are banging on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Rachel!! Monica!"},
 				{"Character":"Joey","Line":"Come on"},
 				{"Character":"Joey","Line":"Come on"},
@@ -66,7 +66,7 @@
 			},
 		"4":{
 			"SceneDescription":" Joey and Rachel's, Rachel and Tag are making out on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"You wanna go in the bedroom? It’s a little more comfortable"},
 				{"Character":"Tag","Line":"Sure"},
 				{"Character":"Tag","Line":"Sure"},
@@ -101,12 +101,12 @@
 			},
 		"5":{
 			"SceneDescription":" Phoebe's apartment, Phoebe is still investigating the smoke detector trying to\nfigure out how to stop the beeping.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay. So, this wire is connected to this wire which plugs into here.\n(She points at each as she says it.) Okay so, to get the beeping to stop all I have to\ndo… (She picks up a shoe and proceeds to pummel the smoke detector. She then gets up\nand heads to bed, stops, quickly turns around, and is satisfied that the beeping has\nstopped.) Well done, Pheebs. (She resumes her trek to bed, but is stopped at the entrance\nto the hallway by the now steady and extremely loud tone emanating from the smoke\ndetector.) (Yelling.) What do you want from me?!!!!!!"}]
 			},
 		"6":{
 			"SceneDescription":" Rachel’s Outer Office, Tag and her are arriving.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Tag","Line":"Okay! Feel free to look, but I’m telling you those contracts are not\non this desk"},
 				{"Character":"Rachel","Line":"Oh how can you possibly know? Look at this mess, Tag! I mean,\nthis is what I’m talking about! You have to be organized! You’ve got newspapers!\nYou’ve got magazines! You got—Ohh! (Finds a picture.) And who is this chippy? A\nlittle young for you Tag, but whatever"},
 				{"Character":"Tag","Line":"It’s my sister"},
@@ -118,7 +118,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's bedroom, Chandler has his eyes closed, while Monica is\nfully awake.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Are you still awake"},
 				{"Character":"Chandler","Line":"Yeah! You"},
 				{"Character":"Chandler","Line":"Yeah! You"},
@@ -127,12 +127,12 @@
 			},
 		"8":{
 			"SceneDescription":" Phoebe’s apartment building, in desperation she has wrapped up the smoke\ndetector in a blanket and is going to throw it into the trash chute.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay, this is where you and I part ways. (She drops the blanket into the\nchute.) Noisy bitch"}]
 			},
 		"9":{
 			"SceneDescription":" Rachel’s outer office, she’s returning with two coffee cups in hand\nto find Tag sitting there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi! I got you some coffee. To, uh… (She looks for a place to set it\non his messy desk and he clears a spot for her to set it down.) …fair enough. So! Do\nyou got anything for me"},
 				{"Character":"Tag","Line":"Still no luck"},
 				{"Character":"Tag","Line":"Still no luck"},
@@ -161,7 +161,7 @@
 			},
 		"10":{
 			"SceneDescription":" The fire escape, Joey is now hanging off of the bottom rung of the ladder that\nwon’t move and Ross is watching from above.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, do-do you have a good grip"},
 				{"Character":"Joey","Line":"Yeah"},
 				{"Character":"Joey","Line":"Yeah"},

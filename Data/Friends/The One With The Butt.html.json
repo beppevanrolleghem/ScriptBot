@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" A Theater, the gang is in the audience wating for a play of Joey's to\nstart.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(reading the program) Ooh! Look! Look! Look! Look, there's Joey's\npicture! This is so exciting"},
 				{"Character":"Chandler","Line":"You can always spot someone who's never seen one of his plays before.\nNotice, no fear, no sense of impending doom.."},
 				{"Character":"Phoebe","Line":"The exclamation point in the title scares me. (Gesturing) Y'know, it's\nnot just <i>Freud</i>, it's <i>Freud!</i"},
@@ -18,7 +18,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, everyone else is there as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, kids."},
 				{"Character":"All","Line":"Hey"},
 				{"Character":"All","Line":"Hey"},
@@ -100,7 +100,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the next morning, Monica is getting the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Alright, alright, alright..."},
 				{"Character":"(Joey enters with Monica's paper and hands it to her","Line":"Joey enters with Monica's paper and hands it to her."},
 				{"Character":"Joey","Line":"Here. I need to borrow some moisturizer"},
@@ -135,7 +135,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Aurora and Chandler are in bed in Chandler's room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"God, I love these fingers.."},
 				{"Character":"Aurora","Line":"Thank you"},
 				{"Character":"Aurora","Line":"Thank you"},
@@ -204,7 +204,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica's Bedroom, she's lying in bed wide awake.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<font size="3">Monica","Line":"(hums for a while, then gives up, and in her head) <em>If it bothers you\nthat much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have\nto prove anything, I'm gonna go get them...But then everyone will know. Unless I get them,\nand then wake up really early and put them back! ...I need help! </em>(She buries her head\nin her pillow.) </font"}]
 			}
 }

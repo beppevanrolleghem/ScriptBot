@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Chandler is getting ready for a date with Monica as Ross\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -56,7 +56,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, it's continued from before the commercial break.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(smiling) This is terrible, what are you going to do"},
 				{"Character":"Joey","Line":"(smiling) I don't know. This little, old lady lives for my career. When\nthey dumped me off of <i>Days of Our Lives</i> she almost died"},
 				{"Character":"Phoebe","Line":"(not smiling) That's not good"},
@@ -246,7 +246,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Phoebe, Chandler, and Joey's grandmother are still\nwatching <i>Law &amp; Order</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Hey Ross? Umm, I just ran into Caitlin in the hallway and-and\nuh, you must be getting better at this flirting stuff than I thought"},
 				{"Character":"Ross","Line":"What do you mean"},
 				{"Character":"Ross","Line":"What do you mean"},

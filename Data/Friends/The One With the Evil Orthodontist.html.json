@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, everyone is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest\nsnack there is"},
 				{"Character":"Joey","Line":"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest\nsnack there is"},
 				{"Character":"Ross","Line":"I don't know, you don't wanna mess with corn nuts. They're craaazy"},
@@ -17,7 +17,7 @@
 			},
 		"2":{
 			"SceneDescription":" Barry's Office, the post-coital Barry and Rachel are recovering on the chair.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Wow... Wow"},
 				{"Character":"Barry","Line":"Yeah"},
 				{"Character":"Barry","Line":"Yeah"},
@@ -30,7 +30,7 @@
 			},
 		"3":{
 			"SceneDescription":" Barry's Office, Rachel and Barry are getting dressed.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Barry","Line":"What's the matter"},
 				{"Character":"Rachel","Line":"Oh, it's just... Oh, Barry, this was not good"},
 				{"Character":"Barry","Line":"No, it was. It was very very good"},
@@ -66,7 +66,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, the next morning.&nbsp; Chandler is sitting and staring at\nhis phone.&nbsp; Monica enters and creeps up next to Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Brrrrrrr"},
 				{"Character":"(Chandler clutches at his phone before realising","Line":"Chandler clutches at his phone before realising."},
 				{"Character":"Chandler","Line":"Hell is filled with people like you"},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Phoebe and Ross are doing a crossword, Monica is cooking,\nand Chandler is still staring at his phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Four letters: \"Circle or hoop\""},
 				{"Character":"Chandler","Line":"Ring dammit, ring"},
 				{"Character":"Chandler","Line":"Ring dammit, ring"},
@@ -167,7 +167,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"You okay"},
 				{"Character":"Rachel","Line":"Yeah"},
 				{"Character":"Rachel","Line":"Yeah"},

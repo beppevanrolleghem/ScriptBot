@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the cast of Friends along with Conan O’Brien are sitting and\ntalking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Conan","Line":"It’s a tradition here on <i>Friends</i> after every taping for me to\nhang out with you guys, (They all laugh) talk down the episode umm… The point of this\nwhole thing is what people see in America is: they see <i>Friends</i>, they love the show,\nit looks like a smooth running machine, but behind the scenes there’s deceit,\nmistrust, and hate. And I thought, I thought we’d actually take a look at uh,\ny’know some of these moments where you guys are—there are mistakes. You make\nmistakes"},
 				{"Character":"Jennifer","Line":"Once and a while"},
 				{"Character":"Jennifer","Line":"Once and a while"},

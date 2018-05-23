@@ -3,14 +3,14 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the gang's all there. Ross has a slip of paper that he throws on\nthe ground tying to get Rachel's attention.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(picking up the slip of paper) Hello! What's this? Oh right its that\ngirl's phone number. (Rachel ignores him) Yeah-yeah, there it is, just a phone number a\nreally hot girl gave me. (He holds it so that Rachel can see it, she continues to ignore\nhim) It's no big deal, I mean it is her home phone number, but...(Rachel still ignores\nhim) Whoa! (Throws it in her lap) Whoa-whoops, I almost lost this baby! Yeah, the lovely\nAmanda gives me her number and I-I go and drop it. (He waves it in front of Rachel's face.\nThen suddenly Phoebe has to sneeze and Rachel quickly grabs the slip of paper and gives it\nto Phoebe for her to sneeze into."},
 				{"Character":"Phoebe","Line":"Thank you"},
 				{"Character":"Phoebe","Line":"Thank you"}]
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Chandler is walking into the living room having just\ngotten up in the middle of the night.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(sees Kathy is up watching TV) Hi"},
 				{"Character":"Kathy","Line":"Hi"},
 				{"Character":"Kathy","Line":"Hi"},
@@ -54,7 +54,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Phoebe and Monica are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"So, I need to write some depressing stuff to go along with my new floozy\nvoice, but nothing that sad has ever really happened to me"},
 				{"Character":"Monica","Line":"Oh umm, how about your mom dying, or having to live on the streets when\nyou were 14"},
 				{"Character":"Phoebe","Line":"Uh-huh. Oh, yeah, I could write about the time my hair did that\n\"Woo-hoo\" thing"},
@@ -119,7 +119,7 @@
 			},
 		"4":{
 			"SceneDescription":" A street, Chandler is buying a newspaper and notices Kathy running by.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps\nrunning, Chandler starts chasing her as the theme to <em>The Mod Squad</em> starts to\nplay. First, a car almost hits him and then gets mustard splashed on him as he runs by a\nhot dog vendor.) Kathy! (He keeps running and gets tangled up in the leashes of five dogs,\nin desperation he throws his paper.) Fetch! Fetch it! (He frees himself and resumes the\nchase) Kathy! Kathy! Kathy! (He now trips and falls into a pile of garbage, he tries to\nget up and scream her name again but he has a piece of spinach in his mouth. He gets out\nof the garbage and starts crossing the street by running over the hoods of a couple of\ncabs.) Kathy! (He jumps in front of her and out of breath he says) Kathy"},
 				{"Character":"Kathy","Line":"Hey, Chandler! What are you doing here"},
 				{"Character":"Chandler","Line":"Oh, I just wanted to say, \"Hey!"},
@@ -131,7 +131,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Chandler is playing Hide-and-Go-Seek with the chick and\nthe duck.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"99...100! Ready or not, here I come! (He opens his eyes and sees that\nthe chick and the duck are still sitting in front of him) All right, let's go over the\nconcept one more time"},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"(entering) Hey"},
@@ -165,7 +165,7 @@
 			},
 		"6":{
 			"SceneDescription":" A nightclub, Chandler is having dinner with Kathy and Joey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Kathy","Line":"Ohh, God, guys, check it out, you can see that girl's underwear"},
 				{"Character":"Joey","Line":"Is she great or what"},
 				{"Character":"Joey","Line":"Is she great or what"},
@@ -199,7 +199,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Phoebe is there with her guitar.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing) <em>Platting goats are platting. Platting down the street.\nPlatting goats are platting, leaving little treats</em>. (to Gunther) Does it even work\nwithout my sexy voice"},
 				{"Character":"Gunther","Line":"I like it. (sneezes"},
 				{"Character":"Gunther","Line":"I like it. (sneezes"},
@@ -211,7 +211,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Monica, with a blanket draped over her shoulders, opens\nthe door to a similarly clad Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Can I sleep on your couch"}]
 			}
 }

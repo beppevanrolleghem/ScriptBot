@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel is serving Joey, Ross, and Monica their drinks.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Rachel","Line":"</strong>(to Joey) Coffee. (Hands it to him."},
 				{"Character":"<strong>Joey","Line":"/strong> Thank you"},
 				{"Character":"<strong>Rachel","Line":"</strong>(to Ross) Cappuccino. (Hands it to him.)"},
@@ -19,7 +19,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, everyone is there but Chandler. Phoebe runs in, excitedly.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey you guys! Chandler's coming and he says he has, like, this\nincredible news, so when he gets here, we could all act like, you know.."},
 				{"Character":"(Chandler comes in","Line":"Chandler comes in."},
 				{"Character":"(Chandler comes in","Line":"Chandler comes in."},
@@ -81,7 +81,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross's apartment, Marcel is hanging from Celia's hair, and she is screaming,\ntrying to get him off.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Celia, don't worry!&nbsp; Don't scream!&nbsp; He's not going to hurt you!\nSoothing tones, Celia. Soothing tones! Marcel.."},
 				{"Character":"Celia","Line":"I can't stand this! He's got his claws in my.."},
 				{"Character":"Ross","Line":"Alright... (lifts Marcel away"},
@@ -89,7 +89,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross' apartment, <em>Girl, You'll Be A Woman Soon </em>(the original, not that\ncruddy Urge Overkill version) is playing. Ross and Celia are kissing passionately.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Celia","Line":"Talk to me"},
 				{"Character":"Ross","Line":"OK.... um, a weird thing happened to me on the train this morning.."},
 				{"Character":"Celia","Line":"No no no. Talk... dirty"},
@@ -114,7 +114,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler's new window office, he is showing Phoebe around.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well"},
 				{"Character":"Phoebe","Line":"(excited) Wow! It's huge! It's so much bigger than the cubicle. Oh, this\nis a cube"},
 				{"Character":"Chandler","Line":"Look at this! (he opens the curtain to a view of New York City"},
@@ -138,7 +138,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, later. Rachel is waitressing, Monica is cooking. Phoebe\nwalks in with Steve (<em>Crystal Duck</em> winner Jon Lovitz).",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Well hello! Welcome to Monica's. May I take your coat"},
 				{"Character":"Monica","Line":"Hi Steve"},
 				{"Character":"Monica","Line":"Hi Steve"},
@@ -220,7 +220,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler's office, he's on the phone, agitated.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(on phone) Yes, Fran. I know what time it is, but I'm looking at the\nWENUS and I'm not happy!... (Listens) Oh, really, really, really? Well, let me tell you\nsomething... you will care about it, because I care about it! You got it? Good! (slams\nphone down, then leans back and realizes what just happened) Whooooaaaa..."}]
 			}
 }

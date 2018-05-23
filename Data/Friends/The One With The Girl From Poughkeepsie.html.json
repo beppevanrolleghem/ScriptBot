@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey, Chandler, and Phoebe are there as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey!"},
 				{"Character":"<strong>Chandler, Joey, and Phoebe</strong>","Line":"Hey"},
 				{"Character":"Ross","Line":"I’m sorry I’m late, did I miss anything"},
@@ -32,7 +32,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler’s office, he is trying to find Rachel a date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I say, Drew! Are you seeing anybody right now? (Drew looks at him)\nOg-ee-op, I’m not asking for me, I’m… I mean… No, I’m-I’m\nnot gay, I’m not asking you out. I’m not-I’m not-I’m not gay"},
 				{"Character":"Drew","Line":"I didn’t think you were gay. I do now"},
 				{"Character":"Chandler","Line":"See my friend-my friend, Rachel, she wants to be set up"},
@@ -53,7 +53,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Ross, Phoebe, and Chandler are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh, wow! I should get going. I-I got a date tonight"},
 				{"Character":"Chandler","Line":"Oh yeah! With who"},
 				{"Character":"Chandler","Line":"Oh yeah! With who"},
@@ -79,7 +79,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Chandler!! You have the best taste in men"},
 				{"Character":"Chandler","Line":"Well, like father, like son"},
 				{"Character":"Rachel","Line":"Patrick and I had such a great time last night! I mean I think this\ncould maybe turn into something serious"},
@@ -94,7 +94,7 @@
 			},
 		"5":{
 			"SceneDescription":" Allesandro’s, continued from earlier. The other waiters are gone and\nMonica is confronting Joey about his not speaking up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"What the hell happened?"},
 				{"Character":"Joey","Line":"I am so-so-so sorry. I was gonna do it! Really! But I was standing there\nwith 327 dollars in one hand and 238 dollars in the other hand, and I was thinking,\n\"Wow! It’s been a long time since I had… (tries to do the math in his head,\nbut can’t) 327 + 238 dollars!"},
 				{"Character":"Monica","Line":"Joey, we had a deal. That-that’s why you’re here! I’ve\ngot to fire you"},
@@ -105,7 +105,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, Chandler is playing living room golf as Rachel enters.\nRachel sees this and holds the door open until Chandler is ready to start his swing, when\nhe is, she slams the door shut which causes the club to fly from his hands. He turns\naround, shocked.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Chandler! Patrick just uh, ended things with me. Did you or did you not\ntell him that I was looking for a serious relationship"},
 				{"Character":"Chandler","Line":"I did! I absolutely did"},
 				{"Character":"Rachel","Line":"You idiot!"},
@@ -148,7 +148,7 @@
 			},
 		"7":{
 			"SceneDescription":" Allesandro’s, Monica is cooking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I need more swordfish. (to one of the assistant chefs) Can you get me\nsome more swordfish"},
 				{"Character":"Kitchen Worker","Line":"I don’t speak English"},
 				{"Character":"Monica","Line":"You did a minute ago"},
@@ -190,7 +190,7 @@
 			},
 		"8":{
 			"SceneDescription":" Allesandro’s, Joey is coming back in with his coat on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Well I guess I should’ve thought about my wife and kids before I\ntalked back to chef Geller"},
 				{"Character":"Monica","Line":"Thanks"},
 				{"Character":"Monica","Line":"Thanks"},

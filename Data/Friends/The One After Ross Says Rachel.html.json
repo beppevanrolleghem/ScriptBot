@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Ross’s Wedding, continued from last season, the Minister is about to marry\nRoss and Emily.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Minister","Line":"Friends. Family. We are gathered to celebrate here today the joyous\nunion of Ross and Emily. (Time lapse) Now Ross, repeat after me. I Ross.."},
 				{"Character":"Ross","Line":"I Ross.."},
 				{"Character":"Ross","Line":"I Ross.."},
@@ -63,7 +63,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>London Marriott</i>, Monica and Chandler are walking to her room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Listen, in the middle of everything if I scream the word,\n\"Yippee!\" just ignore me"},
 				{"Character":"(She laughs and opens the door to reveal Rachel sitting on the bed","Line":"She laughs and opens the door to reveal Rachel sitting on the bed."},
 				{"Character":"Monica","Line":"Oh my God, Rachel! Hi"},
@@ -122,7 +122,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross and Emily’s room, the next morning. Ross is now asleep and has his\nhead in Monica’s lap and his feet on Chandler’s lap. Monica and Chandler are\nboth still awake and depressed.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"We have to leave for New York in an hour"},
 				{"Character":"Monica","Line":"I know, I’ve been looking at those doors, they look pretty sound\nproof, don’t you think"},
 				{"Character":"Chandler","Line":"We can’t do that that’s insane. I mean ‘A’ he\ncould wake up and ‘B’ y’know, let’s go for it"},
@@ -156,7 +156,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is eating cereal from a bowl she has balanced on\nher stomach as Joey, Chandler, and Monica return.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -216,7 +216,7 @@
 			},
 		"5":{
 			"SceneDescription":" Flight 1066 to Athens, Rachel is ordering a drink for Ross and herself.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ahh, yes, I will have a glass of the Merlot and uh, (points to\nRoss’s seat.) he will have a white wine spritzer. Woo! (Looks out the window.) Hey,\nlook at that, the airport’s moving. (Realizes that that’s not how it works.)\nHey, are we moving?! Are we moving? Why are we moving? Hey, time-out, umm, yeah, does the\ncaptain know that we’re moving? (Sits back in defeat.) Oh my God. Oh, my gosh"}]
 			}
 }

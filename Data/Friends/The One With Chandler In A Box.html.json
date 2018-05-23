@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey is sitting at the counter reading a magazine as the\nphone rings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(answering phone) Hello"},
 				{"Character":"Chandler","Line":"(on phone) Hey, it’s me. I know you can’t stand to be in the\nsame room as me, so I just thought I’d try and apologize over the phone. All I…\n(Joey hangs up the phone in disgust."},
 				{"Character":"(Paus","Line":"Pause"},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Joey is repacking the furniture into boxes to return it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -78,7 +78,7 @@
 			},
 		"3":{
 			"SceneDescription":" Dr. Burke’s office, Rachel and Monica are waiting as the doctor arrives.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Doctor","Line":"I’ll be right with you. Okay? (to the nurse) Thanks, Wendy"},
 				{"Character":"Monica","Line":"Oh my God! How cute is the on-call doctor"},
 				{"Character":"Rachel","Line":"Ooh, so cute, that I’m thinking about jamming this pen in my eye"},
@@ -96,7 +96,7 @@
 			},
 		"4":{
 			"SceneDescription":" Dr. Burke’s office, Tim is examining Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Tim","Line":"Last time I saw you, it was the morning I left for college. And you were\njust standing outside <em>The Dairy Queen</em>"},
 				{"Character":"Monica","Line":"I was probably waiting for it to open"},
 				{"Character":"Tim","Line":"I gotta tell you, you look great now"},
@@ -137,7 +137,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's Balcony, the gang is all there watching Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, he sees her"},
 				{"Character":"Monica","Line":"Oh, he’s catching up to her"},
 				{"Character":"Phoebe","Line":"Oh, she sees him! Oh, they’re hugging"},

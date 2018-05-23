@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Ross and Chandler are sitting at a table. Rachel is working.\nMonica and Phoebe enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey, guys"},
 				{"Character":"Chandler and Ross","Line":"Hey"},
 				{"Character":"Chandler and Ross","Line":"Hey"},
@@ -114,7 +114,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Alright boys, let's eat"},
 				{"Character":"Chandler","Line":"Oh, did you get that from the 'I Love Rachel' pizzeria"},
 				{"Character":"Ross","Line":"You still on that"},
@@ -134,7 +134,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross's apartment, everyone but Rachel is seated around his table. <i>The Lion\nSleep Tonight</i> plays in the background.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ross, could we please, please, please listen to anything else"},
 				{"Character":"Ross","Line":"Alright"},
 				{"Character":"Ross","Line":"Alright"},
@@ -176,7 +176,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, everyone is there ready for another poker game.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So, you gals wanna hand over your money now? That way, we don't have to go\nthrough the formality of actually playing"},
 				{"Character":"Rachel","Line":"Ooooh, that's fine. We'll see who has the last laugh there, monkey boy"},
 				{"Character":"Monica","Line":"OK, we done with the chit-chat? Are we ready to play some serious poker"},

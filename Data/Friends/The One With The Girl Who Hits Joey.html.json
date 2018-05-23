@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The hallway, Ross is running up the stairs. Note: This show continues where the\nlast one left off.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Chandler!!! Chandler!!! (He opens the door to the apartment but is stopped\nby the chain; Chandler and Monica quickly stop making out and try to get dressed.)\nChandler, I saw what you were doing through the window! Chandler, I saw what you were\ndoing to my sister! Now get out here"},
 				{"Character":"Chandler","Line":"(To Monica) Wow! Listen, we had a good run. What was it? Four? Five\nmonths? I mean, that's more than most people have in a lifetime! So, good-bye, take care,\nbye-bye then! (He kisses her and starts to climb out the balcony window."},
 				{"Character":"Monica","Line":"What are you doing?"},
@@ -48,7 +48,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross's apartment, he's unpacking after moving in. There's a knock on the door\nand he answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(opens it to reveal Phoebe) Hey"},
 				{"Character":"Phoebe","Line":"Hey! I brought you some house warming gifts"},
 				{"Character":"Ross","Line":"Aww"},
@@ -128,7 +128,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Joey is sitting on the couch with Katie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Katie","Line":"You were so funny with that waiter! You're such a nut! (She slaps her\nthighs, Joey jerks, and spills some of his coffee."},
 				{"Character":"Joey","Line":"(sets the coffee down) Y'know, breadstick fangs are always funny"},
 				{"Character":"Katie","Line":"No, you make them funny. You're the funny one! (She punches him again and\nhe retreats to the arm of the couch."},
@@ -137,7 +137,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler is getting advice from Ross and Joey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"It's gonna be okay, right? I mean she's not gonna leave me? This is,\nthis is fixable"},
 				{"Character":"Ross and Joey","Line":"Oh yeah, yeah, sure. Absolutely"},
 				{"Character":"Chandler","Line":"By me"},
@@ -174,7 +174,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Rachel is getting some coffee as Joey enters. He's looking a\nlittle puffy, but that's probably from the large number of different color sweaters he's\nwearing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hi! Wow! You look, you look…big"},
@@ -222,13 +222,13 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's apartment, Ross and Phoebe have been banished to Ross's place.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Obviously I didn't think they were gonna start throwing things. I just\nthought if I kept insulting everyone, you would jump in and defend everyone and then you\ncould look like the hero"},
 				{"Character":"Ross","Line":"Oh wow, yeah! See, I did not get that"}]
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Everyone is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey Ross, will you pass me that knife"},
 				{"Character":"Ross","Line":"No, I will not"},
 				{"Character":"Ross","Line":"No, I will not"},

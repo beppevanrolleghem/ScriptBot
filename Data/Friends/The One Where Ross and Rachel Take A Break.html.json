@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Joey is taking a jar of olives out of the\nfridge.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(to Monica) Hey, how much will you give me to eat this whole jar of\nolives"},
 				{"Character":"Monica","Line":"I won’t give you anything, but you’ll owe me 2.95"},
 				{"Character":"Joey","Line":"Done"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Street, Phoebe is walking along with the diplomat (Sergei) and his translator\n(Mischa).",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Sergei","Line":"(something in Russian or Polish"},
 				{"Character":"Mischa","Line":"He’s says, ‘Walking with you makes this strange city, feel\nlike home."},
 				{"Character":"Phoebe","Line":"Me too. Although this city is my home, so. So that’s dumb what I\nsaid, don’t tell him I said that. Umm, you make something up. (Mischa does so and\nSergei kisses her hand.) Nice, (to Mischa) thank you. This is me. Here"},
@@ -89,7 +89,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Chandler and Joey are sitting on the big couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, y'know what, maybe we should get going. I mean what time did\nChloe say we should be there"},
 				{"Character":"Joey","Line":"Uh, 10:30"},
 				{"Character":"Joey","Line":"Uh, 10:30"},
@@ -128,7 +128,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hi. Look um, about what happened earlier.."},
@@ -172,7 +172,7 @@
 			},
 		"5":{
 			"SceneDescription":" A Restaurant, Monica and Phoebe are on their dates with Sergei and Mischa.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh, and I can also speak a little French. Voulez-vous coucher avec moi\nce soir? (Mischa laughs) Why? What did I say"},
 				{"Character":"Mischa","Line":"Well, you just asked if I wanted to go to bed with you tonight"},
 				{"Character":"Monica","Line":"Oh my God! No wonder I get such great service at Cafe Maurice"},
@@ -212,7 +212,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Philly.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So what are you gonna do"},
 				{"Character":"Ross","Line":"What can I do? One person wants to break-up, you break-up"},
 				{"Character":"Chandler","Line":"Hey, no way! Come on, this is you guys, call her and work it out"},
@@ -229,7 +229,7 @@
 			},
 		"7":{
 			"SceneDescription":" The Restaurant, after dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mischa","Line":"(to Monica) And the vet said it was time. And so from half a world away,\nwhile my Mother held the phone to his ear, I said good bye to my dog,. In seven languages"},
 				{"Character":"Monica","Line":"Oh. (to Phoebe) Can I have a tissue"},
 				{"Character":"Phoebe","Line":"Oh, yeah, sure. I just hope you, hope you don’t accidentally suck\nit up through your nose and choke on it"},
@@ -264,12 +264,12 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Rachel is next to the bay window again, Mark has left.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(picks up the phone and calls Ross) Oh, be home, be home, be home, be\nhome, be home, be home. Be home. Be home, be home, be home. Oh, you’re not home"}]
 			},
 		"9":{
 			"SceneDescription":" Central Perk, Sergei is teaching Phoebe how to sing <i>American Pie</i>, by Don\nMaclean.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Both Phoebe and him are singing along and they get to the chorus","Line":"Both Phoebe and him are singing along and they get to the chorus."},
 				{"Character":"Sergei","Line":"(singing) Touchet, touchet, Miss Americccan pie. (stops to correct\nPhoebe) Ameri-ccan"},
 				{"Character":"Phoebe","Line":"Ameri-can"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Monica's",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Ross","Line":"Yeah! Yeah! OK! Sure! Look! Can we...can we talk about what happened \n  here last night"},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" Beauty salon",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Salon girl","Line":"H"},
 				{"Character":"Salon girl","Line":"H"},
 				{"Character":"Joey","Line":"Hey. I'm here for my eyebrow appointment"},
@@ -68,7 +68,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross'",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Rachel","Line":"Who is it"},
@@ -166,7 +166,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Ross","Line":"Hi! I could help not notice, but that's an unusual necklac"},
@@ -193,7 +193,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler's",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Joey","Line":"Hey, I need your help"},
@@ -227,7 +227,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross'",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Michelle","Line":"Thank you so much for letting me do this. Public bathrooms freak \n  me out, I can't even pee, let alone do<br>\n  anything else"},
@@ -276,7 +276,7 @@
 			},
 		"7":{
 			"SceneDescription":" Piano Bar",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Monica","Line":"Ok, for my next song I think I’ll sing something a little more \n  upbeat. All right? Oh, how about the Pointer<br>\n  Sisters “I am so excited”. And make it bouncy"},
@@ -309,7 +309,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey's",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Joey","Line":"Hey"},

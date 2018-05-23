@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Frank and Alice are there talking with Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh my God! I can’t believe my little brother is married"},
 				{"Character":"Frank","Line":"Oh I know!! (Both he and Alice squeal hysterically"},
 				{"Character":"Phoebe","Line":"You guys, why didn’t you tell me you were eloping"},
@@ -27,7 +27,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Chandler and Kathy are kissing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Kathy","Line":"Umm, (moves her hand’s down to his butt) I love this touchy. Can I\ntake it to work with me"},
 				{"Character":"Chandler","Line":"Oh, yeah, sure, it’s not mine anyway. It can with the pants"},
 				{"Character":"Kathy","Line":"Oh! (They kiss and she leaves"},
@@ -84,7 +84,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe Sr.’s house, there’s a knock on the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe Sr","Line":"It’s open! Come in"},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Phoebe","Line":"Hi"},
@@ -136,7 +136,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Joey is eating dinner, Monica and Rachel are sitting on\nthe couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering) Hey, uh, I’m really, really sorry about what happened in\nthe cafeteria today"},
 				{"Character":"Joey","Line":"It’s no big deal. Hey, y’know, you do what you gotta do. Right"},
 				{"Character":"Ross","Line":"But hey, it’s not just me, I mean the scientists and the tour guides never\nsit together"},
@@ -153,7 +153,7 @@
 			},
 		"5":{
 			"SceneDescription":" The museum cafeteria, Joey is eating with the tour guides as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Older Scientist","Line":"Dr. Geller, there’s a seat over here. (Motions to\nan empty chair at the ‘white’ table."},
 				{"Character":"Ross","Line":"Thank you, Dr. Phillips, but I’m having my lunch at this table, here\nin the middle. I’m having lunch right here, with my good friend Joey, if he’ll\nsit with me"},
 				{"Character":"Joey","Line":"(standing up) I will sit with you Dr. Geller. (He goes over to his table\nand they shake hands."},
@@ -182,7 +182,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Monica and Rachel are sitting at the table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Would you ever be a surrogate for anyone"},
 				{"Character":"Rachel","Line":"It depends on who asked"},
 				{"Character":"Monica","Line":"What if I asked"},

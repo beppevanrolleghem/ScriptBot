@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Chandler is watching TV, and we\nhear Mr. Treeger in the bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Treeger","Line":"Ohhh, man!"},
 				{"Character":"Joey","Line":"(coming in from his bedroom) What is that"},
 				{"Character":"Chandler","Line":"Treeger’s snaking the shower drain"},
@@ -32,7 +32,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's erm, Monica and Rachel's, Ross is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi"},
@@ -79,7 +79,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe is there, waiting to tell Frank and Alice the news.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Alice","Line":"(entering) Oh-oh, Phoebe"},
 				{"Character":"Phoebe","Line":"Ooh! Hi"},
 				{"Character":"Phoebe","Line":"Ooh! Hi"},
@@ -131,7 +131,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Rachel is singing some kind of\nsong.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"What’s that song? It has been in my head all day long"},
 				{"Character":"Chandler","Line":"It’s the theme from Good Will Humping"},
 				{"Character":"Rachel","Line":"Y’know who doesn’t even like dirty movies? My new boyfriend\nJoshua"},
@@ -211,7 +211,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross’s bedroom, he has fallen asleep waiting for Emily to call. He is\nawaken by the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(Answers the phone.) Hello"},
 				{"Character":"Emily","Line":"Ross"},
 				{"Character":"Emily","Line":"Ross"},
@@ -225,7 +225,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's erm, Monica and Rachel's, Monica, Joey, and Chandler are\nsitting and talking as Phoebe and Rachel enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Ooh-Ooh! I did it! I did it! I figured out a way to make money! I’m\ngonna open up my own massage place and Frank’s gonna help me! And! We can work it\naround his schedule so he doesn’t have to quit school"},
 				{"Character":"Monica","Line":"That’s sounds great, but how are you going to afford it"},
@@ -273,7 +273,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Joey is still watching the porn\nas Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},

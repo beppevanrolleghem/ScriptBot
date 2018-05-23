@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Hospital, Phoebe is arriving with Ross, Joey, and Rachel in tow.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to the nurse) Hi"},
 				{"Character":"Nurse","Line":"Hi"},
 				{"Character":"Nurse","Line":"Hi"},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" The waiting room, Monica and Joey are sitting there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Monica? You gonna be very proud of me. I just got us dates\nwith two unbelievably cute nurses"},
 				{"Character":"Joey","Line":"Oh my"},
 				{"Character":"Joey","Line":"Oh my"},
@@ -82,7 +82,7 @@
 			},
 		"3":{
 			"SceneDescription":" The waiting room, Chandler is looking for Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(spotting her) Oh-hey-hey-hey! There you are"},
 				{"Character":"Monica","Line":"Umm, listen there's something I think you should know"},
 				{"Character":"Chandler","Line":"Oh, is this about you-you dating the nurse? Yeah, Joey already told\nme, and I am so-so fine. I mean, you and I we're just, y'know, we're nothing, we're\ngoofin' around"},
@@ -94,7 +94,7 @@
 			},
 		"4":{
 			"SceneDescription":" Another hospital room, Joey has now been admitted and his doctor is about to\nbreak the bad news to him, Monica, and Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey's Doctor","Line":"Mr. Tribbiani, I'm afraid you've got kidney stones"},
 				{"Character":"Joey","Line":"Umm, well, what else could it be"},
 				{"Character":"Joey's Doctor","Line":"It's kidney stones"},
@@ -108,7 +108,7 @@
 			},
 		"5":{
 			"SceneDescription":" The delivery room, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay, Phoebe, honey, you gotta be kidding. I mean, you know you\ncannot keep one of these babies"},
 				{"Character":"Phoebe","Line":"Why not?! Maybe I can, you don't know"},
 				{"Character":"Rachel","Line":"Yes! Yes! Yes, I do! I do know! Frank and Alice are gonna want to keep all\nof their children"},
@@ -134,7 +134,7 @@
 			},
 		"6":{
 			"SceneDescription":" The delivery room, Rachel and Frank are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(To Rachel) So did you ask him"},
 				{"Character":"Rachel","Line":"No, I haven't had a chance to be alone with him yet"},
 				{"Character":"Phoebe","Line":"Well, I'm kinda on a clock here"},
@@ -228,7 +228,7 @@
 			},
 		"7":{
 			"SceneDescription":" The delivery room, later on, Rachel, Chandler, Monica, and Frank are there as\nDr. Harad is checking out Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Harad","Line":"Okay, you're at ten centimeters. Time to start having some babies.\nAll right, I want only the father in here please"},
 				{"Character":"(They all kiss her and wish her luck","Line":"They all kiss her and wish her luck."},
 				{"Character":"Monica","Line":"Bye Dan"},
@@ -310,7 +310,7 @@
 			},
 		"8":{
 			"SceneDescription":" A hallway, Monica and Dan are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dan","Line":"So, I'll call you tomorrow"},
 				{"Character":"Monica","Line":"Great"},
 				{"Character":"Monica","Line":"Great"},
@@ -336,7 +336,7 @@
 			},
 		"9":{
 			"SceneDescription":" The delivery room, everyone is hanging out with Phoebe. Frank, Alice, and the\nkids aren't there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe, we are so proud of you! You're amazing"},
 				{"Character":"Phoebe","Line":"I know"},
 				{"Character":"Phoebe","Line":"I know"},

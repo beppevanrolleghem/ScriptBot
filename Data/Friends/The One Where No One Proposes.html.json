@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Rachel’s Room, Joey moves Ross’s coat to get the tissues Rachel wants \nand the engagement ring box Mrs. Geller gave him falls out of the pocket it was \ninside. Joey goes to one knee, picks up the box, opens it, and sees that it’s an \nengagement ring.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Joey"},
 				{"Character":"(He turns to face Rachel on one knee with the box open","Line":"He turns to face Rachel on one knee with the box open."},
 				{"Character":"Rachel","Line":"(seeing the ring) Oh my God. (Pause) Okay"},
@@ -61,7 +61,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel’s Room, Phoebe is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -95,7 +95,7 @@
 			},
 		"3":{
 			"SceneDescription":" Rachel’s Room, she is taking the ring out of Ross’s jacket, looks at \nit, and puts it on her finger as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey uh, is it okay to come in"},
 				{"Character":"Rachel","Line":"Of course! Oh Joey, this ring I…it’s beautiful I love it"},
 				{"Character":"Joey","Line":"Yeah uh look Rach, there’s something I gotta tell ya"},
@@ -132,7 +132,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Janitor’s Closet, Chandler and Monica are trying to figure out \nwhat to do now.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Look, we can’t stay in here forever"},
 				{"Character":"Monica","Line":"Oh, I still can’t believe my dad saw us having sex! He didn’t \nmake it to one of piano recitals, but this he sees"},
 				{"Character":"Chandler","Line":"This is okay. We’re all adults here; there’s nothing to be \nashamed of. Now, let’s put our underwear in our pockets and walk out the door. \n(They do so and find Mr. Geller leaning against a wall stunned."},
@@ -172,7 +172,7 @@
 			},
 		"5":{
 			"SceneDescription":" A Hallway, Chandler is following Joey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"You still haven’t told Rachel you weren’t really \nproposing"},
 				{"Character":"Joey","Line":"No! She had the ring on, she seemed so excited, and then she \ntook her breast out"},
 				{"Character":"Chandler","Line":"Joey, you have to tell her what’s going on! And what did it \nlook like?"},
@@ -186,7 +186,7 @@
 			},
 		"6":{
 			"SceneDescription":" Outside the Janitor’s Closet, there are people having sex and Mr. \nGeller is trying to give them some pamphlets.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Geller","Line":"Kids, I spoke to a doctor and picked up this pamphlets on \nhow to get pregnant. (He slides them under the door."},
 				{"Character":"Monica","Line":"(walking by with Chandler.) Hey dad"},
 				{"Character":"Chandler","Line":"Hey"},

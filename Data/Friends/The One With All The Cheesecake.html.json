@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Monica’s, Chandler is sitting at the kitchen table eating\ncheesecake. The box it came in is also on the table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Ohh. Mmm"},
 				{"Character":"Rachel","Line":"(Comes in the front door and walks towards the kitchen.) Hi"},
 				{"Character":"Chandler","Line":"Hey, you have got to try this cheesecake"},
@@ -23,7 +23,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel's, Monica, Chandler, Rachel, and Ross are playing <i>Monopoly</i>\nas Phoebe enters angrily.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Joseph Francis Tribbiani are you home yet?!"},
 				{"Character":"Rachel","Line":"Umm, I think he’s still out. What’s wrong"},
 				{"Character":"Phoebe","Line":"Well, I’ll tell you Rachel Karen Green, I had plans with Joey\ntonight and he left me this note. (Hands it to Rachel."},
@@ -55,7 +55,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Monica and Joey are there. Joey is reading a newspaper.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Awww! Mel Torme died"},
 				{"Character":"Monica","Line":"Joey, that paper’s like a year old"},
 				{"Character":"Joey","Line":"Aw! Does that mean the <i>Sam Goody’s</i> sale is over?"},
@@ -109,7 +109,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Monica and Phoebe are entering. As Phoebe is sitting down, she\nrecognizes someone sitting at the counter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(gasps) (whispering) Oh my God! That’s David"},
 				{"Character":"Monica","Line":"David who"},
 				{"Character":"Monica","Line":"David who"},
@@ -176,7 +176,7 @@
 			},
 		"5":{
 			"SceneDescription":" Cousin Frannie’s Wedding Reception, Monica and Ross are entering and\nfinding their table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh here, I think this is us. (Reading the name cards.) Yeah"},
 				{"Character":"Monica","Line":"Limited seating my ass. Let’s see who made the cut. (To the couple\nsitting to her right.) Hi"},
 				{"Character":"<strong>The Wedding Guest","Line":"/strong> Hi"},
@@ -195,7 +195,7 @@
 			},
 		"6":{
 			"SceneDescription":" Outside Central Perk, Phoebe is running up to meet David.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"David","Line":"Hey! Oh, I was just about to leave. I-I-I-I didn’t think you were\ncoming"},
 				{"Character":"Phoebe","Line":"Oh, I wouldn’t miss this"},
@@ -205,7 +205,7 @@
 			},
 		"7":{
 			"SceneDescription":" Cousin Frannie’s Wedding Reception, Monica and Ross are sitting at the\ntable, alone, as a woman approaches.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Woman","Line":"Ross, sweetheart"},
 				{"Character":"Ross","Line":"Oh, hey Aunt Millie"},
 				{"Character":"Ross","Line":"Oh, hey Aunt Millie"},
@@ -232,7 +232,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Hallway, Chandler and Rachel are on their knees with forks trying to\nsalvage what they can of the cheesecake off of the floor.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh! Yay! Look! There’s a piece that doesn’t have floor on it"},
 				{"Character":"Chandler","Line":"Stick to your side"},
 				{"Character":"Chandler","Line":"Stick to your side"},

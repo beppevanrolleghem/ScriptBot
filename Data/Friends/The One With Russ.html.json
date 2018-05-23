@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler, Phoebe, Rachel, Monica comforting Joey at Monica and Rachel's\napartment.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"JOEY","Line":"When I was little, I wanted to be a veteranarian, but then I found out you had to\nput your hands into cows and stuff"},
 				{"Character":"[Ross enters, depressed","Line":"Ross enters, depressed."},
 				{"Character":"ROSS","Line":"[sullenly] Hiiiiii"},
@@ -76,7 +76,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Estelle Leonard Talent Agency</i>. Estelle (ESTL) is speaking on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"ESTL","Line":"Stop saying you're not talented, you're very talented. It's just with the bird\ndead and all, there's very little act left. Oh, honey, give me a break, will ya? [a knock\non the door] Oooh, ooh, I'll talk to you later"},
 				{"Character":"[Joey enters","Line":"Joey enters."},
 				{"Character":"[Joey enters","Line":"Joey enters."},
@@ -95,7 +95,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's apartment. Joey is making marinara sauce and filling every\ncontainer in sight. Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"CHAN","Line":"Hey"},
 				{"Character":"CHAN","Line":"Hey"},
 				{"Character":"JOEY","Line":"Hey"},
@@ -129,7 +129,7 @@
 			},
 		"4":{
 			"SceneDescription":" <i>Central Perk</i>. Chandler is sitting on the couch between Russ and Ross,\ndoing a crossword puzzle.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"CHAN","Line":"Hey, we're having some fun now, huh, Ross? Wanna do another one, huh Russ? OK...\neleven letters, atomic element number 101... ends in <i>ium</i>"},
 				{"Character":"RUSS","Line":"Dysprosium"},
 				{"Character":"RUSS","Line":"Dysprosium"},
@@ -183,7 +183,7 @@
 			},
 		"5":{
 			"SceneDescription":" <i>Central Perk</i>. Russ enters. Chandler and\nPhoebe are sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"RUSS","Line":"Hi"},
 				{"Character":"RUSS","Line":"Hi"},
 				{"Character":"CHAN","Line":"Oh, hey"},

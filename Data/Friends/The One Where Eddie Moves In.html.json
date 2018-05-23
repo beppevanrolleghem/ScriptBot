@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey's new apartment. Everyone but Chandler is there. Joey has\ndecorated the place with tons of tacky stuff.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica is outside the bathroom yelling at Ross\nwho's in the bathroom.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Central Perk. Joey is sitting between Monica and Phoebe.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Recording studio. Phoebe is getting ready to record <i>Smelly Cat</i>.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Chandler's apartment. Chandler is sitting on the bar, bouncing a ball against\nthe door. Joey walks in right as he throws the ball and catches it.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Chandler and Eddie's apartment. Joey stops by. Chandler is reading the paper\nand Eddie is fixing eggs.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Central Perk. Ross, Rachel, and Monica are hanging out.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Central Perk. Phoebe is performing <i>Smelly Cat</i>.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

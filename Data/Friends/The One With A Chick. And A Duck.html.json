@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Outside Central Perk, Rachel and Phoebe are helping Monica learn\nhow to roller skate by rolling her between themselves.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So who’s idea was it to put everybody in the diner on skates"},
 				{"Character":"Monica","Line":"Oh, some idiot customer put a suggestion in the suggestion box"},
 				{"Character":"Phoebe","Line":"Oh my God, they took my idea"},
@@ -21,7 +21,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Moondance Diner, Pete is entering, Monica is on roller skates.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Pete","Line":"Hi"},
 				{"Character":"Pete","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi! Hey, Pete you’re back! Hey, check this out. (She starts to\nskate over to him"},
@@ -50,7 +50,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Chandler is talking to Phoebe about her suggestion.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"So um, after you put the suggestion in the box, how long did it take\nfor the roller skating thing to happen"},
 				{"Character":"Phoebe","Line":"Umm, oh, about three months"},
 				{"Character":"Chandler","Line":"Okay, so I guess that’s about ah, two weeks before the topless\nthing kicks in"},
@@ -78,7 +78,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is baby-chick sitting.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay, but this is the last time. (singing) With a chick-chick here,\nand a chick-chick there. Here a chick, there a chick, everywhere a chick-chick-(Joey\nenters)-chickeeeen"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -131,7 +131,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel’s bedroom, Rachel is trying to put on eye liner with her left\nhand, as Ross is setting out her shoes.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(She drops the brush) Y'know what? I cannot do this with my left hand!\nWould you please, help me with this too"},
 				{"Character":"Ross","Line":"Ohh. (He drops the shoes, takes the brush from her, and licks the tip. He\ndoesn’t like how it tastes."},
 				{"Character":"Rachel","Line":"(taking the brush back) Okay. Let’s use this brush. (Hands him\nanother one."},
@@ -187,7 +187,7 @@
 			},
 		"6":{
 			"SceneDescription":" Rachel’s Bedroom, Ross is finishing up her make-up.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"There you go! Good enough for your party, huh"},
 				{"Character":"(She turns and looks in the mirror, and it’s way, way over done. She looks like\nshe has two black eyes","Line":"She turns and looks in the mirror, and it’s way, way over done. She looks like\nshe has two black eyes."},
 				{"Character":"Rachel","Line":"Sure"},
@@ -302,7 +302,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Chandler is watching <i>Baywatch</i> with the baby chick.\nHe’s on one leather chair, the chick is on the other. It’s watching Yasmine\nBleeth run and is chirping.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I know. See, yes. That’s Yasmine Bleeth, she’s a completely\ndifferent kind of chick. I love you both. But in very different ways"},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"(entering) Hey"},
@@ -325,7 +325,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Hallway Between The Apartments, Ross and Rachel are coming back from the\nhospital. Ross is helping her up the stairs.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay, you’d tell me the truth. Right"},
 				{"Character":"Ross","Line":"Rach, you can’t look fat in an x-ray"},
 				{"Character":"Rachel","Line":"Okay"},

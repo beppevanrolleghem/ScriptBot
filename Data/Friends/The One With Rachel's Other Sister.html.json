@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Outside the apartment. Chandler is sitting on the steps. Monica \nopens the door",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey...there you are. You disappeared after dinner"},
 				{"Character":"Chandler","Line":"Oh, did somebody miss me? Is there a child to raise poorly"},
 				{"Character":"Monica","Line":"Ross and Rachel don't know what they're talking about! I mean it's \nnot like they're so responsible. Emma as a product of a bottle of Murlo and a \nfive-year-old condom"},

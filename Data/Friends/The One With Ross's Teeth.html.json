@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Janine’s, Chandler knocks on the front door. Joey answers the\ndoor.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -57,7 +57,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel’s office, Phoebe hands Rachel a key card.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Thank you"},
 				{"Character":"Phoebe","Line":"Thank you"},
 				{"Character":"Rachel","Line":"Sure"},
@@ -88,7 +88,7 @@
 			},
 		"3":{
 			"SceneDescription":" Elevator at the Ralph Lauren offices, Rachel gets on her boss Kim is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, Kim, Hi. (Kim doesn’t even look up from her report."},
 				{"Character":"Kim","Line":"Uhh-huh"},
 				{"Character":"Kim","Line":"Uhh-huh"},
@@ -206,7 +206,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler’s and Monica’s apartment, Chandler and Monica are sitting at\nthe kitchen table making potpourri sachets.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Now are drawers will smell nice and we didn’t waste these pantyhose"},
 				{"Character":"Chandler","Line":"Yes, God forbid we throw out old underwear. You-you know what? I’m\ngoing to go over to Joey’s"},
 				{"Character":"Monica","Line":"Wait, we’re supposed to organize the wrapping paper drawer"},
@@ -221,12 +221,12 @@
 			},
 		"5":{
 			"SceneDescription":" Ross’s apartment, Chandler enters. Ross is putting on makeup.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey Ross, I was wondering if… <strong>Oh my God</strong>!! Where are\nall the men??"}]
 			},
 		"6":{
 			"SceneDescription":" Hillary’s apartmen,. Hillary and Ross are having dinner. He is avoiding\nopening his mouth.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hillary","Line":"And after that, what could I do except become a chef"},
 				{"Character":"Ross","Line":"Mmm-Hmm"},
 				{"Character":"Ross","Line":"Mmm-Hmm"},
@@ -263,7 +263,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Phoebe and Rachel are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Now, she thinks that I made out with him and I did it to get her job"},
 				{"Character":"Phoebe","Line":"But why didn’t you just tell her the truth"},
 				{"Character":"Rachel","Line":"I did but she doesn’t think anyone would be stupid enough to confuse\nKenny the copy guy with Ralph Lauren"},
@@ -289,7 +289,7 @@
 			},
 		"8":{
 			"SceneDescription":" Elevator at the Ralph Lauren Offices, Rachel gets in . Kim is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Kim, hi"},
 				{"Character":"Rachel","Line":"Kim, hi"},
 				{"Character":"Kim","Line":"Hi Rachel. Ohh, I’ve been meaning to ask you. Have you seen the new Ralph\nLauren sheets? Ohh, what am I thinking. Of course you have"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Wedding Chapel, continued from last season. Chandler and Monica are about\nto get married.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay! (Stands up) This is it! (Claps his hands) We're gonna get\nmarried"},
 				{"Character":"Monica","Line":"Are you sure you wanna do this"},
 				{"Character":"Monica","Line":"Are you sure you wanna do this"},
@@ -73,7 +73,7 @@
 			},
 		"2":{
 			"SceneDescription":" The breakfast buffet, Phoebe is already sitting at the table as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Mornin’ Pheebs. (Sits down.) Well, my movie has officially been\ncanceled"},
 				{"Character":"Phoebe","Line":"Oh Joey, I’m so sorry. You want some of my breakfast"},
 				{"Character":"Joey","Line":"Nah, I’m too depressed to eat. I’ll probably eat in like 5\nminutes. So I guess I’ll just fly home with you guys, what time’s your flight"},
@@ -210,7 +210,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe’s cab, Phoebe and Joey are driving back. Phoebe is driving while\nJoey is sleeping.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay, you have 19 questions left. Use them wisely. (Joey groans.) Come\non Joey! You can’t win if you don’t ask any (sees that he’s asleep) QUESTIONS!!"},
 				{"Character":"Joey","Line":"(wakes up) What?"},
 				{"Character":"Joey","Line":"(wakes up) What?"},
@@ -233,7 +233,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, continued from earlier. Rachel starts laughing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay! So, we’ll just stay married"},
 				{"Character":"Ross","Line":"Yes, exactly"},
 				{"Character":"Ross","Line":"Yes, exactly"},
@@ -255,7 +255,7 @@
 			},
 		"5":{
 			"SceneDescription":" Phoebe’s cab, she’s driving, Joey’s in the back seat, and the\nhitchhiker is riding up front with Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(To Joey) How could you pick up a hitchhiker?! He could be a\nrape—(She holds her hand in front of the hitchhiker’s face), a rapist or a\nkiller or something"},
 				{"Character":"Joey","Line":"Don’t you think I asked him that before he got in?"},
 				{"Character":"Phoebe","Line":"Y’know what? I’m not talking to you! You go back to sleep! (To\nthe hitchhiker) And you, are you a rapist?"},
@@ -274,7 +274,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe’s cab, it’s the same arrangement as before.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hitchhiker","Line":"Wait! Wait! There is the train station"},
 				{"Character":"Phoebe","Line":"Oh, okay"},
 				{"Character":"Phoebe","Line":"Oh, okay"},
@@ -299,7 +299,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Rachel and Phoebe are on the couch as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey, so did everything go all right with the annulment"},

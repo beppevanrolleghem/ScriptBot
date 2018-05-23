@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's apartment. Phoebe, Monica, and Rachel are there, discussing\nthe night before.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"RACH","Line":"Ross kissed me"},
 				{"Character":"MNCA","Line":"Oh my god, oh my god, oh my god"},
 				{"Character":"RACH","Line":"It was unbelievable"},
@@ -29,7 +29,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Central Perk</i>. Joey, Phoebe, Monica, and Chandler are there; Chandler is\nshowing everyone his new computer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"CHAN","Line":"All right, check out this bad boy. 12 megabytes of ram. 500 megabyte hard drive.\nBuilt-in spreadsheet capabilities and a modem that transmits at over 28,000 b.p.s"},
 				{"Character":"PHOE","Line":"Wow. What are you gonna use it for"},
 				{"Character":"CHAN","Line":"[doggedly] Games and stuff"},
@@ -86,7 +86,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica and Phoebe are there. Monica is\nsuggesting Mockolate recipes to Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"MNCA","Line":"How about Mockolate mousse"},
 				{"Character":"PHOE","Line":"It's not, it's not very Thanksgiving-y"},
 				{"Character":"MNCA","Line":"Ok, how about pilgrim Mockolate mousse"},
@@ -111,7 +111,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica has made food for Phoebe and Rachel to\ntaste.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"MNCA","Line":"Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate\ncranberry cake, and these are mockolate chip cookies. Just like the Indians served"},
 				{"Character":"[Rachel takes a bite","Line":"Rachel takes a bite."},
 				{"Character":"[Rachel takes a bite","Line":"Rachel takes a bite."},
@@ -124,7 +124,7 @@
 			},
 		"5":{
 			"SceneDescription":" <i>Central Perk</i>. Chandler, Monica, Joey, and Phoebe are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"CHAN","Line":"My diary! My diary, that's brilliant. I should have told her it was my diary, she\nnever would have made me read her my diary"},
 				{"Character":"MNCA","Line":"You know, that's true. You'd be a great person to have around the day after an\nemergency"},
 				{"Character":"PHOE","Line":"I... I cannot believe Ross even made this list. What a dinkus"},
@@ -151,7 +151,7 @@
 			},
 		"6":{
 			"SceneDescription":" Mr. Ratstatter's office. Monica is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"MNCA","Line":"Now, in some of these recipes, the quantities may seem just a little unusual, uh,\nlike these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and\nfour cups of crushed nut, and only, uh, one tablespoon of mockolate"},
 				{"Character":"RTST","Line":"Doesn't matter"},
 				{"Character":"RTST","Line":"Doesn't matter"},
@@ -167,7 +167,7 @@
 			},
 		"7":{
 			"SceneDescription":" Mr. Ratstatter's office. Monica is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"RTST","Line":"Hi, thanks for coming in again"},
 				{"Character":"MNCA","Line":"Oh, not at all. I have no morals and I need the cash"},
 				{"Character":"RTST","Line":"It's like I'm lookin' in a mirror. Anyway, they're called\n\"fishtachios\". They taste exactly like pistachios, but they're made primarily of\nreconstituted fish bits. Here, try one. You're not allergic to anything, are you"},

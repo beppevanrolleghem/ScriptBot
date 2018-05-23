@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey and Chandler are getting ready for the flight to\nLondon and Monica comes running in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Guys, hurry up! The flight leaves in four hours! It could take time to\nget a taxi! There could be traffic! The plane could leave early! When we get to London,\nthere could be a line at customs! Come on!! (She runs back to her apartment."},
 				{"Character":"Chandler","Line":"Six-hour trip to London. That’s a lot of Monica"},
 				{"Character":"[Cut to the girls’ apartment, Monica is putting things into her purse as Phoebe\nand Rachel watch","Line":"Cut to the girls’ apartment, Monica is putting things into her purse as Phoebe\nand Rachel watch."},
@@ -39,7 +39,7 @@
 			},
 		"2":{
 			"SceneDescription":" Street in front of the <i>London Marriott</i>, Joey and Chandler exit. Joey is\ncarrying a video camera and is shooting Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Come on! Do something"},
 				{"Character":"Chandler","Line":"I am, I’m ignoring you"},
 				{"Character":"Joey","Line":"Okay, here! (Gives him the camera.) I wanna be the on camera guy. All\nright, first stop, Westminster Abbey. (Joey folds out his \"pop-up\" map of\nLondon. All of the major landmarks pop-up like in a pop-up book."},
@@ -54,7 +54,7 @@
 			},
 		"3":{
 			"SceneDescription":" Westminster Abbey, Joey and Chandler have successfully navigated the streets of\nLondon and are approaching the Abbey.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right! Westminster Abbey! Hands down, best Abbey I’ve ever seen.\nHey! (Pushes Chandler in front of the camera.) Okay. What do you think of the Abbey,\nChandler"},
 				{"Character":"Chandler","Line":"I think it’s great. It’s great. Y’know, they’re\nthinking of changing the name of this place"},
 				{"Character":"Joey","Line":"Really? To what"},
@@ -65,7 +65,7 @@
 			},
 		"4":{
 			"SceneDescription":" A park in London, Joey and Chandler walk up to a souvenir stand.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"The Vendor","Line":"So, what are you guys in the market for? We’ve got uh, scarves,\ntulip post cards.."},
@@ -95,7 +95,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is on the couch as Rachel returns carrying a bunch\nof shopping bags.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Rachel","Line":"(depressed) Hi"},
 				{"Character":"Rachel","Line":"(depressed) Hi"},
@@ -154,7 +154,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, the phone rings and Phoebe answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hello"},
 				{"Character":"Joey","Line":"(on phone) Hey, Pheebs! It’s Joey"},
 				{"Character":"Phoebe","Line":"Hey, Joey! Hey! Ooh! Ooh! I just say someone on the—that looks just\nlike you on the subway. And I was gonna go over and say ‘hi!’ but then I\nfigured, he doesn’t care if he looks like you"},
@@ -189,7 +189,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Rachel is in her bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Pheebs"},
 				{"Character":"Phoebe","Line":"Yeah"},
 				{"Character":"Phoebe","Line":"Yeah"},
@@ -213,7 +213,7 @@
 			},
 		"8":{
 			"SceneDescription":" Rehearsal dinner hall. Ross and Emily are standing in the reception area.\nMonica arrives with her parents.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Ross","Line":"(Ross hugs his mom and dad)Hi. Mom. Dad"},
@@ -248,7 +248,7 @@
 			},
 		"9":{
 			"SceneDescription":" An airport in New York.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(Running to the ticket counter) Ooh, ooh, ooh,ooh,ooh. (Slightly out of\nbreath) Hi"},
 				{"Character":"Ticket Agent","Line":"(Cheerfully.) Hello"},
 				{"Character":"Ticket Agent","Line":"(Cheerfully.) Hello"},
@@ -276,7 +276,7 @@
 			},
 		"10":{
 			"SceneDescription":" The Girls apartment. Phoebe is dialing the phone and Rachel runs in the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(Running to her room.) Hi, Pheebs"},
 				{"Character":"Phoebe","Line":"(Looking relieved. She puts down the phone.) Oh thank god. Oh, you changed\nyour mind. Oh, look I know you probably want to be alone, and you don’t want to talk\nabout it, that’s fine. I just want you to know, I think you are doing the right thing\nand.."},
 				{"Character":"Rachel","Line":"(Running back out the door with her passport.) Bye, Pheebs"},
@@ -285,7 +285,7 @@
 			},
 		"11":{
 			"SceneDescription":" Later that evening at the rehearsal dinner. Chandler and Monica are sitting on\na sofa. Chandler is covering his face in embarrassment because of the toast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I was laughing. (Patting him on the knee."},
 				{"Character":"Chandler","Line":"Out loud"},
 				{"Character":"Chandler","Line":"Out loud"},
@@ -321,7 +321,7 @@
 			},
 		"12":{
 			"SceneDescription":" Chandlers hotel room. Ross bursts into the room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(Screaming) I’m getting married today!! Whoo-hoo!"},
 				{"Character":"Chandler","Line":"(With the covers pulled up to his chin.) Morning, Ross"},
 				{"Character":"Ross","Line":"I’m getting married, to..day!"},
@@ -334,7 +334,7 @@
 			},
 		"13":{
 			"SceneDescription":" The Virgin Atlantic flight to London that Rachel is on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ohhh.(she rhythmically taps her hands on the magazine on her lap."},
 				{"Character":"Passenger","Line":"Ahh, ahh, excuse me"},
 				{"Character":"Passenger","Line":"Ahh, ahh, excuse me"},
@@ -347,7 +347,7 @@
 			},
 		"14":{
 			"SceneDescription":" The plane. Rachel's telling her story to the passenger on her left. The one on\nher left is still wearing his headphones.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"...And so then I realized. All this stuff I had been doing. proposing to\nJoshua, lying to Ross about why I couldn’t come to the wedding. Was all just a way\nof.."},
 				{"Character":"Passenger","Line":"(Frustrated he takes his headphones off.) Oh, oh oh!! I’m sorry,\ncan I interrupt? You know I just want to say..That you are a horrible, horrible person"},
 				{"Character":"Rachel","Line":"Ehh, pardon me"},
@@ -364,7 +364,7 @@
 			},
 		"15":{
 			"SceneDescription":" Joey’s in the front entrance watching for Rachel. The bridesmaid he met at\nthe rehearsal dinner come in.)</p>\n<b>\n\n</b><p><b>Felicity: </b>(In a sexy voice.)Hello Joey.</p>\n<b>\n\n</b><p><b>Joey: </b>Hey, Felicity.</p>\n<b>\n\n</b><p><b>Felicity: </b>Umm, I thought about you all day.</p>\n<b>\n\n</b><p><b>Joey: </b>Yeah.</p>\n<b>\n\n</b><p><b>Felicity: </b>Um-hum. Talk New York to me again.</p>\n<b>\n\n</b><p><b>Joey: </b>(In a New York accent.) Fuggetaboutit. (She giggles.) How you doin?</p>\n<b>\n\n</b><p><b>Felicity: </b>Mmm. (She pushes him up against the wall and they begin to kiss.)</p>\n<b>\n\n</b><p><b>Joey: </b>Oh, yeah.</p>\n\n<p>(Back in the chapel. The parents are still fighting over the bill. Ross is refereeing.)</p>\n<b>\n\n</b><p><b>Mrs. Geller: </b>There’s nothing to discuss. We’re not paying for your wine\ncellar.</p>\n<b>\n\n</b><p><b>Mr. Waltham: </b>(Pleading.) You-you have to meet me in the middle here.</p>\n<b>\n\n</b><p><b>Mr. Geller: </b>(Forcefully.) Hey, you keep pushing me on this, my foots going to meet\nthe middle of your ass.</p>\n<b>\n\n</b><p><b>Ross: </b>Dad!! (Emily comes running in.)</p>\n<b>\n\n</b><p><b>Emily: </b>What-what’s going on?!</p>\n<b>\n\n</b><p><b>Ross: </b>Nothing, nothing. Everything's under control.</p>\n<b>\n\n</b><p><b>Mr. Waltham: </b>You want a piece of me, sir? Is that what your saying? (Pointing at\nJack and poking him) You want a piece of me?</p>\n<b>\n\n</b><p><b>Ross: </b>(Stepping in between them.)Okay! Okay! That’s it!! Parents!! Parents!!\nBack away!! All right, this is our wedding day! &nbsp; From now on everyone gets along,\nand if I hear one more word. NO GRANDCHILDREN! (Pointing at his mother.) That’s\nright!!</p>\n<b>\n\n</b><p><b>Mr. Geller: </b>Okay, okay.</p>\n<b>\n\n</b><p><b>Mr. Waltham: </b>Sorry old boy, sorry. Sorry. Sorry. (Them all walk away. As he leaves\nhe mutters to Jack.) I could kill you with my thumb, you know.</p>\n<b>\n\n</b><p><b>Emily: </b>What was all that about?</p>\n<b>\n\n</b><p><b>Ross: </b>(Sighing.) It was...This disagreement over...(She sighs. Ross notices her in\nher wedding dress.) My god. You...you look beautiful.</p>\n<b>\n\n</b><p><b>Emily: </b>(Giggles.) Ohh...(She realizes that she’s in her gown.) Oh! You were\nnot meant to see me before the wedding. It’s bad luck.</p>\n<b>\n\n</b><p><b>Ross: </b>You know what, I think we’ve had all the bad luck we’re going to\nhave. (He hugs her.)</p>\n\n<p>(The front entrance. Joey and the bridesmaid are up against the wall kissing. Rachel\ncomes in the door and walks by Joey unnoticed. She walks into the chapel and sees Ross and\nEmily kissing. She looks as though she wants to cry. Emily walks away and Ross turns and\nsees Rachel standing there.)</p>\n<b>\n\n</b><p><b>Ross: </b>My God. Rachel! (He walks towards her, grasps her hands and kisses her on the\ncheek.) Your here. I can’t believe it. (She giggles.) What happen? Why are you here?</p>\n<b>\n\n</b><p><b>Rachel: </b>Well I just came...(She touches him near his heart. She’s almost in\ntears.) I just needed to tell you...(Looking into his eyes. She takes a deep breath.)\nCongratulations. (He hugs her. She can barely hold back the tears.)</p>\n\n<p",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

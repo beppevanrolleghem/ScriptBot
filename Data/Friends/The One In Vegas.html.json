@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel is sitting in the living room and Phoebe is\nstanding in the kitchen as the phone rings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Pheebs? Could you get that? Please"},
 				{"Character":"Phoebe","Line":"Why? Just 'cause you're too lazy to get up off your touchie?"},
 				{"Character":"Rachel","Line":"No! No! It's just that all the people in the entire world that I\nwant to talk to are right here"},
@@ -91,7 +91,7 @@
 			},
 		"2":{
 			"SceneDescription":" An airplane cabin, Phoebe has the aisle seat, Chandler the window, and Monica's\nstuck in that horrible middle seat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"So, so far is this trip to Vegas better or worse than the trip to\nLondon"},
 				{"Character":"Chandler","Line":"So it's pretty much the same Pheebs"},
 				{"Character":"Phoebe","Line":"Okay, what about after I give you these candies? (Hands them each one\nfrom her purse."},
@@ -140,7 +140,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, the scene is continued from where we left off before the\nbreak.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"May I come in"},
 				{"Character":"Rachel","Line":"Uh, yeah, if you want too"},
 				{"Character":"Ross","Line":"Do you want me too"},
@@ -175,7 +175,7 @@
 			},
 		"4":{
 			"SceneDescription":" An aircraft cabin, Ross and Rachel are on their way to Vegas.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(taking off her sweater) Okay umm, Ross? I'm-I'm really warm, so I'm\ngoing to be taking off my sweater. Now, I'm just letting you know that this is not\nan invitation to the physical act of love"},
 				{"Character":"Ross","Line":"(sarcastic) Yep! That's hilarious"},
 				{"Character":"Rachel","Line":"I'm sorry. I'm done. I'm done"},
@@ -203,7 +203,7 @@
 			},
 		"5":{
 			"SceneDescription":" The casino bar, Phoebe and Monica are sitting at the bar, while Wayne Newton's\nsignature song <i>Danke Schoen</i> is playing in the background.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(to the bartender) Thank you"},
 				{"Character":"Phoebe","Line":"Thanks"},
 				{"Character":"Phoebe","Line":"Thanks"},
@@ -230,7 +230,7 @@
 			},
 		"6":{
 			"SceneDescription":" <i>Caesar's Palace Casino</i>, Joey is approaching one of the blackjack tables\non his quest to make enough money for his movie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(to the dealer) Can I change a hundred? (He hands him his chip."},
 				{"Character":"Blackjack Dealer","Line":"Changing one hundred! (Gives him the change.) Good luck sir"},
 				{"Character":"Joey","Line":"(betting all 100) Let's ride"},
@@ -300,7 +300,7 @@
 			},
 		"7":{
 			"SceneDescription":" That same plane cabin, Ross is working on a crossword puzzle and Rachel is\nasleep against his shoulder. She shifts a little bit and Ross suddenly gets an idea. An\nevil idea when he looks at his pen. Then we have a little time lapse, the plane has landed\nand everyone is disembarking. The flight attendant is saying bye-bye to everyone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>The </strong>Flight Attendant","Line":"(to another passenger) Welcome to Las\nVegas"},
 				{"Character":"(Rachel approaches and we see the fruits of Ross's evil plan. He has drawn a moustache\nand beard on Rachel. The flight attendant just ignores it","Line":"Rachel approaches and we see the fruits of Ross's evil plan. He has drawn a moustache\nand beard on Rachel. The flight attendant just ignores it."},
 				{"Character":"<strong>The </strong>Flight Attendant","Line":"(To Rachel) Thank you! (Not sure of\nherself) Enjoy your flight"},
@@ -311,7 +311,7 @@
 			},
 		"8":{
 			"SceneDescription":" The craps table, Monica is on a big roll.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"All right baby, come on! (Rolls the dice) Yes! Yes! I am on fire"},
 				{"Character":"Chandler","Line":"(walking by with his luggage) See you later Mon"},
 				{"Character":"Monica","Line":"Wait Chandler, what are you doing?"},
@@ -331,7 +331,7 @@
 			},
 		"9":{
 			"SceneDescription":" Ross and Rachel's hotel room, Rachel is still trying to get the ink off and\nRoss is on the phone to the company. Wait a minute, why exactly are they sharing a hotel\nroom? Didn't they like break-up or something? Did I miss a memo? Or maybe, it's just\nforeshadowing things to come. Who knows? Maybe the answer's at the bottom of the page.\nThen again, maybe it isn't and it's just one of those things TV writers just don't\nexplain. Anyhoo…",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(on the phone) Yes, hello. I have a question. Umm, I used your pen to draw\non my friend's face. (Listens) A beard and a moustache. (Listens and laughs) Thank you.\n(Rachel turns around and glares at him.) No, she didn't think so. (Listens) I know\nit's like (turns and sees Rachel staring at him and quickly changes the subject) anyway,\numm well make-up didn't cover it and we've tried everything to get it off and nothing's\nworked. What-what do we do? (Listens) Yeah. (Listens) Uh-huh. (Listens) Yeah. (Listens)\nOh! Okay. (Listens) Okay, thank you! (Rachel gets excited at his tone.) (Hangs up the\nphone) Yeah, it's not coming off"},
 				{"Character":"Rachel","Line":"What?! What else did he say"},
 				{"Character":"Rachel","Line":"What?! What else did he say"},
@@ -359,7 +359,7 @@
 			},
 		"10":{
 			"SceneDescription":" The Men's room, Joey is entering and sees his hand twin washing his hands.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Oh-oh-oh, yeah! (He grabs some towels and takes them to him.) That's\nright, you take good care of those babies"},
 				{"Character":"Joey's Hand Twin","Line":"Excuse me"},
 				{"Character":"Joey's Hand Twin","Line":"Excuse me"},
@@ -383,7 +383,7 @@
 			},
 		"11":{
 			"SceneDescription":" The Craps Table, Monica is still on her roll, only this time Chandler's with\nher and she has a huge crowd of people around.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(shaking the dice) A new pair of shoes for the Chan-Chan man! (Rolls the\ndice.) Yes"},
 				{"Character":"Chandler","Line":"Yes! I've-I've never seen a roll like this in my life"},
 				{"Character":"Monica","Line":"That's right baby! Okay, what do I want now"},
@@ -447,7 +447,7 @@
 			},
 		"12":{
 			"SceneDescription":" The slot machines, Phoebe is still feeding quarters into the one-armed bandit\nas the lurker peeks over the top of the machines.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh well, lost again. (She gets up and slowly moves away. The lurker\nscurries in and takes her spot, only this time Phoebe set a trap for her and catches her\nin the act.) That's it! You and me, outside"},
 				{"Character":"The Lurker","Line":"I don't want to see you lose a chunk of that pretty blond\nhair"},
 				{"Character":"(They start smacking each other's cups, but Phoebe notices a security guard\napproaching","Line":"They start smacking each other's cups, but Phoebe notices a security guard\napproaching."},
@@ -466,7 +466,7 @@
 			},
 		"13":{
 			"SceneDescription":" The slot machines, we see some guy not having any luck. Both Phoebe and the\nLurker are lurking him and each stick their heads around the corner at different times\nThis is all set to that <i>Pink Panther</i> song. Finally the guy gives up and walks past\nthe lurker's position, thus giving her the advantage. She scurries in and quickly drops a\ncoin in the slot before Phoebe gets there. Phoebe arrives slightly later and pulls the arm\njust after the lurker deposits the coin and wins.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I won! I won! I finally won"},
 				{"Character":"The Lurker","Line":"I won! That was my quarter"},
 				{"Character":"Phoebe","Line":"Fine! Here! Take a hike toots! (Gives back her quarter."},
@@ -494,7 +494,7 @@
 			},
 		"14":{
 			"SceneDescription":" A blackjack table, Joey is moving in to try and get his hand twin (who's\ndealing) to join him in his evil plot to rule the world! "Join me, and together we'll\nrule the universe as father and son!" (Sorry, I had a little <i>Star Wars</i> creep\nin there—Ooh, I have a big spoiler for<i> The Phantom Menace</i>, Yoda lives at the\nend! Ha-ha, spoiled it! Now you don't have to see it!)",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(sitting down) Ahhh! (Slides his hands across the table."},
 				{"Character":"Joey's Hand Twin","Line":"Are you gonna play"},
 				{"Character":"Joey","Line":"No-no, I don't really have any money. Not yet, anyway… (Shakes his\nhands."},

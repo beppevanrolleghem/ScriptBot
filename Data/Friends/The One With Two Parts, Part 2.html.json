@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" An Emergency Room, Rachel and Monica enter.&nbsp; Rachel is limping and leaning\non Monica for support.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow"},
 				{"Character":"(They reach the desk. The bored nurse thinks she's heard it all before","Line":"They reach the desk. The bored nurse thinks she's heard it all before."},
 				{"Character":"Monica","Line":"Hi. Uh, my friend here was taking down our Christmas lights, and and she\nfell off the balcony and may have broken her foot or or ankle or something"},
@@ -62,7 +62,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Hospital, Monica and Rachel are waiting for the doctors to arrive. &nbsp;\nThey enter and are played by Noah Wyle and George Clooney.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Mitchell","Line":"..you add a pinch of saffron, it makes all the difference"},
 				{"Character":"(They approach the young ladies. Dr. Mitchell consults Ms.Geller's admissions form","Line":"They approach the young ladies. Dr. Mitchell consults Ms.Geller's admissions form."},
 				{"Character":"Dr. Mitchell","Line":"Okay, errrr, Monica"},
@@ -88,7 +88,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Restaurant, Ross is having lunch with his father who is examining his next\nforkful.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Mr. Geller","Line":"/strong> I tell you one thing, I wouldn't mind having a piece of\nthis sun-dried tomato business. Five years ago, if somebody had said to me, here's a\ntomato that looks like a prune, I'd say \"get out of my office!"},
 				{"Character":"Ross","Line":"Dad, before I was born, did you freak out at all"},
 				{"Character":"<strong>Mr. Geller","Line":"/strong> I'm not freaking out, I'm just saying, if somebody had\ncome to me with the idea andndash"},
@@ -109,7 +109,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, the next morning, Ross, Phoebe, Chandler and Monica sit\nround the coffee table, playing Scrabble. Rachel, still in her dressing gown, is pleading\non the phone, her free hand shaking with agitation.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(on phone) Daddy... Daddy... Daddy, why whyyy would I sleep with Billy\nDreskin? His father tried to put you out of business! (Rachel turns to Monica, clasping\nthe receiver to her bosom so Dr.Green can't hear, while mouthing \"You are...\")\n...dead"},
 				{"Character":"(Monica smiles a sweet apology of regret, until she's distracted by Marcel as he\nclambers all over her nice furniture","Line":"Monica smiles a sweet apology of regret, until she's distracted by Marcel as he\nclambers all over her nice furniture."},
 				{"Character":"Monica","Line":"Ross, he's got the remote again"},
@@ -164,7 +164,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter, looking worried. As they approach the desk, Rachel adopts a winning smile,\nwhile Monica struggles to smile at all.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(as Monica) Hi, remember us"},
 				{"Character":"Nurse","Line":"(Grimacing) Mmm hmmm"},
 				{"Character":"Nurse","Line":"(Grimacing) Mmm hmmm"},
@@ -179,7 +179,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Emergency Room, Monica sits with Rachel, who is filling out an honest form\nat last. Ross and Chandler hurtle in. Little Marcel, wrapped in a fluffy towel, is cradled\nin Ross's arms. They dash up to the admissions desk. Ross is frantic.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"You've got to help me my monkey swallowed a 'K'"},
 				{"Character":"(Hearing her brother's voice, Monica gets up to stand behind Chandler, followed by\nRachel","Line":"Hearing her brother's voice, Monica gets up to stand behind Chandler, followed by\nRachel."},
 				{"Character":"Nurse","Line":"(angrily) You go get that animal outta here"},
@@ -225,7 +225,7 @@
 			},
 		"7":{
 			"SceneDescription":" The Hospital, Marcel lies on the operating table while recovering from the\nanaesthetic, tucked up under a sheet like an infant in a huge bed. Ross sits beside him,\nas a smiling Chandler, Monica and Rachel look on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"He looks so tiny"},
 				{"Character":"(The door bursts open, and Joey and Phoebe rush in","Line":"The door bursts open, and Joey and Phoebe rush in."},
 				{"Character":"Joey","Line":"We just got the message"},

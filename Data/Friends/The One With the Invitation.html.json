@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey and Chandler are sitting and talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Y’know what? It seems like all of the sudden; so much has\nhappened"},
 				{"Character":"Joey","Line":"I know. Ross is getting married"},
 				{"Character":"Chandler","Line":"Phoebe is, making people"},
@@ -60,7 +60,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Ross is complaining about Carol.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I don't want to be single, okay? I just... I just- I just wanna be married\nagain"},
 				{"Character":"(A woman enters wearing a wet wedding dress and frantically starts to look around","Line":"A woman enters wearing a wet wedding dress and frantically starts to look around."},
 				{"Character":"Chandler","Line":"And I just want a million dollars! (He extends his hand hopefully."},
@@ -85,7 +85,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Ross and Rachel are talking about passion.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"nbsp; See, I see.... big passion in your future"},
 				{"Character":"Rachel","Line":"Really"},
 				{"Character":"Rachel","Line":"Really"},
@@ -100,7 +100,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Laundromat, Rachel is fighting with that old, annoying woman for a cart.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"All right, listen, missy. If you want this cart, you're gonna have to\ntake me with it!"},
 				{"Character":"(She thinks it over, and then walks away","Line":"She thinks it over, and then walks away."},
 				{"Character":"<strong>Rachel","Line":"/strong> (to Ross) Yes! Did you see that"},
@@ -112,7 +112,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Ross and Rachel are arguing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ross do you realise this is the first time in my life I’m doing\nsomething I actually care about. This is the first time in my life I’m doing\nsomething that I’m actually good at. I mean. if you don’t get that.."},
 				{"Character":"Ross","Line":"No, hey, I get that, okay, I get that big time. And I’m happy for ya,\nbut I’m tired of having a relationship with your answering machine! Okay, I\ndon’t know what to do anymore"},
 				{"Character":"Rachel","Line":"Well neither do I"},
@@ -131,7 +131,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Rachel has just found out about Chloe and is screaming at\nRoss.&nbsp; The rest of the gang is trapped in Monica's bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(opening the door) Y'know what, I want you to leave! Get outta here!"},
 				{"Character":"Ross","Line":"No!"},
 				{"Character":"Ross","Line":"No!"},
@@ -188,11 +188,11 @@
 			},
 		"7":{
 			"SceneDescription":" A mailbox, Ross is mailing the invitations.&nbsp; He throws a bunch into the\nmailbox, but pauses with Rachel's.&nbsp; And it starts another round of clips.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Joey, Monica, and Phoebe are opening their invitations.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Ohh, this is soo amazing! I can’t believe my brother’s getting\nmarried! And in London! It’s so romantic"},
 				{"Character":"Joey","Line":"(taking apart the invitation) Hey, pretty smart! Tissue paper! You’re\nat the wedding, you have to cry, \"Handkerchief?\" \"No-no, I got my\ninvitation."},
 				{"Character":"Phoebe","Line":"Oooh look! Isn’t this adorable, Ross let Ben address mine"},
@@ -244,12 +244,12 @@
 			},
 		"9":{
 			"SceneDescription":" The airport, Ross is about to walk off of the plane with Julie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"nbsp; (seeing Ross come off the plane with another woman.) Oh my God"}]
 			},
 		"10":{
 			"SceneDescription":" Monica and Rachel's, Ross is trying to hang up on Julie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh, that is so sweet.(listens) No, no, ok, you hang up. Ok, ok, one, two,\nthree.(He doesn't hang up and motions for Rachel to be quiet.) Well you didn't hang up\neither."},
 				{"Character":"Rachel","Line":"nbsp; She didn't hang up either.."},
 				{"Character":"Ross","Line":"nbsp; Ok, no, no, you hang up. You, you, y—(Rachel grabs the phone\nand hangs it up for him."},
@@ -285,7 +285,7 @@
 			},
 		"11":{
 			"SceneDescription":" The Auditorium, Ross and Rachel are about to... you know.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I've no idea, could be. Listen, I'm sorry I had to work tonight"},
 				{"Character":"Rachel","Line":"Oh it's OK. You were worth the wait, and I don't just mean tonight"},
 				{"Character":"(They kiss and start undressing. As Rachel tries to pull off Ross's tie she catches it\nin his mouth. Then they roll across the fur rug","Line":"They kiss and start undressing. As Rachel tries to pull off Ross's tie she catches it\nin his mouth. Then they roll across the fur rug."},
@@ -295,7 +295,7 @@
 			},
 		"12":{
 			"SceneDescription":" The beachhouse, Ross and Rachel are argueing about the breakup.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Y'know, hey! You’re the one who ended it, remember"},
 				{"Character":"Rachel","Line":"Yeah, because I was mad at you, not because I stopped loving you"},
 				{"Character":"Ross","Line":"You still love me"},
@@ -317,11 +317,11 @@
 			},
 		"13":{
 			"SceneDescription":" Central Perk, Rachel is deciding on whether or not to go to the wedding.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"14":{
 			"SceneDescription":" Central Perk, Chandler, Joey, and Phoebe are reading a book about things to do\nwhilst in London.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"All right, check it out. Check this out. It says here that\nthere’s a place you can go to rent videos of all the museums! (Reading from the\nbook.) \"It’s almost as good as being there."},
 				{"Character":"Joey","Line":"It’s better! You can’t go to a museum in your underwear"},
 				{"Character":"<strong>Joey","Line":"</strong>I bet we could get videos of all the sites, get a VCR in our\nhotel room... we'd never even have to go outside"},

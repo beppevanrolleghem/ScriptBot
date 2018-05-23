@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh, Ross, Mon, is it okay if I bring someone to your parent’s\nanniversary party"},
 				{"Character":"Monica","Line":"Yeah"},
 				{"Character":"Monica","Line":"Yeah"},
@@ -33,7 +33,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Anniversary Party, Ross and Rachel are arriving and see his parents.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Mr. and</strong> Mrs. Geller","Line":"H"},
 				{"Character":"Ross","Line":"Hi! (Kisses his mom.) Hey mom"},
 				{"Character":"Rachel","Line":"This is such a great party! 35 years. Very impressive, do you guys have\nany pearls of wisdom?"},
@@ -142,7 +142,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe’s apartment, Parker and her are entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Parker","Line":"My God what a fantastically well lit hallway"},
 				{"Character":"Phoebe","Line":"Can I get you something to drink? Like a water and Valium?"},
 				{"Character":"Parker","Line":"I must say this apartment, its, its, There are no words"},
@@ -191,7 +191,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Ross and Monica are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay that’s it. I give up. At mom and dad’s 40<sup>th</sup>\nanniversary, you’re the one giving the speech."},
 				{"Character":"Ross","Line":"Y’know I don’t understand why they didn’t cry. It was a\nbeautiful speech."},
 				{"Character":"Monica","Line":"Oh, come on."},

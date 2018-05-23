@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Chandler is sitting in the canoe as Joey runs through the\ndoor carrying an outdoor patio table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Joey","Line":"</strong>Hey!! We are <strong>so</strong> in luck! Treeger said that we\ncould have all this cool stuff from the basement. Wait right there. (Goes back into the\nhall"},
 				{"Character":"<strong>Chandler</strong>","Line":"Oh no-no-no, I’m, I’m paddling away"},
 				{"Character":"<strong>Joey","Line":"/strong> (Returning carrying a couple of rusted lawn chairs) Huh?"},
@@ -15,7 +15,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Joey is reading the paper and Chandler is getting ready\nfor work.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Rachel","Line":"</strong>(entering) Hey! Umm, do you guys have any juice"},
 				{"Character":"<strong>Joey","Line":"/strong> Just pickle"},
 				{"Character":"<strong>Chandler","Line":"/strong> Hey uh, Rach, funny story. I ah, bumped into Joanna on the\nstreet yesterday"},
@@ -47,7 +47,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, Joey is scrapping gum off the table as there is a knock on\nthe door. He goes over and opens it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>The Salesman","Line":"/strong> (Entering before Joey can say anything) Good afternoon,\nare you the decision maker of the house"},
 				{"Character":"<strong>Joey","Line":"/strong> Uhhhh. (He’s not sure"},
 				{"Character":"<strong>The Salesman","Line":"/strong> Do you ah, currently own a set of encyclopedias?"},
@@ -73,7 +73,7 @@
 			},
 		"4":{
 			"SceneDescription":" Joanna’s office, Joanna and Chandler are making out on her chair. Chandler\nisn’t wearing any pants.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Chandler","Line":"/strong> It just doesn’t…feel like we’re breaking up"},
 				{"Character":"<strong>Joanna","Line":"</strong>No, we are. I’m sad"},
 				{"Character":"<strong>Chandler","Line":"/strong> Okay"},
@@ -115,7 +115,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, The salesman is trying to sell Joey the encyclopedias.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>The Salesman","Line":"/strong> So, here’s somebody interesting, Joey. What do you\nknow about Van Gogh"},
 				{"Character":"<strong>Joey","Line":"/strong> He cut off his ear"},
 				{"Character":"<strong>The Salesman","Line":"</strong>And"},
@@ -132,7 +132,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joanna’s office, Rachel and Chandler are having a little tug-of-war with\nhis pants.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Rachel","Line":"/strong> Chandler! Chandler, please, I have to get you locked up back\nthe way you were, I am sooo gonna lose my job, she’s very private about her office.\nNow I know why"},
 				{"Character":"<strong>Chandler","Line":"/strong> Hey, look, you’re in trouble either way! Okay? If she\ncomes back and sees me locked to this instead of the chair, she’s gonna know you were\nin here. So you might as well just let me go"},
 				{"Character":"<strong>Rachel","Line":"</strong>What if I clean your bathroom for a month"},
@@ -151,7 +151,7 @@
 			},
 		"7":{
 			"SceneDescription":" Joanna’s office, Rachel and Chandler are still negotiating.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Rachel","Line":"</strong>I ah, will buy and wrap all of your Christmas gifts"},
 				{"Character":"<strong>Chandler","Line":"/strong> No"},
 				{"Character":"<strong>Rachel","Line":"/strong> I ah… Oh! I’ll squeeze you fresh orange juice every\nmorning"},
@@ -173,7 +173,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, all except Chandler, are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"<strong>Chandler","Line":"</strong>(hello) Hello"},
 				{"Character":"<strong>Joey, Rachel, and Ross","Line":"</strong>Hey"},
 				{"Character":"<strong>Monica","Line":"/strong> (in a sexy voice) Hello, Chandler. (Phoebe has a huge smile on\nher face."},

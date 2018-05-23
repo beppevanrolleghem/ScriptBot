@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Rachel and Monica's, everyone is getting ready to go to a banquet",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right they got water, orange juice, and what looks like cider. (takes a\nglass from the fridge."},
 				{"Character":"Chandler","Line":"Taste it"},
 				{"Character":"Chandler","Line":"Taste it"},
@@ -56,7 +56,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, continued from earlier",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"He's seeing someone. I can't believe he's seeing someone"},
 				{"Character":"Phoebe","Line":"Monica, you don't know that"},
 				{"Character":"Phoebe","Line":"Monica, you don't know that"},

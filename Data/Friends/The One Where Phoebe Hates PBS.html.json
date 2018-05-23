@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel has just gotten home and is going through the mail.\nShe finds something that's Monica's and goes over and knocks on her closed bedroom door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(In a sexy voice) Come in. I've been waiting for you."},
 				{"Character":"(Rachel enters","Line":"Rachel enters."},
 				{"Character":"(Rachel enters","Line":"Rachel enters."},
@@ -33,7 +33,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Chandler, Monica, and Rachel are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"So Chandler, have you heard about Monica's secret boyfriend"},
 				{"Character":"Chandler","Line":"Uhh, yeah. She uh, she uh, she uh might've mentioned him"},
 				{"Character":"Rachel","Line":"So Mon, when are we gonna meet this new secret waiter man"},
@@ -80,7 +80,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Phoebe, Rachel, and Monica are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I cannot believe I can't find a selfless good deed! Y'know that old guy\nthat lives next to me? Well, I snuck over there and-and raked up all the leaves on his\nfront stoop. But he caught me and force-fed me cider and cookies. Then I felt wonderful.\nThat old jackass"},
 				{"Character":"Rachel","Line":"Maybe Joey's right. Maybe all good deeds are selfish"},
 				{"Character":"Phoebe","Line":"I will find a selfless good deed! 'Cause I just gave birth to three\nchildren and I will not let them be raised in a world where Joey is right"},
@@ -96,7 +96,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Ross is telling Phoebe, Monica, and Chandler about Emily's\nultimatum.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So I asked Emily if she would come to New York, and she said yes"},
 				{"Character":"Chandler","Line":"Yes"},
 				{"Character":"Chandler","Line":"Yes"},
@@ -145,7 +145,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Telethon, Joey's phone rings and he answers it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(in a bored voice) PBS telethon"},
 				{"Character":"Phoebe","Line":"(on phone from Central Perk) Hey Joey, I just wanted to let you know\nthat I found a selfless good deed. I just went down to the park and I let a bee sting me"},
 				{"Character":"Joey","Line":"What?! What good is that gonna do anybody"},
@@ -167,7 +167,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Telethon, Joey answers his ringing phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(in an unenthusiastic voice) PBS Telethon"},
 				{"Character":"Phoebe","Line":"(on phone) Hi Joey"},
 				{"Character":"Phoebe","Line":"(on phone) Hi Joey"},
@@ -187,7 +187,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross's apartment, Ross is prying at the Magic 8 Ball with a screwdriver as\nthere's a knock on his door which he goes to answer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(entering) Hi! Are you ready? We're gonna be late"},
 				{"Character":"Ross","Line":"For what"},
 				{"Character":"Ross","Line":"For what"},

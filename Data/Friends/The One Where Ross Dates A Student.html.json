@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Chandler, Rachel, and Joey are there as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey! I just got uh, my teacher evaluations! Check out what this one\nstudent wrote, \"I loved Dr. Geller’s class. Mind blowing lectures! Dr. Geller,\nyou are definitely the hottie of the paleontology department!"},
 				{"Character":"Chandler","Line":"Ahh, Hotties of the Paleontology Department, there’s a big\nselling calendar, eh"},
 				{"Character":"Rachel","Line":"Who wrote it"},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" N.Y.U. Paleontology department, Ross is putting up the grades on the message\nboard.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Burt","Line":"(another professor) Wow! It looks like you were very generous with your\ngrades this semester! (Ross frantically starts to change some as a female student,\nElizabeth, approaches."},
 				{"Character":"Elizabeth","Line":"Professor Geller"},
 				{"Character":"Elizabeth","Line":"Professor Geller"},
@@ -73,7 +73,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, Chandler is on the phone as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"God, it’s great to catch up! I can’t believe how long\nit’s been"},
 				{"Character":"Joey","Line":"Chandler, is that… (Mimes someone using a movie camera and Chandler\nnods yes."},
 				{"Character":"Chandler","Line":"(on phone) Oh that’s great! Good for you"},
@@ -114,7 +114,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Monica is about to debut Hotel Monica (formerly known as\nRachel’s Room) to Phoebe and Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Now, this is last minute so I want to apologize for the mess. Okay"},
 				{"Character":"(They walk into a completely redecorated and repainted room. And of course, the room is\nimmaculate. Only an obsessive-compulsive like Monica could find fault with the room","Line":"They walk into a completely redecorated and repainted room. And of course, the room is\nimmaculate. Only an obsessive-compulsive like Monica could find fault with the room."},
 				{"Character":"Rachel","Line":"Oh my God! It sure didn’t look this way when I lived here"},
@@ -133,7 +133,7 @@
 			},
 		"5":{
 			"SceneDescription":" A street, Ross is walking with Elizabeth on their date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Elizabeth","Line":"Oh please! It was such a big class! You never even noticed me"},
 				{"Character":"Ross","Line":"What? Of course I did! You uh, you sat next to Sleepy Sleeperson"},
 				{"Character":"Elizabeth","Line":"Who"},
@@ -158,12 +158,12 @@
 			},
 		"6":{
 			"SceneDescription":" Joey's apartment, Joey is now showing Rachel around.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"This is where I keep the pizza. (It’s the same location as before.)\nAnd—Hey! Where did the napkin go?! (The napkin is not in it’s spot."}]
 			},
 		"7":{
 			"SceneDescription":" Joey's apartment, Ross is telling Monica and Joey about his date with\nElizabeth.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"We had such a great time! She’s-she’s incredible! I thought\nthe-the age difference might be a problem, but it wasn’t. It wasn’t at all.\nElizabeth is very mature for her age. (Joey makes the international sign for big boobies.)\n(To Monica) A concept lost on some people"},
 				{"Character":"Monica","Line":"So it’s okay to date a student"},
 				{"Character":"Ross","Line":"Well, not really. I mean technically it’s-it’s not against the\nrules or anything, but it is frowned upon. Especially by that professor we ran into last\nnight, Judgey von Holierthanthou"},
@@ -202,7 +202,7 @@
 			},
 		"8":{
 			"SceneDescription":" Hotel Monica, Phoebe is on the bed playing her guitar as Monica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey! How’s it goin’"},
 				{"Character":"Phoebe","Line":"Well, not much has changed in the last five minutes"},
 				{"Character":"Monica","Line":"Yes it has! I made cookies"},
@@ -227,7 +227,7 @@
 			},
 		"9":{
 			"SceneDescription":" Central Perk, Ross and Elizabeth are deciding what to do on their second date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"What do you want to do now? Huh? You wanna go get a drink"},
 				{"Character":"Elizabeth","Line":"Uhh, I can’t"},
 				{"Character":"Elizabeth","Line":"Uhh, I can’t"},
@@ -266,7 +266,7 @@
 			},
 		"10":{
 			"SceneDescription":" Ross's apartment, Ross is looking at his handbook. Elizabeth is also there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Wow! It actually is in the handbook. I can’t date you or have a hot\nplate in my office. I can’t believe we have to stop seeing each other"},
 				{"Character":"Elizabeth","Line":"For what it’s worth I did appreciate you standing up for me. It\nfelt really nice. It kinda made me like you even more"},
 				{"Character":"Ross","Line":"I know, I know I really like you too. But we-we can’t date. It’s\nagainst the rules. It’s forbidden"},

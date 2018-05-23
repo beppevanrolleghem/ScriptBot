@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica is at the kitchen table and Chandler is in the\nliving room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Do you realize that four weeks from today we’re getting married?\nFour weeks baby!! Four weeks!!"},
 				{"Character":"Chandler","Line":"Do you realize you get louder each week"},
 				{"Character":"Monica","Line":"There’s still so much to do. Have you written your vows yet"},
@@ -19,7 +19,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Monica has hit a writer’s block as Rachel and\nPhoebe enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Monica what?"},
 				{"Character":"Phoebe","Line":"What?"},
 				{"Character":"Phoebe","Line":"What?"},
@@ -185,7 +185,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe, Rachel, Joey and Ross are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Y’know, you’re friend’s getting married, it’s gotta\nchange things"},
 				{"Character":"Rachel","Line":"You really think it would be that different"},
 				{"Character":"Phoebe","Line":"How could it not be? I mean pretty soon they’re gonna be having\nkids, and then they’re just gonna be hanging out with other couples who have kids.\nAnd then maybe they’re gonna have to leave the city to be near a <i>Volvo</i>\ndealership"},

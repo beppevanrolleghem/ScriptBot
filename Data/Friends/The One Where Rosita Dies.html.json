@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel's, Rachel is trying to move Joey’s chair and not having\nmuch luck at it as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -39,7 +39,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey and Rachel's, Joey is examining the injury to Rosita while Rachel is\napologizing to him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Joey, Joey I am so sorry"},
 				{"Character":"Joey","Line":"I told you not to move it! Rach, how would you feel if say, I wanted to\nmove your mom, and you said don’t, and I did it anyway and her head fell off"},
 				{"Character":"Rachel","Line":"Okay, come on—Joey, I’ll buy you a new one! All right?\nWe’ll go down to the store right now and we’ll-we’ll get you a new chair"},
@@ -56,7 +56,7 @@
 			},
 		"3":{
 			"SceneDescription":" The telemarketing office, Phoebe is getting shown to her desk by the\nsupervisor.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Supervisor","Line":"So basically this is very easy. You read from the script and try to\nsell as much toner as you possibly can"},
 				{"Character":"Phoebe","Line":"Okay, I can do that! Oh, by the way, I love my office"},
 				{"Character":"Supervisor","Line":"(laughs) Why don’t we do a trial run"},
@@ -84,7 +84,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross and Monica’s parent’s garage, Ross and Monica are arriving to go\nthrough their things. Mr. Geller is in the garage.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Dad"},
 				{"Character":"Ross","Line":"Dad"},
 				{"Character":"Mr. Geller","Line":"I’m here"},
@@ -135,7 +135,7 @@
 			},
 		"5":{
 			"SceneDescription":" The telemarketing office, Phoebe is still talking to Earl.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Earl","Line":"Okay, so…no toner today. Thanks anyway, bye-bye"},
 				{"Character":"Phoebe","Line":"No-no wait-wait! I can’t just let you hang up! Just please talk to\nme"},
 				{"Character":"Earl","Line":"Well…I only have one thing to do today. (He looks at his board in his\noffice that reads, \"Today’s Tasks: KILL SELF.\") I guess I could push it\nback"},
@@ -153,7 +153,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Geller’s Garage, continued from earlier. Ross and Mr. Geller are still\ndeciding what to do.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Geller","Line":"Well, she’ll understand right? It’s not like I did it on\npurpose"},
 				{"Character":"Ross","Line":"Dad, that won’t matter to her. Look, all my stuff is safe and dry and\nall hers is-is, is growing new stuff! See, this is exactly the kind of thing that makes her\nthink you guys love me more than you love her"},
 				{"Character":"Mr. Geller","Line":"Oh my God, does she really thinks that"},
@@ -182,7 +182,7 @@
 			},
 		"7":{
 			"SceneDescription":" The telemarketing office, Phoebe is still trying to talk Earl out of suicide.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Earl, you’re not hearing me! All I’m saying is that\nyou’re not alone, alright? Everybody hates the people they work with! (One of her\ncoworkers overhears that, and she mimes that she didn’t mean him."},
 				{"Character":"<strong>Guy","Line":"/strong> (walking past Earl’s desk) Hey guy"},
 				{"Character":"Phoebe","Line":"Wait, what was that? That sounded like someone being nice to you"},
@@ -208,7 +208,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Chandler's, Chandler is writing a letter by the bay window as Rachel\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey Chandler"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -281,7 +281,7 @@
 			},
 		"9":{
 			"SceneDescription":" The Geller’s Garage, Monica is picking through her ruined childhood\nheirlooms with Ross.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh, this is terrible! Everything is destroyed! Look at this. (She\npicks up some kind of furry thing.) It obviously meant enough for me to save it, and I\ndon’t even know what it is! Ohh, it’s still soft. (She rubs it against her\ncheek.) What do you think this is"},
 				{"Character":"Ross","Line":"All right. I think it was a mouse"},
 				{"Character":"(Monica screams, throws the mouse down, and rubs her hands on Ross’s sweater to\nclean them","Line":"Monica screams, throws the mouse down, and rubs her hands on Ross’s sweater to\nclean them."},

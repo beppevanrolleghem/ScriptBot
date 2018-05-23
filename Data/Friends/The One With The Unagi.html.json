@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Ross, Chandler, and Phoebe are there. Joey is working.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, remember when I had a monkey"},
 				{"Character":"Chandler","Line":"Yeah"},
 				{"Character":"Chandler","Line":"Yeah"},
@@ -42,7 +42,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Chandler is desperately trying to make his\nValentine’s Day gift. He takes a paper cup, turns it upside down, sticks two pencils\ninto the top, and hangs a coat hanger from the bottom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(admiring his work) This, this actually is a… (Does the same\ngibberish word from before."},
 				{"Character":"Monica","Line":"(entering) Hey"},
 				{"Character":"Monica","Line":"(entering) Hey"},
@@ -61,7 +61,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Hallway between the Apartments, Ross is hiding behind that bump out on\nMonica’s side waiting for Phoebe and Rachel. As they come up the stairs, he jumps out\nand yells…",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"DANGER!!! DANGER!!!!"},
 				{"Character":"(They both scream and jump away","Line":"They both scream and jump away."},
 				{"Character":"(They both scream and jump away","Line":"They both scream and jump away."},
@@ -79,7 +79,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's apartment, Ross is coming in from doing his laundry. He starts folding\nit as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Ross","Line":"(not turning around) Chandler. I sensed it was you"},
 				{"Character":"Chandler","Line":"What?"},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler’s bedroom, they are relaxing in sexual bliss.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Wow! (To the sock bunny still on his hand.) You are way to\nyoung to have seen that"},
 				{"Character":"Monica","Line":"Oops! (Covers its eyes.) Y’know, your birthday is in a\nmonth-and-a-half, what do you say I forget to get you a present for that too"},
 				{"Character":"Chandler","Line":"You are totally and completely 100% forgiven"},
@@ -168,7 +168,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Medical Research office, Joey is there with Carl in the waiting room. Two\nidentical twins come out and both wave by at the same time.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right Carl, we’re next. Now remember, what is not gonna be"},
 				{"Character":"Carl","Line":"Another <i>Minute Maid</i> fiasco"},
 				{"Character":"Joey","Line":"That’s right! And what are you not gonna do"},
@@ -193,7 +193,7 @@
 			},
 		"7":{
 			"SceneDescription":" A women’s self-defense class, the instructor is just finishing a class.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"The Instructor","Line":"Okay ladies, that ends today’s class, and let’s\nremember, let’s be safe out there."},
 				{"Character":"(The women all clap and start to leave as Ross comes up to the instructor. Apparently\nhe was hiding in the back","Line":"The women all clap and start to leave as Ross comes up to the instructor. Apparently\nhe was hiding in the back."},
 				{"Character":"Ross","Line":"It’s a great class"},
@@ -220,7 +220,7 @@
 			},
 		"8":{
 			"SceneDescription":" The street in front of Central Perk, Ross is walking up and sees two women that\nlook like Phoebe and Rachel from behind.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Ah-ha, nowhere to run! (He starts to run towards them."},
 				{"Character":"[Cut to Central Perk, Phoebe and Rachel are sitting up by the window because two guys\nhave their couch","Line":"Cut to Central Perk, Phoebe and Rachel are sitting up by the window because two guys\nhave their couch."},
 				{"Character":"Rachel","Line":"I don’t like sitting up here! I’m just gonna over… (She\nstarts to get up."},

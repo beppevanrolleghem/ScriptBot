@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey! I'm all packed and ready to go"},
 				{"Character":"Ross","Line":"Oh, that's right! (to Emma) Daddy and uncle Joey are going on a trip today. We're going to a conference in Barbados, right"},
 				{"Character":"Joey","Line":"Mmh-mmh"},
@@ -28,7 +28,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"David, can you help me?! I'm trying to explain to Chandler how a plane stays in the air"},
 				{"Character":"David","Line":"Oh, certainly. That's a combination of Bernoulli's principle and Newton's third law of motion"},
 				{"Character":"Monica","Line":"(to Chandler) See"},
@@ -67,7 +67,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey in his hotel in room in Barbados",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Trying on a hat and talking to his own reflection in the mirro","Line":"Trying on a hat and talking to his own reflection in the mirror"},
 				{"Character":"Joey","Line":"Yeah! How you doin'? Yeah alright"},
 				{"Character":"(Charlie comes out the bathroo","Line":"Charlie comes out the bathroom"},
@@ -132,7 +132,7 @@
 			},
 		"4":{
 			"SceneDescription":" Barbados, hotel lounge. David, Phoebe and Rachel have just arrived.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Joey spots them and walks towards the","Line":"Joey spots them and walks towards them"},
 				{"Character":"Joey","Line":"Oh! Hey! Thank God you guys are here"},
 				{"Character":"Rachel","Line":"Hey! Hey what's going on"},
@@ -195,7 +195,7 @@
 			},
 		"5":{
 			"SceneDescription":" Mike's apartment. His phone rings and he picks up",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mike","Line":"Hello"},
 				{"Character":"Monica","Line":"Ok, Mike, enough is enough, now you love Phoebe and she loves you, so you need to get over your whole \"I never want to get married\" thing and step up"},
 				{"Character":"Mike","Line":"Who is this"},
@@ -230,7 +230,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's room. Charlie is sitting on the bed, while Ross is walking up and down nervously",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Charlie","Line":"And then, and then you said that thing about, about bringing the Mesozoic era in the 21st century"},
 				{"Character":"Ross","Line":"Yeah, that's it"},
 				{"Character":"Ross","Line":"Yeah, that's it"},
@@ -288,7 +288,7 @@
 			},
 		"7":{
 			"SceneDescription":" The restaurant. Chandler and Monica are sitting at a table",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Phoebe and David walk i","Line":"Phoebe and David walk in"},
 				{"Character":"Monica","Line":"I can't believe she's gonna say yes to David. She's clearly in love with Mike"},
 				{"Character":"Chandler","Line":"You know, it's very hard to take you seriously when you look like that"},
@@ -364,7 +364,7 @@
 			},
 		"8":{
 			"SceneDescription":" Conference room. Ross is making his keynote speech",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Then we have to await the data from recent MRI scans and DNA testing which call into question information gathered from years of simple carbon dating"},
 				{"Character":"Rachel","Line":"Look at that woman sitting by the pool getting tan... so leathery and wrinkled, I'm so jealous"},
 				{"Character":"Ross","Line":"Finally, factoring the profusion of new species recently discovered: Gigantosaurus, Argentinasaurus.."},
@@ -400,7 +400,7 @@
 			},
 		"9":{
 			"SceneDescription":" the hotel lobby. Monica, Phoebe, Chandler and Mike walk in from the outside.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(her hair bigger then before) I can't believe it's raining again! Oh, it's so unfair!!"},
 				{"Character":"(They approach the buffet, where a couple of paleontologists are sipping their drink","Line":"They approach the buffet, where a couple of paleontologists are sipping their drinks"},
 				{"Character":"Phoebe","Line":"Well, on the bright side, now you won't have to see all these paleontologists with their shirts off. (Grabs a drink and notices that the two men are upset) Not you guys. You got it going on"},
@@ -431,7 +431,7 @@
 			},
 		"10":{
 			"SceneDescription":" the hotel game room. There is a ping pong table in the middle of the room. Monica, Phoebe, Chandler and Mike walk in",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"C'mon guys, it'll be fun"},
 				{"Character":"Phoebe","Line":"All right, all right... I'll play if we don't keep score"},
 				{"Character":"Monica","Line":"But then how do we know who wins"},
@@ -501,7 +501,7 @@
 			},
 		"11":{
 			"SceneDescription":" Rachel's hotel room. Joey is standing at the door, facing Rachel",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"You like me? (shuts the door"},
 				{"Character":"Rachel","Line":"(nearly whispering) Ok, let's not make a big thing about this"},
 				{"Character":"Joey","Line":"(shocked) That's a huge thing"},
@@ -566,7 +566,7 @@
 			},
 		"12":{
 			"SceneDescription":" hotel's bar, Ross and Mr. Oberblau are talking",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Oberblau","Line":"I'm just saying, I have a cabin in the Adirondacks if you ever want to get away from the city, well, that'd be (pause) just nifty"},
 				{"Character":"Ross","Line":"Ooh, well. Ah, I kinda have got a lot on my plate right now, not that I wouldn't love a weekend in the country with a strange man. (Mr. Oberblau giggles"},
 				{"Character":"Woman","Line":"Jarvis"},
@@ -603,7 +603,7 @@
 			},
 		"13":{
 			"SceneDescription":" Hotel's bar. Ross is running to Charlie trying not to be seen with two cocktails in his hands. She's hidden behind a huge plant",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Charlie","Line":"Thanks"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},

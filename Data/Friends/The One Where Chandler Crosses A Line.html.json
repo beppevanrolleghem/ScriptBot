@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, everyone except Joey and Chandler are there eating\nbreakfast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering in a bathrobe) I just walked in the bathroom and saw Kathy\nnaked! It was like torture"},
 				{"Character":"Ross","Line":"Y'know if we ever go to war and you’re captured, you’re in for a\n<strong>big</strong> surprise"},
 				{"Character":"Chandler","Line":"It just keeps getting worse and worse! Y'know? I mean it’s bad\nenough that I’m in love with my roommates girlfriend—which by the way, I think\nshe knows. Because every time we’re in the room together there’s this weird like\nenergy between us. And call me crazy, but I think she likes me too. And now I have seen\nher naked. I mean at least when I’ve seen her with clothes on, I could imagine her\nbody was like covered in boles or something. But there are no boles, she’s smooth!\nSmooth! (leaves"},
@@ -25,7 +25,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Ross and Monica are sitting on the couch playing cards,\nand Phoebe is working on a new song.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing) \"<em>Little, tiny Tarzan, swinging on a nose hair.\nSwinging with the greatest of ease…</em>\" Darn it! Now, I don’t know who to\nget to the next verse"},
 				{"Character":"Ross","Line":"Oh, you could just go uh, \"<em>greatest of ease</em>… (plays air\nguitar) BAH-bah-bha-bhannn.\" Then go right into it"},
 				{"Character":"Phoebe","Line":"Yeah, ooh, I like that! Yeah. Wait! How do you know about\n‘bah-bah-bha-bhan?"},
@@ -83,7 +83,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, continued from earlier. Chandler and Kathy are still\nkissing, then they stop suddenly.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"No-no-no-no, this is bad! It’s bad! This is bad"},
 				{"Character":"Kathy","Line":"Horrible"},
 				{"Character":"Kathy","Line":"Horrible"},
@@ -119,7 +119,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Joey is opening the door, but Chandler has the chain on\nit.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Aww man! I can’t believe I locked myself out again! (He knocks on the\ndoor."},
 				{"Character":"Chandler","Line":"Hang on buddy! (He goes over and unlocks the door and opens it to\nreveal a fully furnished apartment."},
 				{"Character":"Joey","Line":"(rushing in) Oh my God! What happened here? Did you do all this"},
@@ -160,7 +160,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Rachel and Monica are sitting on the couch and Phoebe is getting\ncoffee as Chandler enters. Ross is also there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey Chandler! Saw the new furniture. Very nice"},
 				{"Character":"Monica","Line":"Yeah! Joey has the best boyfriend ever"},
 				{"Character":"Chandler","Line":"I kissed Kathy"},
@@ -202,7 +202,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Ross is playing his music. Monica, Phoebe, and Rachel are sitting\non the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh my God, he’s lost it. He’s totally lost it"},
 				{"Character":"Monica","Line":"(removing ear plugs) What"},
 				{"Character":"Rachel","Line":"Phoebe, his music could not <strong>get</strong> any worse. There are\nrats in the basement that are hanging themselves"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Chandler, Monica, Phoebe, and Joey are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Wait a minute, wait. You’re telling me this actress person is the\nonly woman you ever wanted who didn’t want you back?"},
 				{"Character":"Joey","Line":"Yeah! Oh my God! (to Chandler) Is this what it’s like to be you"},
 				{"Character":"Monica","Line":"Wow, you’re really crazy about her, huh"},
@@ -42,7 +42,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Monica is showing off her new dollhouse. It’s a huge\ndollhouse, that takes up the entire living room table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Look at it! Ohhh! Wallpaper’s a little faded, that’s okay.\nCarpet’s a little loose. Hardwood floors!"},
 				{"Character":"Phoebe","Line":"(entering) Hey"},
 				{"Character":"Phoebe","Line":"(entering) Hey"},
@@ -108,7 +108,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is entering with her own dollhouse, that she made\nherself.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey!"},
 				{"Character":"All","Line":"Hey"},
 				{"Character":"All","Line":"Hey"},
@@ -165,7 +165,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Theatre, Joey and Kate are rehearsing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Come on baby, don’t go. Please? What do you say"},
 				{"Character":"[A phone rings","Line":"A phone rings."},
 				{"Character":"[A phone rings","Line":"A phone rings."},
@@ -252,7 +252,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel’s office.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joanna","Line":"(entering) Did he call"},
 				{"Character":"Rachel","Line":"No. Sorry"},
 				{"Character":"Rachel","Line":"No. Sorry"},
@@ -275,7 +275,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Ross is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Mon"},
 				{"Character":"Ross","Line":"Mon"},
 				{"Character":"Monica","Line":"(from the bathroom) I’m in the shower"},
@@ -285,7 +285,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Monica and Ross are inspecting the damage to the\ndollhouse.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Sorry I ah, I scared you in there"},
 				{"Character":"Monica","Line":"Oh, that’s okay. By the way, I was just checking the shower\nmassager"},
 				{"Character":"Ross","Line":"Yeah"},
@@ -308,7 +308,7 @@
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's, Joey is talking on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(on phone) Well, so anyway Beth, what I’m saying is I should’ve\nconsidered your feelings before I went home with you that night. I’ve ah, I’ve\nrecently learned what’s it like to be on your side of it, and I’m sorry. So, do\nyou think you can forgive me? (listens) Great. Thanks. Okay, bye. (He sits down and\ncrosses out something, and dials the phone again.) Hello, Jennifer? (listens) Oh hi, Mrs.\nLoreo, is Jennifer there? (listens) Oh, she’s not home huh? (listens) Well ah,\nactually I kinda need to talk to you too"}]
 			}
 }

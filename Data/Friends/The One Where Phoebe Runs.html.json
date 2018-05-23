@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Phoebe and Rachel’s new apartment, Rachel and Phoebe are making their\nanswering machine message.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ready"},
 				{"Character":"Rachel","Line":"Yeah"},
 				{"Character":"Rachel","Line":"Yeah"},
@@ -89,7 +89,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler’s new apartment, Chandler is putting something away\nunder the sink.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"OK, I'm officially unpacked. Thanks for helping me man. (Turns around\nand sees that Joey isn't there.) Joe? (Hears giggling coming from a box) Well, I guess\nJoey went home. Oh and look, there's still one box that I have to unpack. (Hears the\ngiggling again"},
 				{"Character":"Joey","Line":"(jumps out of the box) I Gotcha!"},
 				{"Character":"Chandler","Line":"(pretending) Oh my God! You-almost-gave-me-a-heart-attack"},
@@ -161,7 +161,7 @@
 			},
 		"3":{
 			"SceneDescription":" Phoebe and Rachel’s, Rachel is there as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey Phoebe, can I talk to you for a second"},
 				{"Character":"Phoebe","Line":"Sure"},
 				{"Character":"Phoebe","Line":"Sure"},
@@ -193,7 +193,7 @@
 			},
 		"4":{
 			"SceneDescription":" Joey and Janine's, Janine's there. Joey enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janine","Line":"Hey Joey, I got some beer for you"},
 				{"Character":"Joey","Line":"Uh, don't you mean \"for whom?"},
 				{"Character":"Janine","Line":"Sure, listen I was gonna order some pizza, you wanna share one"},
@@ -239,7 +239,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Chandler’s, Chandler and Ross are there. Monica enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Is it okay for me to come in now"},
 				{"Character":"Chandler","Line":"Uh-hu"},
 				{"Character":"Chandler","Line":"Uh-hu"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Ross is in central perk Phoebe comes in",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"oh hey Ross oh I'm so glad someone's here could you zip me up"},
 				{"Character":"Ross","Line":"sure"},
 				{"Character":"Ross","Line":"sure"},
@@ -44,7 +44,7 @@
 			},
 		"2":{
 			"SceneDescription":" Ross is at Phoebe's",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"so how'd the date go"},
 				{"Character":"Phoebe","Line":"well it was awful every time I thought about what you said I started \n  crying"},
 				{"Character":"Ross","Line":"So he hasn't called"},
@@ -57,7 +57,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross goes to see Mike to explain about Phoebe",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(He knocks at the door, Mike opens it) Hey Mike sorry to just drop by \n  like this, can I come in"},
 				{"Character":"Mike","Line":"Sure (looks confused) who are you"},
 				{"Character":"Ross","Line":"I'm Ross, Phoebe's friend from the coffeehouse"},
@@ -95,7 +95,7 @@
 			},
 		"4":{
 			"SceneDescription":" Rachel is at Monica's, talking about Chandler &amp; him watching "Shark \n  Porn"",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"well watching sharks? Are you sure that's what he was doing"},
 				{"Character":"Monica","Line":"do you know how many times I've seen him jump up like that, believe \n  me I know what he was doing"},
 				{"Character":"Rachel","Line":"man sharks. I always knew there was something weird about that dude. \n  But you promised to love him no matter what"},
@@ -135,7 +135,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey is back at Hayley's place after there date",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Hayley","Line":"so it was kind of a shock after 25 years of marriage my parents, a \n  perfect couple getting divorced, I kinda took it the hardest cause I was the \n  youngest"},
 				{"Character":"Joey","Line":"Uh huh, sure, yeah. How can you not remember me"},
 				{"Character":"Hayley","Line":"What"},
@@ -155,7 +155,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler arrives home and Monica's got a video of Sharks ready for \n  Chandler",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hi honey I'm home"},
 				{"Character":"Monica","Line":"Hi, how was your flight? (She hugs him"},
 				{"Character":"Chandler","Line":"oh it was great"},

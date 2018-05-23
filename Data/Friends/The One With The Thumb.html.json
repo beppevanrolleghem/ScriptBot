@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone but Phoebe is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(entering) Hi guys!"},
 				{"Character":"All","Line":"Hey, Pheebs! Hi!"},
 				{"Character":"All","Line":"Hey, Pheebs! Hi!"},
@@ -38,7 +38,7 @@
 			},
 		"2":{
 			"SceneDescription":" Iridium, Monica and Paula are at work.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I mean, why should I let them meet him? I mean, I bring a guy home, and\nwithin five minutes they're all over him. I mean, they're like- coyotes, picking off the\nweak members of the herd."},
 				{"Character":"Paula","Line":"Listen. As someone who's seen more than her fair share of bad beef, I'll\ntell you: that is not such a terrible thing. I mean, they're your friends, they're just\nlooking out after you."},
 				{"Character":"Monica","Line":"I know. I just wish that once, I'd bring a guy home that they actually\nliked."},
@@ -46,7 +46,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter\ndejectedly in softball gear.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi.. how was the game?"},
 				{"Character":"Ross","Line":"Well.."},
 				{"Character":"Ross","Line":"Well.."},
@@ -81,11 +81,11 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler's office, Chandler looks around, opens his desk drawer, takes a puff\nof a cigarette, sprays around some air freshener, and takes some breath spray.&nbsp; He\ntypes for a little while, opens the drawer again, and takes another drag of the cigarette.\n&nbsp; While not paying attention, he sprays the breath spray around the room, takes a\nsquirt of air freshener and gags.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Phoebe is telling everyone about her discovery.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"A <i>thumb</i>?!"},
 				{"Character":"(Phoebe nods.","Line":"Phoebe nods.)"},
 				{"Character":"(Phoebe nods.","Line":"Phoebe nods.)"},
@@ -131,7 +131,7 @@
 			},
 		"6":{
 			"SceneDescription":" Cental Perk, Joey and Ross are persecuting Chandler about his smoking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Do you have any respect for your body?"},
 				{"Character":"Ross","Line":"Don't you realise what you're-you're doing to yourself?"},
 				{"Character":"Chandler","Line":"Hey, y'know, I have had it with you guys and your cancer and your\nemphysema and your heart disease. The bottom line is, smoking is cool, and you know it."},
@@ -149,7 +149,7 @@
 			},
 		"7":{
 			"SceneDescription":" A Restaurant, Monica is breaking the news to Alan.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Alan","Line":"Wow."},
 				{"Character":"Monica","Line":"I'm, I'm really sorry."},
 				{"Character":"Alan","Line":"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved."},

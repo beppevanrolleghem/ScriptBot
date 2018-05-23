@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk - Chandler, Monica, Phoebe, Ross and Rachel \n  are sitting on the sofas. Joey enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Monica, hey, can I borrow the Porsche"},
 				{"Character":"Monica","Line":"Ok"},
 				{"Character":"Monica","Line":"Ok"},
@@ -67,7 +67,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's apartment.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(All are returning from the street after picking up dropped lottery ticket","Line":"All are returning from the street after picking up dropped lottery tickets"},
 				{"Character":"Phoebe","Line":"What a beautiful night to be running around the street, looking \n  for tickets. And the wind sure made it fun"},
 				{"Character":"Monica","Line":"Phoebe, we lost half of them"},

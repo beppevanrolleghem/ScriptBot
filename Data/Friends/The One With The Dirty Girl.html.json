@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Ross and a beautiful blonde (Cheryl) are standing outside. The\nrest of the gang is watching from inside.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Cheryl","Line":"So, thank you for the delicious dinner."},
 				{"Character":"Ross","Line":"You're welcome for a delicious dinner."},
 				{"Character":"Ross","Line":"You're welcome for a delicious dinner."},
@@ -36,7 +36,7 @@
 			},
 		"2":{
 			"SceneDescription":" Outside Cheryl's apartment, Ross and Cheryl are kissing",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(moved by the kiss) Huh..."},
 				{"Character":"Cheryl","Line":"Um, would you like to come in?"},
 				{"Character":"Cheryl","Line":"Um, would you like to come in?"},
@@ -69,7 +69,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Rachel is on the couch still doing the crossword. Chandler\nis in the kitchen.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"You know what we should all do? Go see a musical."},
 				{"Character":"Chandler","Line":"(confused) Sure..."},
 				{"Character":"Chandler","Line":"(confused) Sure..."},
@@ -122,7 +122,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Ross and Joey are standing and talking, Ross is tying a\ntie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So, you just left? Her place was really that bad?"},
 				{"Character":"Ross","Line":"You know how you throw your jacket on a chair at the end of the day?"},
 				{"Character":"Joey","Line":"Yeah."},
@@ -180,7 +180,7 @@
 			},
 		"5":{
 			"SceneDescription":" In the living room at the funeral",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Burkart","Line":"(singing) Jeepers, creepers, where'd you get those peepers? Jeepers,\ncreepers, where'd you get those eyes?"},
 				{"Character":"[cut to Monica and Phoebe in the kitchen","Line":"cut to Monica and Phoebe in the kitchen]"},
 				{"Character":"Phoebe","Line":"You didn't get the money, did you?"},
@@ -203,7 +203,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk. Rachel is sitting on the couch alone working on a crossword\npuzzle. Gunther is there, going into the back room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I did it! Oh! I finished it! I did it all by myself! And there's nobody to\nhug!"},
 				{"Character":"[From the background we hear a crash and Gunther comes running out of the back room,\npushing people aside, reaching for Rachel.","Line":"From the background we hear a crash and Gunther comes running out of the back room,\npushing people aside, reaching for Rachel.]"},
 				{"Character":"Gunther","Line":"Move!"},
@@ -246,7 +246,7 @@
 			},
 		"7":{
 			"SceneDescription":" Outside Cheryl's apartment, Monica knocks on Cheryl's door",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi. Uh, you... you don't know me, I'm Monica Geller... Ross's sister."},
 				{"Character":"Cheryl","Line":"Oh, yeah. Oh, you know, that's too bad that didn't work out."},
 				{"Character":"Monica","Line":"Yeah. Anyway, he told me about your apartment. And, um, I couldn't sleep,\nthinking about it. So, uh, would it be okay if I cleaned it?"},

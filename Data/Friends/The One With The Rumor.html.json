@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel's, Joey is reading <i>What to Expect When You’re Expecting</i>\nas Rachel enters from her bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey Rach listen, did you know that during pregnancy your fingers swell up\nto twice their size and never go back"},
 				{"Character":"Rachel","Line":"(looking at her fingers) Oh my…God! Let me see that! (Grabs the\nbook from him."},
 				{"Character":"Joey","Line":"(laughing) You fall for it every time"},
@@ -71,7 +71,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, scene continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(To Ross) So you were in an I Hate Rachel club"},
 				{"Character":"Will","Line":"Yes he was. (Holds up his hand for a high-five."},
 				{"Character":"Ross","Line":"No. No"},

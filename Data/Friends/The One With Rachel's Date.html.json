@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica’s Restaurant Kitchen, she is frantically working and is handing two\nfinished dishes to a waitress.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Okay, now this one is rare, this one is medium well! Now go-go-go!\n(Phoebe enters) Hey Phoebe"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
@@ -62,7 +62,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Days Of Our Lives</i> set, Joey is doing a scene with a co-star as Rachel\nwatches on a monitor.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey's Co-Star","Line":"Drake, I’ve discovered the reason for all your headaches\nand memory loss"},
 				{"Character":"Dr. Drake Ramoray","Line":"What is it"},
 				{"Character":"Joey's Co-Star","Line":"Apparently your brain transplant was not entirely successful. It\nseems your body is rejecting Jessica’s brain"},
@@ -120,7 +120,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Rachel's, Rachel is eating at the counter as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -147,7 +147,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Monica is in the kitchen as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey. Okay, I gave him another chance, but Tim has got to go"},
 				{"Character":"Phoebe","Line":"But"},
@@ -183,7 +183,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Rachel is getting ready for her date and Joey is reading a\nmagazine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey, what do you think is a better excuse for why I’m not drinking\non this date tonight. \"Umm, I’m a recovering alcoholic. I’m a Mormon,\"\nor \"I got so hammered last night I’m still a little drunk?"},
 				{"Character":"Ross","Line":"(entering with a pizza and beer) Hey"},
 				{"Character":"Rachel","Line":"Hi"},
@@ -263,7 +263,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel's, Joey and Ross are having dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So what movie do you want to see—And not another one I have to read.\nOkay? I get enough of that from books"},
 				{"Character":"Ross","Line":"Books"},
 				{"Character":"Ross","Line":"Books"},
@@ -324,7 +324,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica’s Restaurant Kitchen, Monica is waiting for Tim who enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Tim","Line":"I got your page, is everything okay"},
 				{"Character":"Monica","Line":"Uh well that depends, how are things with Phoebe"},
@@ -387,7 +387,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, Ross is entering and Mona from the wedding recognizes him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mona","Line":"Ross"},
 				{"Character":"Ross","Line":"Yeah"},
 				{"Character":"Ross","Line":"Yeah"},

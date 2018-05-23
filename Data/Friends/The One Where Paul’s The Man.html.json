@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Rachel, Chandler, Monica, and Joey are there as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(dejected) Hi, you guys"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -88,7 +88,7 @@
 			},
 		"2":{
 			"SceneDescription":" The Morgan Chase Museum, the girls are entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh, I love museums"},
 				{"Character":"Rachel","Line":"Umm"},
 				{"Character":"Rachel","Line":"Umm"},
@@ -148,7 +148,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Cabin in the Woods, Elizabeth is giving Ross a tour.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"This place is really beautiful"},
 				{"Character":"Elizabeth","Line":"Yeah, I’ve been coming here since I was a kid. This used to be\nmy Grandma’s"},
 				{"Character":"Ross","Line":"Wow! The only thing I got from my Grandmother was her eyes. I mean not-not\nher actual eyeballs, but, but people say that my eyes—Do-do you want to make out"},
@@ -207,7 +207,7 @@
 			},
 		"4":{
 			"SceneDescription":" Paul’s Cabin, Paul and Rachel are sitting on the couch drinking wine and\ntalking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"It’s so secluded up here"},
 				{"Character":"Paul","Line":"I know. I like it up here"},
 				{"Character":"Rachel","Line":"I feel like we’re the only two people in the world. (She sets down\nher wine class, picks up a walnut, and knocks another one on the floor.) Oops. Sorry. (She\nreaches down to pick it up and Ross hands it to her. Ross is hiding under the couch and\ncauses Rachel to scream."},
@@ -288,7 +288,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Dry Cleaner’s, Joey has brought in a bunch of laundry in another\nattempt to get his picture on the wall, but the dry cleaner isn’t working right now.\nInstead, a beautiful woman is working.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Female Clerk","Line":"Can I help you"},
 				{"Character":"Joey","Line":"Uh yeah, where-where’s the guy who decides who’s pictures go up\non the wall"},
 				{"Character":"Female Clerk","Line":"He’s not here right now"},
@@ -299,7 +299,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Phoebe is there as Monica rushes in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe"},
 				{"Character":"Phoebe","Line":"Yeah"},
 				{"Character":"Phoebe","Line":"Yeah"},
@@ -322,7 +322,7 @@
 			},
 		"7":{
 			"SceneDescription":" Paul’s Bedroom, Elizabeth is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Elizabeth","Line":"Ross? Ross"},
 				{"Character":"Ross","Line":"Elizabeth! (He opens one of the bed stands that he has curled himself up\ninto.) Okay. Okay. (She helps him out.) I’m gonna go out this window. (Points to the\nwindow next to him.) I’ll meet you at the front door. Just tell them you’re\ngoing home, okay"},
 				{"Character":"Elizabeth","Line":"Okay"},
@@ -362,7 +362,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, Joey is going up to the counter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey Gunther"},
 				{"Character":"Gunther","Line":"Hey! Take these cappuccinos to table 11 and that guy over there\n(points) wants the biscotti."},
 				{"Character":"Joey","Line":"Oh uh, well I just came in for a cup of coffee to go"},

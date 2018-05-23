@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey and Chandler are getting ready for the flight to\nLondon and Monica comes running in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Guys, hurry up! The flight leaves in four hours! It could take time to get\na taxi! There could be traffic! The plane could leave early! When we get to London, there\ncould be a line at customs! Come on!! (She runs back to her apartment."},
 				{"Character":"Chandler","Line":"Six-hour trip to London. That's a lot of Monica"},
 				{"Character":"Joey","Line":"What do you got there"},
@@ -54,7 +54,7 @@
 			},
 		"2":{
 			"SceneDescription":" Street in front of the London Marriott, Joey and Chandler exit. Joey is\ncarrying a video camera and is shooting Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Come on! Do something"},
 				{"Character":"Chandler","Line":"I am, I'm ignoring you"},
 				{"Character":"Chandler","Line":"I am, I'm ignoring you"},
@@ -72,11 +72,11 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey are sitting on the top floor on one of the red coaches in\nLondon that doesn't have a roof. Joey is very enthusiastic and is pointing at all the\ndifferent sights. Chandler is really embarrassed and tries to make him stop. Afterwards,\nJoey tries to film Chandler with his video camera, and Chandler obviously hates this.\nThen, Joey falls asleep, and Chandler tries to take the video camera away from him.\nHowever, Joey is holding onto it (in his sleep) and won't let it go. Chandler pulls until\nJoey lets it go, causing Chandler to fall out of his seat.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" A bridal shop somewhere in London. Monica is trying on her red bridesmaid\ndress, and Emily is watching. A dressmaker is working on Monica's dress.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Don't worry. You'll find some place to get married"},
 				{"Character":"(The dressmaker puts a pin in the dress, but accidentally pricks Monica with it","Line":"The dressmaker puts a pin in the dress, but accidentally pricks Monica with it."},
 				{"Character":"Monica","Line":"Oowww!"},
@@ -97,7 +97,7 @@
 			},
 		"5":{
 			"SceneDescription":" A park in London, Joey and Chandler walk up to a souvenir stand.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -136,7 +136,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is on the couch as Rachel returns carrying a bunch\nof shopping bags.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Rachel","Line":"(depressed) Hi"},
@@ -202,7 +202,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's. Phoebe is on the couch, and Rachel is sitting on the\nchair.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ooh! I thought of a good flaw! Ross pops his gum"},
 				{"Character":"Rachel","Line":"Oh, right! (BEAT) Wait a minute, I do that too"},
 				{"Character":"Rachel","Line":"Oh, right! (BEAT) Wait a minute, I do that too"},
@@ -259,7 +259,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Rachel is in her bedroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Pheebs"},
 				{"Character":"Rachel","Line":"Pheebs"},
 				{"Character":"Phoebe","Line":"Yeah"},
@@ -290,7 +290,7 @@
 			},
 		"9":{
 			"SceneDescription":" Rehearsal dinner hall. Ross and Emily are standing in the reception area.\nMonica arrives with her parents.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Ross","Line":"(Ross hugs his mom and dad)Hi. Mom. Dad"},
@@ -325,7 +325,7 @@
 			},
 		"10":{
 			"SceneDescription":" John F. Kennedy International Airport, Rachel is running to the ticket\ncounter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ooh, ooh, ooh,ooh,ooh. (Slightly out of breath) Hi"},
 				{"Character":"Ticket Agent","Line":"(Cheerfully.) Hello"},
 				{"Character":"Ticket Agent","Line":"(Cheerfully.) Hello"},
@@ -362,7 +362,7 @@
 			},
 		"11":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is dialling the phone and Rachel runs in the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(Running to her room.) Hi, Pheebs"},
 				{"Character":"Phoebe","Line":"(Looking relieved. She puts down the phone.) Oh thank god. Oh, you changed\nyour mind. Oh, look I know you probably want to be alone, and you don't want to talk about\nit, that's fine. I just want you to know, I think you are doing the right thing and.."},
 				{"Character":"Rachel","Line":"(Running back out the door with her passport.) Bye, Pheebs"},
@@ -371,7 +371,7 @@
 			},
 		"12":{
 			"SceneDescription":" Later that evening at the rehearsal dinner. Chandler and Monica are sitting on\na sofa. Chandler is covering his face in embarrassment because of the toast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I was laughing. (Patting him on the knee."},
 				{"Character":"Chandler","Line":"Out loud"},
 				{"Character":"Chandler","Line":"Out loud"},
@@ -407,7 +407,7 @@
 			},
 		"13":{
 			"SceneDescription":" Chandlers hotel room. Ross bursts into the room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(Screaming) I'm getting married today!! Whoo-hoo!"},
 				{"Character":"Chandler","Line":"(With the covers pulled up to his chin.) Morning, Ross"},
 				{"Character":"Ross","Line":"I'm getting married, to..day!"},
@@ -420,7 +420,7 @@
 			},
 		"14":{
 			"SceneDescription":" Chandlers hotel room. Chandler and Monica are lying in the bed together\ntalking. There's an awkward air between them. They are both clutching the covers in from\nof them.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well I've-I've never done that with you before"},
 				{"Character":"Monica","Line":"(In am uneasy voice.) Nope. (She chuckles uneasily."},
 				{"Character":"Chandler","Line":"So, ahh, how are ya? How ya...How ya... You okay"},
@@ -439,7 +439,7 @@
 			},
 		"15":{
 			"SceneDescription":" The plane. Rachel's telling her story to the passenger on her left. The one on\nher left is still wearing his headphones.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"...And so then I realised. All this stuff I had been doing. proposing to\nJoshua, lying to Ross about why I couldn't come to the wedding. Was all just a way of.."},
 				{"Character":"Passenger","Line":"(Frustrated he takes his headphones off.) Oh, oh oh!! I'm sorry, can I\ninterrupt? You know I just want to say..That you are a horrible, horrible person"},
 				{"Character":"Rachel","Line":"Ehh, pardon me"},
@@ -459,7 +459,7 @@
 			},
 		"16":{
 			"SceneDescription":" The church where Ross and Emily are to be married. Judy, Andrea, and Monica\nenter together.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Geller","Line":"(Looking around at the chapel.) Oh my God! It's like a fairyland"},
 				{"Character":"Mrs. Waltham","Line":"I know, it's horrible isn't it"},
 				{"Character":"Mrs. Waltham","Line":"I know, it's horrible isn't it"},
@@ -483,7 +483,7 @@
 			},
 		"17":{
 			"SceneDescription":" Camera fades to one of the band members playing guitar at the wedding. The\nchapel is full of guest. A groomsmen escorts a bridesmaid down the isle. Joey is waiting\nwith Mrs. Waltham to escort he down the isle. A cellular phone rings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Waltham","Line":"(Answering the phone.) Hello, Waltham Interiors"},
 				{"Character":"Phoebe","Line":"Mrs. Waltham. Hi. It's Phoebe again"},
 				{"Character":"Phoebe","Line":"Mrs. Waltham. Hi. It's Phoebe again"},
@@ -612,7 +612,7 @@
 			},
 		"18":{
 			"SceneDescription":" <i>London Marriott</i>, Monica and Chandler are walking to her room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Listen, in the middle of everything if I scream the word,\n\"Yippee!\" just ignore me"},
 				{"Character":"(She laughs and opens the door to reveal Rachel sitting on the bed","Line":"She laughs and opens the door to reveal Rachel sitting on the bed."},
 				{"Character":"Monica","Line":"Oh my God, Rachel! Hi"},
@@ -686,7 +686,7 @@
 			},
 		"19":{
 			"SceneDescription":" Ross and Emily's room, the next morning. Ross is now asleep and has his head in\nMonica's lap and his feet on Chandler's lap. Monica and Chandler are both still awake and\ndepressed.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"We have to leave for New York in an hour"},
 				{"Character":"Monica","Line":"I know, I've been looking at those doors, they look pretty sound proof,\ndon't you think"},
 				{"Character":"Chandler","Line":"We can't do that that's insane. I mean 'A' he could wake up and 'B'\ny'know, let's go for it"},
@@ -726,7 +726,7 @@
 			},
 		"20":{
 			"SceneDescription":" An airport in London, Ross is waiting for Emily to show up to go on their\nhoneymoon and sees Rachel walking past.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Rach! Rach"},
 				{"Character":"Ross","Line":"Rach! Rach"},
 				{"Character":"Rachel","Line":"(she stops and turns) Hi"},
@@ -861,7 +861,7 @@
 			},
 		"21":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is eating cereal from a bowl she has balanced on\nher stomach as Joey, Chandler, and Monica return.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},

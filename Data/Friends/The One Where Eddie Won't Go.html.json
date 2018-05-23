@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler's bedroom. Chandler is sleeping and Eddie is there\nwatching him.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Estelle Leonard Talent Agency.Joey is there.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Joey's apartment. Joey and Ross enter.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Central Perk. Joey goes up to the bar to order.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Chandler's apartment. Chandler is returning from Monica and Rachel's with his\nbedding. Eddie is standing at the bar with his dehydrator and loads of fruit.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica, Rachel, and Phoebe are sitting around\nthe coffee table.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Central Perk. Monica and Phoebe are sitting ignoring each other. Rachel walks\nup with two pieces of cake.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's apartment. They are hauling out the porcelain dog from\nJoey's room. Chandler is holding the dog by the rear in a rather interesting position.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

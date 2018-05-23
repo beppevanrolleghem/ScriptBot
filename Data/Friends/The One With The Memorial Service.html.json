@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Ross' apartment , Chandler and Joey enter",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey! Ready to go"},
 				{"Character":"Ross","Line":"Oh yeah, let me just finish this"},
 				{"Character":"Joey","Line":"Hey Ross, check this out! (he tries to spin a basketball on his \n  fingertip but he throws it against a table) yeah, I can't do that"},
@@ -35,7 +35,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Monica","Line":"Hey Phoebe... how you doin'? You feelin' better"},
 				{"Character":"Phoebe","Line":"Breaking up sucks! Oh, I really miss Mike"},
@@ -74,7 +74,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's. Chandler is looking at the screen \n  of his laptop, shaking his head.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Alright, wait a second, why would Ross tell everyone in your \n  class that you are as... (reads from the screen) \"gay as the day is long\""},
 				{"Character":"Chandler","Line":"Because I told everyone he slept with dinosaurs"},
 				{"Character":"Monica","Line":"But that's clearly a joke. This could easily be true. (Phone \n  rings"},
@@ -105,7 +105,7 @@
 			},
 		"4":{
 			"SceneDescription":" Joey and Rachel's. Enter Joey",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey, look who's here! It's Joey, and he brought home a friend"},
 				{"Character":"Rachel","Line":"Joey, Emma's right here! You promised not to bring girls home \n  in the middle of the day anymore"},
 				{"Character":"Joey","Line":"No, no, it's not a girl, it's... a brand new Hugsy"},
@@ -140,7 +140,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross's Apartment: Ross is doing something on his laptop \n  when Chandler walks in",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, Ross, I just wanted to apologize... (­looks at laptop \n  screen)..don't tell me you actually made those gay pictures of me"},
 				{"Character":"Ross","Line":"uhu uhu, check this out. (Chandler sits down and looks at laptop \n  screen"},
 				{"Character":"Chandler","Line":"Huh! So that's what I would look like if I worked out... and \n  was being serviced by a policeman. You're not actually going to send these out \n  are ya"},
@@ -164,7 +164,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe's apartment: Phoebe, Monica and Mike sitting on \n  the couch",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"(Monica is getting up from the couc","Line":"Monica is getting up from the couch"},
 				{"Character":"Monica","Line":"Alright you two, I'm gonna go to the bathroom. Now I don't want \n  anything going on while I'm gone. Here's a few things you can discuss: mucus, \n  fungus and the idea of me and Ross doing it"},
 				{"Character":"Mike","Line":"I've missed you so much! No, I'm not gonna ask you to get back \n  together because I know we want different things, but just to be with you one \n  more night"},
@@ -218,7 +218,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross' apartment",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(on the phone) No Mum, I'm not dead. I know it's not something \n  to kid about. It was just a practical joke between Chandler and me, but it's \n  over, ok? (pause) Actually no, even if I had died, you would not be left childless. \n  (pause) Monica"},
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"&nbs","Line":"nbsp"},

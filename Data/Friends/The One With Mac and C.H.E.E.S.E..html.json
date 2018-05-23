@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Joey and Rachel's apartment, Phoebe is helping Joey rehearse for an audition.\nPhoebe is overacting her part.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"The reactor’s gonna blow in three seconds, we’re never gonna\nmake it"},
 				{"Character":"Phoebe","Line":"You’ve got to get out of here! Save yourself"},
 				{"Character":"Joey","Line":"No! I won’t leave you"},
@@ -31,7 +31,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, everyone is there to watch Joey's first scene as Dr. Drake\nRemoray.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"nbsp; Whoa, she's pretty. (Mentioning the girl on TV"},
 				{"Character":"Joey","Line":"nbsp; Yeah, and oh she's really nice too. She taught me all about how to\nwork the cameras, and smell-the-fart acting"},
 				{"Character":"Rachel","Line":"nbsp; I'm sorry, what"},
@@ -72,7 +72,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler's office. He's on the phone, agitated.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(on phone) Yes, Fran. I know what time it is, but I'm looking at the\nWENUS and I'm not happy"},
 				{"Character":"[The next flashback is from <a href="http","Line":"/www.livesinabox.com/friends/season6/season2/214towpv.htm\">The One With The Prom Video</a>.&nbsp;\nMonica is at a job interview at a new restaurant."},
 				{"Character":"Monica","Line":"nbsp; Alright, well I'm tearing the lettuce"},
@@ -102,7 +102,7 @@
 			},
 		"4":{
 			"SceneDescription":" Joey and Rachel's apartment, Chandler is there talking to the chick and duck.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Oh come on guys, it’s not like I moved to Europe! I just moved\nacross the hall! And we would have you over all the time if it weren’t for\n(struggles to get this out) Monica’s allergies. (The duck quacks.) You’re right,\nI could never lie to you. She hates you. (The phone rings.) Should I get that? (Laughs,\nthen answers the phone.) Hello? (Listens) Uh no, Joey’s not here right now. Can I\ntake a message? (Listens) Yeah, okay so the audition has been moved from 5:00 to 2:30?\n(Listens) Okay great. (Listens.) Bye. (Hangs up the phone and goes to write the message on\nthe <i>Magna-Doodle</i> on the door but Monica walks in and forces him to jump out of the\nway."},
 				{"Character":"Monica","Line":"(startled) Ahh! Aren’t you dressed yet"},
 				{"Character":"Chandler","Line":"(looks down at his clothes) Am I naked again?"},
@@ -115,7 +115,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Monica and Rachel are consoling Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"I can’t believe I did this! What an idiot"},
 				{"Character":"Monica","Line":"Oh, stop beating yourself up! People make mistakes! These things happen!\nThere aren’t any message you’ve forgotten to give me are there? (Chandler has a\ndisgusted look on his face.) Apparently you’re not very good at it! I"},
 				{"Character":"Chandler","Line":"Do you think he’ll ever forgive me"},
@@ -198,7 +198,7 @@
 			},
 		"6":{
 			"SceneDescription":" Joey and Rachel's apartment, Joey is entering to find Chandler waiting\npatiently for him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Chandler","Line":"Please tell me you got the message"},

@@ -1,10 +1,10 @@
 import sys
 import json
 cast=[]
-Scenes = '"Scenes":{'
+Scenes = '"Scenes":{\n\t\t"0":{"SceneDescription":"NONE","lines":[]},'
 
 def CheckScene(sceneString):
-    Data = '\t\t\t"lines":['
+    Data = '\t\t\t"lines":[{"Character":"","Line":""},'
     linesEtc=sceneString
     while(True):
         if (linesEtc.find("<p>") == -1 or linesEtc.find(":") == -1 or linesEtc.find("</p>") == -1):
@@ -18,7 +18,6 @@ def CheckScene(sceneString):
         if not(character in cast):
             cast.append(character)
         line = noBtag[noBtag.find(":")+2:]
-        line = line.replace('"', '\\"')
         if (len(character) == 0) or len(line) == 0:
                     break
         Data = Data+'\n\t\t\t\t{"Character":"'+character+'","Line":"'+line+'"},'
@@ -29,7 +28,7 @@ def CheckScene(sceneString):
 
 file = sys.argv[1]
 with open(file, "r") as infile:
-        script=infile.read().replace('\n', '\\n')
+        script=infile.read().replace('"', '').replace('\\', 'BACKSLASH').replace('\n','NEWLINE').replace('\t', 'TAB')
 SceneCounter = 1
 while (True):
     if(script.find("[Scene:") == -1):

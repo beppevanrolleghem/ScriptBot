@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey is showing everyone a poster as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey! What are you guys looking at"},
 				{"Character":"Joey","Line":"Oh, it’s a poster for that World War I movie that I’m in, check\nit out"},
 				{"Character":"Ross","Line":"Yeah? Wow! It looks really violent"},
@@ -25,7 +25,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Phoebe, Chandler, Joey, and Monica are there as Rachel\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey! Did you have the baby yet"},
 				{"Character":"Rachel","Line":"Do you want me to come over there and sit on you? ‘Cause I’ll\ndo it"},
 				{"Character":"Monica","Line":"What are you doing here so early"},
@@ -104,7 +104,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, Rachel is entering, still pregnant.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh hey Mon? Rach is here! Ohh, you’re still pregnant. Oh, I’m\nsorry. I know how uncomfortable you are. Y’know what? You look great. Yeah, like\nfifty bucks"},
 				{"Character":"Rachel","Line":"Oh, I have to go pee. Apparently this baby thinks that my bladder is a\nsqueeze toy. (Goes to the bathroom."},
 				{"Character":"Monica","Line":"Damnit! Damnit!! Here’s your fifty bucks! (Pays Phoebe."},
@@ -144,7 +144,7 @@
 			},
 		"4":{
 			"SceneDescription":" Dr. Long’s Office, Ross and Rachel are waiting for the doctor. Ross is\ndrumming his fingers on the bed.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ross"},
 				{"Character":"Ross","Line":"Yeah"},
 				{"Character":"Ross","Line":"Yeah"},
@@ -216,7 +216,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Ross and Rachel are there as Phoebe and Monica enter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -274,7 +274,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross and Rachel's, Ross and Rachel are trying the home remedies again.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Come on, finish your enchilada"},
 				{"Character":"Rachel","Line":"Ross I—We tried all the spicy food. It’s not working"},
 				{"Character":"Ross","Line":"Okay here, have one of these peppers. Oh ha… Oh God! So…so hot!\n(Rubs his eyes.) Oh my—(Laughs.) By the way, you don’t want to touch the pepper\nand then touch your eye"},

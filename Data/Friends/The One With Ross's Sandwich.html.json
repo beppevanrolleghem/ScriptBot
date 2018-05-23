@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, the entire gang is there, eating breakfast. Phoebe is on\nthe couch, fidgeting.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"What am I sitting on"},
 				{"Character":"Chandler","Line":"Top of the world? Dock of the bay? (He tries to think of another but\ncan't) I'm out"},
 				{"Character":"Phoebe","Line":"(taking something out of the couch) Ew-eww!! Undies!"},
@@ -65,7 +65,7 @@
 			},
 		"2":{
 			"SceneDescription":" Phoebe's class, the class has already started and Rachel walks in late.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(To Phoebe) Sorry I'm late, but I left late"},
 				{"Character":"Phoebe","Line":"Okay"},
 				{"Character":"Phoebe","Line":"Okay"},
@@ -102,7 +102,7 @@
 			},
 		"3":{
 			"SceneDescription":" The hallway, Joey is returning from a date with Cynthia.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Cynthia","Line":"God, this was really fun! I've been wondering if you were going to ask\nme out"},
 				{"Character":"Joey","Line":"So you uh, still wondering"},
 				{"Character":"Cynthia","Line":"No, we just went out"},
@@ -129,7 +129,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Museum of Prehistoric History (Ross's work); Ross is in the break room\neating lunch as his boss, Dr. Leedbetter walks in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dr. Leedbetter","Line":"Umm, Ross. May I have a word with you"},
 				{"Character":"Ross","Line":"Yeah, of course, Donald"},
 				{"Character":"Dr. Leedbetter","Line":"We've been getting reports of some very angry behavior on your\npart"},
@@ -182,7 +182,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Chandler is on the couch as Monica joins him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey. Okay, so umm, since that video camera thing didn't work out uh, I\nthought that I would give you just a little preview. (Hands him a Polaroid."},
 				{"Character":"Chandler","Line":"(gasps) You're naked in this picture"},
@@ -218,14 +218,14 @@
 			},
 		"6":{
 			"SceneDescription":" The Class; Monica has taken Rachel's spot.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(yelling and waving her hand in the air) I know! I know! I know"},
 				{"Character":"The Teacher","Line":"Monica, you asked the question"},
 				{"Character":"(She sits back defeated, and Phoebe groans with disgust","Line":"She sits back defeated, and Phoebe groans with disgust."}]
 			},
 		"7":{
 			"SceneDescription":" Monica and Phoebe's class; the class has ended and Phoebe is talking to one of\nher classmates.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I really thought you making a good point. I mean y'know, until you got\ncut off"},
 				{"Character":"A Female Student","Line":"Yeah, what's up with that girl Monica"},
 				{"Character":"Phoebe","Line":"I don't know! I didn't come with her"},

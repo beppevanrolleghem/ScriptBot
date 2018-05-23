@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica is trying on a pair of new boots as Chandler\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey! So what do you think"},
 				{"Character":"Chandler","Line":"New haircut? (Monica nods ‘No.’) Necklace? (No) Dress? (No)\nBoots? (Monica nods ‘Yes.’) Boots"},
 				{"Character":"Monica","Line":"Yes! Now, they’re a little more than I normally spend on\nboots…or rent (Shows him the receipt."},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, the next day Rachel, Phoebe, and Chandler are there as Monica\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey guys"},
 				{"Character":"Chandler","Line":"Hey-hey"},
 				{"Character":"Chandler","Line":"Hey-hey"},
@@ -111,7 +111,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Hallway, Monica is returning, but before she enters the apartment she stops\non the step and changes from wearing tennis shoes to the boots and she moans in pain as\nshe puts each boot on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(standing up) Ahhhhhhhh"},
 				{"Character":"Chandler","Line":"(opening the door) What’s wrong"},
 				{"Character":"Monica","Line":"Oh nothing I’m just—just was yawning. (Mimics the groan from\nbefore and stretches."},
@@ -143,7 +143,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Midfield Day School, it’s after school and Ben is taking a drink of\nwater as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh, there you are Ben"},
 				{"Character":"Ben","Line":"Aunt Phoebe, what are you doing here"},
 				{"Character":"Phoebe","Line":"Well, I heard you’re having a problem with one of the boys in your\nclass. And so I thought I would just come down here and sit you both down, have a little\ntalk and make it all okay. Now umm, the boy’s name is Sting’s son"},
@@ -180,7 +180,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Dina and Rachel are reading pregnancy books, Dina <i>Pregnancy\nfor Dummies</i> and Rachel something else.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dina","Line":"Do you ever worry that you’ll be walking and your baby will just like\nslip out"},
 				{"Character":"Rachel","Line":"What college was that Dina"},
 				{"Character":"(Joey enters dragging a guy","Line":"Joey enters dragging a guy."},
@@ -227,7 +227,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Street, Chandler is carrying Monica past a store window.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay, ten blocks down. Five to go"},
 				{"Character":"Monica","Line":"(notices something in the window) Oh wait! Stop! Stop! Stop"},
 				{"Character":"Chandler","Line":"Oh I’m sorry! Do you need a break"},
@@ -252,7 +252,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Phoebe and Ross are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"You’re gonna love me so much. I got Sting tickets!! (Holds up two."},
 				{"Character":"Phoebe","Line":"Oh my God! I do love you! How did you do it?"},
 				{"Character":"Ross","Line":"Well…let’s just say… (singing) <i>Rosss caaaaan</i>"},

@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's apartment. Everyone except Ross is there\nwatching <i>Days of Our Lives</i>.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" Chandler and Eddie's apartment. Chandler and Eddie are talking.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Chandler and Eddie's apartment. Chandler is there. There's a knock at the door.\nHe answers it to see a young woman holding a fishtank.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" At a writer's desk. The writer is working on a script for Days of Our Lives.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica, Richard, Ross, and Rachel are\nreturning.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's apartment. Monica and Richard are in Monica's bedroom.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" Joey's apartment. Everyone is outside knocking.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's apartment.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

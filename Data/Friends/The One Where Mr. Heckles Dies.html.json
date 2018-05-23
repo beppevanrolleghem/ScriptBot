@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel’s, everyone except Chandler is playing poker.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Hey"},
 				{"Character":"All","Line":"Hey"},
 				{"Character":"All","Line":"Hey"},
@@ -35,7 +35,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel’s, the next day everyone is eating dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ok, it's very faint, but I can still sense him in the building.\n(Screaming) Go into the light, Mr. Heckles"},
 				{"Character":"Chandler","Line":"Ok, Phoebe"},
 				{"Character":"Chandler","Line":"Ok, Phoebe"},
@@ -81,7 +81,7 @@
 			},
 		"3":{
 			"SceneDescription":" Mr. Heckles’ Apartment, Chandler is in one of Heckles’ old robes and\nsitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Have you been here all night"},
 				{"Character":"Chandler","Line":"Look at this. Pictures of all the women that Heckles went out with.\nLook what he wrote on them. (As he mentions each name and description, he hands a picture\nto Joey.) Vivian, too tall. Madge, big gums. Too loud, too smart, makes noise when she\neats. This is, this is me. This is what I do. I'm gonna end up alone, just like he did"},
 				{"Character":"Joey","Line":"Chandler, Heckles was a nut case"},
@@ -107,7 +107,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler is telling everyone about his phone call.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Janice? You called Janice"},
 				{"Character":"Chandler","Line":"Yes, Janice. Why is that so difficult for you to comprehend"},
 				{"Character":"Ross","Line":"You remember Janice, right"},
@@ -137,7 +137,7 @@
 			},
 		"5":{
 			"SceneDescription":" Mr. Heckles’ Apartment, everyone is finishing cleaning up the apartment as\nMonica walks up to Rachel carrying the girlie clock.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"What you got there? Something else that's not yours that you can break"},
 				{"Character":"Monica","Line":"No. Um, I know you like this, and I want you to have it. I think it'll\nlook good in our apartment"},
 				{"Character":"Rachel","Line":"Thank you"},

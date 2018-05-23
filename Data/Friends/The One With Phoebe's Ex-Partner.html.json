@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the gang, except Rachel, is watching a new singer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Singer","Line":"(singing) ‘Cause every time I see your face, I can’t help but\nfall from grace. I know...."},
 				{"Character":"Joey","Line":"Wow! This girl is good"},
 				{"Character":"Joey","Line":"Wow! This girl is good"},
@@ -26,7 +26,7 @@
 			},
 		"2":{
 			"SceneDescription":" Outside the bathroom, Chandler is pacing back and fourth, waiting is use it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gunther","Line":"(to Chandler) Someone in there"},
 				{"Character":"Chandler","Line":"No. This is just part of a dare devil game that I play called\n‘wait until the last moment before I burst and die."},
 				{"Character":"(The door opens","Line":"The door opens."},
@@ -52,7 +52,7 @@
 			},
 		"3":{
 			"SceneDescription":" Rachel’s office, Mark is packing his stuff into a box.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Rachel","Line":"Hi, sweetie"},
@@ -96,7 +96,7 @@
 			},
 		"4":{
 			"SceneDescription":" A street, Chandler is kissing Ginger.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well, that’s the best kiss I’ve had with anyone I’ve\never met in a men’s room"},
 				{"Character":"Ginger","Line":"Actually, me too"},
 				{"Character":"Ginger","Line":"Actually, me too"},
@@ -117,7 +117,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Phoebe is looking at her beeper still in the pot. She\ntakes it out, shakes it, and puts it back in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Y'know they say a watched pot never beeps"},
 				{"Character":"Phoebe","Line":"It’s just y'know, been a couple of hours, and she hasn’t\ncalled. Not that I even care, y'know"},
 				{"Character":"Monica","Line":"Phoebe why don’t you just call her? You obviously want to"},
@@ -139,7 +139,7 @@
 			},
 		"6":{
 			"SceneDescription":" The lecture, Rachel is listening closely, Ross is bored out of his mind.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Lecturer","Line":"We’re beginning to see a lot of layering of sheer fabrics and\ncolours. For instance a sheer navy blouse over a pink..."},
 				{"Character":"Ross","Line":"(to Rachel) I’m really glad we came. (Rachel smiles and rubs his arm)\nYou’re so pretty. I love you"},
 				{"Character":"Rachel","Line":"Oh. (puts her hand over his mouth"},
@@ -147,12 +147,12 @@
 			},
 		"7":{
 			"SceneDescription":" The lecture, Ross is passed out against Rachel’s shoulder.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Lecturer","Line":"....oversized bracelets, oversized earrings, oversizing of accessories\nin general are very popular now"}]
 			},
 		"8":{
 			"SceneDescription":" Monica and Rachel's, Ross and Rachel are getting back from the lecture.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering) So I nodded off a little"},
 				{"Character":"Rachel","Line":"Nodded off!! Ross you were snoring. My father’s boat didn’t\nmake that much noise when it hit rocks"},
 				{"Character":"Ross","Line":"Come on! Forty-five minutes! Forty-five minutes the man talked about\nstrappy backed dresses"},
@@ -180,7 +180,7 @@
 			},
 		"9":{
 			"SceneDescription":" Central Perk, Phoebe is getting ready to sing as Leslie enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(to Leslie) Oh, I thought you weren’t coming. What? Where were you"},
 				{"Character":"Leslie","Line":"Come here, come here. (they go to the side of the stage) Okay,\ndon’t get mad, okay"},
 				{"Character":"Phoebe","Line":"Okay, don’t give me a reason to get mad, oka"},
@@ -193,7 +193,7 @@
 			},
 		"10":{
 			"SceneDescription":" Monica and Rachel's, the whole gang except Chandler is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering, happily) Well hello"},
 				{"Character":"Joey","Line":"Where have you been"},
 				{"Character":"Joey","Line":"Where have you been"},

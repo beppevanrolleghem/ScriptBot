@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" A beauty parlour, Rachel is getting a manicure while Chandler, yes Chandler, is\ngetting a petticure (Does that scare you that I know those terms?&nbsp; Well, it scares\nme.).",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Y'know, I can't believe I'm getting my nails done!&nbsp; And <strong>you</strong>\nsaid it was gonna be fun! (pause) Which it kinda is.&nbsp; Also, you said there would be\nother guys here. There are no other guys here"},
 				{"Character":"Rachel","Line":"Chandler, there’s a guy right over there. (Points to the counter"},
 				{"Character":"Chandler","Line":"That’s a mailman! That’s our mailman! (Waves to the\nmailman) (Sarcastic) Hi. How are ya"},
@@ -21,7 +21,7 @@
 			},
 		"2":{
 			"SceneDescription":" A street, Ross and Emily are walking home from a date.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Emily","Line":"I can’t believe you really walk alone here! I mean, you hear such\nstories about New York"},
 				{"Character":"Ross","Line":"No, it’s really not that bad. I mean, I-I for one, feel perfectly\nsafe"},
 				{"Character":"(At that moment two very large men start screaming and running towards Emily and\npicking her up","Line":"At that moment two very large men start screaming and running towards Emily and\npicking her up."},
@@ -66,7 +66,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's erm, Monica and Rachel's, Phoebe and Monica are plugging in\na bunch of electronics.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Done"},
 				{"Character":"Phoebe","Line":"Yep"},
 				{"Character":"Phoebe","Line":"Yep"},
@@ -87,7 +87,7 @@
 			},
 		"4":{
 			"SceneDescription":" The park, everyone is warming up for the rugby game. Only Joey and Phoebe came\nto support Ross.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Ross-Ross-Ross-Ross! Stay away from that guy (Points), and that guy\n(Points). And that one—Dude! They’re all huge"},
 				{"Character":"Ross","Line":"They don’t look any bigger than me"},
 				{"Character":"Joey","Line":"Well, maybe that’s because you’re closer to you. So you look\nbigger to you from where you are"},
@@ -137,7 +137,7 @@
 			},
 		"5":{
 			"SceneDescription":" The airport, the Yemen Express counter, Chandler is still trying to get rid of\nJanice.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Y’know you, really didn’t have to take me to the airport"},
 				{"Character":"Janice","Line":"Oh please. Every moment is precious. Y’know? Besides, somebody had\nto ride in that other taxi with the rest of your luggage, and your friends don’t\nreally seem to care too much that you’re leaving"},
 				{"Character":"Chandler","Line":"Well, we’re really not that close. (Pause) Okay, so I guess this\nis uh, good-bye then"},
@@ -159,7 +159,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's erm, Monica and Rachel’s, Monica is reading a book as\nRachel returns.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Monica","Line":"Hi"},
@@ -194,7 +194,7 @@
 			},
 		"7":{
 			"SceneDescription":" The airport, the flight to Yemen is being called.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ticket Counter Attendant","Line":"(on the P.A.) This is the final boarding call for\nFlight 664 to Yemen"},
 				{"Character":"Chandler","Line":"Well, I-I guess I gotta go"},
 				{"Character":"Janice","Line":"Oh, my Bing-a-ling. I’ll wait for you. Do you even know how long\nyou’re going to be gone"},

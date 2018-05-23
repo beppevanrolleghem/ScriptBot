@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Joey is balancing a mini hockey stick on his hand as\nChandler enters from his room carrying a bunch of bills.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(watches Joey for a moment) Okay! (Joey quickly moves the hockey stick\nso that he’s scratching his back with it.) Listen, I’m gonna be moving out so you\nwill be in charge of paying the rent"},
 				{"Character":"Joey","Line":"Right! And when is that due"},
 				{"Character":"Joey","Line":"Right! And when is that due"},
@@ -36,7 +36,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Joey is entering carrying two pizzas.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Here it is! Our last pizzas together as roommates"},
 				{"Character":"Chandler","Line":"Oh, I wish I’d know you were going to do that, I ordered Chinese"},
 				{"Character":"Joey","Line":"Oh that’s okay. Hey, actually in a way it’s kinda nice. Me,\nbringing the food of my ancestors, you, the food of yours"},
@@ -52,7 +52,7 @@
 			},
 		"3":{
 			"SceneDescription":" Chandler and Joey's, they are just finishing up another game of foosball.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(scores) Yes! I win again! Ha-ha! That’s like 500 bucks you owe me!\nWhoo-ho-hoo! (Goes over to the fridge and starts opening and closing the door rapidly.)\n$500 that is a loooot of electricity! (By the way, there’s nothing in the fridge.)\nWhoo-ho-ho! (Notices the sparseness of the fridge.) I gotta buy some food"},
 				{"Character":"Chandler","Line":"Okay, give me a chance to win my money back. Okay? Sudden death, one\ngoal, $1,000"},
 				{"Character":"Joey","Line":"You serious"},
@@ -74,7 +74,7 @@
 			},
 		"4":{
 			"SceneDescription":" Rachel’s bedroom, Rachel is entering carrying two glasses of wine. She\ngives one to Phoebe, keeps one, and completely ignores Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Yeah, I think it was better when you guys were sad. Hey, uh, remember\nthe roller blades"},
 				{"Character":"Rachel","Line":"You know what else I’m not gonna miss? \"I’m Monica. I\nwash the toilet 17 times a day. Even if people are on it!"},
 				{"Character":"Monica","Line":"\"Hi I’m Rachel, is my sweater too tight? No? Oh, I’d\nbetter wash it and shrink it!"},
@@ -90,7 +90,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Monica is whining to Phoebe about Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I’m not talking to her"},
 				{"Character":"Phoebe","Line":"Well, one of you has to take the first step! And it should be you,\nbecause she’s the one who’s leaving. It’s harder for her"},
 				{"Character":"Monica","Line":"Well, maybe you’re right—She made fun of my phone pen"},
@@ -133,7 +133,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Monica carries a box out of Rachel’s room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Well, this is the last box of your clothes. I’m just gonna label\nit, \"What were you thinking?"},
 				{"Character":"Rachel","Line":"Funny, because I was just gonna go across the hall and write that on\nChandler"},
 				{"Character":"Phoebe","Line":"Hey you guys, I don’t mean to make things worse, but umm, I\ndon’t want to live with Rachel anymore"},
@@ -179,7 +179,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, (And that’s the last time for that line, no more\nChandler and Joey’s or Monica and Rachel’s, ever!) Joey and Ross are carrying\nthe last table of Rachel’s. Rachel follows slowly, but is stopped by Monica.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey. Call me when you get there. Okay"},
 				{"Character":"Rachel","Line":"Okay"},
 				{"Character":"Rachel","Line":"Okay"},

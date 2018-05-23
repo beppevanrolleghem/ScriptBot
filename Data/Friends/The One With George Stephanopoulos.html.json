@@ -3,35 +3,35 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there except Joey.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"2":{
 			"SceneDescription":" A Street, Chandler and Joey are kicking a can to\neach other.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's, Phoebe and Monica are in\npajamas and Monica is making something in the blender as Rachel enters.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, they're all hanging out in the\nliving room.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" An Emergency Room, Chandler and Joey are leading\nRoss in.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"6":{
 			"SceneDescription":" The Emergency Room, Joey is miming hockey pucks\nkitting foreheads.&nbsp; Chandler realises it's getting tense and goes to the receptionist\nagain.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"7":{
 			"SceneDescription":" The Emergency Room, Ross is still going on about\nhis first night with Carol.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"8":{
 			"SceneDescription":" The Emergency Room, Ross is absent.",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			}
 }
 }

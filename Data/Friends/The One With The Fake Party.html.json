@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, Chandler, Monica, and Phoebe are\nthere. Phoebe is stressing out about something.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"What is it hon"},
 				{"Character":"Phoebe","Line":"I-I can’t find anything that I want to eat! Everything I eat makes\nme nauseous! I’m telling you, being pregnant is no piece of cake—ooh! Cake!\n(Chandler shrugs, and Phoebe grimaces.) No"},
 				{"Character":"Monica","Line":"Aww, honey I’m sorry"},
@@ -26,7 +26,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Bloomingdale’s</i>, Rachel is preparing to slip Joshua the note.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joshua","Line":"(coming in from a changing room) Okay"},
 				{"Character":"Rachel","Line":"Oh, here’s that trench-coat that you wanted"},
 				{"Character":"Joshua","Line":"Oh great! (He tries on the coat.) Wow! Yeah, it’s comfortable."},
@@ -67,7 +67,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, it is later in the party. The\nSpin the Bottle game is over and Chandler is making a sandwich as Phoebe watches.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Y’know it doesn’t matter how much I’m craving it.\nY’know why I’m never gonna eat meat? Because it’s murder, cold blooded\nmurder"},
 				{"Character":"Chandler","Line":"Okay."},
 				{"Character":"Chandler","Line":"Okay."},
@@ -238,7 +238,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's erm, Chandler and Joey's, the next day. Phoebe is busy\nmaking a sandwich.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Oooh, what you got there"},
 				{"Character":"Phoebe","Line":"Pastrami"},
 				{"Character":"Phoebe","Line":"Pastrami"},

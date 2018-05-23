@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Monica's apartment. Chandler and Monica are looking through \n  some papers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Did you see our bank statement? Can this be right"},
 				{"Character":"Monica","Line":"I know...God. I haven't seen my savings take a hit like this \n  since I was a kid and they came up with double-stuffed Oreos. What happened \n  to all our money"},
 				{"Character":"Chandler","Line":"I'm not sure what they did, but I'm inclined to blame Enron"},
@@ -24,7 +24,7 @@
 			},
 		"2":{
 			"SceneDescription":" Joey's apartment. Monica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey Joey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -79,12 +79,12 @@
 			},
 		"3":{
 			"SceneDescription":" Joey's apartment. Rachel is fiddling with the drawer.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"This is easy...Can't do this! (Moves away...and finds her sweater \n  sleeve stuck to the drawer) Oh! Wow! Seriously I can't do this. (Fiddles more"}]
 			},
 		"4":{
 			"SceneDescription":" Phoebe's apartment. Phoebe and Mike are packing stuff.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mike","Line":"Well hey, I wanna ask you about Monica's little \"groomy\" \n  joke"},
 				{"Character":"Phoebe","Line":"Oh! Alright. Well I think the reason people laugh is becuase \n  it's a play on the word roomy"},
 				{"Character":"Mike","Line":"I get the joke. Sophisticated as it was. Now the thing I wanna \n  say is... maybe we should have talked about this before. Us living together, \n  you're not expecting a proposal, right"},
@@ -122,7 +122,7 @@
 			},
 		"5":{
 			"SceneDescription":"Ross's apartment. Phoebe is at the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"H"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
@@ -172,7 +172,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Monica's apartment. Chandler enters. Rachel and monica \n  are seated at the table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey Rach! Ah........ Perfection. (kisses monica) Wouldn't \n  change a thing. Not a thing"},
 				{"Character":"Monica","Line":"Honey"},
 				{"Character":"Monica","Line":"Honey"},
@@ -206,7 +206,7 @@
 			},
 		"7":{
 			"SceneDescription":" Phoebe's apartment. Ross is helping with the packing, Phoebe and Mike \n  are also there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey! What do you guys think about this. \"Ross: The Divorce-Force\""},
 				{"Character":"Phoebe","Line":"Better"},
 				{"Character":"Phoebe","Line":"Better"},

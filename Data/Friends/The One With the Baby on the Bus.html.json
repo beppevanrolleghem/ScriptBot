@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Monica, Chandler, Joey, Ross and Ben are\nthere.&nbsp; Ben is sitting in his little rocking seat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Who da wenny-Benny boy? You the Wenny-wenny-Benny-Benny boy, yes. (Ben\nstarts crying.) Don't cry. Don't cry. (To Ross) Why is he still crying"},
 				{"Character":"Ross","Line":"Let me hold him for a sec. There. (Ben stops crying) Huh? There we are"},
 				{"Character":"Monica","Line":"Maye it's me"},
@@ -30,7 +30,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Rachel is doing some cleaning as Phoebe sits on the couch with\nher guitar.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey Rach, wanna hear the new song I'm thinkin' of singing this\nafternoon? I wrote it this morning in the shower"},
 				{"Character":"Rachel","Line":"Ok"},
 				{"Character":"Rachel","Line":"Ok"},
@@ -54,7 +54,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Rachel has just broken the news to Phoebe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"But, but this is my gig. This is where I play. My, my name is written\nout there in chalk. You know, you can't just erase chalk"},
 				{"Character":"Rachel","Line":"Honey, I'm sorry"},
 				{"Character":"Rachel","Line":"Honey, I'm sorry"},
@@ -98,7 +98,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Street, Chandler and Joey are still trying to pick up women with Ben.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"That's a good plan, Joe. Next time we wanna pick up women, we should\njust go to the park and make out. Taxi, taxi"},
 				{"Character":"Joey","Line":"Hey, hey, look at that talent. (Motions to two girls waiting for the bus."},
 				{"Character":"Chandler","Line":"(to taxi driver) Just practicing. You're good. Carry on"},
@@ -142,7 +142,7 @@
 			},
 		"5":{
 			"SceneDescription":" Outside Central Perk, Phoebe is still singing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing) ...<em> with the double double double-jointed boy</em>. (A\nwoman carrying a guitar case walks up.) Hey. So um, are you the professional guitar\nplayer"},
 				{"Character":"Stephanie","Line":"Yeah. I'm Stephanie"},
 				{"Character":"Phoebe","Line":"Right. My name was on there (The chalk sign out front), but now it just\nsays \"carrot cake\". So, um, so um, how many chords do you know"},
@@ -170,7 +170,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel is introducing Stephanie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ok, everybody, let's give a uh nice warm Central Perk welcome to.."},
 				{"Character":"Phoebe","Line":"(outside singing angrily) <em>Terry's a jerk, and he won't let me work,\nand I hate Central Perk</em>"},
 				{"Character":"Rachel","Line":"Uh, to Stephanie Schiffer"},
@@ -180,7 +180,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Rachel is standing by the door and looking at Phoebe counting her\nmoney as Stephanie is singing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Stephanie","Line":"(singing) <em>Just call me angel of the monring.&nbsp; Angel!&nbsp;\nJust touch my cheek before you leave me. Oh baby.&nbsp; Just call me angel of the morning.\n&nbsp; Angel!&nbsp; And slowly turn away.&nbsp; I won't beg you to stay, with me.</em"},
 				{"Character":"(Rachel goes outside","Line":"Rachel goes outside."},
 				{"Character":"(Rachel goes outside","Line":"Rachel goes outside."},
@@ -219,7 +219,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk, Phoebe is teaching Smelly Cat to Stephanie.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Stephanie","Line":"(singing) <em>Smelly cat, smelly cat, what are they feeding you</em>"},
 				{"Character":"Phoebe","Line":"No, no, no. I'm sorry. It's \"<em>smelly cat, smel-ly cat</em>."},
 				{"Character":"Stephanie","Line":"<em>Smelly cat, smel-ly cat</em>.."},

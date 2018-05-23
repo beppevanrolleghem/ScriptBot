@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler’s Office, Tulsa",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Assistant","Line":"This kitty is Mittens, this one is Fitzhugh, and this little guy \nin the cat condo is Jinkys"},
 				{"Character":"Chandler","Line":"Yeah. That’s a lot of cats, Jolene. Single, are ya"},
 				{"Character":"[Phone rings – Chandler answer","Line":"Phone rings – Chandler answers"},
@@ -38,7 +38,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler’s apartment. Monica has a bottle of red wine on \nthe table, along with two filled glasses. Chandler bursts through the door \nquickly, pulling his suitcase along with him",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi! [Surprised"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -116,7 +116,7 @@
 			},
 		"3":{
 			"SceneDescription":" A bar. Phoebe and Rachel are carrying drinks",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Oh, god. Do you remember the girls’ nights that we used to have? \nSitting around, talking about you and Ross"},
 				{"Character":"Rachel","Line":"Oh, god. It seems like forever ago"},
 				{"Character":"Phoebe","Line":"I know"},
@@ -147,11 +147,11 @@
 			},
 		"4":{
 			"SceneDescription":" Ross and Rachel’s apartment. There is a nearly-empty pizza box on the \ntable. Mike and Ross have swapped positions on the couch. Mike still has a \nbottle of Foster’s in his hand. He is making funny noises. Ross looks bored. \nMike stops making the noise, looks at Ross, looks back at the bottle and \ncontinues to make the noise. Ross looks exasperated",
-			"lines":]
+			"lines":[{"Character":"","Line":""}]
 			},
 		"5":{
 			"SceneDescription":" Ross and Rachel’s apartment. Ross and Mile look bored out of their \nheads",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mike","Line":"Passst. I’m gonna take off"},
 				{"Character":"Ross","Line":"So soon"},
 				{"Character":"Ross","Line":"So soon"},
@@ -188,7 +188,7 @@
 			},
 		"6":{
 			"SceneDescription":" Hallway between Monica/Chandler’s apartment and Joey’s apartment. \nJoey is sat on a stool, holding a baseball bat. Chandler runs up the stairs",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Wow, that didn’t take long. I thought you said Tulsa was a three-hour \nflight"},
 				{"Character":"Chandler","Line":"Well,… you’re forgetting about the time difference"},
 				{"Character":"[Joey looks puzzled for a second, then smiles and points at Chandler. \nChandler smiles and points back. Chandler opens the door to his apartment and \nenters. Joey follows","Line":"Joey looks puzzled for a second, then smiles and points at Chandler. \nChandler smiles and points back. Chandler opens the door to his apartment and \nenters. Joey follows."},
@@ -236,7 +236,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler’s apartment. As before",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"What’s going on"},
 				{"Character":"Chandler","Line":"I’m sorry. I told you that I was in Tulsa because I wanted to spend \nthe night with Monica and I didn’t…didn’t know…didn’t think you’d \nunderstand"},
 				{"Character":"Joey","Line":"What? You think I’m too dumb to know that a husband needs to be with \nhis wife? Uh? You think I’m like, duhhh! [Taps head with baseball bat – it hurts \nhim"},
@@ -276,7 +276,7 @@
 			},
 		"8":{
 			"SceneDescription":" Central Perk. Phoebe and Mike are sat on the sofa. Ross enters",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, you guys"},
 				{"Character":"Phoebe, Mike","Line":"Hi"},
 				{"Character":"Phoebe, Mike","Line":"Hi"},

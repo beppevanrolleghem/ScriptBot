@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's, Ross and Chandler are there. Ross is watching wrestling.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Man, I sure miss Julie"},
 				{"Character":"Chandler","Line":"Spanish midgets. Spanish midgets wrestling. Julie. Ok, yes, I see how\nyou got there. (The phone rings and Chandler doesn't answer it."},
 				{"Character":"Ross","Line":"You ever figure out what that thing's for"},
@@ -21,7 +21,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, everyone is there and Ross is on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Yeah, yeah, everybody's here. Hey, everybody, say hi to Julie in New\nMexico"},
 				{"Character":"All","Line":"Hi, Julie"},
 				{"Character":"All","Line":"Hi, Julie"},
@@ -91,7 +91,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Restaurant, everyone except Chandler is seated at a table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Ok, (holding up his glass) ok, here is to my sister, the newly-appointed\nhead lunch chef.."},
 				{"Character":"Monica","Line":"Who is also in charge of purchasing"},
 				{"Character":"Ross","Line":"Newly appointed head lunch chef who is also in charge of purchasing.."},
@@ -250,7 +250,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is standing at the fridge as Ross enters hiding\nChandler behind the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Chandler!"},
 				{"Character":"Chandler","Line":"(startling Ross) Yeah"},
 				{"Character":"Ross","Line":"Geez! Are you ready"},
@@ -304,7 +304,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Joey is trying to entertain Phoebe and Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(holding a hand behind his back) Come on you guys, one more time"},
 				{"Character":"Phoebe","Line":"Ok. One"},
 				{"Character":"Phoebe","Line":"Ok. One"},
@@ -312,7 +312,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel, Phoebe, and Joey are there as Ross, Monica, and Chandler\nenter.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, you guys"},
 				{"Character":"Rachel","Line":"Happy birthday"},
 				{"Character":"Rachel","Line":"Happy birthday"},

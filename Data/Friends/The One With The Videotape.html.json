@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Hallway, Chandler and Monica are returning from their honeymoon.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Wait. Before we go in, I just want you to know I love you. I had a\ngreat time on our honeymoon, and I can’t wait to go in there and spend the rest of\nour life together"},
 				{"Character":"Monica","Line":"You’re really sticking with the shell necklace huh? (Points to\nnecklace of shells he’s wearing."},
 				{"Character":"(Joey and Phoebe burst forth from his apartment","Line":"Joey and Phoebe burst forth from his apartment."},
@@ -53,7 +53,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, time has lapsed, Phoebe, Joey, Chandler, and Monica are\nsitting at the kitchen table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"I can’t believe he taped the two of them having sex"},
 				{"Character":"Joey","Line":"Yeah! You gotta tell a girl before you tape her. Such a rookie mistake"},
 				{"Character":"Chandler","Line":"Y’know who has a great video camera"},
@@ -106,7 +106,7 @@
 			},
 		"3":{
 			"SceneDescription":" Ross's Apartment, Ross is on his date with Kristen and they’re drinking\nwine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Kristen","Line":"Umm, this is great wine"},
 				{"Character":"Ross","Line":"It’s from France…In Europe…Western Europe. Y’know umm,\na few years ago I actually was backpacking across Western Europe"},
 				{"Character":"Kristen","Line":"Really"},
@@ -127,7 +127,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Monica, Chandler, Joey, and Phoebe are now sitting in\nthe living room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I still don't get why Greg and Jenny would give us a fake number"},
 				{"Character":"Joey","Line":"Y’know, if they knew what they were doing they probably didn’t\ngive you real names either"},
 				{"Character":"Monica","Line":"Okay, maybe people give out fake numbers, but they don’t give out\nfake names"},
@@ -193,7 +193,7 @@
 			},
 		"5":{
 			"SceneDescription":" Joey and Rachel's, Rachel is looking at the tape sitting on the counter as Ross\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Ross","Line":"Hi"},
 				{"Character":"Rachel","Line":"So uh, apparently people are familiar with the Europe story"},

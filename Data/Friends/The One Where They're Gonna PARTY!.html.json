@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Outside Central Perk, Monica and Phoebe are showing everyone the van they\nbought for the catering business. It’s an old Dodge van, that has a cartoon woman\nriding on a dragon painted on the side of it.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Okay"},
 				{"Character":"Monica","Line":"Come on, no peeking! (They are leading the gang out with there hands\nover their eyes."},
 				{"Character":"Chandler","Line":"Our eyes are closed and we’re about to cross the street. Very\ngood"},
@@ -34,7 +34,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel’s office, Rachel and Sophie are sitting at their desks working as\nJoanna walks in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, uh, Joanna I was wondering if I could ask you something.\nThere’s an opening for an assistant buyer in Junior Miss"},
 				{"Character":"Joanna","Line":"(interrupting) Okay, but that would actually be a big step down for me"},
 				{"Character":"Rachel","Line":"Well, actually, I meant for me. The hiring committee is meeting people\nall day and"},
@@ -62,7 +62,7 @@
 			},
 		"3":{
 			"SceneDescription":" <em>Bloomingdale’s</em>, Rachel is meeting with Mr. Posner, Mrs. Lynch,\nand Joanna the hiring committee.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mr. Posner","Line":"You have a very impressive resume, Ms. Green. I especially like what\nI see here about implementing a new filing system"},
 				{"Character":"Rachel","Line":"Thank you"},
 				{"Character":"Rachel","Line":"Thank you"},
@@ -86,7 +86,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Allesandro","Line":"(entering) I want a retraction! Our food is <strong>not</strong>\ninedible swill"},
 				{"Character":"Monica","Line":"I couldn’t eat it! I had five friends who couldn’t eat it, and\none of them eats books"},
 				{"Character":"Allesandro","Line":"Well our service is not grossly incompetent"},
@@ -104,7 +104,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Ross and Chandler are watching TV as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! What are you guys doing here? I thought you’d be out partying\nwith Gandel-worf"},
 				{"Character":"Ross","Line":"It’s Gandolf, and he’s not coming"},
 				{"Character":"Joey","Line":"So you’ve been sittin’ around here all mornin’"},
@@ -158,7 +158,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Joey, Ross, and Chandler are making a pit stop on their party\ntour.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right, so we’ll get a little coffee, and get energized, and\nwe’ll head back out"},
 				{"Character":"Chandler","Line":"Yeah, all right"},
 				{"Character":"Chandler","Line":"Yeah, all right"},
@@ -220,7 +220,7 @@
 			},
 		"7":{
 			"SceneDescription":" Rachel’s office, she is coming in for the day carrying a picture for her\nnew office. Mrs. Lynch is coming out of Joanna’s office, carrying a box.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, hi Mrs. Lynch! Is Joanna in already"},
 				{"Character":"Mrs. Lynch","Line":"Oh my goodness! You haven’t heard"},
 				{"Character":"Rachel","Line":"Heard what"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Monica, Chandler, Ross, and Rachel are sitting around\nthe table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I’m glad you’re here, we have a couple of things to ask you\nabout the wedding ceremony"},
 				{"Character":"Rachel","Line":"(starting to cry) Ohh"},
 				{"Character":"Ross","Line":"What’s the matter? You okay"},
@@ -98,7 +98,7 @@
 			},
 		"2":{
 			"SceneDescription":" Silvercup Studios, Joey is watching Jessica Lockhart perform a scene.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Dina","Line":"I’m going to keep dating him Mother, and there’s nothing you can\ndo about it"},
 				{"Character":"Jessica Lockhart","Line":"Oh yes there is"},
 				{"Character":"Dina","Line":"What are you going to do? Kill him? Like you did with Charles?"},
@@ -149,7 +149,7 @@
 			},
 		"3":{
 			"SceneDescription":" Monica and Chandler's, Monica and Chandler are eating lunch, when they start to\nhear a horrible screeching noise. It sounds like someone is skinning a cat.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"What is that"},
 				{"Character":"Chandler","Line":"I think it’s the dying cat parade"},
 				{"Character":"Monica","Line":"It sounds like it’s coming from across the street"},
@@ -170,7 +170,7 @@
 			},
 		"4":{
 			"SceneDescription":" Phoebe's apartment, Phoebe is putting out some Sunflower seeds as Rachel\nenters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi Pheebs"},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Phoebe","Line":"Hi"},
@@ -232,7 +232,7 @@
 			},
 		"5":{
 			"SceneDescription":" Central Perk, Monica and Chandler are sitting on the couch. Ross is sitting on\nthe armchair.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Well, I feel like a snack"},
 				{"Character":"Monica","Line":"Do you want some shortbread? Eh that’s Scottish like you are"},
 				{"Character":"Chandler","Line":"Oh no thanks. I don’t like anything from my Scottish\nheritage"},
@@ -269,7 +269,7 @@
 			},
 		"6":{
 			"SceneDescription":" Phoebe's apartment, Phoebe and Rachel are waiting for the cute guy to show up\nfor his cell phone. Rachel is putting on perfume by spraying it ahead of her face, and\nmoving into it. Phoebe tries to steal some.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey! Hey"},
 				{"Character":"(There is a knock on the door","Line":"There is a knock on the door."},
 				{"Character":"Phoebe and Rachel","Line":"(simultaneously) Who is it"},
@@ -340,7 +340,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Chandler's, Rachel, Phoebe, Chandler, and Monica have gathered to\nhear Ross perform his interpretation of <i>Celebration</i> by <i>Cool and the Gang</i> on\nthe bag pipe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"…now remember you have to imagine me in a kilt"},
 				{"Character":"Rachel","Line":"(giggles) (To Ross) I can imagine you in a short plaid skirt and knee\nsocks"},
 				{"Character":"Ross","Line":"(To Rachel) Do you wanna start telling secrets"},
@@ -374,7 +374,7 @@
 			},
 		"8":{
 			"SceneDescription":" Monica and Chandler's, Rachel, Phoebe, Chandler, and Monica have gathered to\nhear Ross perform his interpretation of <i>Celebration</i> by <i>Cool and the Gang</i> on\nthe bag pipe. Yes, I typed that earlier. We’re seeing this again, only this time Ross\nas already started playing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"You know the song! Sing along"},
 				{"Character":"Phoebe","Line":"Eeee!!! Eee!! Eee!!"},
 				{"Character":"Phoebe","Line":"Eeee!!! Eee!! Eee!!"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" A Video Store, Monica is running in to return a video.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(to clerk) Hi"},
 				{"Character":"(The clerk enters the video into the computer","Line":"The clerk enters the video into the computer."},
 				{"Character":"Clerk","Line":"Six dollars, please"},
@@ -41,7 +41,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, Chandler, Ross. Joey, and Rachel are eating breakfast.\nChandler is holding a bottle of <i>Hersey’s Syrup</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Yeah, baby"},
 				{"Character":"Ross","Line":"What are you doing"},
 				{"Character":"Ross","Line":"What are you doing"},
@@ -128,7 +128,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Chandler and Ross are there, Phoebe is entering with her date\nRobert.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Um, Chandler, Ross, this is Robert"},
 				{"Character":"Chandler","Line":"Oh, hey"},
 				{"Character":"Chandler","Line":"Oh, hey"},
@@ -196,7 +196,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Chandler is watching Joey read <i>Little Women</i>, Ross is also\nthere.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"These little women. Wow"},
 				{"Character":"Chandler","Line":"Your liking it, huh"},
 				{"Character":"Joey","Line":"Oh yeah! Amy just burned Jo’s manuscript. I don’t see how he\ncould ever forgive her"},
@@ -253,7 +253,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica’s bedroom, she’s in bed with Richard.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"So we can be friends who sleep together"},
 				{"Character":"Richard","Line":"Absolutely, this will just be something we do, like racquetball"},
 				{"Character":"Monica","Line":"Sounds smart and healthy to me. So um, just out of curiosity, um, do you\ncurrently have any other racquetball buddies"},
@@ -279,7 +279,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Rachel is reading <i>The Shining</i>, as Monica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hi"},
 				{"Character":"Rachel","Line":"(screams and grabs a potato masher to defend herself) Sorry. I’m\nsorry"},
 				{"Character":"Monica","Line":"You would not believe my day! I had to work two shifts, and then to top\nit off, I lost one of my fake boobs, (opens her coat revealing a large burn mark over her\nleft breast.) in a grill fire"},
@@ -301,7 +301,7 @@
 			},
 		"7":{
 			"SceneDescription":" Richard’s bedroom, Monica has covered it in rose pedals and candles. We\nhear Richard come in to the apartment, and Monica frantically throws the rest of the\npedals on the bed, and jumps onto the bed and puts a rose in her mouth, and bites a\nthorn.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Ow"},
 				{"Character":"Richard","Line":"(outside the bedroom) Really?! Well, it’s just like everyone\nelse’s apartment. It’s got rooms, walls, and ceilings"},
 				{"Character":"Richard’s Date","Line":"Well, I just wanted to see where you lived. Now, give me\nthe tour"},

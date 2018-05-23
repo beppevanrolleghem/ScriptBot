@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Carol and Susan are showing off Ben to the gang.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(entering from her bedroom carrying a present) Ok, these were\nunbelievably expensive, and I know he's gonna grow out of them in like, 20 minutes, but I\ncouldn't resist. (There a little pair of Nike shoes."},
 				{"Character":"Phoebe","Line":"Oh, look at these! Hey, Ben. Just do it. (Ben starts to cry) Oh my God,\noh, ok, was that too much pressure for him"},
 				{"Character":"Susan","Line":"Oh, is he hungry already"},
@@ -42,7 +42,7 @@
 			},
 		"2":{
 			"SceneDescription":" A Department Store, Joey is selling men's cologne.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(A guy walks by) Bijan for men? (Another guy walks by) Bijan for men?\n(Another guy walks by) Bijan for men? (An attractive woman walks by.) <font size=\"3\">Hey\nAnnabelle.</font"},
 				{"Character":"Annabelle","Line":"Hey, Joey. So did you hear about the new guy"},
 				{"Character":"Joey","Line":"Who"},
@@ -78,7 +78,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Department Store, Joey is trying to sell some cologne.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(to a guy) Bijan for men? (to a guy) Bijan for men? (To a woman) Bijan\nfor... (Sees it's a woman and stops.) (To Annabelle who walks up.) Hey, Annabelle, Uh,\nlisten, I was wondering if maybe after work you and I could go maybe grab a cup of coffee"},
 				{"Character":"Annabelle","Line":"Oh, actually I sorta have plans"},
 				{"Character":"Hombre Man","Line":"(entering) Ready, Annabelle"},
@@ -88,7 +88,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Chandler, Rachel, and Joey are eating, and Phoebe is\npreparing Ben's milk.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Ben, dinner"},
 				{"Character":"Ross","Line":"Thanks Aunt Pheebs. Hey, you didn't microwave that, did you, because it's\nbreast milk, and you're not supposed to do that"},
 				{"Character":"Phoebe","Line":"Duh, I think I know how to heat breast milk. Ok. (Squirts some on her\nwrist and tastes it."},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Ben is playing in his crib while Chandler and Ross are\nleaning against the rim and are completely asleep.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(on the phone) Hi, who's this? (Listens) Hi, Joanne. Is Rachel working?\nIt's Monica. (Listens) Yes, I know I did a horrible thing. (Listens) Joanne, it's not as\nsimple as all that, ok? (Listens) No, I don't care what Steve thinks. (Listens) Hi, Steve"},
 				{"Character":"(There's a knock on the door which is answered by Phoebe","Line":"There's a knock on the door which is answered by Phoebe."},
 				{"Character":"<strong>Carol and Susan","Line":"/strong> Hey! (This wakes Chandler and Ross up"},
@@ -162,7 +162,7 @@
 			},
 		"6":{
 			"SceneDescription":" Outside Central Perk, Rachel is cleaning up and Monica is pleading with her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"I don't know what else to say"},
 				{"Character":"Rachel","Line":"Well that works out good, because I'm not listening"},
 				{"Character":"Monica","Line":"I feel terrible, I really do"},
@@ -191,7 +191,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, Julie and Rachel are sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Julie","Line":"So"},
 				{"Character":"Julie","Line":"So"},
 				{"Character":"Rachel","Line":"So. I just thought the two of us should hang out for a bit. I mean, you\nknow, we've never really talked. I guess you'd know that, being one of the two of us,\nthough, right"},

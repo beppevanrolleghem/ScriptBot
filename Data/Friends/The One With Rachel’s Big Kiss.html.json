@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Joey, Monica, and Rachel are sitting on the couch and Ross is\nsitting on the chair, and they’re all talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey! Out of all of us, who do you think is gonna get married next"},
 				{"Character":"Joey","Line":"Probably Monica and Chandler"},
 				{"Character":"(A woman walks up to Gunther in the background","Line":"A woman walks up to Gunther in the background."},
@@ -82,7 +82,7 @@
 			},
 		"2":{
 			"SceneDescription":" <i>Ralph Lauren</i>, Rachel is showing Chandler the selection of tuxedos.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(motioning to a rack) So now, these are all the tuxedos that we make and\nif there’s anything that you like, we can make you a deal. Anything at all. (Grabs a\nfew) But these are the three that Monica pre-approved"},
 				{"Character":"Chandler","Line":"Well, thanks a lot for hookin’ me up Rach. I want you to know\nthat I want you to attend our wedding as my guest"},
 				{"Character":"Rachel","Line":"I’m Monica’s maid of honor. Okay? Don’t try to blue pin\nme"},
@@ -130,7 +130,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Chandler is on the couch reading as Ross enters carrying a\ngarment bag.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey! Guess what I got for your wedding! (Holding up his garment bag."},
 				{"Character":"Chandler","Line":"A freakish thin date with a hanger for her head"},
 				{"Character":"Ross","Line":"No. Rachel hooked me up with a tux! But not just any tux, Batman’s\ntux"},
@@ -166,7 +166,7 @@
 			},
 		"4":{
 			"SceneDescription":" A restaurant, Melissa, Rachel, and Phoebe are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Melissa","Line":"…anyway, his name is Allan and we’ve been going out for three\nyears. He was my first client when I became a party planner. He was planning a party for\nhis girlfriend at the time. Oh well. (Rachel and Phoebe politely laugh) And he was Theta\nBeta Pi at Syracuse"},
 				{"Character":"Rachel","Line":"Oh. Oh, that’s great"},
 				{"Character":"Rachel","Line":"Oh. Oh, that’s great"},
@@ -198,7 +198,7 @@
 			},
 		"5":{
 			"SceneDescription":" The restaurant, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"How can you not remember us kissing?"},
 				{"Character":"Melissa","Line":"I don’t know. I don’t remember a lot of things that never\nhappened"},
 				{"Character":"Rachel","Line":"Wh… Come on! Remember? We were on the sleeping porch! We\ncouldn’t stop giggling? And our coconuts kept knockin’ together"},
@@ -225,7 +225,7 @@
 			},
 		"6":{
 			"SceneDescription":" Outside the restaurant, Melissa, Phoebe, and Rachel are emerging.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"It happened! I am telling you it happened"},
 				{"Character":"Melissa","Line":"Okay. (To Phoebe) Well, it was great meeting you. And uh Rachel, I-I\ndon’t think I’ll be calling you (hails a cab) because umm, y’know\nyou’ve gotten weird. (The cab pulls up.) Take care you guys"},
 				{"Character":"(She’s about to get in when","Line":"She’s about to get in when…"},

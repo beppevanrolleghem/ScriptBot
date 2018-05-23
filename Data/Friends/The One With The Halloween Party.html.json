@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there as Chandler and Monica enter. Oh, and Joey is\nwearing a FDNY T-shirt to make this the first nod to the tragedy that Friends have made.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey you guys"},
 				{"Character":"Ross","Line":"What"},
 				{"Character":"Ross","Line":"What"},
@@ -37,7 +37,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, The Halloween party has started. Monica is setting out\nsome food as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Monica","Line":"Wait! You’re supposed to wear a costume"},
 				{"Character":"Rachel","Line":"I am! I am a woman who spent a lot of money on a dress and she wants to\nwear it, because soon she won’t be able to fit into it"},
@@ -370,7 +370,7 @@
 			},
 		"3":{
 			"SceneDescription":" The Hallway, Phoebe is exiting Monica and Chandler’s, and finds Ursula\nstanding in the hallway smoking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi liar"},
 				{"Character":"Ursula","Line":"Hey"},
 				{"Character":"Ursula","Line":"Hey"},

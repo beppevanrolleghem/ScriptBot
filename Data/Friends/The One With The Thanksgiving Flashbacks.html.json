@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, everyone has just finished Thanksgiving dinner and are\ngroaning over their fullness.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh Monica that was the best Thanksgiving dinner ever! I think you\nkilled us"},
 				{"Character":"Ross","Line":"I couldn't possibly eat another bite."},
 				{"Character":"Joey","Line":"I need something sweet"},
@@ -30,18 +30,18 @@
 			},
 		"2":{
 			"SceneDescription":" The Bing household, Mr. and Mrs. Bing and Young Chandler are eating\nThanksgiving dinner as a housekeeper serves them.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Bing","Line":"Now Chandler dear, just because your father and I are getting a\ndivorce it doesn't mean we don't love you. It just means he would rather sleep with the\nhouse-boy than me"},
 				{"Character":"The Housekeeper","Line":"More turkey Mr. Chandler? (And he makes eyes at him."}]
 			},
 		"3":{
 			"SceneDescription":" A Union battlefield hospital, Phoebe, in a past life, is tending to a wounded\nUnion soldier. (By the way, for historical perspective, 1862 was the second year of the\nAmerican Civil War.)",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Past Life Phoebe","Line":"More bandages! More bandages! Please, can I get some more\nbandages in here! This man is dying—(She is cut off by an exploding shell just\noutside the tent. When the smoke clears, she's missing an arm and the blood is pumping out\nlike you'd see in a horror movie. And upon seeing her condition, she says…) Oh no"}]
 			},
 		"4":{
 			"SceneDescription":" Monica and Phoebe's, Phoebe is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(muffled) Hello"},
 				{"Character":"Phoebe","Line":"(surprised) Hello"},
 				{"Character":"Phoebe","Line":"(surprised) Hello"},
@@ -101,7 +101,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Geller household, Mr. and Mrs. Geller are getting ready for Thanksgiving\ndinner. The doorbell rings.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Geller","Line":"Monica! I think Rachel's here"},
 				{"Character":"Monica","Line":"I'll get it! (She runs in, and she's her old fat self like The One With\nThe Prom Video. Not only that, she's out of breath after running a short distance. She\ngoes over and opens the door to reveal Rachel with her old nose.) Happy Thanksgiving"},
 				{"Character":"Big Nosed Rachel","Line":"Not for me. Chip and I broke up"},
@@ -210,7 +210,7 @@
 			},
 		"6":{
 			"SceneDescription":" The Geller household kitchen, Mrs. Geller is cooking and Rachel, post nose job,\nis helping her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Mrs. Geller","Line":"So Rachel, your mom tells me you changed your major again"},
 				{"Character":"Rachel","Line":"Oh, yeah, I had too. There was never any parking by the Psychology\nbuilding"},
 				{"Character":"Mr. Geller","Line":"(entering) Hi Rachel"},
@@ -325,7 +325,7 @@
 			},
 		"7":{
 			"SceneDescription":" Monica and Rachel's, Chandler is reacting to the story.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"That's why I lost my toe?! Because I called you fat?"},
 				{"Character":"Monica","Line":"I didn't mean to cut it off. It was an accident"},
 				{"Character":"Chandler","Line":"That's why for an entire year people called me Sir Limps-A-Lot?"},
@@ -349,7 +349,7 @@
 			},
 		"8":{
 			"SceneDescription":" The Western front during World War I, Phoebe, in yet another past life, is once\nagain a nurse tending to yet another dying soldier. But this time she's doing it with a\nFrench accent.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"French Phoebe","Line":"nbsp; Gauze! Gauze! I need to get some gauze in here! Can I please\nget some gauze in here! (A shell explodes outside next to the tent and when the smoke\nclears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.)\nThis is getting ridiculous uh!"}]
 			}
 }

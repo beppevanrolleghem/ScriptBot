@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Phoebe, Chandler, and Ross are there, Rachel\nis serving brownies.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Here you go Pheebs. Who else wants one of my special homemade brownies?"},
 				{"Character":"Chandler","Line":"I will have one. (Ross and him both take one."},
 				{"Character":"(Phoebe takes a bite and spits it out and screams","Line":"Phoebe takes a bite and spits it out and screams."},
@@ -34,7 +34,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, All are there except for Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(looking out the window) Ewww! Ugly Naked Guy is using his new hammock.\nIt’s like a <i>Play-Doo</i> Fat Factory."},
 				{"Character":"Phoebe","Line":"Well, I’m going to the dentist, so listen, okay, just be on the\nlook out for anything that, that, that you can fall into, or, or that can fall on you,\nor... All right, just look out! Okay, And um, I also just wanna, I just wanna tell you all\nthat um...... (starts to cry and runs out"},
 				{"Character":"Ross","Line":"Okay, I have a problem I have to go into work for a few hours, some kids\nmessed up the Homo Sapien display"},
@@ -68,7 +68,7 @@
 			},
 		"3":{
 			"SceneDescription":" The street, Chandler and Joey are walking past a jewelery store.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey! Hold on a minute, hold on a second. Do you think these pearls are\nnice"},
 				{"Character":"Joey","Line":"I’d really prefer a mountain bike"},
 				{"Character":"Chandler","Line":"Janice’s birthday is coming up, I want to get her something\nspeacial. Come in here with me"},
@@ -98,7 +98,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is waiting for Janice to arrive, and is angrily\nfllipping through a magazine.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"(entering) How’s my Bing-a-ling"},
 				{"Character":"Chandler","Line":"Ah, I don’t know, you tell me. Anything you ah, wanna tell me,\nbecause, if you ah, you should, if you, you would, tell me"},
 				{"Character":"Janice","Line":"Why are your eyes so white"},
@@ -136,7 +136,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Chandler is throwing darts, as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Hey! Y'know how we ah, save all those chopsticks for no reason we get when\nwe get Chinese food"},
 				{"Character":"Chandler","Line":"Yeah"},
 				{"Character":"Chandler","Line":"Yeah"},
@@ -167,7 +167,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Chandler and Janice are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Janice, I have something I need to tell you, and I want you to let me\nget through it, because it’s, it’s, it’s not gonna be easy"},
 				{"Character":"Janice","Line":"Okay"},
 				{"Character":"Janice","Line":"Okay"},
@@ -208,7 +208,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Chandler is listening to a Lionel Richie album",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(singing) <em>I’ll hold you close in my arms</em>. (Phoebe\nenters) <em>I can’t resist your charms. And love....</em"},
 				{"Character":"Phoebe","Line":"(joining him) <em>Love....</em"},
 				{"Character":"Chandler and Phoebe","Line":"<em>I’ll be a fool for you. I’m sure, you know I\ndon’t mind</em>"},

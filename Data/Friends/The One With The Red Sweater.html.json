@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" The Hotel Lobby, Rachel and Phoebe are at the front desk checking out.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Listen y’know what sir? For the last time, I don’t care what\nthe computer says, we did not take a bag of Mashuga nuts from the mini-bar and we did not\nwatch Dr. Do-Me-A-Little"},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Joey","Line":"(entering) Hey"},
@@ -58,7 +58,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Phoebe is entering to see Monica sitting in front of a\nmound of wedding gifts.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -151,7 +151,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Rachel is sitting on the couch as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey! Ooh, did you do it yet"},
 				{"Character":"Rachel","Line":"Not yet"},
 				{"Character":"Rachel","Line":"Not yet"},
@@ -179,7 +179,7 @@
 			},
 		"4":{
 			"SceneDescription":" The Banquet Room, Ross and Chandler are in their tuxes and have started to fake\nthe pictures.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(to another couple) Uh, excuse me? Could you take a picture of us"},
 				{"Character":"Woman At The Wedding","Line":"Oh! Of course. (Ross and Chandler pose and she takes the\npicture."},
 				{"Character":"Man At The Wedding","Line":"Uh, would you take one of us"},
@@ -197,7 +197,7 @@
 			},
 		"5":{
 			"SceneDescription":" The Banquet Room, Ross is taking a picture of a plant, Chandler a fork. The\nband stops.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Why don’t you go up on stage. I’ll get a picture of you\ndoing the speech"},
 				{"Character":"Ross","Line":"Okay. Okay!"},
 				{"Character":"Ross","Line":"Okay. Okay!"},
@@ -226,7 +226,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Chandler's, Obsessive Monica has finished opening all the presents.\nShe’s ashamed of this, at least, because as someone enters…",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(throwing up the last present) I don’t know how any of these got\nopened?"},
 				{"Character":"Joey","Line":"(entering) You opened them all"},
 				{"Character":"Monica","Line":"I know! I know! I am a terrible person! I mean, Chandler is never going\nto trust me with anything ever again"},

@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Chandler and Joey's Bathroom, Chandler and Monica are sharing a candlelight\nbubble bath while drinking champagne and they clink their glasses.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"You look cute in bubbles"},
 				{"Character":"Chandler","Line":"Ehh, you're just liquored up"},
 				{"Character":"(They move into kiss but are interrupted by Joey knocking on the door","Line":"They move into kiss but are interrupted by Joey knocking on the door."},
@@ -35,7 +35,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Monica, Rachel, Chandler and Joey are there looking at pictures\nfrom the trip to London.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Oh, Rachel, sweetie, look, here's a really cute picture of Joey and you\nat the reception"},
 				{"Character":"Rachel","Line":"Ohh, he's married! Ross is married. I can't—I still can't believe\nit. (Rachel grabs the picture from Monica"},
 				{"Character":"Monica","Line":"Honey, sweetie, by the edges"},
@@ -100,7 +100,7 @@
 			},
 		"3":{
 			"SceneDescription":" The hallway between the apartments, Rachel is returning from her date with\nDave.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh God, I really had a good time"},
 				{"Character":"Dave","Line":"Yeah, me too. (They reach her door.) So, I guess this is it"},
 				{"Character":"Rachel","Line":"Yeah. Umm, unless you wanna come inside"},
@@ -166,7 +166,7 @@
 			},
 		"4":{
 			"SceneDescription":" Central Perk, Joey, Chandler, Monica, and Rachel are there as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"All","Line":"Pheebs! Hey Pheebs"},
 				{"Character":"Joey","Line":"Uh, okay, Pheebs"},
 				{"Character":"Joey","Line":"Uh, okay, Pheebs"},
@@ -196,7 +196,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, the gang is about ready to leave for Atlantic City.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Okay, let's go"},
 				{"Character":"Chandler","Line":"Atlantic City"},
 				{"Character":"Chandler","Line":"Atlantic City"},

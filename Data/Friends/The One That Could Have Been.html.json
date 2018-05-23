@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, everyone is there as Rachel enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey, you guys! Guess what? Barry and Mindy are getting a divorce"},
 				{"Character":"Monica","Line":"Oh my God"},
 				{"Character":"Monica","Line":"Oh my God"},
@@ -58,7 +58,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Joey, Fat Monica, and her boyfriend are sitting on the couch.\nMonica’s boyfriend is getting up to get something. For future reference, for the rest\nof this episode Monica’s fat, I won’t be calling her Fat Monica throughout.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So Monica, still going out with Dr. Boring huh"},
 				{"Character":"Monica","Line":"He’s not boring! He’s just-he’s just low key"},
 				{"Character":"Monica's Boyfriend","Line":"(returning) Here we go, one Hazelnut Latte. (Hands it to\nMonica and sits down."},
@@ -200,7 +200,7 @@
 			},
 		"3":{
 			"SceneDescription":" A hospital, Phoebe is recovering from her heart attack as Ross, Monica, and\nChandler are there to comfort and support her.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Come on Pheebs, it’s not that bad! Y’know most people would be\nexcited if they didn’t have to work for a couple of weeks"},
 				{"Character":"Phoebe","Line":"Most people don’t like their jobs, I love my job! I have not\nbeen working for three hours and I’m already going crazy. I miss Joan"},
 				{"Character":"Monica","Line":"Honey, having a heart attack is nature’s way of telling you to slow\nit down"},
@@ -250,7 +250,7 @@
 			},
 		"4":{
 			"SceneDescription":" Silvercup Studios, Joey is showing Rachel around the set.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"All right, and over there is Brady’s Pub where I like to unwind after\na long day of surgeoning"},
 				{"Character":"Rachel","Line":"Wow! This is so amazing! What else? What else"},
 				{"Character":"Joey","Line":"Well, that is a large piece of television equipment. (Points at a\nlarge piece of television equipment as an old man walks by.) And uh that is an old\nman! Hey old man"},
@@ -296,7 +296,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Phoebe's, Monica is eating breakfast as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Who sold a story to <i>Archie</i> Comics?"},
 				{"Character":"Monica","Line":"Oh my God! That’s great! Oh wow! (Hugs him.) You’re a\npublished writer! I wish I had a present for you"},
 				{"Character":"Chandler","Line":"Aww"},
@@ -331,7 +331,7 @@
 			},
 		"6":{
 			"SceneDescription":" The hospital, Ross and Monica are in Phoebe’s room. Phoebe is in the\nbathroom and Monica notices smoke coming out from underneath the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe, why is smoke coming out of the bathroom?"},
 				{"Character":"Phoebe","Line":"Oh yeah, the doctor said that could be one of the side effects."},
 				{"Character":"Monica","Line":"Phoebe! Put that cigarette out"},
@@ -365,7 +365,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross and Carol's, Carol is working on something at the table and Ross is\nreading a newspaper on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So honey this uh, this threesome thing umm, I mean how-how are you gonna\nstart to find"},
 				{"Character":"Carol","Line":"Ooh, actually I’ve been making a list of all the women I know who\nmight be into doing this"},
 				{"Character":"Ross","Line":"Oh. (He takes the notepad she was using and looks at it.) Wow! (Flips to\nanother page.) Huh. (Flips another page.) Boy! (Flips another page.) Well, someone’s\nbeen doing their homework. (Flips two more pages."},
@@ -380,7 +380,7 @@
 			},
 		"8":{
 			"SceneDescription":" Joey's apartment, (The one he had when he was Dr. Drake Remoray, because he\nstill is.) Rachel is there and admiring the big ceramic fake dog.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ohh, I mean it’s just so realistic"},
 				{"Character":"Joey","Line":"I know. (Joey is sitting in this tall chair that is made up of balls on\npolls. You’ll have to see it to know what I mean.) Yeah, his name is Pat"},
 				{"Character":"Rachel","Line":"Pat the dog. Oh! Oh! I get it!! (Laughs and finishes her drink."},
@@ -401,7 +401,7 @@
 			},
 		"9":{
 			"SceneDescription":" Ross and Carol's, Ross and Carol are waiting anxiously for their new partner to\narrive.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"We’re really gonna do this, huh"},
 				{"Character":"Carol","Line":"Looks like it"},
 				{"Character":"Carol","Line":"Looks like it"},
@@ -431,7 +431,7 @@
 			},
 		"10":{
 			"SceneDescription":" Joey's apartment, Rachel is now three sheets to the wind and Joey is watching\nher.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Joey, you’re such an amazing actor! (He smiles.) How do you know\nwhere Dr. Drake Remoray leaves off and Joey Tribbiani begins"},
 				{"Character":"Joey","Line":"Well, with Dr. Drake they always tell me what to say. And with Joey, I\npretty much have to make it up on my own"},
 				{"Character":"Rachel","Line":"Wow! Tell me something Joey—(She falls off the couch)—Whoa! I\njust fell right off the couch there"},
@@ -454,7 +454,7 @@
 			},
 		"11":{
 			"SceneDescription":" Monica’s bedroom, she has just lost her flower to Chandler.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Oh my God"},
 				{"Character":"Monica","Line":"I know! I’ll tell you something, we are gonna do that again"},
 				{"Character":"Chandler","Line":"Oh, okay! (He rolls over to do that again."},
@@ -462,7 +462,7 @@
 			},
 		"12":{
 			"SceneDescription":" Phoebe’s hospital room, Joey and Ross enter as Phoebe comes out of the\nbathroom wearing her robe.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -546,14 +546,14 @@
 			},
 		"13":{
 			"SceneDescription":" Rachel and Barry’s bedroom, Rachel is returning from her disastrous\nattempt at an affair to find that Barry was much, much more successful with his.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ohh! My God! Barry!"},
 				{"Character":"Barry","Line":"You-you-you said you were gonna be away all weekend"},
 				{"Character":"Rachel","Line":"Oh that’s right! I’m sorry! I-I am early! Finish! Please!"}]
 			},
 		"14":{
 			"SceneDescription":" Central Perk, Ross is there as Rachel storms in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi Ross"},
 				{"Character":"Ross","Line":"Hey Rachel"},
 				{"Character":"Ross","Line":"Hey Rachel"},
@@ -605,7 +605,7 @@
 			},
 		"15":{
 			"SceneDescription":" Central Perk, Phoebe is singing a new song as the gang looks on.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing"},
 				{"Character":"It only takes two heart attacks to finally make you see…<br>\n    One of them won’t do it, but the second one will set you free…<br>\n    Tell all your hate and anger, it’s time to say good-bye…<br>\n    And that is just what I will do, soon as those bastards I work for die!<br>\n    La, la-la-la, la-la-la-la, la-la-la, la-la-la","Line":"t only takes two heart attacks to finally make you see…<br>\n    One of them won’t do it, but the second one will set you free…<br>\n    Tell all your hate and anger, it’s time to say good-bye…<br>\n    And that is just what I will do, soon as those bastards I work for die!<br>\n    La, la-la-la, la-la-la-la, la-la-la, la-la-la…"}]
 			}

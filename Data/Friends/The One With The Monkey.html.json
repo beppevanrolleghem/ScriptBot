@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Ross is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Guys? There's a somebody I'd like you to meet."},
 				{"Character":"(A monkey jumps on to his shoulder","Line":"A monkey jumps on to his shoulder."},
 				{"Character":"All","Line":"Oooh"},
@@ -29,7 +29,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, everyone except Joey is decorating for Christmas.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Come here, Marcel. Sit here. (Marcel wanders off"},
 				{"Character":"Rachel","Line":"Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my\nsixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just\nshare too much"},
 				{"Character":"Ross","Line":"Just a smidge"},
@@ -82,7 +82,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, everyone is there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So tell me something. What does the phrase 'no date pact' mean to you"},
 				{"Character":"Monica","Line":"I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has\nsomebody- I thought I'd ask Fun Bobby"},
 				{"Character":"Chandler","Line":"Fun Bobby? Your ex-boyfriend Fun Bobby"},
@@ -167,7 +167,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, the party has started.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"I love this artichoke thing! Oh, don't tell me what's in it, the diet\nstarts tomorrow! (Laughs her Janice laugh"},
 				{"Character":"Chandler","Line":"You remember Janice"},
 				{"Character":"Monica","Line":"Vividly"},

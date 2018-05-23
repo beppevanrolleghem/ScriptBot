@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, the whole gang is there, Ross is showing pictures of his new baby\nboy, Ben, to the group.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"And here's little Ben nodding off.."},
 				{"Character":"Monica","Line":"Awww, look at Aunt Monica's little boy"},
 				{"Character":"Phoebe","Line":"Oh, look, he's got Ross's haircut"},
@@ -50,7 +50,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Rachel's, continued from earlier.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"I mean, this is unbelievable"},
 				{"Character":"Phoebe","Line":"I know. This is really, really huge"},
 				{"Character":"Chandler","Line":"No it's not. It's small. It's tiny. It's petite. It's wee"},
@@ -89,7 +89,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey's Bedroom, he and Melanie are in bed together.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Melanie","Line":"Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a\nminute"},
 				{"Character":"Joey","Line":"Heh, heh. It was nothin'"},
 				{"Character":"Melanie","Line":"Well, now we've gotta find something fun for you! (she starts kissing\nhis chest"},
@@ -111,7 +111,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is eating breakfast, Joey quietly opens his\nbedroom door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey, big.."},
 				{"Character":"Joey","Line":"Shhhh"},
 				{"Character":"Joey","Line":"Shhhh"},
@@ -133,7 +133,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Chandler is seated, and the apartment is filled with\nbaskets of fruit. Joey enters, check in hand.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Seven hundred bucks"},
 				{"Character":"Chandler","Line":"Alright, you did it! Do we have any fruit"},
 				{"Character":"Joey","Line":"Man, hell of a two weeks, huh? Y'know what, though? I really feel like I\nlearned something"},
@@ -142,7 +142,7 @@
 			},
 		"6":{
 			"SceneDescription":" Airport. Madonna's <i>Take A Bow</i> plays in the background as Rachel waits at\nthe gate with flowers.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(sifting through crowd) Excuse me, pardon me, excuse me, excuse me,\nsorry. Hi"},
 				{"Character":"[Cut to the jetway, the old man who the flight attendant delivered Rachel's message to\ngets off the plane, his wife still upset with him","Line":"Cut to the jetway, the old man who the flight attendant delivered Rachel's message to\ngets off the plane, his wife still upset with him."},
 				{"Character":"Man","Line":"For God's sake, will you let it go? There's no Rachel"},

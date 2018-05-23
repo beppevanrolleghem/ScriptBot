@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's, Rachel is on the phone.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Mom, would you relax. That was 10 blocks from here and, the, the woman\nwas walking alone at night, I would never do that. Mom, c'mon, stop worrying. This is a\nsafe street, this is a safe building, there's nothing (a pigeon flies in the window and\nlands on the table) <strong>Oh my Goood</strong>, oh my God, oh I gotta go, I gotta go, I\ngotta go. (hangs up) OK, that's fine, you just read the paper, I'm gonna get a pot, it's\nnot for you. (grabs a pot and lid) OK, that's fine, read the<em> Family Circus</em>, enjoy\nthe gentle comedy. (puts pot over the pigeon) Aaahh, oh my God, oh my God, oh my God, oh\nmy God, oh my God, oh my God, oh my God, oh my God, aaaaahh. (knock at the door) It's open\nyou guys"},
 				{"Character":"(a stranger enters with flower","Line":"a stranger enters with flowers"},
 				{"Character":"Stranger","Line":"Hi"},
@@ -20,7 +20,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Chandler, Ross, and Julie are sitting on the couch.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"So, uh, does it do anything, you know, special"},
 				{"Character":"Chandler","Line":"Why yes Ross, pressing my third nipple opens the delivery entrance to\nthe magical land of Narnia"},
 				{"Character":"Julie","Line":"You know, in some cultures having a third nipple is actually a sign of\nvirility. You get the best huts and women dance naked around you"},
@@ -52,7 +52,7 @@
 			},
 		"3":{
 			"SceneDescription":" Madison Square Garden, Duncan's dressing room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hi"},
 				{"Character":"Duncan","Line":"Phoebe"},
 				{"Character":"Duncan","Line":"Phoebe"},
@@ -93,7 +93,7 @@
 			},
 		"4":{
 			"SceneDescription":" Ross's apartment, after dinner. Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"What's this in my pocket? Why it's Joey's porno movie"},
 				{"Character":"Ross","Line":"Pop it in"},
 				{"Character":"Ross","Line":"Pop it in"},
@@ -119,7 +119,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ross's apartment, everyone is sitting around. Monica enters from bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"You know, it still smells like monkey in there"},
 				{"Character":"Julie","Line":"That saves us a conversation"},
 				{"Character":"Chandler","Line":"Well, listen, this has been great but I'm officially wiped"},
@@ -150,7 +150,7 @@
 			},
 		"6":{
 			"SceneDescription":" Ross's apartment, Julie is telling her life story.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Julie","Line":"And my second grade teacher was Ms. Thomas, and my first grade teacher\nwas Mrs. Cobb"},
 				{"Character":"<strong>Rachel","Line":"/strong> Mrs., Mrs. Gobb"},
 				{"Character":"Julie","Line":"No Cobb, as in cobb salad"},

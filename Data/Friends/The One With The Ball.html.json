@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Gary, Phoebe, Monica, and Chandler are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gary","Line":"(To Phoebe) Would you like some more coffee, baby-doll"},
 				{"Character":"Phoebe","Line":"I'm fine, thanks"},
 				{"Character":"Phoebe","Line":"I'm fine, thanks"},
@@ -69,7 +69,7 @@
 			},
 		"2":{
 			"SceneDescription":" the 5<sup>th</sup> Precinct, Gary's precinct, Chandler has come to talk to him\nabout commitment. And as he's walking through the door he notices a couple of "Ladies\nof the night" sitting there. (If you know what I mean.)",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hey ladies! What are you in here for? (Laughs at his joke."},
 				{"Character":"Gary","Line":"Hey Chandler, what are you doing here"},
 				{"Character":"Chandler","Line":"Gary, I'm here to report a crime"},
@@ -113,7 +113,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe is drinking coffee as Chandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Hi"},
 				{"Character":"Phoebe","Line":"Hmm, did you talk to Gary about the moving in thing"},
 				{"Character":"Chandler","Line":"Yes I did, and I think you should do it"},
@@ -176,7 +176,7 @@
 			},
 		"4":{
 			"SceneDescription":" Gary's precinct, Phoebe is entering.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Gary","Line":"Hey, honey! Okay, so did you find any apartments? Anything in Brooklyn\nHeights"},
 				{"Character":"Phoebe","Line":"No, nothing"},
 				{"Character":"Phoebe","Line":"No, nothing"},
@@ -240,7 +240,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's, Joey, Ross, Monica, and now Chandler are still playing\ncatch. The guys are exhausted and sitting around the room. Monica is still standing all\npumped up and being hyper-competitive yet again. {Okay! We get it! She's competitive!!\nMust we see <b>all</b> the time?!}",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I'm starving!"},
 				{"Character":"Monica","Line":"Come on guys! Suck it up! We're closing in on ten hours! It's gut-check\ntime"},
 				{"Character":"Joey","Line":"I don't know who made you the boss? All right? We (Ross and him) invented\nthis game"},
@@ -280,7 +280,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica and Rachel's, Hyper-competitive Monica, Rachel, Chandler, Joey, and Ross\nare still playing catch. Monica is finally tiring while the rest of them are totally\nexhausted and virtually asleep.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"All right! Come on Monica! Look alive! Come on, look alive"},
 				{"Character":"Phoebe","Line":"(entering) Oh good, you're all up"},
 				{"Character":"Rachel","Line":"Phoebe! It's 6 o'clock in the morning! Why aren't you at Gary's"},

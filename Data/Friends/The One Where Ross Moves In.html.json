@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, Chandler and Joey are there. Joey is looking at a <i>National\nGeographic</i> and giggling.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Are you looking at naked tribe's women"},
 				{"Character":"Joey","Line":"No, look. (Shows him the magazine."},
 				{"Character":"Chandler","Line":"That's a pig"},
@@ -51,7 +51,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Gunther is serving Monica and Rachel.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Thanks"},
 				{"Character":"Rachel","Line":"Thank you. (To Monica) Mon"},
 				{"Character":"Monica","Line":"Hmm"},
@@ -107,7 +107,7 @@
 			},
 		"3":{
 			"SceneDescription":" A restaurant, Phoebe and Larry are having dinner.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Larry","Line":"You look beautiful this evening"},
 				{"Character":"Phoebe","Line":"(smiles) Show me the badge again"},
 				{"Character":"(He looks around and flashes her his badge and she laughs","Line":"He looks around and flashes her his badge and she laughs."},
@@ -135,7 +135,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Rachel is opening the door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Oh, hi Danny"},
 				{"Character":"Danny","Line":"Hey guys, I just uh, wanted to invite you to the party tomorrow night"},
 				{"Character":"Monica","Line":"Oh, thanks! We'll try to stop by"},
@@ -171,7 +171,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Monica, Rachel, and Phoebe are there.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(entering) Hey"},
 				{"Character":"Monica","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey"},
@@ -207,7 +207,7 @@
 			},
 		"6":{
 			"SceneDescription":" The apartment in the listing, the guys are checking it out. There's one problem\nthough, it's roughly the size of this computer screen. As they enter Joey lets out a\nwhistle.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Oh my God! (Looking around, which doesn't take him long."},
 				{"Character":"Chandler","Line":"Yeah, well look at this kitchen, slash bathroom. Well that's great!\nY'know so you can cook while in the tub"},
 				{"Character":"Joey","Line":"Somebody was using his head. Hey, let's check out the rest of the place"},
@@ -242,7 +242,7 @@
 			},
 		"7":{
 			"SceneDescription":" Chandler and Joey's, Chandler and Joey are lamenting about how they kicked Ross\nout.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"Maybe, maybe we did a good thing, helping Ross get back on his feet"},
 				{"Character":"Chandler","Line":"Yes that was a nice place"},
 				{"Character":"Joey","Line":"Yeah"},
@@ -281,7 +281,7 @@
 			},
 		"8":{
 			"SceneDescription":" Chandler and Joey's, Ross still has boxes all over the place. Joey is wearing a\nfootball helmet, and Chandler is spinning him around in one of the chairs and counting.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"98. 99. 100. Okay, go"},
 				{"Character":"Joey","Line":"(getting up) Dude, I'm telling ya! I'm fine! (He tries to take a step and\nfalls flat on his face."},
 				{"Character":"(He tries to get up again and starts falling backwards and Chandler catches him","Line":"He tries to get up again and starts falling backwards and Chandler catches him."},

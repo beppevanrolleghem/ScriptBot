@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Rachel and Monica's, Phoebe, Ross, and Rachel are eating breakfast.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"I have to say <em>Tupolo Honey</em> by Van Morrison"},
 				{"Character":"Rachel","Line":"Nooo Way! The most romantic song ever is <em>The Way We Were</em>"},
 				{"Character":"Phoebe","Line":"See, I-I think that one that Elton John wrote for, um, that guy on <em>Who's\nThe Boss</em>"},
@@ -31,7 +31,7 @@
 			},
 		"2":{
 			"SceneDescription":" Rachel and Monica's, Monica is entering from the bathroom.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"God, look what I found in the drain"},
 				{"Character":"Rachel","Line":"What?"},
 				{"Character":"Rachel","Line":"What?"},
@@ -65,7 +65,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe and Rachel are there",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Yeah, oh, Princess Leia and the gold bikini, every guy our age loved\nthat"},
 				{"Character":"Rachel","Line":"Really"},
 				{"Character":"Rachel","Line":"Really"},
@@ -123,7 +123,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Rachel's, Rachel and Ross are entering",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"How could you have told her?"},
 				{"Character":"Rachel","Line":"Ross, I didn't think it would that big of a deal"},
 				{"Character":"Ross","Line":"Oh, she didn't think it would be that big of deal"},
@@ -157,7 +157,7 @@
 			},
 		"5":{
 			"SceneDescription":" Chandler and Joey's",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"So, I hear, you hate me"},
 				{"Character":"Joey","Line":"I, ah, I never said hate, I was very careful about that"},
 				{"Character":"Janice","Line":"A little birdie told me something about you wanting to rip your arm off\nand throw it at me"},
@@ -180,7 +180,7 @@
 			},
 		"6":{
 			"SceneDescription":" Chandler and Joey's, Joey and Janice are returning from their DAY OF FUN!",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Janice","Line":"We're baack"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -221,7 +221,7 @@
 			},
 		"7":{
 			"SceneDescription":" Ross's bedroom, Ross is humming the Star Wars theme. Rachel enters, with her\nhair done up like Princess Leia's, and wearing a belly dancer's outfit, to simulate the\ngold bikini thing.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Okay, here we go. I'm Jabba's prisoner, and you have a really weird look\non your face. What? Honey, what is it? Did I get it wrong? Did I get the hair wrong? What?\nDid you just picture it differently? What? What"},
 				{"Character":"Ross","Line":"No, no it's, um, it's not you, um, it's um, it's (turns and sees his Mom\nstanding where Rachel is"},
 				{"Character":"<strong>Mrs. Geller","Line":"/strong> Well what is it? Come on sweetie, your like, freaking me\nout here"},

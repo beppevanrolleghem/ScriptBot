@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Central Perk, it’s the same scene from the end of last week’s show.\nPhoebe and Rachel are sitting on the couch as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Ross","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey, so did everything go okay with the annulment"},
@@ -78,7 +78,7 @@
 			},
 		"2":{
 			"SceneDescription":" Central Perk, Phoebe is on the couch as Monica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey Pheebs!"},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Phoebe","Line":"Hey"},
@@ -140,7 +140,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, Phoebe is hosting an impromptu roundtable discussion with\nStephanie, Karin, and Meg about Ross’s three divorces.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"…once you know the stories, it’s not that bad. First marriage,\nwife’s hidden sexuality, not my fault. Second marriage, said the wrong name at the\naltar, a little my fault. Third marriage, well they really shouldn’t allow you to get\nmarried when you’re that drunk and have writing all over your face, Nevada’s\nfault"},
 				{"Character":"Phoebe","Line":"Okay, so what do you think ladies? Who wouldn’t be interested? Who\nwouldn’t want to date him"},
 				{"Character":"Stephanie","Line":"Well the divorces don’t bother me, I’d date him. But, not\nwhile he’s still married"},
@@ -171,7 +171,7 @@
 			},
 		"4":{
 			"SceneDescription":" Chandler and Joey's, Chandler is packing some books and Joey is watching him.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"God, it’s gonna so weird like when I come home and you’re not\nhere. Y’know? No more Joey and Chan’s. No more J and C’s. \"You wanna\ngo over to Joey and Chandler’s?\" \"Can’t, its not there."},
 				{"Character":"Chandler","Line":"Look, I’m just gonna be across the hall, we can still do all the\nsame stuff"},
 				{"Character":"Joey","Line":"Yeah but we won’t be able to like get up in the middle of the night\nand have those long talks about our feelings and the future"},
@@ -199,7 +199,7 @@
 			},
 		"5":{
 			"SceneDescription":" Monica and Rachel's, Rachel is painting her toe nails as Monica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Monica","Line":"Hey. So um, I was thinking that maybe we should start dividing up our\nstuff"},
 				{"Character":"Rachel","Line":"Okay"},
@@ -265,7 +265,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Joey and Phoebe are talking.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"So, Ross and Rachel got married, Monica and Chandler almost got married,\ndo you think you and I should hook up"},
 				{"Character":"Phoebe","Line":"Oh we do, but not just yet"},
 				{"Character":"Joey","Line":"Really?! Well, when"},

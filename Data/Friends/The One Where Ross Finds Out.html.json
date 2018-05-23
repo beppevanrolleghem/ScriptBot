@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Rachel's apartment. Everyone is sitting at the couches,\nChandler enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Okay, what is it about me? Do I not look fun enough? Is there something. . .\nrepellent. . . about me"},
 				{"Character":"Rachel","Line":"So, how was the party"},
 				{"Character":"Chandler","Line":"Well it couldn't have been worse. A woman literally passed through me.\nOkay, so what is it, am I hideously unattractive"},
@@ -24,7 +24,7 @@
 			},
 		"2":{
 			"SceneDescription":" Chandler and Joey's, Chandler is doing sit-ups.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"C'mon give me five more. Five more"},
 				{"Character":"Chandler","Line":"(weakly) No"},
 				{"Character":"Chandler","Line":"(weakly) No"},
@@ -33,7 +33,7 @@
 			},
 		"3":{
 			"SceneDescription":" A Restaurant, Rachel is on her date with Michael.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Michael","Line":"I don't know if Monica told you but this is the first date I've gone on since\nmy divorce so, if I seem a little nervous, I am"},
 				{"Character":"Rachel","Line":"(distracted) How long do cats live"},
 				{"Character":"Michael","Line":"(confused) I'm sorry"},
@@ -59,7 +59,7 @@
 			},
 		"4":{
 			"SceneDescription":" A Restaurant, Rachel pours the last of the champagne bottle in her glass.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"(obviously drunk) I mean, it's a cat, y'know, it's a cat. Why can't they\nget one of those bugs, y'know, one of those fruit flies, those things that live for like a\nday or something? (belligerently) What're they called, what're they called, what're they\ncalled"},
 				{"Character":"Michael","Line":"Fruit flies"},
 				{"Character":"Michael","Line":"Fruit flies"},
@@ -105,7 +105,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel and Monica's, Rachel is taking aspirin.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"(entering) Hey Rach"},
 				{"Character":"Rachel","Line":"Ahhhh"},
 				{"Character":"Rachel","Line":"Ahhhh"},
@@ -170,7 +170,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Rachel is closing up and Ross comes in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Hi"},
 				{"Character":"Ross","Line":"I didn't get a cat"},
 				{"Character":"Rachel","Line":"Oh, that's um, interesting"},

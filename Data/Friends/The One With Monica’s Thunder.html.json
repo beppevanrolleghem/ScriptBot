@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Chandler, Joey, Rachel, and Phoebe are standing\naround the table drinking champagne as Ross enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Hey, what’s going on"},
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Chandler","Line":"Hey"},
@@ -41,7 +41,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler’s bedroom, they’re getting ready.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(looking at her hand) Y’know what shoes would look great with this\nring? Diamond shoes! (Sees Chandler sitting on the bed.) You’re not getting dressed.\n(Chandler quietly folds over the comforter on the bed making a spot for her."},
 				{"Character":"Chandler","Line":"Know what I mean"},
 				{"Character":"Chandler","Line":"Know what I mean"},
@@ -51,7 +51,7 @@
 			},
 		"3":{
 			"SceneDescription":" Joey and Rachel's, Chandler is looking at the foosball table.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Sure, you guys don’t have this problem, you’re made of wood.\n(Rachel comes out of the bathroom) Hey"},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -153,7 +153,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Monica is in the living room and Phoebe is in\nher room.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Phoebe! Come on! Let’s go! (Knocks on her door.) Come on! (Phoebe\nenters with guitar and not ready to go.) Why aren’t you dressed yet?"},
 				{"Character":"Phoebe","Line":"I’m sorry, but I just wrote the best dance song for your wedding.\nCheck this out. (Gets ready to play."},
 				{"Character":"Monica","Line":"(grabs the guitar away from her) No, Phoebe, I’ll tell you what, if\nyou get ready now I’ll let you play it at the wedding"},
@@ -166,7 +166,7 @@
 			},
 		"5":{
 			"SceneDescription":" Rachel’s bedroom, she’s pacing as Ross knocks on her door and opens\nit a little to stick his hands in.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ross","Line":"Guess who? (Enters fully."},
 				{"Character":"Rachel","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -193,7 +193,7 @@
 			},
 		"6":{
 			"SceneDescription":" Monica, Chandler, and Phoebe's, Phoebe is singing outside Monica and\nChandler’s door.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"(singing)<i></i"},
 				{"Character":""We thought Phoebe would leave, but she just stayed and stayed.<br>\n    That’s right, I’m here all night, and Chandler will never get l","Line":"We thought Phoebe would leave, but she just stayed and stayed.<br>\n    That’s right, I’m here all night, and Chandler will never get l…"},
 				{"Character":"Chandler","Line":"(interrupting her just in time) Hey! Here’s a dollar, consider it\na deposit. Please sing at our wedding"},

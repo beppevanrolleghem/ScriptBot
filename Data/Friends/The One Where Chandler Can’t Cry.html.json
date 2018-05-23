@@ -3,7 +3,7 @@
 	"Scenes":{
 		"1":{
 			"SceneDescription":" Monica and Chandler's, Rachel is still looking out the window as Joey enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(sees Rachel) Oh, uh, hey Rach. I uh, I was just coming over here to\nuh… Oh wait, I don’t have to lie to you, you don’t live here anymore. Uh,\nI’m eating their food. What are you doing"},
 				{"Character":"Rachel","Line":"Ross is on a date with my sister and they shut the drapes two and\na-half-hours ago"},
 				{"Character":"Joey","Line":"Whoa, I didn’t know we could date your sister"},
@@ -34,7 +34,7 @@
 			},
 		"2":{
 			"SceneDescription":" Monica and Chandler's, Chandler, Monica, Phoebe, and Joey are watching <i>ET</i>.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"(crying) This is my favorite part"},
 				{"Character":"Phoebe","Line":"(crying) Yeah me too"},
 				{"Character":"Phoebe","Line":"(crying) Yeah me too"},
@@ -77,7 +77,7 @@
 			},
 		"3":{
 			"SceneDescription":" Central Perk, time lapse, Rachel is at the counter as Jill enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jill","Line":"Hey"},
 				{"Character":"Jill","Line":"Hey"},
 				{"Character":"Rachel","Line":"Hey"},
@@ -129,7 +129,7 @@
 			},
 		"4":{
 			"SceneDescription":" Monica and Chandler's, Chandler is reading <i>Chicken Soup for the Soul</i> as\nMonica enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Monica","Line":"Hey sweetie"},
 				{"Character":"Chandler","Line":"Hey! (He quickly tries to hide the book by throwing it under the\ncouch, only the couch has no back and it slides into the kitchen."},
 				{"Character":"Monica","Line":"(picking up the book) <i>Chicken Soup for the Soul</i>?"},
@@ -169,7 +169,7 @@
 			},
 		"5":{
 			"SceneDescription":" Ursula’s apartment, Phoebe is going to confront her twin about her new\nporn career.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Ursula","Line":"Who is it"},
 				{"Character":"Phoebe","Line":"It’s Phoebe! Phoebe"},
 				{"Character":"Phoebe","Line":"It’s Phoebe! Phoebe"},
@@ -203,7 +203,7 @@
 			},
 		"6":{
 			"SceneDescription":" Central Perk, Joey is reading a paper as Phoebe enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Phoebe","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
 				{"Character":"Joey","Line":"Hey"},
@@ -236,7 +236,7 @@
 			},
 		"7":{
 			"SceneDescription":" Central Perk, everyone is there as Jill enters.",
-			"lines":[
+			"lines":[{"Character":"","Line":""},
 				{"Character":"Jill","Line":"All right, I’m leaving! Because I’m not going to spend one more\nday with someone whose out to sabotage my every move. That’s you Rachel"},
 				{"Character":"Rachel","Line":"Yeah, I got that"},
 				{"Character":"Rachel","Line":"Yeah, I got that"},
