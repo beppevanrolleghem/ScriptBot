@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Jellyfish.html":{
+{"Content":{
 	"Cast":["Ross","Rachel and Bonnie","Bonnie","Rachel","(they kiss agai","","Monica","Chandler","Phoebe","(The gang is shocked","Joey","Ursula","Phoebe Sr."],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -280,6 +280,6 @@
 				{"Character":"Chandler","Line":"Okay. All right"},
 				{"Character":"Monica","Line":"Okay, all right, I think you’re great, I think you’re sweet,NEWLINEand you’re smart, and I love you. But you will always be the guy who peed on me"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Jellyfish.html"}

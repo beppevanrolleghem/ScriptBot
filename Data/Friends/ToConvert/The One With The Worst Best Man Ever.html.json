@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Worst Best Man Ever.html":{
+{"Content":{
 	"Cast":["Phoebe","Monica","Ross","Rachel","Joey","Chandler","Gunther","The Stripper","","The Guys","Monica and Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -347,6 +347,6 @@
 				{"Character":"Monica","Line":"Oh my God"},
 				{"Character":"Phoebe","Line":"Got cha again, you guys are so easy"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Worst Best Man Ever.html"}

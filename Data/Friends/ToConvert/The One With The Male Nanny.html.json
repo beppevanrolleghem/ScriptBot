@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Male Nanny.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Rachel","Prospective nanny","Ross","Sandy","Phoebe","David","Mike","Joey","Sandy/Grumpus","Joey/Wigglemunch"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -278,6 +278,6 @@
 				{"Character":"Sandy","Line":"Twenty bucks"},
 				{"Character":"Joey","Line":"It's like the cheapest college ever"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Male Nanny.html"}

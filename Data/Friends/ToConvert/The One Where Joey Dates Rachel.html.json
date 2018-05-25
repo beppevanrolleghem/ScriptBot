@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Joey Dates Rachel.html":{
+{"Content":{
 	"Cast":["Phoebe","Chandler","Monica","Ross","Student","Rachel","Waitress","Joey","Joey's Date"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -264,6 +264,6 @@
 				{"Character":"Joey","Line":"Terrified. (But for a totally different reason."},
 				{"Character":"Joey","Line":"Terrified. (But for a totally different reason."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Joey Dates Rachel.html"}

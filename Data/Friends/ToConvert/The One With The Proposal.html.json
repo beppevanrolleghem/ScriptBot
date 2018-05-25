@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Proposal.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Chandler","Phoebe","Joey","Monica","{Transcriber’s Note","Zoe","Elizabeth","Sarah","First Dorm Guy","Second Dorm Guy","The Girls","Richard","Richard’s Date","Matire'd","Lisa","(They all drink","<strong>Emil Alexander","Mr. Bowmont","","Waitress","Narrator","(They hug again","(They all hug again"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -672,6 +672,6 @@
 				{"Character":"Joey","Line":"Yeah"},
 				{"Character":"(They all hug again","Line":"They all hug again."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Proposal.html"}

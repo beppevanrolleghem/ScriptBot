@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Two Bullies.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -30,6 +30,6 @@
 			"SceneDescription":" The 50's theme cafe. Monica is working the grill, the rest are at a table.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Two Bullies.html"}

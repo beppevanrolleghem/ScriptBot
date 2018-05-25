@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With A Chick. And A Duck.html":{
+{"Content":{
 	"Cast":["Rachel","Monica","Phoebe","Gunther","Joey","Pete","Chandler","","Ross","(He leave"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -452,6 +452,6 @@
 				{"Character":"(In the hallway, Ross all dejected, sits down on the step","Line":"In the hallway, Ross all dejected, sits down on the step."},
 				{"Character":"Chandler","Line":"(coming out of his apartment and seeing Ross) What did you do"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With A Chick. And A Duck.html"}

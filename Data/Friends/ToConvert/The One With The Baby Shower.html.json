@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Baby Shower.html":{
+{"Content":{
 	"Cast":["Rachel","Monica","Phoebe","Mrs. Green","","Woman","Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -361,6 +361,6 @@
 				{"Character":"Phoebe","Line":"You got it"},
 				{"Character":"Monica","Line":"Okay. (When Phoebe turns around Monica runs out into the hall after Mrs.NEWLINEGreen.) Mrs. Green! Okay I’m really sorry!! I’m apologizing for the—(SheNEWLINEtrips and falls down the stairs.) (Pause) Okay, I bit my tongue, but I’m stillNEWLINEreally sorry"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Baby Shower.html"}

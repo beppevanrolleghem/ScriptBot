@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Cheap Wedding Dress.html":{
+{"Content":{
 	"Cast":["Monica","Joey","Chandler","Phoebe","Rachel","(Another woman walks up","The Woman","Megan","A Woman","Woman","Ross","Kristen","Joey and Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -421,6 +421,6 @@
 				{"Character":"Ross","Line":"Yeah, laugh all you want but in ten minutes we’re gonna have youngerNEWLINElooking skin"},
 				{"Character":"Joey","Line":"Yeah! (Monica goes in the bedroom.) Y’know, she could use aNEWLINElittle…(Whistles that she needs to do what they’re doing.) (Something happens onNEWLINEthe game.) Oh nice shot!!! (They all cheer."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Cheap Wedding Dress.html"}

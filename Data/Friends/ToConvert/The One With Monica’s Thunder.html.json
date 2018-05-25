@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Monica’s Thunder.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","Joey","Monica","[Cut back inside","Phoebe","[Cut to Monica","Rachel","[Silence"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -238,6 +238,6 @@
 				{"Character":"Chandler","Line":"Okay. (Goes back to bed."},
 				{"Character":"Phoebe","Line":"Now… (Starts singing again) <i>Who will perform the ceremony!NEWLINEWho will perform the cer</i>—(Chandler enters and grabs her guitar and closes theNEWLINEdoor behind him)—Oh—oh! All right, I’ll pound on him in the morning"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Monicaâ€™s Thunder.html"}

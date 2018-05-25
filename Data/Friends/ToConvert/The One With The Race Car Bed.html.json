@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Race Car Bed.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Monica","Chandler","Gunther","Phoebe","Joey","All","Dr. Green","Student"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -213,6 +213,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Varrrrrroom! Hey! Watch it lady! Varrrrrrrrrrom! (makes a screechingNEWLINEsound as he pretends to stomp on the brakes.) Hey-hey good lookin’! (honks theNEWLINEbed’s little horn on the steering wheel.) Varrrrrrrrroom. (notices Rachel and stops)NEWLINEAll right, I’ll leave. My bed’s so boring"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Race Car Bed.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Football.html":{
+{"Content":{
 	"Cast":["The Guys","Phoebe","Monica","Rachel","Ross","Joey","Chandler","Monica and Ross","Monica and Joey","Woman","Margha","[cut to Ross and Monica","Chandler and Joey","(she goes and sits dow","All",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -396,6 +396,6 @@
 				{"Character":"Joey","Line":"When they’re hungry enough, they’ll come in"},
 				{"Character":"Joey","Line":"When they’re hungry enough, they’ll come in"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Football.html"}

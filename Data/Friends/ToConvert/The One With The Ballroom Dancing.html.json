@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ballroom Dancing.html":{
+{"Content":{
 	"Cast":["Phoebe","Chandler","Monica","Rachel","","Joey","Ross","Rick","(Chandler and Ross ente","(Rachel starts to laugh","All","Mrs. Potter","Mr. Simon","Interviewer"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -331,6 +331,6 @@
 				{"Character":"Phoebe","Line":"Great! Thank you very much"},
 				{"Character":"(The interviewer watches her leave with an ‘Oh my goodness’ face","Line":"The interviewer watches her leave with an ‘Oh my goodness’ face."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ballroom Dancing.html"}

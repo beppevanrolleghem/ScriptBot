@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Boob Job.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Joey","Rachel","Joey &amp; Monica","Mike","Phoebe","","Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -297,6 +297,6 @@
 				{"Character":"Monica","Line":"We're all sorry... (They have a group hug"},
 				{"Character":"Chandler","Line":"Ah, look on the bright side, I mean you won't have to live NEWLINE  with this ugly chair! That was here already huh? I love you. (they hug again"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Boob Job.html"}

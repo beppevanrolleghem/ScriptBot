@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Jam.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","Phoebe","Guy","","Rachel","All","Ross","Monica","Malcom","Janice"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -268,6 +268,6 @@
 				{"Character":"Monica","Line":"Yeah"},
 				{"Character":"Joey","Line":"Oh Monica. (goes over and hugs her, then looks at the form and stopsNEWLINEhugging her.) Wow, this guy's an astronaut. That would've been cool, (sees Monica) forNEWLINElike a day. (hugs her again)"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Jam.html"}

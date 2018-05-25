@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Got High.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","[Monica goes to the stove","Phoebe","All","Rachel","<strong>Rachel","[Joey and Ross enter","Joey","Ross","<strong>The Girls","Mrs. Geller","Mr. Geller","[Rachel leave","[Rachel enter","<strong>Joey","[Joey leave","<strong>Monica","","[Ross makes a sorry face","[Ross and Rachel re-enter","[Ross glares at Monica","[Chandler is mega shocked"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -533,6 +533,6 @@
 				{"Character":"Chandler","Line":"(In a parent-like tone) I’ll talk to them!"},
 				{"Character":"Chandler","Line":"(In a parent-like tone) I’ll talk to them!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Got High.html"}

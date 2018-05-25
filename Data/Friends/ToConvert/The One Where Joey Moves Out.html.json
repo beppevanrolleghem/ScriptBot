@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Joey Moves Out.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" Chandler's apartment. Chandler and Joey are playing foosball for the table.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Joey Moves Out.html"}

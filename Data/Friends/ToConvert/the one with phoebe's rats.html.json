@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the one with phoebe's rats.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Ross","Joey and Chandler","Rachel","Molly","(Emma starts to cr","(Molly leave","Gavin","(Heather walks i","Heather","","Phoebe","Mike","Monica","(Joey comes ove"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -252,6 +252,6 @@
 				{"Character":"Mike","Line":"No, I think you're sweet"},
 				{"Character":"Phoebe","Line":"Good. It's just so hard, it's hard for me to ... let them go. NEWLINE  I guess it just brings back memories, you know, from ... when I gave birth to NEWLINE  my brother's triplets and I had to give them up. (Mike is shocked) I haven't NEWLINE  told you about that yet, have I"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the one with phoebe's rats.html"}

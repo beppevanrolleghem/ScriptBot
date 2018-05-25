@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Breast Milk.html":{
+{"Content":{
 	"Cast":["Monica","Phoebe","Susan","Carol","Chandler","Joey","Ross","<strong>Ross","Annabelle","(The Hombre man enters","<strong>Hombre Man","Hombre Man","<strong>Guy","","Rachel","<strong>Carol and Susan","Julie","<strong>Julie","<strong>Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -256,6 +256,6 @@
 				{"Character":"<strong>Julie","Line":"/strong> Bye. (Gets up."},
 				{"Character":"<strong>Rachel","Line":"/strong> Bye. (After Julie exits.) What a manipulative bitch"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Breast Milk.html"}

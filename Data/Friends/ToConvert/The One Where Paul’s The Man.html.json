@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Paul’s The Man.html":{
+{"Content":{
 	"Cast":["Phoebe","Chandler","Monica","Rachel","Joey","Monica and Rachel","Ross","Paul","The Museum Official","Elizabeth","Female Clerk","Gunther"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -445,6 +445,6 @@
 				{"Character":"Gunther","Line":"Oh that’s cool, I was gonna fire you anyway"},
 				{"Character":"Joey","Line":"Great! (Takes his coffee and leaves."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Paulâ€™s The Man.html"}

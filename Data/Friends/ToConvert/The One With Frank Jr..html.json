@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Frank Jr..html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Monica","Ross","Rachel","Phoebe","All","Frank",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -373,6 +373,6 @@
 				{"Character":"Chandler","Line":"Yeah, you got me. (picks up a 2x4 and puts it through the handles soNEWLINEthat the doors won’t open) I’m out five big ones! (puts the money in the crackNEWLINEbetween the door and frame) Here you go"},
 				{"Character":"Joey","Line":"Thank you. Cha-ching! (Chandler starts to leave) Oh, well hello Mr.NEWLINELincoln. Better luck next time buddy. (Chandler leaves and closes the door) And the drinksNEWLINEare on me"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Frank Jr..html"}

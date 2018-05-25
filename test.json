@@ -1,0 +1,15 @@
+import json
+import tensorflow as ts
+
+with open("OUTPUTFILE.json", 'r') as infile:
+    euhm = infile.read()
+
+euhm = unicode(euhm, errors='ignore')
+
+ep = json.loads(euhm.decode('utf8'))
+x = 0
+for index, item in enumerate(ep["Episodes"]):
+    print(item.keys())
+    # Here we have item is a dict object
+    #if item['Name'] == argOne:  # So we can access their elements using item['key'] syntax
+    #    print(index, "Match found")

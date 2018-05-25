@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the one where monica sings.html":{
+{"Content":{
 	"Cast":["Chandler","Ross","Salon girl","Joey","Sonia","&nbs","Rachel","Gavin","Molly","Woman","Michelle","Her friend","Monica","Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -371,6 +371,6 @@
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"Chandler","Line":"“Jeremiah was a bullfrog. Was a good friend of mine, never understood NEWLINE  a single word he said, but I helped him<br>NEWLINE  drink his wine.” So you just touch yourself for anything"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the one where monica sings.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The one with the lottery.html":{
+{"Content":{
 	"Cast":["Joey","Monica","Rachel","Chandler","Phoebe","Ross","Message","Second message","Second Message","All","TV","(Rachel glares at hi","(phone ring","Steve","Everybody","Monica and Ross","(they all look at Ros"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -269,6 +269,6 @@
 				{"Character":"(they all look at Ros","Line":"they all look at Ross"},
 				{"Character":"Ross","Line":"I guess if everybody else is.."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The one with the lottery.html"}

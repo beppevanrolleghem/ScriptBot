@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Stripper.html":{
+{"Content":{
 	"Cast":["Rachel","Phoebe","Monica","Chandler","Joey","","Mona","Ross","Stripper","Dr. Green","Hooker"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -369,6 +369,6 @@
 				{"Character":"Dr. Green","Line":"(on phone, not hearing her) …there’s gonna be a wedding!NEWLINE(Joey enters from his room and goes to get a beer from the fridge.) That’sNEWLINEunacceptable Rachel! What the hell does love have to do with it anyway?! There are moreNEWLINEimportant things in a marriage other than love! (Joey hears something and looks around forNEWLINEthe source.) …constantly thinking about things! You have to think about theNEWLINEconsequences of your decision. (Joey finds that the sound is coming from the phone andNEWLINEputs it to his ear."},
 				{"Character":"Joey","Line":"(on phone) Hey! I do too think about the consequences of my decisions!NEWLINE(Listens) What gives you the right to… (Listens) Go to hell! (Hangs up the phone andNEWLINEopens the fridge.) Stupid guy on my phone"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Stripper.html"}

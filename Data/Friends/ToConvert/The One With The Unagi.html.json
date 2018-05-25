@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Unagi.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","Joey","Phoebe","Gunther","Monica","Rachel","Phoebe and Rachel","(The oven dings","Joey's Look-A-Like","Carl","The Doctor","","The Instructor"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -278,6 +278,6 @@
 				{"Character":"Rachel","Line":"I… Well, I don’t think they need any help"},
 				{"Character":"(Ross starts to scream and run away. He stops in front of the window of Central Perk toNEWLINEcheck the pursuit and notices Phoebe and Rachel inside looking at him. He mouths,NEWLINEWhat? Then realizes that the women he attacked are closing in so he screamsNEWLINEand runs away","Line":"Ross starts to scream and run away. He stops in front of the window of Central Perk toNEWLINEcheck the pursuit and notices Phoebe and Rachel inside looking at him. He mouths,NEWLINEWhat? Then realizes that the women he attacked are closing in so he screamsNEWLINEand runs away."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Unagi.html"}

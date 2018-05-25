@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Giant Poking Device.html":{
+{"Content":{
 	"Cast":["Rachel","Chandler","Ross","Phoebe","Joey","Monica","","Janice","Gunther","Chandler and Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -264,6 +264,6 @@
 				{"Character":"Phoebe","Line":"<em>I’ve found....</em"},
 				{"Character":"Chandler and Phoebe","Line":"<em>...in you, my endless</em> (Phoebe goes high pitched,NEWLINEChandler goes low pitched) <em>love</em>. (they both look at each other.) <em>My endlessNEWLINElove</em>. (once again they don’t match tones, and they just look at each other"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Giant Poking Device.html"}

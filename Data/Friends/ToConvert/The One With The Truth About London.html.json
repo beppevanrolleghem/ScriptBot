@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Truth About London.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Ben","","Carol","Chandler","Monica","Joey","Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -340,6 +340,6 @@
 				{"Character":"Joey","Line":"Good for you"},
 				{"Character":"Phoebe","Line":"Oh, it’s like a huge weight has been lifted! ‘Cause look, (readsNEWLINEthe side effects) no hair loss, not a rash, no hives, I’m just so happy! Because noNEWLINEshortness of breath, no temporary euphoria—Oh"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Truth About London.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ball.html":{
+{"Content":{
 	"Cast":["Gary","Phoebe","Chandler","Monica","","Ross","Joey","Rachel","Gunther","All","(Paus"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -381,6 +381,6 @@
 				{"Character":"All","Line":"Yeah! As long as we're here"},
 				{"Character":"All","Line":"Yeah! As long as we're here"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ball.html"}

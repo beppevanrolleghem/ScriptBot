@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Invitation.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Phoebe","","Ross","Monica","Rachel","[cut to late","<strong>Rachel","[Cut to Monica's bedroo","[Cut to Living Roo","<strong>Joey","<strong>Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -391,6 +391,6 @@
 				{"Character":"<strong>Chandler","Line":"</strong>If we do that, we gotta get Die Hard"},
 				{"Character":"<strong>Joey","Line":"/strong> Oh-ho! I bet the British version is gooooood"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Invitation.html"}

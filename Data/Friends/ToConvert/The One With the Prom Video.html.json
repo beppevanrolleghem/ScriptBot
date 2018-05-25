@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Prom Video.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -26,6 +26,6 @@
 			"SceneDescription":" Monica and Rachel's apartment. Monica is watching the rest of the tape",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Prom Video.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ick Factor.html":{
+{"Content":{
 	"Cast":["Chandler","Rachel","Phoebe","Joey","Ross","(Ross's beeper goes of","Monica","<strong>All","","Young Ethan","(They kis","(Monica stares at Rache","(Ross and Chandler laugh","(Ethan enter"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -447,6 +447,6 @@
 				{"Character":"Ross","Line":"I'm hurt"},
 				{"Character":"Ross","Line":"I'm hurt"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ick Factor.html"}

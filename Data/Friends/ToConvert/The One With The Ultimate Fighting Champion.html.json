@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ultimate Fighting Champion.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","All","Rachel","Joey","Billy Crystal","Robin Williams","Billy","Robin","[cut back to the gang","Phoebe","Ross","[cut to Billy and Robi","[cut to the gan","","Doug","Hoshi","Pete","Phil","Stevens","TV Announcer"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -303,6 +303,6 @@
 				{"Character":"All","Line":"Ohh!! (they all start pointing at the screen"},
 				{"Character":"All","Line":"Ohh!! (they all start pointing at the screen"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ultimate Fighting Champion.html"}

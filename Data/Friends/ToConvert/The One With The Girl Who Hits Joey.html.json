@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Girl Who Hits Joey.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","Monica","Rachel","Joey","(There's a brief pause","(Pause","Phoebe","Guy","Steve","Katie","Ross and Joey","(Monica enters","(They all laugh"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -291,6 +291,6 @@
 				{"Character":"(They all get up and leave","Line":"They all get up and leave."},
 				{"Character":"(They all get up and leave","Line":"They all get up and leave."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Girl Who Hits Joey.html"}

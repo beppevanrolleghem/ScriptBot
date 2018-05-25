@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Cheesecake.html":{
+{"Content":{
 	"Cast":["Chandler","Rachel","Phoebe","Ross","Joey","Monica","","David","<strong>The Wedding Guest","<strong>The Second Guest","The Woman","<strong>Aunt Millie","Frannie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -280,6 +280,6 @@
 				{"Character":"(Joey finishes climbing the stairs and sees them. Chandler and Rachel both stop andNEWLINElook up at him. Joey sits down on the step","Line":"Joey finishes climbing the stairs and sees them. Chandler and Rachel both stop andNEWLINElook up at him. Joey sits down on the step."},
 				{"Character":"Joey","Line":"(pulls out a fork) All right, what are we havin’? (Starts diggingNEWLINEin."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Cheesecake.html"}

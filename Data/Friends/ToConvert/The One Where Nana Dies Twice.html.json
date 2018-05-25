@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Nana Dies Twice.html":{
+{"Content":{
 	"Cast":["Monica","Ross","Mr. Geller","Nurse","(Ross runs out too","Mrs. Geller","Aunt Lillian","Chandler","Shelley","Phoebe","Rachel","Joey","(They all leave","Andrea","Lowell","<font size=3>Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -297,6 +297,6 @@
 				{"Character":"Lowell","Line":"Yup, and waaay out of your league. (Exits"},
 				{"Character":"<font size=3>Chandler","Line":"Out of my league. I could get a Brian. (Brian enters behind him) If INEWLINEwanted to get a Brian, I could get a Brian. (Sees him) Hey, Brian.</font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Nana Dies Twice.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Engagement Picture.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Phoebe","Rachel","Tag","Melissa","Joey","Ross","Kyle","","(Kyle and Whitney enter","Whitney"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -316,6 +316,6 @@
 				{"Character":"Ross","Line":"Divorced men’s club"},
 				{"Character":"Phoebe","Line":"Potato, Potaato. (She’s pronounces potato with the both the shortNEWLINEand long As."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Engagement Picture.html"}

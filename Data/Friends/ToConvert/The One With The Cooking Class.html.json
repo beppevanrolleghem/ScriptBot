@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Cooking Class.html":{
+{"Content":{
 	"Cast":["Ross","Phoebe","Joey","Monica","Chandler","Rachel","All","Katie","","The Interviewer","(They enter","The Acting Teacher"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -263,6 +263,6 @@
 				{"Character":"(No one can and Monica looks at Joey expectantly","Line":"No one can and Monica looks at Joey expectantly."},
 				{"Character":"Joey","Line":"Yeah, this was a stupid idea. (Exits."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Cooking Class.html"}

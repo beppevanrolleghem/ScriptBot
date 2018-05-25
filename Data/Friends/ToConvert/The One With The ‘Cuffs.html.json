@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The ‘Cuffs.html":{
+{"Content":{
 	"Cast":["<strong>Joey","<strong>Chandler</strong>","<strong>Chandler","<strong>Rachel","<strong>Rachel</strong>","<strong>Joanna</strong>","(Joey creaks loude","<strong>The Salesman","<strong>Ross</strong>","(Joey just nods his head","<strong>Monica","<strong>All","<strong>Joanna","<strong>Sophie","","<strong>Phoebe","<strong>Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -236,6 +236,6 @@
 				{"Character":"<strong>Chandler","Line":"/strong> Could there <strong>be</strong> more Kims"},
 				{"Character":"(They all laugh and Joey joins them, not to be left out. When the laughing dies down,NEWLINEhe has a depressed look on his face","Line":"They all laugh and Joey joins them, not to be left out. When the laughing dies down,NEWLINEhe has a depressed look on his face."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The â€˜Cuffs.html"}

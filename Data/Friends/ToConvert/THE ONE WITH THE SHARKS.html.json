@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//THE ONE WITH THE SHARKS.html":{
+{"Content":{
 	"Cast":["Phoebe","Ross","Mike","","Rachel","Monica","Joey","Hayley","Hayley's roommate","Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -210,6 +210,6 @@
 				{"Character":"Monica","Line":"I'm very, very drunk right now"},
 				{"Character":"Monica","Line":"I'm very, very drunk right now"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//THE ONE WITH THE SHARKS.html"}

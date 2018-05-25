@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version).html":{
+{"Content":{
 	"Cast":["Joey","Monica","Ross","Phoebe","Rachel","Chandler","<font size=3>Phoebe","All","<font size=3>Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -99,6 +99,6 @@
 				{"Character":"<font size=3><font color=#0000FF>Rachel","Line":"Ugh. (To another customer that's leaving.) Excuse me, could you giveNEWLINEthis to that guy over there? (Hands him the coffee pot.) Go ahead. (He does so.) ThankNEWLINEyou. (To the gang.) Sorry.&nbsp; Okay, Las Vegas.</font></font"},
 				{"Character":"<font size=3><font color=#0000FF>Rachel","Line":"Ugh. (To another customer that's leaving.) Excuse me, could you giveNEWLINEthis to that guy over there? (Hands him the coffee pot.) Go ahead. (He does so.) ThankNEWLINEyou. (To the gang.) Sorry.&nbsp; Okay, Las Vegas.</font></font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version).html"}

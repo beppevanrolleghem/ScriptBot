@@ -1,5 +1,6 @@
 # TrekBot
-utilizes machine learning to generate startrek scripts
+utilizes machine learning to generate startrek scripts. HUGE THANKS TO THIS GITHUB REPO https://github.com/martin-gorner/tensorflow-rnn-shakespeare
+honestly, i was struggling around finding a way to even start with this since i've never worked with tensorflow before, and now that i have something to build on, i can actually start developing my own system of it learning these things.
 ##process
 So i started out getting all the next generation scripts, and trying to turn them into objects. At this point i've come to json objects that hold each line. This was a great challenge since some of the scripts just didn't use any newline characters and actually used multiple spaces.
 After i got the lines into files, i started turning them into individual words for some reason, which turned out to be helpful for getting the CAST
@@ -16,3 +17,6 @@ so got sick of trying to analyse startrek scripts cuz it's way too annoying, rn 
 converting friends also seems like absolute hell, but fuck it
 
 why nothing
+
+
+#

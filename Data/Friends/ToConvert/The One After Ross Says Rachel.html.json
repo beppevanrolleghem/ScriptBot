@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One After Ross Says Rachel.html":{
+{"Content":{
 	"Cast":["Minister","Ross","Rachel","Emily","Mrs. Geller","Joey","Chandler","Monica","Phoebe","Mr. Waltham","Mrs. Waltham","(They all hug"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -266,6 +266,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Rachel","Line":"Ahh, yes, I will have a glass of the Merlot and uh, (points toNEWLINERoss’s seat.) he will have a white wine spritzer. Woo! (Looks out the window.) Hey,NEWLINElook at that, the airport’s moving. (Realizes that that’s not how it works.)NEWLINEHey, are we moving?! Are we moving? Why are we moving? Hey, time-out, umm, yeah, does theNEWLINEcaptain know that we’re moving? (Sits back in defeat.) Oh my God. Oh, my gosh"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One After Ross Says Rachel.html"}

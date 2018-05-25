@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Evil Orthodontist.html":{
+{"Content":{
 	"Cast":["Joey","Ross","Monica","Rachel","Chandler","Phoebe","Barry","Bernice","Bobby","(Bobby looks on, deadpan","(Rachel glares at him","(Joey exits",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -222,6 +222,6 @@
 				{"Character":"Joey","Line":"Big day"},
 				{"Character":"Joey","Line":"Big day"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Evil Orthodontist.html"}

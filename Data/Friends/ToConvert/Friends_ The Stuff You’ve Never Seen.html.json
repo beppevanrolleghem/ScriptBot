@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//Friends_ The Stuff You’ve Never Seen.html":{
+{"Content":{
 	"Cast":["Conan","Jennifer","Lisa","Matthew","Ross","Chandler","Phoebe","Joey","[Rese","Courtney","Matt","The Director","Monica","(They both laugh","David","(Jennifer starts laughing","<strong>Richard","Rachel","(They all start laughing","(David smiles","Ben","(Pause","[Reset","(Matt starts laughing","(David is laughing","(Matt mimics Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -643,6 +643,6 @@
 				{"Character":"Matthew","Line":"Let me start that again"},
 				{"Character":"Matthew","Line":"Let me start that again"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//Friends_ The Stuff Youâ€™ve Never Seen.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ring.html":{
+{"Content":{
 	"Cast":["Chandler","Phoebe","Joey","Ross","Paul","Rachel","Gunther","","Male Jeweler","Female Jeweler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -296,6 +296,6 @@
 				{"Character":"Chandler","Line":"I know"},
 				{"Character":"Joey","Line":"(holding an empty tissue box) Where’s all the tissues?! (Throws theNEWLINEbox down in disgust."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ring.html"}

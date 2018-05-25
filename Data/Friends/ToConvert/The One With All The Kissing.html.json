@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Kissing.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Joey","Rachel","Phoebe","All","(Rachel returns","Gunther","Dave","Ross","","The Guys"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -260,6 +260,6 @@
 				{"Character":"Rachel","Line":"High-five, the babies are coming! (They all high-five."},
 				{"Character":"Phoebe","Line":"Wait, wait, remember when my water broke? (They all high-five again."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Kissing.html"}

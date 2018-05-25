@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Stoned Guy.html":{
+{"Content":{
 	"Cast":["<strong>Rachel","<strong>Joey","<strong>Ross","Monica","<strong>Monica","Rachel","Phoebe","(Chandler comes in","Chandler","All","Ross","Joey","Celia","Steve","(The oven goes off",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -270,6 +270,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(on phone) Yes, Fran. I know what time it is, but I'm looking at theNEWLINEWENUS and I'm not happy!... (Listens) Oh, really, really, really? Well, let me tell youNEWLINEsomething... you will care about it, because I care about it! You got it? Good! (slamsNEWLINEphone down, then leans back and realizes what just happened) Whooooaaaa..."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Stoned Guy.html"}

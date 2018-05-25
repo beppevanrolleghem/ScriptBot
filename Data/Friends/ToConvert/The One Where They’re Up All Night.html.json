@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where They’re Up All Night.html":{
+{"Content":{
 	"Cast":["Monica","Ross","All","Phoebe","Chandler","Tag","Rachel","Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -253,6 +253,6 @@
 				{"Character":"(Ross panics and falls off, dropping to the ground with a huge crash","Line":"Ross panics and falls off, dropping to the ground with a huge crash."},
 				{"Character":"Ross","Line":"Oww!! My ankle! I really hurt my ankle! I think I twisted it whenNEWLINEI—Ooh, a quarter"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Theyâ€™re Up All Night.html"}

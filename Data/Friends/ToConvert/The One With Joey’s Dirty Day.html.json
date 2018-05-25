@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s Dirty Day.html":{
+{"Content":{
 	"Cast":["Phoebe","Joey","Monica","Ross","All","Chandler","Rachel","<strong>Woman","Emily","(Paus","","The Cigarette Guy"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -394,6 +394,6 @@
 				{"Character":"Rachel","Line":"No-no-no, that’ not Joshua"},
 				{"Character":"Chandler","Line":"What do you want from me, I’ve never met the guy. So anyway,NEWLINERachel, I’m sorry you can’t stay, (Rachel is upset about leaving the orgy withNEWLINEthe cigarette guy.) but the rest of us have a lot of work to do. (The cigarette guyNEWLINEstarts rubbing Chandler’s back.) What are you doing? (The guy just nods) All right,NEWLINElisten, I’ve got to wake up"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s Dirty Day.html"}

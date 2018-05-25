@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where No-one's Ready.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","Ross","Rachel","","Monica","Phoebe","<strong>Michelle","(phone ring","<strong>Richard","Machine"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -492,6 +492,6 @@
 				{"Character":"Ross","Line":"Awwww!!"},
 				{"Character":"Ross","Line":"Awwww!!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where No-one's Ready.html"}

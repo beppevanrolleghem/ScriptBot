@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross's Wedding - Uncut Version.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Joey","Joey (looks at the box)","Rachel","Phoebe","Ross","","Dressmaker","Emily","The Vendor","(The phone rings","(She answers it","Mrs. Geller","Mr. Geller","Ross and Monica","Mr. Waltham","Mrs. Waltham","Ticket Agent","Drunk Man","<strong>Monica","Passenger","Minister","<strong>Emily","{Transcriber's Note","(Cut to the parents","(Cut to the Walthams","<strong>Gate Agent","(They all hug"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -1135,6 +1135,6 @@
 				{"Character":"Chandler","Line":"Oh, good! (They start kissing."},
 				{"Character":"Chandler","Line":"Oh, good! (They start kissing."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Ross's Wedding - Uncut Version.html"}

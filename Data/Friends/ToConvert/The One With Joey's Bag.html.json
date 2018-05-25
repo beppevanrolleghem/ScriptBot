@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey's Bag.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","(They change places","Rachel","Joey","Ross","Phoebe","The Pastor","The Casting Director","Frank Sr.","(Silence ensues","Yeah"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -298,6 +298,6 @@
 				{"Character":"(She holds his hand for a little while then","Line":"She holds his hand for a little while then…"},
 				{"Character":"Phoebe","Line":"Not yet, no. (Drops his hand and moves back."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joey's Bag.html"}

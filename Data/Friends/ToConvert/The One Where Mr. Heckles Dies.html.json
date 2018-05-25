@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Mr. Heckles Dies.html":{
+{"Content":{
 	"Cast":["Chandler","All","Monica","Ross","Rachel","Joey","Phoebe","(Monica opens the door","Mr. Treeger","Mr. Boyle","Janice"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -201,6 +201,6 @@
 				{"Character":"Ross","Line":"You comin'"},
 				{"Character":"Chandler","Line":"Yeah, just second. (Ross exits and Chandler picks up the broom andNEWLINEleans it up against the wall.) Good-bye Mr. Heckles. (He turns off the lights.) We'll tryNEWLINEto keep it down"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Mr. Heckles Dies.html"}

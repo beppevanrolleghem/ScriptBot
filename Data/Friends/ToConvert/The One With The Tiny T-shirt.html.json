@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Tiny T-shirt.html":{
+{"Content":{
 	"Cast":["Gunther","Rachel","Mark","","The Director","Joey","Kate","Ross","Chandler and Joey","Chandler","Phoebe","Pete","All","Monica","(Joey enters"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -225,6 +225,6 @@
 				{"Character":"Monica","Line":"Something wrong"},
 				{"Character":"Rachel","Line":"(She takes the T-shirt out of the box and holds it to her chest and takeNEWLINEa deep breath.) No. Nothing. (She smiles and goes into her room."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Tiny T-shirt.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Dr. Remore Dies.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" Monica and Rachel's apartment.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Dr. Remore Dies.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Screamer.html":{
+{"Content":{
 	"Cast":["Rachel","Phoebe","Chandler","Joey","All","Monica","Ross","(Ross exit","Tommy","(Awkward laughter follows","Cailin","Man","","Hold Voice","Kate","(They kiss","Gunther","Monica; Ros"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -411,6 +411,6 @@
 				{"Character":"Monica","Line":"(sarcastic) Oh"},
 				{"Character":"Monica","Line":"(sarcastic) Oh"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Screamer.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Rumor.html":{
+{"Content":{
 	"Cast":["Joey","Rachel","Phoebe","Monica","Will","Ross","Ross and Will","Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -316,6 +316,6 @@
 				{"Character":"Joey","Line":"Not now! These are my Thanksgiving pants"},
 				{"Character":"Joey","Line":"Not now! These are my Thanksgiving pants"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Rumor.html"}

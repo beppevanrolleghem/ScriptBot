@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Barry and Mindy's Wedding.html":{
+{"Content":{
 	"Cast":["ROSS"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -31,6 +31,6 @@
 			"SceneDescription":" Chandler and Joey's, Joey is reading a script as Ross enters",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Barry and Mindy's Wedding.html"}

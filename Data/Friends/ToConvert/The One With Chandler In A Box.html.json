@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Chandler In A Box.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","(Paus","(The phone rings again","Voice","Ross","Doctor","Monica","Rachel","(The intercom buzzes","Nurse","Dr. Timothy Burke","Tim","","Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -191,6 +191,6 @@
 				{"Character":"Phoebe","Line":"All right, get a room"},
 				{"Character":"Phoebe","Line":"All right, get a room"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Chandler In A Box.html"}

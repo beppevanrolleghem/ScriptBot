@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The one where ppl forgot how to actually make it so that the scripts have a unified way of displaying a script god damn you.html":{
+{"Content":{
 	"Cast":["Assistant","Chandler","Joey","Monica","<br>Chandler","[Rattling of the doorkno","[Shuts doo","Phoebe","Rachel","<br>[Both sit dow","Waiter","Mike","Ross","[Mike’s mobile phone ring","[Monica looks stunne","[Both laugh. Joey enter","<br>[Monica smells Joe","[Joey smells himsel","[Chandler re-enter","[Chandler looks at Monic","[Monica and Chandler hu","Phoebe, Mike","[Ross sits dow","[Uneasy silenc"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -331,6 +331,6 @@
 				{"Character":"[Uneasy silenc","Line":"Uneasy silence"},
 				{"Character":"Mike","Line":"Stout. That’s a kind of beer"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The one where ppl forgot how to actually make it so that the scripts have a unified way of displaying a script god damn you.html"}

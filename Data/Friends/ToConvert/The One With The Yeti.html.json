@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Yeti.html":{
+{"Content":{
 	"Cast":["Joey","Monica","Chandler","Chandler and Monica","(Pause","","Rachel","Danny","Ross","Phoebe","All","(The phone rings","Emily","(He does so","(Ross lowers his head"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -387,6 +387,6 @@
 				{"Character":"Ross","Line":"Yeah. You can help me get my furniture back from Gunther"},
 				{"Character":"Ross","Line":"Yeah. You can help me get my furniture back from Gunther"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Yeti.html"}

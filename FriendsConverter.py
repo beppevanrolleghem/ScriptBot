@@ -2,6 +2,10 @@ import sys
 import json
 cast=[]
 Scenes = '"Scenes":{\n\t\t"0":{"SceneDescription":"NONE","lines":[]},'
+if len(sys.argv) > 2:
+    title=sys.argv[2]
+else:
+    title="1"
 
 def CheckScene(sceneString):
     Data = '\t\t\t"lines":[{"Character":"","Line":""},'
@@ -49,6 +53,6 @@ for member in cast:
     castStr=castStr+member+'","'
 castStr = castStr[:len(castStr)-2]+']'
 with open(file+".json", "w+") as outfile:
-    outfile.write('{"'+file+'":{\n\t"Cast":['+castStr+',\n\t'+Scenes[:len(Scenes)-1]+'\n}\n}\n}')
+    outfile.write('{"Content":{\n\t"Cast":['+castStr+',\n\t'+Scenes[:len(Scenes)-1]+'\n\t\t}\n\t},\n\t"Title":"'+file+'"}\n')
 
 #print(TestFromSceneOn)

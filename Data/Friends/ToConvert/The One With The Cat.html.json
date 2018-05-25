@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Cat.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","<font size","Phoebe","Ross","Rachel","Phoebe and Rachel","Monica","All","<font size=3>Chandler","Chip",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -241,6 +241,6 @@
 			"SceneDescription":" Chandler and Joey's, Joey and Chandler have trading the entertainment centerNEWLINEfor the canoe. Joey is sitting in the bow, staring off into space as to envision hisNEWLINEfuture full of possibilities. Chandler is sitting at the stern, staring into space and isNEWLINElooking at an uncertain future.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Cat.html"}

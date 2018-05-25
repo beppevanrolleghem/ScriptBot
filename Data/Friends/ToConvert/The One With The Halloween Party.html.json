@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Halloween Party.html":{
+{"Content":{
 	"Cast":["Monica","Ross","Phoebe","Rachel","Joey","Chandler","Kids","<strong>Witch","<strong>Clown","Cowgirl","Girl","Ballerina","Eric","Mona","[Cut to Joey and Monica","[Cut to Phoebe and Eric","Ursula","(They walk away","[Time Lapse"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -601,6 +601,6 @@
 				{"Character":"Rachel","Line":"Really? You think that’s all it is?"},
 				{"Character":"Joey","Line":"Absolutely! Halloween is the worst. Except for Christmas…and theirNEWLINEbirthdays. Kinda get a little crazy during the summer too. And anytime they’re hungryNEWLINEor sleepy. Y’know, kids are tough. Good luck with that. (Walks away."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Halloween Party.html"}

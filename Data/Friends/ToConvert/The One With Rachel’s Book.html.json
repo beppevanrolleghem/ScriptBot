@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel’s Book.html":{
+{"Content":{
 	"Cast":["Joey","Ross","Monica","Chandler","Phoebe","Rachel","(She comes back out","","Mrs. Geller","Mr. Geller"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -280,6 +280,6 @@
 				{"Character":"Joey","Line":"I don’t want to, I’m scared"},
 				{"Character":"Joey","Line":"I don’t want to, I’m scared"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachelâ€™s Book.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Chandler's Work Laugh.html":{
+{"Content":{
 	"Cast":["Rachel","Joey","Monica","Chandler","Both","Doug","Kara","(The duck quacks","Phoebe","Ross","Janice","(They both turn around","","(Pause"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -345,6 +345,6 @@
 				{"Character":"Ross","Line":"All right"},
 				{"Character":"Chandler","Line":"And, I want you to remember that I gave you twenty (counts his money) sevenNEWLINEdollars. No strings attached. Now, if you can't remember that, I think we should write itNEWLINEdown—let's write it down"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Chandler's Work Laugh.html"}

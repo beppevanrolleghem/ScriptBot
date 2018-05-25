@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Videotape.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Phoebe","Joey","{Transcriber’s Note","(Joey and Phoebe laugh","Ross","","Kristen","Rachel","(They both sit down","(Paus","(Ross pushes play","Ross and Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -340,6 +340,6 @@
 				{"Character":"Ross","Line":"No!!"},
 				{"Character":"(They both get out of the chair and run for the VCR","Line":"They both get out of the chair and run for the VCR."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Videotape.html"}

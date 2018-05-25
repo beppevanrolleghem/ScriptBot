@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Butt.html":{
+{"Content":{
 	"Cast":["Rachel","Chandler","Phoebe","(The lights dim","Ross","Joey","All","Monica","<i>Aurora","<i></i>Chandler","Aurora","<i></i>Joey","<i>Chandler","<i></i>All","<i></i>Monica","<font size=3>Monica"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -236,6 +236,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"<font size=3>Monica","Line":"(hums for a while, then gives up, and in her head) <em>If it bothers youNEWLINEthat much, just go out and get the shoes. No. Don't do this. This is stupid! I don't haveNEWLINEto prove anything, I'm gonna go get them...But then everyone will know. Unless I get them,NEWLINEand then wake up really early and put them back! ...I need help! </em>(She buries her headNEWLINEin her pillow.) </font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Butt.html"}

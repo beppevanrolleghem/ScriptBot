@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One The Last Night.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","","Phoebe","Rachel","Monica","Monica and Rachel","Ross","(They hug","(Silence ensues","(They break the embrace"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -273,6 +273,6 @@
 				{"Character":"Chandler","Line":"Sure"},
 				{"Character":"Monica","Line":"What the hell is that dog doing here?! (She notices the dogNEWLINEsitting in the living room."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One The Last Night.html"}

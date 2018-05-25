@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s New Brain.html":{
+{"Content":{
 	"Cast":["Monica","Rachel","Ross","Chandler","Joey","All","Rachel and Monica","Dina","Jessica Lockhart","<strong>The Director","Cecilia","Phoebe","Phoebe and Rachel","Guy","Tom","","Monica and Chandler","<strong>Matthew Perry","<strong>Lisa Kudrow"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -453,6 +453,6 @@
 				{"Character":"(Matthew mimics the sound again","Line":"Matthew mimics the sound again."},
 				{"Character":"(Why was this the trailer? Well, that’s because it was an introduction into theNEWLINEspecial out takes episode that immediately followed the show. The entire out takesNEWLINEepisode, <a href=http","Line":"/www.livesinabox.com/friends/season7/outtakes.htm>Friends: The Stuff You’ve Never Seen</a> can be readNEWLINEby following this link."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s New Brain.html"}

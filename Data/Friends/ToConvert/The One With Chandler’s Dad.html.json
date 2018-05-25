@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Chandler’s Dad.html":{
+{"Content":{
 	"Cast":["Ross","Monica","Rachel","Joey","Phoebe","Chandler","Man","Jake","Policeman","(The policeman walks up",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -367,6 +367,6 @@
 				{"Character":"Ross","Line":"I know. I know"},
 				{"Character":"Ross","Line":"I know. I know"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Chandlerâ€™s Dad.html"}

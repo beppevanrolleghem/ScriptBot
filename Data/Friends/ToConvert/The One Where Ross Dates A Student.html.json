@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Dates A Student.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","Rachel","Joey","Burt","Elizabeth","(Monica enters","Monica","Phoebe","The Guys","","Lydia","Mel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -339,6 +339,6 @@
 				{"Character":"Ross","Line":"Let’s also get a hot plate"},
 				{"Character":"Ross","Line":"Let’s also get a hot plate"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Dates A Student.html"}

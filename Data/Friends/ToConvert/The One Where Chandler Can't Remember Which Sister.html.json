@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Chandler Can't Remember Which Sister.html":{
+{"Content":{
 	"Cast":["Joey","Monica","Ross","Rachel","Phoebe","(Phoebe exit","All","Guy","Mr. Kaplan","Gunther","Chandler","Joey’s Sisters","Cookie","(Cut to Chandle","Sister 1","(Cut to Ross and Monic","Mark"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -477,6 +477,6 @@
 				{"Character":"Ross","Line":"Congratu!! (sees her hug Mark) -lations-lations"},
 				{"Character":"Ross","Line":"Congratu!! (sees her hug Mark) -lations-lations"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Chandler Can't Remember Which Sister.html"}

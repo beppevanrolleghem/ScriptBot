@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Mugging.html":{
+{"Content":{
 	"Cast":[" Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -31,6 +31,6 @@
 			"SceneDescription":" Audition room, Joey and Lennart are rehearsing",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Mugging.html"}

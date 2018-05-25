@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross and Monica’s Cousin.html":{
+{"Content":{
 	"Cast":["Phoebe","Joey","Monica","<strong>Estelle","Chandler","Cassie","The Casting Director","Rachel","Phoebe and Rachel","Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -342,6 +342,6 @@
 				{"Character":"Cassie","Line":"(noticing her) What"},
 				{"Character":"Phoebe","Line":"(in her head) <i>Say something! Say anything! Ask her out! She’sNEWLINEnot your cousin!</i"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Ross and Monicaâ€™s Cousin.html"}

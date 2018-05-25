@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross's Thing.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","Ross","Chandler and Joey","Rachel","Jason","Phoebe","Monica","","Pete","All","[paus","Pete's Mom","Fireman","Vince","Guru Saj"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -305,6 +305,6 @@
 				{"Character":"Guru Saj","Line":"Hmm, let me see. Let me see. Do you think you could get him to eat aNEWLINEbat"},
 				{"Character":"Guru Saj","Line":"Hmm, let me see. Let me see. Do you think you could get him to eat aNEWLINEbat"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Ross's Thing.html"}

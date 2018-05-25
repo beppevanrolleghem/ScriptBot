@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross' New Girlfriend.html":{
+{"Content":{
 	"Cast":["Phoebe","Rachel","Ross","Julie","","Chandler","Joey","Monica","<strong>Paulo","<strong>Phoebe","<strong>Monica","<strong>Ross","<strong>Rachel","<strong>Joey","<strong>Julie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -248,6 +248,6 @@
 				{"Character":"Rachel","Line":"You're welcome"},
 				{"Character":"Rachel","Line":"You're welcome"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Ross' New Girlfriend.html"}

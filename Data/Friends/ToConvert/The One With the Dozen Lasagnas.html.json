@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Dozen Lasagnas.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","","<strong>Rachel","Monica","Ross","(Phoebe enter","Rachel","Phoebe","<strong>Customer","<strong>Chandler","<strong>Monica","<strong>Ross","<font size=3>Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -200,6 +200,6 @@
 				{"Character":"<font size=3>Joey","Line":"Oh yeah!</font"},
 				{"Character":"<font size=3>Joey","Line":"Oh yeah!</font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Dozen Lasagnas.html"}

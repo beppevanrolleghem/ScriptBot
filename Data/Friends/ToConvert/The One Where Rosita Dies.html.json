@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rosita Dies.html":{
+{"Content":{
 	"Cast":["Joey","Rachel","Supervisor","Phoebe","Ross","Mr. Geller","Monica","","Earl","<strong>Guy","The Hey Guy Guy","Chandler","(They confer again"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -369,6 +369,6 @@
 				{"Character":"Monica","Line":"All right"},
 				{"Character":"Ross","Line":"Well, what about me?! I’m a medical marvel!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rosita Dies.html"}

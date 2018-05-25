@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Monica’s Boots.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Rachel","Phoebe","Ross","Ben","The Teacher","Dina","Bobby","Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -313,6 +313,6 @@
 				{"Character":"Ross","Line":"Yeah"},
 				{"Character":"Phoebe","Line":"Then that’s not breaking the law! I’m there"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Monicaâ€™s Boots.html"}

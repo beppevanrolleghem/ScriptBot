@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Red Sweater.html":{
+{"Content":{
 	"Cast":["Rachel","Joey","Phoebe","Chandler","Monica","(Joey giggles","Front Desk Clerk","(Monica opens it anyways","Woman At The Wedding","Man At The Wedding","Ross","Anxious Wedding Guest","(Phoebe and Rachel enter","Monica and Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -373,6 +373,6 @@
 				{"Character":"Joey","Line":"(slow on the uptake) Oh my God"},
 				{"Character":"Joey","Line":"(slow on the uptake) Oh my God"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Red Sweater.html"}

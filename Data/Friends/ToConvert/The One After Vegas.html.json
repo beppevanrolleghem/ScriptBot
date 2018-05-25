@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One After Vegas.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Ross","Rachel","Joey","Phoebe","Attendant","{Transciber’s note","(Ross and Rachel enter","The Girls","<strong>All","Hitchhiker","{Note",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -393,6 +393,6 @@
 				{"Character":"Phoebe","Line":"What?"},
 				{"Character":"Ross","Line":"We’re still married! Don’t tell Rachel. See you later. (He getsNEWLINEup leaving Phoebe in shock."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One After Vegas.html"}

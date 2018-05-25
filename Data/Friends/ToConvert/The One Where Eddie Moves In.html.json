@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Eddie Moves In.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" Central Perk. Phoebe is performing <i>Smelly Cat</i>.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Eddie Moves In.html"}

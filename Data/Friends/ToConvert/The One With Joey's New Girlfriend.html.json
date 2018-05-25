@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey's New Girlfriend.html":{
+{"Content":{
 	"Cast":["Ross","Phoebe","","Chandler","Kathy","Monica","Rachel","Josh","Joey","Gunther"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -259,6 +259,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"Can I sleep on your couch"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joey's New Girlfriend.html"}

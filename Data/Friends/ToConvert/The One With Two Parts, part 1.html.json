@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Two Parts, part 1.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Ursula","Chandler and Joey","","Woman","Teacher","Ross","Carol","Susan","[Scene ","Helen","Nina","Ross and Susan","Monica","Rachel","Rachel and Chandler","Mr.Heckles","Phoebe","Soothing male voice","[Scene 13","(Joey nods his head","Monica and Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -426,6 +426,6 @@
 				{"Character":"Ursula","Line":"Yeah, um, may we help you"},
 				{"Character":"Ursula","Line":"Yeah, um, may we help you"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Two Parts, part 1.html"}

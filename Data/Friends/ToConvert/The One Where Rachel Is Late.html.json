@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rachel Is Late.html":{
+{"Content":{
 	"Cast":["Ross","Joey","Phoebe","Monica","Rachel","Chandler","Estelle","(Dr. Long enters","Dr. Long","(They kiss again",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -398,6 +398,6 @@
 				{"Character":"Rachel","Line":"Okay"},
 				{"Character":"Rachel","Line":"Okay"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rachel Is Late.html"}

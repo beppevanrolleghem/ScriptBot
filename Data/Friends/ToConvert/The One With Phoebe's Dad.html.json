@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Phoebe's Dad.html":{
+{"Content":{
 	"Cast":["","ROSS"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -29,6 +29,6 @@
 			"SceneDescription":" Monica and Rachel's apartment. Ross, Monica, and Rachel are sitting around afterNEWLINEthe party. Chandler, Joey, and Phoebe enter.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Phoebe's Dad.html"}

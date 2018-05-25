@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Resolutions.html":{
+{"Content":{
 	"Cast":["Jay Leno","Joey","Chandler","Monica","Ross","Phoebe","Rachel","All","(Rachel slowly walks away","Woman","Chandler and Joey","Elizabeth",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -298,6 +298,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Chandler","Line":"(entering) Oh good, okay, I can't take it anymore. I can't take itNEWLINEanymore. So you win, okay? Here! (Hands him the 50 bucks he's about to owe him.) Pheebs?NEWLINEFlying a jet? Better make it a spaceship so that you can get back to your homeNEWLINEplanet! And Ross, phone call for you today, Tom Jones, he wants his pants back! AndNEWLINEHornswoggle? What are you dating a character from <i>Fraggile Rock</i>?! (He sits down andNEWLINEsighs in relief."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Resolutions.html"}

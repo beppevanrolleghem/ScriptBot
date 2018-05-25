@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Russ.html":{
+{"Content":{
 	"Cast":["JOEY","[Ross enters, depressed","ROSS","PHOE","MNCA","FBOB","ALL","RACH","CHAN","ESTL","[Joey enters","RUSS","JULIE"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -270,6 +270,6 @@
 				{"Character":"JULIE","Line":"Um, oh, I don't know. I mean, it's definitely weird not being with Ross, but INEWLINEguess I'm doing OK. Actually I've got some of his stuff that he, um..."},
 				{"Character":"[Russ and Julie look at each other with love in their eyes. The music builds..","Line":"Russ and Julie look at each other with love in their eyes. The music builds..."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Russ.html"}

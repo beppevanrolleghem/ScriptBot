@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Phoebe's Husband.html":{
+{"Content":{
 	"Cast":["Rachel","Stranger","Ross","Chandler","Julie","Monica","<strong>All","Joey","Phoebe","","Duncan","<strong>Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -240,6 +240,6 @@
 				{"Character":"Rachel","Line":"Ohh, God"},
 				{"Character":"Rachel","Line":"Ohh, God"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Phoebe's Husband.html"}

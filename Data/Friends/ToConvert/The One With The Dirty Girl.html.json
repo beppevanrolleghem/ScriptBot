@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Dirty Girl.html":{
+{"Content":{
 	"Cast":["Cheryl","Ross","[inside","Phoebe","Chandler","Monica","Rachel","","Joey","Mrs. Burkart","Gunther","Both"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -316,6 +316,6 @@
 				{"Character":"Monica","Line":"No?"},
 				{"Character":"[Monica looks around the hallway, pulls out a sponge and starts scrubbing the doorNEWLINEframe.","Line":"Monica looks around the hallway, pulls out a sponge and starts scrubbing the doorNEWLINEframe.]"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Dirty Girl.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Meets Elizabeth’s Dad.html":{
+{"Content":{
 	"Cast":["Rachel","Chandler","Monica","Joey","Phoebe","The Producer","Wayne","C.H.E.E.S.E.","Estelle","","Ross","Paul","Elizabeth"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -293,6 +293,6 @@
 				{"Character":"Ross","Line":"That’s okay Rach, we’re not liking Ross right now"},
 				{"Character":"Rachel","Line":"Oh! I’ve got a lot of those too"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Meets Elizabethâ€™s Dad.html"}

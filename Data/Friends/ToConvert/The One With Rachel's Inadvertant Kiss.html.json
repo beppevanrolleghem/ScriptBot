@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel's Inadvertant Kiss.html":{
+{"Content":{
 	"Cast":["Rachel","Ross","All","Joey","Phoebe","(They shake hands","Monica","<strong>Gary's Radio","Gary","Chandler","","The Old Man","The Little Girl","(A man walks up","The Man","The Hot Girl","Jen"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -298,6 +298,6 @@
 				{"Character":"Monica","Line":"Okay, I freaked out a little"},
 				{"Character":"Chandler","Line":"Little?! You freaked out big time! Okay? And I fixed it! We haveNEWLINEswitched places! I am the relationship and king and you are the crazy, irrationalNEWLINEscrew up! (Does a dance of joy.) (Monica glares at him.) And now we're back"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachel's Inadvertant Kiss.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Five Steaks and an Eggplant.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","<strong>Machine","<strong>Woman's Voice","Jade","All","Rachel","Phoebe","Joey","(They exit","Monica","(They clink their glasses","Waiter","(Paus","(Monica's pager goes of","Waitress"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -471,6 +471,6 @@
 				{"Character":"Joey","Line":"(grabs the check) Let me get that. (To Chandler) You got five bucks"},
 				{"Character":"Joey","Line":"(grabs the check) Let me get that. (To Chandler) You got five bucks"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Five Steaks and an Eggplant.html"}

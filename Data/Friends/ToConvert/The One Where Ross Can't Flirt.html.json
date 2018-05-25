@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Can't Flirt.html":{
+{"Content":{
 	"Cast":["Ross","Chandler","Delivery Girl","Caitlin","(The duck starts quacking","Phoebe","Joey","Rachel","Grandma Tribbiani","(Phoebe gets up","Monica","All",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -352,6 +352,6 @@
 				{"Character":"Phoebe","Line":"I am definitely gonna watch that"},
 				{"Character":"Phoebe","Line":"I am definitely gonna watch that"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Can't Flirt.html"}

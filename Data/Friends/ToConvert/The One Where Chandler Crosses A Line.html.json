@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Chandler Crosses A Line.html":{
+{"Content":{
 	"Cast":["Chandler","Ross","(Paus","Phoebe","All","","Monica","Rachel","Kathy","Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -271,6 +271,6 @@
 				{"Character":"Ross","Line":"Yeah—no, just that last song"},
 				{"Character":"Ross","Line":"Yeah—no, just that last song"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Chandler Crosses A Line.html"}

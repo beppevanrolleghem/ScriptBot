@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Vows.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Rachel","Phoebe","[Cut to the guys","Ross","Fat Monica","[Cut to the girls","[Cut back to the girls","Joey","(Ross laughs"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -311,6 +311,6 @@
 				{"Character":"Monica","Line":"Chandler!"},
 				{"Character":"Chandler","Line":"Don’t worry honey, we’ll make yours funnier"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Vows.html"}

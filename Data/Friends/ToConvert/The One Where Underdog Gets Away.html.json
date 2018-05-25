@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Underdog Gets Away.html":{
+{"Content":{
 	"Cast":["Rachel","Terry","Ross","Susan","Joey","<strong>Girl","Chandler","Carol","(Susan enters"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -147,6 +147,6 @@
 			"SceneDescription":" The Subway, Joey sees his poster and he peels off the caption on his poster,NEWLINErevealing more posters underneath. The captions read, as follows: </p>NEWLINENEWLINE<blockquote>NEWLINE  <blockquote>NEWLINE    <p>Bladder Control Problem<br>NEWLINE    Stop Wife Beating<br>NEWLINE    Hemorrhoids?<br>NEWLINE    Winner of 3 Tony Awards... </p>NEWLINE  </blockquote>NEWLINE</blockquote>NEWLINENEWLINE<p>He's finally happy with that and walks away.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Underdog Gets Away.html"}

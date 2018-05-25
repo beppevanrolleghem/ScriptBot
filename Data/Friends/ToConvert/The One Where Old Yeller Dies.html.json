@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Old Yeller Dies.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -26,6 +26,6 @@
 			"SceneDescription":" Monica and Rachel's apartment. Phoebe is watching Bert and Ernie with Ben.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Old Yeller Dies.html"}

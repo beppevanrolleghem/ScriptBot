@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Mac and C.H.E.E.S.E..html":{
+{"Content":{
 	"Cast":["Joey","Phoebe","Chandler","Rachel","Monica","Ross","Interviewer","(They separate"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -288,6 +288,6 @@
 				{"Character":"Joey","Line":"Yeah"},
 				{"Character":"(They separate","Line":"They separate."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Mac and C.H.E.E.S.E..html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel’s Big Kiss.html":{
+{"Content":{
 	"Cast":["Rachel","Joey","<strong>Woman","Gunther","Melissa","Ross","Monica","Chandler","(Chandler mimics him","Phoebe",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -305,6 +305,6 @@
 				{"Character":"Phoebe","Line":"I’ve had better"},
 				{"Character":"Phoebe","Line":"I’ve had better"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachelâ€™s Big Kiss.html"}

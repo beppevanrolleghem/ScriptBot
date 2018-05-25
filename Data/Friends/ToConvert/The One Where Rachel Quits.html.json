@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rachel Quits.html":{
+{"Content":{
 	"Cast":["Chandler","Rachel","Gunther","","Monica","Ross","Joey","Phoebe","Woman","(Chandler mouths ‘Okay.","Guy","Sarah"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -275,6 +275,6 @@
 				{"Character":"Chandler","Line":"I’m an alien. I’m an alien"},
 				{"Character":"Ross","Line":"Oh no! An asteroid! (throws the soccer ball off the back of Joey’sNEWLINEhead."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rachel Quits.html"}

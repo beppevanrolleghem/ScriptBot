@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Thanksgiving Flashbacks.html":{
+{"Content":{
 	"Cast":["Rachel","Ross","Joey","Phoebe","All","Monica","Chandler","Mrs. Bing","The Housekeeper","","Past Life Phoebe","Mrs. Geller","Big Nosed Rachel","Fat Monica","Mr. Geller","(In the kitchen","French Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -412,6 +412,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"French Phoebe","Line":"nbsp; Gauze! Gauze! I need to get some gauze in here! Can I pleaseNEWLINEget some gauze in here! (A shell explodes outside next to the tent and when the smokeNEWLINEclears, Phoebe still has her arm.) Whew! (Her arm falls off and starts pumping out blood.)NEWLINEThis is getting ridiculous uh!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Thanksgiving Flashbacks.html"}

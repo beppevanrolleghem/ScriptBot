@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Joey Loses His Insurance.html":{
+{"Content":{
 	"Cast":["Rachel","Monica","Ross","Phoebe","Chandler","Joey","Estelle","","(Phoebe enters","Casting Director #1","Casting Director #3","The Director","A Crew Member","Alex","[Time lapse","A Student"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -314,6 +314,6 @@
 				{"Character":"Ross","Line":"(in the accent again) Well, hello Rachel"},
 				{"Character":"Ross","Line":"(in the accent again) Well, hello Rachel"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Joey Loses His Insurance.html"}

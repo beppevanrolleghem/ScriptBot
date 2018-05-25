@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Fake Monica.html":{
+{"Content":{
 	"Cast":["Joey","Monica","Rachel","Ross","Chandler","Phoebe","(They go in and sit down","Teacher","<font size=3>Teacher","<font size=3>Phoebe","(Music start","Woman","<strong>Woman","Fake Monica","","<strong>Actor","<font size=3>Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -262,6 +262,6 @@
 				{"Character":"<font size=3>Joey","Line":"Holden McGroin.</font"},
 				{"Character":"<font size=3>Joey","Line":"Holden McGroin.</font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Fake Monica.html"}

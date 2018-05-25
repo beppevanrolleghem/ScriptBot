@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Candy Hearts.html":{
+{"Content":{
 	"Cast":["Joey","Ross","Chandler","<strong>Woman","Lorraine","Janice","","Rachel","Monica","Phoebe","Kristin","(Janice enters","Fireman No. 1","Fireman No. 2","Fireman No. 3","Carol","(They kiss"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -213,6 +213,6 @@
 				{"Character":"Fireman No. 2","Line":"No way"},
 				{"Character":"Fireman No. 3","Line":"Are you kidding? My girlfriend doesn't know, I'm not gonna tellNEWLINEthem"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Candy Hearts.html"}

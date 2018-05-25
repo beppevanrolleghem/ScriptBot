@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross' Big Step Forward.html":{
+{"Content":{
 	"Cast":["Rachel","Phoebe","Doug","Chandler","Monica","Nurse","Dr. Schiff","","Ross","<strong>Roger","Mona","<strong>Locksmith","Joey","(Pause"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -315,6 +315,6 @@
 				{"Character":"(They both go into their rooms and after a little while Rachel pokes her head into theNEWLINEliving room","Line":"They both go into their rooms and after a little while Rachel pokes her head into theNEWLINEliving room."},
 				{"Character":"Joey","Line":"Get back in there! (Rachel re-enters her room and closes the door."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Ross' Big Step Forward.html"}

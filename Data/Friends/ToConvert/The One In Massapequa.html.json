@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One In Massapequa.html":{
+{"Content":{
 	"Cast":["Phoebe","Monica","Ross","Joey","Chandler","Rachel","Mrs. Geller","Mr. Geller","Woman","Man","Aunt Lisa","Uncle Dan","Parker","(They sit bac"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -239,6 +239,6 @@
 				{"Character":"Monica","Line":"(starts to cry) Oh good God, Ross! How the hell do you do it?"},
 				{"Character":"Monica","Line":"(starts to cry) Oh good God, Ross! How the hell do you do it?"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One In Massapequa.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rachel Finds Out.html":{
+{"Content":{
 	"Cast":["Ross","Monica","Phoebe","Rachel","Chandler","Joey","(Rachel laughs","Melanie","(Joey starts to kiss her","Man","Julie","<strong>Ross and Julie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -198,6 +198,6 @@
 				{"Character":"Ross","Line":"Come on, they're gonna love you"},
 				{"Character":"Ross","Line":"Come on, they're gonna love you"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rachel Finds Out.html"}

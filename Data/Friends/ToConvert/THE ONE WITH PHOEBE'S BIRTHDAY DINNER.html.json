@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//THE ONE WITH PHOEBE'S BIRTHDAY DINNER.html":{
+{"Content":{
 	"Cast":["Phoebe","Joey","Ross","Rachel","Monica","Chandler","Waiter","<","Waiters"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -201,6 +201,6 @@
 				{"Character":"Joey","Line":"That's the best birthday ever"},
 				{"Character":"Joey","Line":"That's the best birthday ever"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//THE ONE WITH PHOEBE'S BIRTHDAY DINNER.html"}

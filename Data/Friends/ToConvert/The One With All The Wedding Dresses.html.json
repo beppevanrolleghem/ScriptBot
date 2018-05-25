@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Wedding Dresses.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Rachel","Ross","(He goes over to hug her","","Joey and Chandler","Sleep Clinic Worker","<strong>Woman","Marjorie","(He sits down next to her","Phoebe","Monica"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -307,6 +307,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(muffled by the mouth guard) Dude! I am trying to sleep! (Shrugs toNEWLINEsay, What’s up with that?"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Wedding Dresses.html"}

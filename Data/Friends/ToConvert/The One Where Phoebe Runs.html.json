@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Phoebe Runs.html":{
+{"Content":{
 	"Cast":["Phoebe","Rachel","","Chandler","Joey","Janine","<strong>Janine","Ross","Monica","<strong>Monica"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -316,6 +316,6 @@
 				{"Character":"Chandler","Line":"Oh well you're the best. You come here to me"},
 				{"Character":"Monica","Line":"All right, hold on okay? First thing's first. (Gets her cleaning glovesNEWLINEon) Okay, now did Ross sit anywhere while he was naked"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Phoebe Runs.html"}

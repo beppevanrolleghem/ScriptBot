@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Jealousy.html":{
+{"Content":{
 	"Cast":["Rachel","Chandler","Ross","Phoebe","Mark","Joey","Director","Man","Quartet","The Bass Barber","","Monica","Julio","Gunther"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -329,6 +329,6 @@
 				{"Character":"Rachel","Line":"(to Chandler) Well, there's a kiss that he won't forget for a couple ofNEWLINEhours, y'know."},
 				{"Character":"Chandler","Line":"Yeah. Either that, or you just turned him on and sent him off to aNEWLINEstripper."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Jealousy.html"}

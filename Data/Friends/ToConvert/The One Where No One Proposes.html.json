@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where No One Proposes.html":{
+{"Content":{
 	"Cast":["Rachel","(Joey is stunned","Joey","Ross","Monica","Mr. Geller","Chandler","Phoebe","Nurse",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -211,6 +211,6 @@
 				{"Character":"Chandler","Line":"Hey"},
 				{"Character":"Mr. Geller","Line":"(pause) Sorry to bother you again, but could you pass my NEWLINEpamphlets back? (They do so.) Thank you"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where No One Proposes.html"}

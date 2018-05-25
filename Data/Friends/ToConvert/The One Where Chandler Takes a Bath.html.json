@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Chandler Takes a Bath.html":{
+{"Content":{
 	"Cast":["Joey","Rachel","Ross","Phoebe","","Dr. Long"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -323,6 +323,6 @@
 				{"Character":"Joey","Line":"(thinking) <i>I love you.</i"},
 				{"Character":"Joey","Line":"(thinking) <i>I love you.</i"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Chandler Takes a Bath.html"}

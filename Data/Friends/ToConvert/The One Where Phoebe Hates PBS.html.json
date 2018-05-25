@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Phoebe Hates PBS.html":{
+{"Content":{
 	"Cast":["Monica","(Rachel enters","Rachel","Joey","Ross","Chandler","","Phoebe","(The phone rings","Stage Director","PBS Volunteer","Gary Collins"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -257,6 +257,6 @@
 				{"Character":"Rachel","Line":"Ross? Look, whatever this relationship stuff that Emily wants, just giveNEWLINEit to her. Come on, the bottom line here is that you love her. So just fix whatever sheNEWLINEwants fixed. Just do it. (The phone starts ringing.) I mean, you're gonna have toNEWLINEtry. You'll just gonna hate yourself if you don't. (The phone keeps ringing.) Oh come onNEWLINEanswer it! It's driving me crazy"},
 				{"Character":"Ross","Line":"(answering the phone.) Hello. (Listens) Hi sweetie. (Listens.) Good. LookNEWLINEumm, yes I've been thinking about that thing that you wanted me to do and, I can do it.NEWLINE(Rachel gives him a thumbs up.) So will you come to New York? (Rachel wants to know whatNEWLINEshe said, and he gives her a thumbs up and she goes over and hugs him. All the time notNEWLINEknowing what's going on."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Phoebe Hates PBS.html"}

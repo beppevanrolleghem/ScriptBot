@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s Porsche.html":{
+{"Content":{
 	"Cast":["Rachel","Ross","Chandler","Monica","Phoebe","Guy #1","Joey","Woman",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -245,6 +245,6 @@
 				{"Character":"Woman","Line":"(to her friend) He has the most amazing Porsche under there"},
 				{"Character":"Joey","Line":"I’d love to show ya, but I just tucked her in. She’s sleeping.NEWLINE(The women both laugh) Hey uh, would you two girls like to go for a drink? (Just then theNEWLINEsame guy with the football dives to make a catch, lands on the car cover, and collapsesNEWLINEit. It turns out that Joey set up a bunch of boxes to make it look like a Porsche."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s Porsche.html"}

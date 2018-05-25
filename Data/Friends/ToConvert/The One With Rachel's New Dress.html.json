@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel's New Dress.html":{
+{"Content":{
 	"Cast":["Phoebe","Chandler","Joey","Alice","","Ross","Carol","Joshua","Rachel","Mr. Burgin","Mrs. Burgin","Monica","(Susan and Emily get off","Susan","Emily"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -332,6 +332,6 @@
 				{"Character":"Ross","Line":"(To Carol) No tongue. (And gives her the thumbs up."},
 				{"Character":"Ross","Line":"(To Carol) No tongue. (And gives her the thumbs up."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachel's New Dress.html"}

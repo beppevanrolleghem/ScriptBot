@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel’s Assistant.html":{
+{"Content":{
 	"Cast":["Mac","C.H.E.E.S.E","Joey","Monica","Chandler","Ross","Rachel","(Phoebe gets up","Phoebe","Hilda","<strong>Man","Tag","Terry","Nurse #1","Nurse #2","Dr. Stryker Ramoray","The Director"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -294,6 +294,6 @@
 				{"Character":"Rachel","Line":"(Pause) Yeah, she’s gay"},
 				{"Character":"Rachel","Line":"(Pause) Yeah, she’s gay"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachelâ€™s Assistant.html"}

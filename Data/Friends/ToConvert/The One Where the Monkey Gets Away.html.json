@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where the Monkey Gets Away.html":{
+{"Content":{
 	"Cast":["Rachel","Ross","(Enter the other fou","Monica","Phoebe","Joey","Chandler","<strong>All","(They all leav","Mr. Heckles","(Barry bursts i","<strong>Barry"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -213,6 +213,6 @@
 				{"Character":"Ross","Line":"We have got to start locking that door"},
 				{"Character":"Ross","Line":"We have got to start locking that door"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where the Monkey Gets Away.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One The Morning After.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Chloe","Phoebe","Monica","Jasmine","Monica and Phoebe","Chandler","Joey","[Cut to Living Roo","[Cut to Monica's bedroo","All","(Long pause","(Paus",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -515,6 +515,6 @@
 				{"Character":"(Paus","Line":"Pause"},
 				{"Character":"Rachel","Line":"Then how come it is"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One The Morning After.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the other one in barbados.html":{
+{"Content":{
 	"Cast":["Joey","Ross","Rachel","Chandler","Phoebe","Monica","David","(Everyone looks at he","(Outside the Central Per","Charlie","MOnica","Mike","(Chandler walks i","(Phoebe and David walk i","(Joey laugh","(Rachel laugh","(Monica rolls her eye","(They start playing agai","Mr. Oberblau","Woman","(Charlie walks b","Paleontologist","Professore Clerk"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -704,6 +704,6 @@
 				{"Character":"Rachel","Line":"What"},
 				{"Character":"(Joey says nothing, but enters the room and kisses her. They are kissing passionately only to stop for a brief oh from Rachel. They continue their passionate kiss and Joey closes the door with his foot and it shuts in the camera's face. And that's the end of the ninth season","Line":"Joey says nothing, but enters the room and kisses her. They are kissing passionately only to stop for a brief oh from Rachel. They continue their passionate kiss and Joey closes the door with his foot and it shuts in the camera's face. And that's the end of the ninth season."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the other one in barbados.html"}

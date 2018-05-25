@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Chicken Pox.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -30,6 +30,6 @@
 			"SceneDescription":" Central Perk. Phoebe, Rachel, Ross, and Ryan are there. Ryan is in uniform,NEWLINEgetting ready to leave.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Chicken Pox.html"}

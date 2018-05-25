@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where They're Gonna PARTY!.html":{
+{"Content":{
 	"Cast":["Phoebe","Monica","Chandler","Ross","Joey","Rachel","Joanna","Mr. Posner","Mrs. Lynch","Allesandro","Joey and Ross","","Chandler and Ross","Gunther","(paus","Sophie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -304,6 +304,6 @@
 				{"Character":"Sophie","Line":"I sure did! (smiles"},
 				{"Character":"Sophie","Line":"I sure did! (smiles"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where They're Gonna PARTY!.html"}

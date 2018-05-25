@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Ride Along.html":{
+{"Content":{
 	"Cast":["Monica","Joey","(Ross returns","Chandler","Ross","Phoebe","Gary","Joey and Ross","(Gary just glares at him","","Ross and Joey","Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -416,6 +416,6 @@
 				{"Character":"Ross","Line":"Yeah, I want my money back"},
 				{"Character":"Rachel","Line":"(going out the door) Yeah, uh you-you probably need that for stamps,NEWLINEright"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Ride Along.html"}

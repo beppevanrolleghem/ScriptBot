@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With George Stephanopoulos.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" The Emergency Room, Ross is absent.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With George Stephanopoulos.html"}

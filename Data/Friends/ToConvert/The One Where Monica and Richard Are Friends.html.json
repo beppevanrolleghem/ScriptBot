@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Monica and Richard Are Friends.html":{
+{"Content":{
 	"Cast":["Monica","Clerk","Richard","Chandler","Ross","Rachel","Phoebe","All","Joey","(They all gas","","Robert","(Ross nods his head","(Enter Phoebe and Rober","(Rachel starts laughing","Richard’s Date","(Monica kisses him"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -425,6 +425,6 @@
 				{"Character":"Richard","Line":"(lying down) Ow!"},
 				{"Character":"Richard","Line":"(lying down) Ow!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Monica and Richard Are Friends.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Mrs. Bing.html":{
+{"Content":{
 	"Cast":["Phoebe","Monica","(The guy walks past the","<strong>Guy","<strong>Monica and Phoebe","(The guy walks o","Chandler","Joey","Rachel","Jay Leno","Ross","Paolo","Mrs. Bing","All","(...Then full on the mout","(Enter Joe","(Enter Chandle","(People turn to loo","(She walks down the hal","(She leave"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -437,6 +437,6 @@
 				{"Character":"Chandler","Line":"Pretty good! I told her"},
 				{"Character":"Ross","Line":"Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing yourNEWLINEmom, uh? Huh? (Wags his finger at Chandler, then puts it down) But.. we don't have to goNEWLINEdown that road"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Mrs. Bing.html"}

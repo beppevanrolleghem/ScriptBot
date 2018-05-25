@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Chandler and Monica’s Wedding.html":{
+{"Content":{
 	"Cast":["Monica","Phoebe","Chandler","Rachel","Ross","Joey","The Assistant Director","Richard","The Director","(Joey wipes his eye","Mrs. Bing","Mrs. Geller","Mr. Geller","Mr. Bing","[Cut to Monica","Woman","All","","Gunther","(Monica enters","Phoebe and Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -689,6 +689,6 @@
 				{"Character":"(Mr. Geller turns the corner","Line":"Mr. Geller turns the corner."},
 				{"Character":"Mr. Geller","Line":"Way to go son! I knew you’d find him"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Chandler and Monicaâ€™s Wedding.html"}

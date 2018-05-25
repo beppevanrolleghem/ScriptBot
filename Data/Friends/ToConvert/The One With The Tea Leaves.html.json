@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Tea Leaves.html":{
+{"Content":{
 	"Cast":["Rachel","Joey","Monica","Chandler","Ross","Mona","Mona's Date","Mr. Zelner","","Chandler and Monica","(Awkward silence"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -299,6 +299,6 @@
 				{"Character":"(Awkward silence","Line":"Awkward silence."},
 				{"Character":"Rachel","Line":"My gynecologist tried to kill me"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Tea Leaves.html"}

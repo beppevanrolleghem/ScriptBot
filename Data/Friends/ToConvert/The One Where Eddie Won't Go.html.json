@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Eddie Won't Go.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" Chandler and Joey's apartment. They are hauling out the porcelain dog fromNEWLINEJoey's room. Chandler is holding the dog by the rear in a rather interesting position.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Eddie Won't Go.html"}

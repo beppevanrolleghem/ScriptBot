@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Poker.html":{
+{"Content":{
 	"Cast":["Monica","Chandler and Ross","Rachel","Phoebe","Chandler","Ross","Joey","Girls","Guys","","All","Phoebe and Rachel","(Time lapse","(Ross stands up","(Ross looks down","(Ross is visibly upset"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -442,6 +442,6 @@
 				{"Character":"Chandler","Line":"(to Ross): I thought we had them"},
 				{"Character":"Ross","Line":"Oh, well, when you don't have the cards, you don't have the cards, youNEWLINEknow. (looks at Rachel) But, uh... look how happy she is. (smiles"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Poker.html"}

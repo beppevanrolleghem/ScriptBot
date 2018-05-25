@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Rugby.html":{
+{"Content":{
 	"Cast":["Chandler","Rachel","<strong>Woman","Emily","Ross","Devon","Liam","Monica","Phoebe","Joey","","Janice","Ticket Counter Attendant","Mrs. Chatracus"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -254,6 +254,6 @@
 				{"Character":"Janice","Line":"No! No! I wanna see you take-off"},
 				{"Character":"Chandler","Line":"Well, I then guess I’m going to Yemen! I’m going to Yemen!NEWLINE(To this old woman also going to Yemen.) When we get to Yemen, can I stay with you"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Rugby.html"}

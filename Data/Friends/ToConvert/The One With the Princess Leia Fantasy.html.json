@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Princess Leia Fantasy.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Phoebe","Monica","Joey","","Janice","Chandler","<strong>Mrs. Geller"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -264,6 +264,6 @@
 				{"Character":"<strong>Mrs. Geller","Line":"/strong> Well what is it? Come on sweetie, your like, freaking meNEWLINEout here"},
 				{"Character":"Ross","Line":"I hate Chandler, the bastard ruined my life. (Rachel starts looking aroundNEWLINEand down, with a 'What the hell is going on?' look on her face."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Princess Leia Fantasy.html"}

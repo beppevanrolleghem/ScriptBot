@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel's Date.html":{
+{"Content":{
 	"Cast":["Monica","Phoebe","<strong>Guy","Tim","Joey's Co-Star","Dr. Drake Ramoray","Director","Joey","Rachel","(Rachel clears her throat","Kash","","Ross","(They both look at Phoebe","Mona"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -491,6 +491,6 @@
 				{"Character":"Mona","Line":"Okay"},
 				{"Character":"(Rachel watches that and slowly backs out to head for home","Line":"Rachel watches that and slowly backs out to head for home."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachel's Date.html"}

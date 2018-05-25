@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All the Kips.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Joey","Hotel Clerk","","[In the hall","(They kiss","Phoebe","Rachel"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -240,6 +240,6 @@
 				{"Character":"Joey","Line":"I think I'm gonna take-off"},
 				{"Character":"Monica","Line":"Guys, rules are good! Rules help control the fun! (They all leave andNEWLINEclose the door on Monica.) Ohhh! (Throws her notepad down in disgust."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All the Kips.html"}

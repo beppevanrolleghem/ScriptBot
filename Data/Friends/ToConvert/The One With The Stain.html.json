@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Stain.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","(Monica notices something","","Mrs. Verhoeven's Daughter","Ross","Rachel","Phoebe","Eric","Brenda","Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -267,6 +267,6 @@
 				{"Character":"Joey","Line":"Ooh! Ah! Okay! (Quickly drags the crib outside."},
 				{"Character":"Joey","Line":"Ooh! Ah! Okay! (Quickly drags the crib outside."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Stain.html"}

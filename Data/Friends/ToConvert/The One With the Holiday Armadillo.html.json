@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Holiday Armadillo.html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Phoebe","Rachel and Monica","Rachel","Ross","All","Joey","","Ben","Rachel and Joey"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -401,6 +401,6 @@
 				{"Character":"(They both go over to light the candles","Line":"They both go over to light the candles."},
 				{"Character":"Phoebe","Line":"Okay, I understand why <i>Superman</i> is here, but why is there aNEWLINEporcupine at the Easter Bunny’s funeral"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Holiday Armadillo.html"}

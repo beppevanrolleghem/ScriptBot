@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Phoebe’s Cookies.html":{
+{"Content":{
 	"Cast":["Chandler","Ross and Rachel","Ross","Rachel","Joey","Monica","","Phoebe","Monica and Phoebe","Mr. Geller"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -349,6 +349,6 @@
 				{"Character":"Chandler","Line":"So I guess we wear swimsuits in here"},
 				{"Character":"Chandler","Line":"So I guess we wear swimsuits in here"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Phoebeâ€™s Cookies.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One In Vegas.html":{
+{"Content":{
 	"Cast":["Rachel","Phoebe","Joey","Chandler","[Cut to Joe","<strong>A Casino Boss","[Cut to Phoeb","[Cut to Chandle","<strong>A Tourist","Monica","(Pause","Ross","The Croupier","","Blackjack Dealer","(They both exit","Joey's Hand Twin","All","A Drunken Gambler","Drunken Gambler","The Lurker","The Security Guard"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -621,6 +621,6 @@
 				{"Character":"Joey's Hand Twin","Line":"Please, please take him too. (Motions to Joey."},
 				{"Character":"Joey","Line":"Me?! Oh come on, man! You can't do this! Come on! (Being dragged out byNEWLINEthe guard) I'm your hand twin!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One In Vegas.html"}

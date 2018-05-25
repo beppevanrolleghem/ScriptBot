@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Finds Out.html":{
+{"Content":{
 	"Cast":["Chandler","Rachel","Phoebe","Monica","All","Michael","Waiter","Guy","Ross","(A moment of silence.","Julie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -263,6 +263,6 @@
 				{"Character":"Ross","Line":"Try the bottom one"},
 				{"Character":"Ross","Line":"Try the bottom one"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Finds Out.html"}

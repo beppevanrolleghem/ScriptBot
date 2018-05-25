@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Ross’s Denial.html":{
+{"Content":{
 	"Cast":["Chandler","Phoebe","Joey","Rachel","Monica","Ross","","(They start thinking","Gunther","(Applause","(Rachel enters"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -364,6 +364,6 @@
 				{"Character":"Joey","Line":"Thursday’s clearly not good for ya, pick a day"},
 				{"Character":"Joey","Line":"Thursday’s clearly not good for ya, pick a day"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rossâ€™s Denial.html"}

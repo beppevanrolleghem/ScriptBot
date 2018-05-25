@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With All The Haste.html":{
+{"Content":{
 	"Cast":["The Singing Man","Rachel","Joey","Monica","","Phoebe","Chandler","Both","(They open the door","Ross","(The gang is stunned","Emily"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -439,6 +439,6 @@
 				{"Character":"Ross","Line":"Yeah. (They hug again."},
 				{"Character":"Joey","Line":"Monica and Rachel made out. (Giggles like a schoolboy and Monica glares atNEWLINEhim."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With All The Haste.html"}

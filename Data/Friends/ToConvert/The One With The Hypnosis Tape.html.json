@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Hypnosis Tape.html":{
+{"Content":{
 	"Cast":["Monica","Joey","Gunther","Chandler","Rachel","Ross","Phoebe","Hypnosis Tape","Ross and Joey","Frank","Alice","Pete"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -247,6 +247,6 @@
 				{"Character":"Alice","Line":"None the less. Umm, you’re too young to, to really know what youNEWLINEwant. (They embrace in a passionate kiss."},
 				{"Character":"Phoebe","Line":"That’s right, exactly. (sees them) All right, it’s a good byeNEWLINEkiss, that’s good. (Frank picks Alice up and they move to the couch) Bye-bye. (TheyNEWLINEboth lie down on the couch and start to make out.) Okay, no, the important thing is thatNEWLINEyou see what I’m saying, y'know, just y'know, this is clearly wrong. (They ignoreNEWLINEher) Okay, I’ve decided I’m gonna let this happen! Okay, can I just get myNEWLINEpurse? (She reaches in and Alice moans) Okay, all right, good. (leaves)"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Hypnosis Tape.html"}

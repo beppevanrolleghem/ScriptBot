@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s Fridge.html":{
+{"Content":{
 	"Cast":["Joey","Rachel","","Monica","Chandler","Phoebe","Elizabeth","Ross","<strong>Professor Feesen","(Ross returns","Eldad","Patrick","All"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -396,6 +396,6 @@
 				{"Character":"Chandler","Line":"Yeah"},
 				{"Character":"Chandler","Line":"Yeah"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s Fridge.html"}

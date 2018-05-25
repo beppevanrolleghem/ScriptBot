@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Everyone Finds Out.html":{
+{"Content":{
 	"Cast":["Phoebe","Rachel","Ross","Chandler","All","Joey","Monica","Dr. Ledbetter"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -360,6 +360,6 @@
 				{"Character":"Dr. Ledbetter","Line":"I wonder if its time for you to rejoin our team at the museum"},
 				{"Character":"Ross","Line":"Oh Donald that-that would be great. I am totally ready to come back toNEWLINEwork. I—What? (He notices something through the window.) No! Wh… What are youNEWLINEdoing?!! (Dr. Ledbetter is slowly backing away.) GET OFF MY SISTER!!!!!!!!!!!!!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Everyone Finds Out.html"}

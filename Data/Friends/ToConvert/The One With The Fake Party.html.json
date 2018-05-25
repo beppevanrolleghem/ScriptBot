@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Fake Party.html":{
+{"Content":{
 	"Cast":["Monica","Phoebe","Chandler","Joey","Joshua","Rachel","Ross","Emily","All","Joey and Monica","[Cut to Gunther and Emily","Gunther",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -320,6 +320,6 @@
 				{"Character":"Phoebe","Line":"Not if I get there first"},
 				{"Character":"Phoebe","Line":"Not if I get there first"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Fake Party.html"}

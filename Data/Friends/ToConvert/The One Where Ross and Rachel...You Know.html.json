@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross and Rachel...You Know.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" Chandler and Joey's apartment. They are still in their chairs, watching <i>BeavisNEWLINEand Butthead</i>.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross and Rachel...You Know.html"}

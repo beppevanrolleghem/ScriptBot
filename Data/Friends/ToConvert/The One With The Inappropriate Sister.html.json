@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Inappropriate Sister.html":{
+{"Content":{
 	"Cast":["Joey","Ross","Chandler","","Estelle","Phoebe","Monica","Rachel","Monica and Ross","Danny","Krista"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -327,6 +327,6 @@
 				{"Character":"Rachel","Line":"I'm not reading this"},
 				{"Character":"Joey","Line":"What?! Wait-wait-wait! The handsome man was about to enter!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Inappropriate Sister.html"}

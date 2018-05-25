@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Two Parties.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -18,6 +18,6 @@
 			"SceneDescription":" Monica and Rachel's apartment. Close up of the flan on the table with birthdayNEWLINEcandles.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Two Parties.html"}

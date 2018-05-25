@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Joey Tells Rachel.html":{
+{"Content":{
 	"Cast":["Joey","Ross","<strong>Gunther","","Monica","(Paus","Rachel","Waiter","(They hug"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -299,6 +299,6 @@
 				{"Character":"Rachel","Line":"Yeah, that was a real good one"},
 				{"Character":"Rachel","Line":"Yeah, that was a real good one"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Joey Tells Rachel.html"}

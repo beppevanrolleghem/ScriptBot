@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Metaphorical Tunnel.html":{
+{"Content":{
 	"Cast":["<i>Host","<i></i>Phoebe","Joey","All","Mike","<i></i>Joey","Rachel","<i>Mike","<i></i>Ross","Chandler","Ross","Carol","Susan","(cut to later in the da","Monica","Janice","Phoebe"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -290,6 +290,6 @@
 				{"Character":"Ross","Line":"(coming out of the bathroom) Won't you dance around with me."},
 				{"Character":"Monica","Line":"A-ha!!! (they all start laughing, as Ross hides in the bathroom"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Metaphorical Tunnel.html"}

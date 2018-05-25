@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Boobies.html":{
+{"Content":{
 	"Cast":["Rachel","Chandler","(She storms of","Mr. Tribbiani","Joey","Ronni","","All","Phoebe","Monica","(Chandler laugh","Ross","Roger"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -205,6 +205,6 @@
 				{"Character":"(She whips back the curtain to reveal Joey's da","Line":"She whips back the curtain to reveal Joey's dad"},
 				{"Character":"<font size=3>Mr. Tribbiani","Line":"Oh! ...Hello, dear. (She whips the curtain shut in horror)</font"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Boobies.html"}

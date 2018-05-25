@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the one about dates.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -34,6 +34,6 @@
 			"SceneDescription":" NEWLINE  Delmonico's restaurant. Ross and Joey are sitting at a table for four. The waiter NEWLINE  is pouring water in their glasses.",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the one about dates.html"}

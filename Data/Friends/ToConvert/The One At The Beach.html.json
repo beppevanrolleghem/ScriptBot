@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One At The Beach.html":{
+{"Content":{
 	"Cast":["Chandler","Bonnie","Rachel","Joey","Monica","Phoebe","All","Ross","The Guys","[cut to late","The Girls","[cut to later in the gam","Joey and Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -492,6 +492,6 @@
 				{"Character":"(Monica closes the door, Chandler knocks, and Monica opens it to reveal Chandler on hisNEWLINEknees","Line":"Monica closes the door, Chandler knocks, and Monica opens it to reveal Chandler on hisNEWLINEknees."},
 				{"Character":"Chandler","Line":"Hi! I’m Dorf! You’re date for the evening. (Monica walksNEWLINEaway in disgust) Oh come on! Dorf on dating, that’s good stuff!"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One At The Beach.html"}

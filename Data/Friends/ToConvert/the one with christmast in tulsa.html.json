@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the one with christmast in tulsa.html":{
+{"Content":{
 	"Cast":["Phoebe","Joey","Chandler","Monica","Ross","Rachel","Wendy",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -150,6 +150,6 @@
 				{"Character":"Chandler","Line":"Actuary... no. Book-keeper... no. Topless dancer... (he looks<br>NEWLINE  down on himself, checking, then nods satisfied and marks the<br>NEWLINE  offer with a pen) (to Monica:) Hey, d'you know what I just<br>NEWLINE  realized? You are the sole wage earner. *You* are the head of<br>NEWLINE  the household. I don't do anything - I'm a kept man"},
 				{"Character":"Monica","Line":"You are! (she picks up a bill from the table, handing it to<br>NEWLINE  Chandler) Hey, here's twenty bucks. -- Why don't you go buy<br>NEWLINE  yourself something pretty while I'm at work tomorrow"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the one with christmast in tulsa.html"}

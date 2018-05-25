@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With A Cop.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","Monica","Chandler and Monica","","Rachel","Phoebe","The Smoking Woman","(Rachel is stunned","Ross","The Saleswoman"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -293,6 +293,6 @@
 				{"Character":"Ross","Line":"(thinks) I take it"},
 				{"Character":"Ross","Line":"(thinks) I take it"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With A Cop.html"}

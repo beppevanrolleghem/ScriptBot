@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Rachel's Other Sister.html":{
+{"Content":{
 	"Cast":["Monica","Chandler","Joey","Phoebe","Phoebe[cutting in]","Ross","Amy","Rachel","Rachel [cutting in]","[Rachel looks exasperate","[Amy pushes Rache","[Rachel pushes Amy bac","Amy &amp; Rachel","Chandler(Whispering)","Monica (Through tears)","[They embrace. Emma crie","[Ending credit","[Joey comes i","[Joey's eyes wide","[En",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -233,6 +233,6 @@
 				{"Character":"[En","Line":"End"},
 				{"Character":"[En","Line":"End"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Rachel's Other Sister.html"}

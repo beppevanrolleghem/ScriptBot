@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Dollhouse.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Monica","Phoebe","Ross","All","Rachel","Ross and Rachel","[A phone rings","The Director","Kate","[They resume rehearsing","Lauren","","Joanna","Sophie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -361,6 +361,6 @@
 			"lines":[{"Character":"","Line":""},
 				{"Character":"Joey","Line":"(on phone) Well, so anyway Beth, what I’m saying is I should’veNEWLINEconsidered your feelings before I went home with you that night. I’ve ah, I’veNEWLINErecently learned what’s it like to be on your side of it, and I’m sorry. So, doNEWLINEyou think you can forgive me? (listens) Great. Thanks. Okay, bye. (He sits down andNEWLINEcrosses out something, and dials the phone again.) Hello, Jennifer? (listens) Oh hi, Mrs.NEWLINELoreo, is Jennifer there? (listens) Oh, she’s not home huh? (listens) Well ah,NEWLINEactually I kinda need to talk to you too"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Dollhouse.html"}

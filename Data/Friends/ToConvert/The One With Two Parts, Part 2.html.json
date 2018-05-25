@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Two Parts, Part 2.html":{
+{"Content":{
 	"Cast":["Rachel","Monica","Nurse","Dr. Mitchell","Rachel (as Monica)","Monica (as Rachel)","Dr. Rosen","","<strong>Mr. Geller","Ross","Rachel and Monica","(Rachel goes to her room","Joey","Ross and Chandler","Phoebe","Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -292,6 +292,6 @@
 				{"Character":"Ross","Line":"(Quietly) hey, fella! How you doing"},
 				{"Character":"Ross","Line":"(Quietly) hey, fella! How you doing"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Two Parts, Part 2.html"}

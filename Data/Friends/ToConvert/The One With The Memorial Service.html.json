@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Memorial Service.html":{
+{"Content":{
 	"Cast":["Chandler","Ross","Joey","Phoebe","Monica","Rachel","(Emma crie","(they exchange Hugsy's","Mike","Strange man","Manny","&nbs","<a href=http"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -252,6 +252,6 @@
 				{"Character":"&nbs","Line":"nbsp"},
 				{"Character":"<a href=http","Line":"/www.geocities.com/friends_greatestsitcom/>Friends Greatest NEWLINE  Sitcom</a"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Memorial Service.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the East German Laundry Detergent.html":{
+{"Content":{
 	"Cast":["Monica","Ross","Rachel","Chandler","Joey","Phoebe","(Long pause","Angela","Woman","(Ross arrives","Bob","Janice",""],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -260,6 +260,6 @@
 				{"Character":"Ross","Line":"No"},
 				{"Character":"Ross","Line":"No"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the East German Laundry Detergent.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s Interview.html":{
+{"Content":{
 	"Cast":["Rachel","Ross","Monica","Joey","Chandler","","(Chandler does so","Both","(Pause","[Cut to the interview","The Interviewer","Phoebe","Phoebe and Rachel","Phoebe, Ross, and Rachel","[Cut to the gang"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -407,6 +407,6 @@
 				{"Character":"Ross","Line":"Did you just wink at me"},
 				{"Character":"Joey","Line":"Hey, you’re the one that loves the picture"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s Interview.html"}

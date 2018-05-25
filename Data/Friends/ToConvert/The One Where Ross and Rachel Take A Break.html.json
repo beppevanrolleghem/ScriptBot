@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross and Rachel Take A Break.html":{
+{"Content":{
 	"Cast":["Joey","Monica","Phoebe","Chandler","","Sergei","Mischa","Ross","Rachel","(Mischa does so","(Sergei responds","(Ross goes to call her"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -326,6 +326,6 @@
 				{"Character":"(They start singing, and Phoebe covers her mouth at the American part","Line":"They start singing, and Phoebe covers her mouth at the American part."},
 				{"Character":"Sergei","Line":"(to the rest of Central Perk) Everybody!! (In his language, andNEWLINEcontinues."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross and Rachel Take A Break.html"}

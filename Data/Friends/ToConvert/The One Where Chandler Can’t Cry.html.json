@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Chandler Can’t Cry.html":{
+{"Content":{
 	"Cast":["Joey","Rachel","Monica","Chandler","Phoebe","Jill","Ursula","<strong>Man’s Voice","<strong>Same Man’s Voice","","Ross"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -304,6 +304,6 @@
 				{"Character":"Monica","Line":"Bye"},
 				{"Character":"Chandler","Line":"(starts crying) I-I can’t believe Jill’s gone. (They allNEWLINElook at him.) I can’t help it, I opened a gate"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Chandler Canâ€™t Cry.html"}

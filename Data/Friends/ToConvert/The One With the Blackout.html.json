@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Blackout.html":{
+{"Content":{
 	"Cast":["Rachel","(applaus","Phoebe","Monica","Joey","Ross","Chandler","Jill","<strong>Paolo","","(Chandler starts to choke"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -173,6 +173,6 @@
 				{"Character":"(She leaves. Chandler presses his face to the glass door after her, stroking the windowNEWLINElovingly. He then turns to the security camera and starts talking to it","Line":"She leaves. Chandler presses his face to the glass door after her, stroking the windowNEWLINElovingly. He then turns to the security camera and starts talking to it."},
 				{"Character":"Chandler","Line":"Hi, um, I'm account number 7143457. And, uh, I don't know if you gotNEWLINEany of that, but I would really like a copy of the tape"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Blackout.html"}

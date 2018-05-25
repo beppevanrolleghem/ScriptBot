@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One After _I Do_.html":{
+{"Content":{
 	"Cast":["Photographer","Monica","Ross","Joey","Phoebe","Chandler","Rachel","Bandleader","(They enter","(Paus","<strong>Woman","Mona","Mrs. Bing","Dennis Phillips","<strong>Waiter","The Girls","(She goes over to look"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -379,6 +379,6 @@
 				{"Character":"Rachel","Line":"Ah, it’s still not the time"},
 				{"Character":"Rachel","Line":"Ah, it’s still not the time"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One After _I Do_.html"}

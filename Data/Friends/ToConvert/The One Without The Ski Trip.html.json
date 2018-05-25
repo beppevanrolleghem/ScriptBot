@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Without The Ski Trip.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","[Monica and Phoebe enter","Monica","Phoebe","[Rachel enters","Rachel","Ross","","Carol","[Ross’s beeper goes off","[Rachel starts to walk up"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -270,6 +270,6 @@
 				{"Character":"Ross","Line":"(outside the door) So I’m gonna take off then"},
 				{"Character":"Ross","Line":"(outside the door) So I’m gonna take off then"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Without The Ski Trip.html"}

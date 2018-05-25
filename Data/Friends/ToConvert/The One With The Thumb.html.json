@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Thumb.html":{
+{"Content":{
 	"Cast":["Phoebe","All","Ross","Rachel","Monica","Joey","Chandler","Paula","","(Phoebe nods.","Alan"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -177,6 +177,6 @@
 				{"Character":"Monica","Line":"Relieved?"},
 				{"Character":"Alan","Line":"Yeah, well, I had a great time with you.. I just can't stand your friends.NEWLIN"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Thumb.html"}

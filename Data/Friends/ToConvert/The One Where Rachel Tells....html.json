@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rachel Tells....html":{
+{"Content":{
 	"Cast":["Chandler","Monica","Joey","Phoebe","Rachel","(Pause","(Rachel exits","(The girls walk away","Ticket Agent","Woman","Airline Employee","Ross","Front Desk Clerk","Man","Nurse","Dr. Long"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -367,6 +367,6 @@
 				{"Character":"Ross","Line":"Yeah, that’s our baby"},
 				{"Character":"Ross","Line":"Yeah, that’s our baby"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rachel Tells....html"}

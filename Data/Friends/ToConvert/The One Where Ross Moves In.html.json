@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Moves In.html":{
+{"Content":{
 	"Cast":["Chandler","Joey","Ross","(Joey starts giggling","Monica","Rachel","(Danny enters","Danny","Larry","Phoebe","(He looks at them","(He exits","(Pause","(Ross enters"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -390,6 +390,6 @@
 				{"Character":"Chandler","Line":"All right, buddy"},
 				{"Character":"Ross","Line":"So I'm a pimp huh? It's okay! Look, I know that sometimes I can be a painNEWLINEin the ass, but you just have to talk to me. Tell me if something is bothering you. Okay?NEWLINEAnd for my part I will do everything I can to keep my annoying habits just (Does theNEWLINE'quiet down' maneuver)"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Moves In.html"}

@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Birth.html":{
+{"Content":{
 	"Cast":["Ross","Monica","Joey","Chandler","Rachel","Phoebe","(Carol and Susan arrive","Susan","Carol","Lydia","","Nurse","(Joey looks down at Lydia","All","Guy","Dr. Franzblau","(long moment of silenc"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -328,6 +328,6 @@
 				{"Character":"Phoebe","Line":"Oh, look, he's closing his eyes again"},
 				{"Character":"(The screen fades to black","Line":"The screen fades to black."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Birth.html"}

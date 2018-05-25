@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Girl From Poughkeepsie.html":{
+{"Content":{
 	"Cast":["Ross","Phoebe","(simultaneously","Chandler","Joey","Drew","Mike","Rachel","Monica","(paus","Kitchen Worker","The Waiter"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -247,6 +247,6 @@
 				{"Character":"Joey","Line":"(leaving) Lean-lean-lean"},
 				{"Character":"Joey","Line":"(leaving) Lean-lean-lean"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Girl From Poughkeepsie.html"}

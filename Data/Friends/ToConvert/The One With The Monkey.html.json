@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With The Monkey.html":{
+{"Content":{
 	"Cast":["Ross","All","Monica","Rachel","Phoebe","Chandler","Joey","(Max runs i","Max","","Janice","Sandy","Fun Bobby","David","Dick Clark","<strong>All"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -374,6 +374,6 @@
 				{"Character":"Joey","Line":"Alrightalrightalright. (Kisses him. Ross takes a photo) There"},
 				{"Character":"Joey","Line":"Alrightalrightalright. (Kisses him. Ross takes a photo) There"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With The Monkey.html"}

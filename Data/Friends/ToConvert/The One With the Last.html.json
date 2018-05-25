@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With the Last.html":{
+{"Content":{
 	"Cast":["RACH","MNCA","PHOE","PHOE/MNCA","","CHAN","JOEY","[Ross enters, distraught","ROSS","[Julie enters","JULIE","[Rachel enters","[Rachel takes a bite","RTST"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -218,6 +218,6 @@
 				{"Character":"RTST","Line":"Oh, sorry"},
 				{"Character":"RTST","Line":"Oh, sorry"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With the Last.html"}

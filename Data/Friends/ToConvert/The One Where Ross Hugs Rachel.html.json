@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Ross Hugs Rachel.html":{
+{"Content":{
 	"Cast":["Ross","Rachel","Phoebe","(A cab pulls up","(Rachel’s cab backs up","{Transciber’s note","Monica","Stephanie","Karin","Meg","Joey","Chandler"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -347,6 +347,6 @@
 				{"Character":"Joey","Line":"Oh-oh, what about Ross"},
 				{"Character":"Phoebe","Line":"I don’t want to go into the whole thing, but umm, we have words andNEWLINEI kill him"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Ross Hugs Rachel.html"}

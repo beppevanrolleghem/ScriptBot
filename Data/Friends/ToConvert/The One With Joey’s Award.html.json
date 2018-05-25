@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Joey’s Award.html":{
+{"Content":{
 	"Cast":["Joey","Phoebe","Monica","Rachel","The Cute Guy","","Jake","Chandler","Announcer","Lewis","Ross","Jessica Ashley","(The enter","Morse"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -216,6 +216,6 @@
 				{"Character":"Morse","Line":"I’m not trying to pull anything. Look, I love you dude"},
 				{"Character":"Ross","Line":"Y’know what? I-I’m not even gonna talk about this. Okay? ThisNEWLINElittle thing is over. I know you have a girlfriend! Okay—(Ned looksNEWLINEshocked)—Yeah! And I know about the other professors! How do you think that makes meNEWLINEfeel, Ned?! You used me! You don’t love me and you never did! (Ross turns around toNEWLINEmake a grand exit but runs into two colleagues.) Ah Professor Winston, ProfessorNEWLINEFredrickson, I’ll be right with you. (To Ned) Don’t make this worse andNEWLINEI’ll give you a C. (To the professors) Shall we? (They leave."}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Joeyâ€™s Award.html"}

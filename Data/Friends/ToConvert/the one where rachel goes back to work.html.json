@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//the one where rachel goes back to work.html":{
+{"Content":{
 	"Cast":[],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -38,6 +38,6 @@
 			"SceneDescription":" DOOL set",
 			"lines":[{"Character":"","Line":""}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//the one where rachel goes back to work.html"}

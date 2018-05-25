@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One Where Rachel Smokes.html":{
+{"Content":{
 	"Cast":["Joey","Chandler","Carol","Ross","Ben","Phoebe","","Rachel","Monica","(They all start out","The Casting Director","<strong>Kyle","(They do it again","Raymond","(Rachel enters","All"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -402,6 +402,6 @@
 				{"Character":"Joey","Line":"Eh, what are you gonna do"},
 				{"Character":"Joey","Line":"Eh, what are you gonna do"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One Where Rachel Smokes.html"}

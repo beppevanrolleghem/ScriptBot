@@ -1,4 +1,4 @@
-{"./Data/Friends/ToConvert//The One With Phoebe's Ex-Partner.html":{
+{"Content":{
 	"Cast":["Singer","Joey","Phoebe","Chandler","Monica","Ross","Gunther","(The door opens","Woman","(Gunther walks u","Ginger","Rachel","Mark","","Lecturer","Leslie"],
 	"Scenes":{
 		"0":{"SceneDescription":"NONE","lines":[]},
@@ -242,6 +242,6 @@
 				{"Character":"Rachel","Line":"What?!"},
 				{"Character":"Monica","Line":"Come on! Come on, I was kidding! It was such an obvious joke"}]
 			}
-}
-}
-}
+		}
+	},
+	"Title":"Data/Friends/ToConvert//The One With Phoebe's Ex-Partner.html"}
