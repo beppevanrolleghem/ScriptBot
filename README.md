@@ -16,7 +16,7 @@ so got sick of trying to analyse startrek scripts cuz it's way too annoying, rn 
 
 converting friends also seems like absolute hell, but fuck it
 
-why nothing
+why not
 
 
 #
